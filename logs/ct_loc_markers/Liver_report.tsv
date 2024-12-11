@@ -1,0 +1,27 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	Terminal CT/ID	Terminal CT/label	Terminal CT/user_label	Markers	References
+UBERON:0004058	biliary ductule	bile duct/ule	CL:0000075	columnar/cuboidal epithelial cell	columnar cell ( larger cholangiocytes are more columnar) has ciliae	HGNC:1884	DOI:10.3748/wjg.v12.i22.3523
+UBERON:0001281	hepatic sinusoid	hepatic sinusoid	CL:0000091	Kupffer Cell	Kupffer cell	HGNC:1693, HGNC:1693	DOI:10.1016/j.jhep.2010.04.037
+UBERON:0005452	hepatic cord	hepatic plate	CL:0000182	hepatocyte	hepatocyte	HGNC:2625, HGNC:42, HGNC:7154	DOI:10.1097/00000478-200110000-00011|DOI:10.1007/s00424-006-0152-8
+UBERON:0004058	biliary ductule	bile duct/ule	CL:0000241	stratified cuboidal epithelial cell	cuboidal cell (Small cholangiocytes are cuboidal)	HGNC:6436, HGNC:6436, HGNC:6445, HGNC:6445	DOI:10.1111/j.1365-2559.2009.03391.x
+UBERON:0001279	portal triad	portal triad/tract	CL:0000526	afferent neuron cell	neuron cell	HGNC:12716, HGNC:20772	DOI:10.3748/wjg.v12.i22.3523|PMID:21262470
+UBERON:0004647	liver lobule	hepatic Lobule	CL:0000623	Natural killer Cell	NK	HGNC:11599, HGNC:16647, HGNC:1694, HGNC:3372, HGNC:6134, HGNC:7656	DOI:10.3389/fimmu.2019.01502|PMID:28289707PMID:27798170
+UBERON:0004647	liver lobule	hepatic Lobule	CL:0000624	CD4 positive alpha beta	CD4+T cell	HGNC:12029, HGNC:1678	
+UBERON:0006729	liver perisinusoidal space	Disse's space	CL:0000632	hepatic stellate cell	quiescent hepatic stellate cell	HGNC:2770, HGNC:2770, HGNC:4235, HGNC:4235, HGNC:8804, HGNC:8804	DOI:10.1038/nm.3282|DOI:10.1136/gut.2005.078865|DOI:10.1002/hep.1840040425|https://www|ncbi|nlm|nih|gov/pmc/articles/PMC3855865/
+UBERON:0004647	liver lobule	hepatic Lobule	CL:0000784	plasmacytoid dendritic cell	plasmacytoid Dendritic cell	HGNC:6152	DOI:10.1111/imm.12888|PMID:29313948
+UBERON:0004647	liver lobule	hepatic Lobule	CL:0000798	gamma delta T cell	gamma delta T cell	HGNC:11922, HGNC:16647, HGNC:4540, HGNC:9666	
+UBERON:0004647	liver lobule	hepatic Lobule	CL:0000921	Type I NK T cell	iNKT	HGNC:12046, HGNC:12053, HGNC:12104, HGNC:1637, HGNC:16647	
+UBERON:0004647	liver lobule	hepatic Lobule	CL:0000990	conventional dendritic cell	Conventional DC 1	HGNC:11784	DOI:10.1111/imm.12888|PMID:29313948
+UBERON:0004647	liver lobule	hepatic Lobule	CL:0001056	human Dendritic cell	conventional Dendritic cell	HGNC:1697, HGNC:2433, HGNC:3336, HGNC:3613, HGNC:3765, HGNC:6152	DOI:10.1111/imm.12888|PMID:29313948
+UBERON:0004647	liver lobule	hepatic Lobule	CL:0001203	CD8 positiver alpha beta memory T cell CD45RO +	CD8+ Liver-Resident Memory T cell	HGNC:10720, HGNC:1608, HGNC:16647, HGNC:3165, HGNC:4540, HGNC:6347	
+UBERON:0001282	intralobular bile duct	Canals of Hering	CL:0002196	Hepatic oval stem cell	hepatic oval cell 	HGNC:11801, HGNC:6342	|DOI:10.1136/gut.2007.143321|DOI:10.1053/gast.2001.21175
+UBERON:0001282	intralobular bile duct	Canals of Hering	CL:0002196	Hepatic oval stem cell	hepatic progenitor cell	HGNC:11204, HGNC:11529, HGNC:4504, HGNC:8148, HGNC:9454	DOI:10.1038/nature11826|DOI:10.1634/stemcells.2007-0176|DOI:10.1038/ng.722|DOI:10.1053/j.gastro.2012.08.024
+UBERON:0004647	liver lobule	hepatic Lobule	CL:0002399	CD1c+ myeloid dendritic cell	Conventional DC 2	HGNC:1636	DOI:10.1111/imm.12888|PMID:29313948
+UBERON:0006841	central vein of liver	central vein	CL:0002543	vein endothelial cell	endothelial cell	HGNC:1662, HGNC:1662, HGNC:8823, HGNC:8823	DOI:10.1038/srep44356
+UBERON:0002017	portal vein	portal vein	CL:0002543	vein endothelial cell	endothelial cell	HGNC:10718, HGNC:12726, HGNC:13635, HGNC:1662	DOI:10.1038/srep44356
+UBERON:0001193	hepatic artery	hepatic artery	CL:0019018	blood vessel smooth muscle cell	smooth muscle cell	HGNC:130, HGNC:130	
+UBERON:0005452	hepatic cord	hepatic plate	CL:0019026	periportal region hepatocyte	periportal hepatocyte	HGNC:2611, HGNC:2611, HGNC:4806, HGNC:4806	DOI:10.1053/j.gastro.2009.02.063|DOI:10.1038/s42255-019-0109-9
+UBERON:0005452	hepatic cord	hepatic plate	CL:0019028	midzonal region hepatocyte	mid zone hepatocyte	HGNC:2611, HGNC:2637, HGNC:4806	
+UBERON:0005452	hepatic cord	hepatic plate	CL:0019029	centrilobular region hepatocyte	pericentral hepatocyte	HGNC:2637, HGNC:2637, HGNC:4341, HGNC:4341	DOI:10.1053/j.gastro.2009.02.063|DOI:10.1038/ncb3337|DOI:10.1038/nature14863
+UBERON:0001281	hepatic sinusoid	hepatic sinusoid	CL:1000398	endothelial cell of hepatic sinusoid	liver sinusoid endothelial cell	HGNC:1662, HGNC:3349, HGNC:3349, HGNC:8823, HGNC:8823	DOI:10.3748/wjg.v12.i34.5429|https://www|ncbi|nlm|nih|gov/pmc/articles/PMC4088223/
+UBERON:0001193	hepatic artery	hepatic artery	CL:1000413	endothelial cell of artery	endothelial cell	HGNC:1662, HGNC:1662, HGNC:8823, HGNC:8823	DOI:10.1038/srep44356
+UBERON:0004647	liver lobule	hepatic Lobule	CL:2000054	hepatic Pit cell	Pit cell	HGNC:11599, HGNC:3372, HGNC:6134	

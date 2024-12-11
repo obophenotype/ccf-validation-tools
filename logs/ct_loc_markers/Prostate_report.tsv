@@ -1,0 +1,12 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	Terminal CT/ID	Terminal CT/label	Terminal CT/user_label	Markers	References
+UBERON:0004184	prostate gland stroma	prostate stroma	CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle	HGNC:130, HGNC:1663, HGNC:6934	doi:10.1002/path.5751
+UBERON:0004184	prostate gland stroma	prostate stroma	CL:0000669	pericyte	prostate perictye	HGNC:130, HGNC:29836, HGNC:4278	doi:10.1002/path.5751
+UBERON:0001335	prostatic urethra	prostatic urethra	CL:0002313	neuroendocrine cell of the prostatic urethral epithelium	neuroendocrine cell of prostatic urethra	HGNC:10575, HGNC:1929, HGNC:4605	doi:10.1002/path.5751
+UBERON:0000428	prostate epithelium	prostate epithelium	CL:0002340	luminal cell of prostate epithelium	luminal epithelia	HGNC:125, HGNC:6364, HGNC:7372	doi:10.1002/path.5751
+UBERON:0000428	prostate epithelium	prostate epithelium	CL:0002341	basal cell of prostate epithelium	basal epithelia	HGNC:10492, HGNC:6416, HGNC:6442	doi:10.1002/path.5751
+UBERON:0001335	prostatic urethra	prostatic urethra	CL:0017011	hillock cell of prostatic urethral epithelium	hillock cell of prostatic urethra	HGNC:24880, HGNC:384, HGNC:6415	doi:10.1002/path.5751
+UBERON:0004184	prostate gland stroma	prostate stroma	CL:1000299	fibroblast of connective tissue of prostate	interstitial fibroblast	HGNC:1346, HGNC:2705, HGNC:7035	doi:10.1002/path.5751
+UBERON:0004184	prostate gland stroma	prostate stroma	CL:1000301	fibroblast of subepithelial connective tissue of prostatic gland	periepithelial fibroblast	HGNC:2705, HGNC:612, HGNC:9592	doi:10.1002/path.5751
+UBERON:0004184	prostate gland stroma	prostate stroma	CL:1000487	smooth muscle cell of prostate	prostate smooth muscle	HGNC:130, HGNC:145, HGNC:2770	doi:10.1002/path.5751
+UBERON:0004184	prostate gland stroma	prostate stroma	CL:2000059	prostate gland microvascular endothelial cell	endothelia	HGNC:10718, HGNC:2047, HGNC:8823	doi:10.1002/path.5751
+UBERON:0001335	prostatic urethra	prostatic urethra	CL:4032000	club-like cell of prostatic urethral epithelium	club cell of prostatic urethra	HGNC:12523, HGNC:18384, HGNC:9500	doi:10.1002/path.5751

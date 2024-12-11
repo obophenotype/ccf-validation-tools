@@ -1,0 +1,29 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	Terminal CT/ID	Terminal CT/label	Terminal CT/user_label	Markers	References
+UBERON:0001021	nerve	nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001492	radial nerve	radial nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0003724	musculocutaneous nerve	musculocutaneous nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001493	axillary nerve	axillary nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0008833	great auricular nerve	great auricular nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001884	phrenic nerve	phrenic nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001650	hypoglossal nerve	hypoglossal nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001759	vagus nerve	vagus nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001649	glossopharyngeal nerve	glossopharyngeal nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001648	vestibulocochlear nerve	vestibulocochlear nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001647	facial nerve	facial nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001646	abducens nerve	abducens nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0000348	ophthalmic nerve	ophthalmic nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0000377	maxillary nerve	maxillary nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0000375	mandibular nerve	mandibular nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001645	trigeminal nerve	trigeminal nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001644	trochlear nerve	trochlear nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001643	oculomotor nerve	oculomotor nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001579	olfactory nerve	olfactory nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001785	cranial nerve	cranial nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0035768	coccygeal nerve plexus	coccygeal plexus	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0034986	sacral nerve plexus	sacral plexus	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0034987	lumbar nerve plexus	lumbar plexus	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001814	brachial nerve plexus	brachial plexus	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0003725	cervical nerve plexus	cervical plexus	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001780	spinal nerve	spinal nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0001322	sciatic nerve	sciatic nerve	CL:0000540	neuron	neuron	HGNC:3353	
+UBERON:0011390	pudendal nerve	pudendal nerve	CL:0000540	neuron	neuron	HGNC:3353	

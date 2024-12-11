@@ -1,0 +1,12 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	Terminal CT/ID	Terminal CT/label	Terminal CT/user_label	Markers	References
+UBERON:0000381	urinary bladder detrusor smooth muscle	urinary bladder detrusor smooth muscle	CL:0002597	smooth muscle cell of bladder	smooth muscle	HGNC:145, HGNC:2770, HGNC:45169	
+UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	CL:0002597	smooth muscle cell of bladder	smooth muscle	HGNC:281, HGNC:45169, HGNC:6934	
+UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	CL:0002597	smooth muscle cell of bladder	smooth muscle	HGNC:1663, HGNC:45169, HGNC:895	
+UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	CL:1001319	bladder cell	myofibroblast	HGNC:11373, HGNC:5318, HGNC:7035	
+UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	CL:1001319	bladder cell	fibroblast	HGNC:21245, HGNC:2705, HGNC:29673	
+UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	CL:1001319	bladder cell	fibroblast	HGNC:1346, HGNC:2705, HGNC:3011	
+UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	CL:1001319	bladder cell	fibroblast	HGNC:11092, HGNC:20396, HGNC:613	
+UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	CL:1001428	bladder urothelial cell	urothelium	HGNC:10492, HGNC:2891, HGNC:6442	
+UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	CL:1001428	bladder urothelial cell	urothelium	HGNC:15979, HGNC:384, HGNC:6415	
+UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	CL:1001428	bladder urothelial cell	urothelium	HGNC:12578, HGNC:12580, HGNC:40603	
+UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	CL:2000040	bladder microvascular endothelial cell	endothelium	HGNC:10718, HGNC:2047, HGNC:8823	

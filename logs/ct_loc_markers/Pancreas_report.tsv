@@ -1,0 +1,31 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	Terminal CT/ID	Terminal CT/label	Terminal CT/user_label	Markers	References
+UBERON:0000006	islet of Langerhans	Islet of Langerhans	CL:0000084	T cell	T lymphocyte	HGNC:1674, HGNC:1678, HGNC:1706, HGNC:9666	
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	CL:0000084	T cell	T lymphocyte	HGNC:1674, HGNC:1678, HGNC:1706, HGNC:9666	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	CL:0000136	fat cell	Adipocyte	HGNC:3559, HGNC:6621, HGNC:9155	
+UBERON:0012271	major duodenal papilla	Major duodenal papilla	CL:0000146	simple columnar epithelial cell	Simple columnar epithelial cell	HGNC:1884, HGNC:6107, HGNC:6436, HGNC:6445	
+UBERON:0012271	major duodenal papilla	Major duodenal papilla	CL:0000146	simple columnar epithelial cell	Simple columnar epithelial cell	HGNC:6107, HGNC:6436	
+UBERON:0000006	islet of Langerhans	Islet of Langerhans	CL:0000169	type B pancreatic cell	Beta cell	HGNC:11506, HGNC:12513, HGNC:1929, HGNC:23145, HGNC:3365, HGNC:6081, HGNC:6107, HGNC:7839	
+UBERON:0000006	islet of Langerhans	Islet of Langerhans	CL:0000171	pancreatic A cell	Alpha cell	HGNC:11506, HGNC:12513, HGNC:14359, HGNC:18060, HGNC:1929, HGNC:4191	
+UBERON:0000006	islet of Langerhans	Islet of Langerhans	CL:0000173	pancreatic D cell	Delta cell	HGNC:11329, HGNC:11506, HGNC:12513, HGNC:1929, HGNC:4901	
+UBERON:0004915	sphincter of hepatopancreatic ampulla	Hepatopancreatic sphincter (Sphincter of Oddi)	CL:0000192	smooth muscle cell	Smooth muscle cell	HGNC:130	
+UBERON:0005429	dorsal pancreatic duct	Papilla of Santorini	CL:0000192	smooth muscle cell	Smooth muscle cell	HGNC:130	
+UBERON:0000006	islet of Langerhans	Islet of Langerhans	CL:0000235	macrophage	Macrophage	HGNC:1631, HGNC:1693, HGNC:352, HGNC:7228	
+UBERON:0000006	islet of Langerhans	Islet of Langerhans	CL:0000235	macrophage	Macrophage	HGNC:1693, HGNC:352	
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	CL:0000235	macrophage	Macrophage	HGNC:1631, HGNC:1693, HGNC:352, HGNC:7228	
+UBERON:0000006	islet of Langerhans	Islet of Langerhans	CL:0000236	B cell	B lymphocyte	HGNC:1633, HGNC:7315, HGNC:9666	
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	CL:0000236	B cell	B lymphocyte	HGNC:1633, HGNC:7315, HGNC:9666	
+UBERON:0000006	islet of Langerhans	Islet of Langerhans	CL:0000451	dendritic cell	Dendritic cell	HGNC:6152	
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	CL:0000451	dendritic cell	Dendritic cell	HGNC:6152	
+UBERON:0000006	islet of Langerhans	Islet of Langerhans	CL:0000509	gastrin secreting cell	Gastrin cell	HGNC:11506, HGNC:1929, HGNC:4164	
+UBERON:0014726	intercalated duct of pancreas	Intercalated duct	CL:0000577	type EC enteroendocrine cell	Enterochromaffin cell	HGNC:11506, HGNC:12008, HGNC:1929	
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	CL:0000775	neutrophil	Neutrophil	HGNC:3309, HGNC:7218	
+UBERON:0001263	Pancreatic acinus	Pancreatic acinus	CL:0002064	pancreatic acinar cell	Acinar cell	HGNC:15944, HGNC:2521, HGNC:477, HGNC:6430, HGNC:6446, HGNC:9475	
+UBERON:0014726	intercalated duct of pancreas	Intercalated duct	CL:0002079	pancreatic ductal cell	Ductal cell	HGNC:14188, HGNC:17890	
+UBERON:0014726	intercalated duct of pancreas	Intercalated duct	CL:0002080	pancreatic centro-acinar cell	Centroacinar cell	HGNC:1373	
+UBERON:0000006	islet of Langerhans	Islet of Langerhans	CL:0002275	pancreatic PP cell	PP cell	HGNC:11506, HGNC:11506, HGNC:12513, HGNC:1929, HGNC:1929, HGNC:9327	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	CL:0002410	pancreatic stellate cell	Pancreatic stellate cell	HGNC:8804	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	CL:0002410	pancreatic stellate cell	Pancreatic stellate cell	HGNC:130, HGNC:5129, HGNC:5130, HGNC:6482	
+UBERON:0000006	islet of Langerhans	Islet of Langerhans	CL:0005019	pancreatic epsilon cell	Epsilon cell	HGNC:11506, HGNC:11506, HGNC:12513, HGNC:18129, HGNC:1929, HGNC:1929	
+UBERON:0014726	intercalated duct of pancreas	Intercalated duct	CL:1000322	pancreatic goblet cell	Pancreatic goblet cell	HGNC:7512	
+UBERON:0014726	intercalated duct of pancreas	Intercalated duct	CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	HGNC:6436	
+UBERON:0004913	hepatopancreatic ampulla	Hepatopancreatic ampulla	CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	HGNC:6436	

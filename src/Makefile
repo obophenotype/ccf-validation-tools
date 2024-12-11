@@ -4,6 +4,7 @@ ROBOT = robot # Set this to your local path (Need to switch this to take input!)
 # NEW TABLES NOT RELEASED YET: Mammary_Gland
 JOBS = Anatomical_Systems Blood Bone-Marrow Brain Eye Fallopian_tube Heart Kidney Knee Large_intestine Liver Lung Lymph_node Lymph_vasculature Main_Bronchus Mammary_Gland Muscular_System Ovary Pancreas Palatine_Tonsil Peripheral_nervous_system Placenta Prostate Skeleton Skin Small_intestine Spinal_Cord Spleen Thymus Trachea Ureter Urinary_bladder Uterus Blood_vasculature
 JOBS_OLD = Bone-Marrow Blood Brain Eye Fallopian_tube Heart Kidney Knee Large_intestine Liver Lung Lymph_node Lymph_vasculature Ovary Pancreas Placenta Peripheral_nervous_system Prostate Skin Small_intestine Spleen Thymus Ureter Urinary_bladder Uterus Blood_vasculature 
+JOBS_MARKERS = Bone-Marrow Blood Brain Eye Fallopian_tube Heart Kidney Knee Large_intestine Liver Lung Lymph_node Lymph_vasculature Ovary Pancreas Placenta Peripheral_nervous_system Prostate Skin Small_intestine Spleen Thymus Ureter Urinary_bladder Uterus
 OLD_VERSION = False
 
 TODAY ?= $(shell date +%Y-%m-%d)
@@ -17,6 +18,7 @@ OWL_ANNOTATION_FILES = $(patsubst %, ../owl/%_annotations.owl, $(JOBS))
 OWL_UB_SUBSET_FILES = $(patsubst %, ../owl/ub_%_ASCTB_subset.owl, $(JOBS))
 OWL_CL_SUBSET_FILES = $(patsubst %, ../owl/cl_%_ASCTB_subset.owl, $(JOBS))
 JSON_CLASSES_SUBSET = $(patsubst %, ../owl/%_ASCTB_subset.json, $(JOBS))
+CSV_CT_LOC_B = $(patsubst %, ../logs/ct_loc_markers/%_report.tsv, $(JOBS_MARKERS))
 
 all: last_official_release official_release
 
@@ -131,12 +133,26 @@ release_notes:
 		rm $(OWL_CL_SUBSET_FILES); fi
 
 official_release:
-	make ../owl/CCF_AS_CT.owl ../owl/UB_ASCTB_subset.owl ../owl/CL_ASCTB_subset.owl -B
+	make ../owl/CCF_AS_CT.owl ../owl/UB_ASCTB_subset.owl ../owl/CL_ASCTB_subset.owl ../logs/ct_loc_markers/ct_loc_b_report.tsv -B
 .PHONY: official_release
 
 last_official_release:
 	make ../owl/last_official_ASCTB_release/CCF_AS_CT.owl OLD_VERSION=True -B
 .PHONY: last_official_release
+
+../logs/ct_loc_markers/%_report.tsv: ../resources/ASCT-b_tables/%.json
+	python cell_type_location.py --input $< --output $@ --mode generate
+.PHONY: ../logs/ct_loc_markers/%_report.tsv
+
+../logs/ct_loc_markers/ct_loc_b_report.tsv: ${CSV_CT_LOC_B}
+	python cell_type_location.py --input $< --output $@ --mode merge
+.PHONY: ../logs/ct_loc_markers/ct_loc_b_report.tsv
+
+generate_dosdp_template: ../logs/ct_loc_markers/ct_loc_b_report.tsv
+	python cell_type_location.py --input $< --output ../templates/ccf_compound.tsv --mode template
+
+validation_reports_release: official_release
+	cp -a ../logs/. ../docs
 
 build-docker-v%:
 	docker buildx use ccf-tools-dep-builder

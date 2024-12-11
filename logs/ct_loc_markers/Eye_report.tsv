@@ -1,0 +1,40 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	Terminal CT/ID	Terminal CT/label	Terminal CT/user_label	Markers	References
+UBERON:0002506	iris epithelium	iris epithelium	CL:0000066	epithelial cell	epithelial cell	HGNC:633, HGNC:637, HGNC:800	DOI:10.3390/cell7110210
+UBERON:0000966	retina	retina	CL:0000129	microglial cell	microglial cell	HGNC:352	
+UBERON:0001985	corneal endothelium	corneal endothelium	CL:0000132	corneal endothelial cell	corneal endothelial cell	HGNC:1759	DOI:10.1038/srep29047
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:0000561	Amacrine Cell	Amacrine Cell	HGNC:11056, HGNC:11742, HGNC:11743, HGNC:11744, HGNC:1434, HGNC:16941, HGNC:24181, HGNC:24182, HGNC:4092, HGNC:4092, HGNC:4093	DOI:10.1016/j.cell.2019.01.004|DOI:10.1016/j.preteyeres.2020.100844|DOI:10.1002/cne.23821
+UBERON:0001789	outer nuclear layer of retina	outer nuclear layer	CL:0000573	retinal cone cell	retinal cone cell	HGNC:1012, HGNC:1012, HGNC:4206, HGNC:4206, HGNC:4394, HGNC:4400, HGNC:4412, HGNC:4678, HGNC:710, HGNC:710, HGNC:8759, HGNC:8790, HGNC:9936, HGNC:9936, HGNC:9937	DOI:10.1016/j.ophtha.2017.09.016|DOI:10.1016/j.exer.2016.01.002
+UBERON:0001772	corneal epithelium	corneal epithelium	CL:0000575	corneal epithelial cell	corneal epithelial cell	HGNC:1748, HGNC:6414, HGNC:6440, HGNC:7756	DOI:10.1634/stemcell.22-3-355
+UBERON:0001789	outer nuclear layer of retina	outer nuclear layer	CL:0000604	retinal rod cell	retinal rod cell	HGNC:10012, HGNC:10012, HGNC:10521, HGNC:4393, HGNC:4411, HGNC:7974, HGNC:8002, HGNC:8759	DOI:10.1016/j.cell.2019.01.004|DOI:10.1016/j.exer.2016.01.002
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:0000636	Mueller cell	Muller glia	HGNC:10024, HGNC:10024, HGNC:10024, HGNC:10941, HGNC:2095, HGNC:2338, HGNC:2418, HGNC:2893, HGNC:4235, HGNC:4341, HGNC:613	NoDOI|DOI:10.1016/j.ophtha.2017.09.016
+UBERON:0004864	vasculature of retina	vasculature	CL:0000669	pericyte	Pericyte	HGNC:15754, HGNC:2202, HGNC:6269, HGNC:7060	DOI:10.1016/j.cell.2019.01.004
+UBERON:0001792	ganglionic layer of retina	retinal ganglion cell layer	CL:0000740	retinal ganglion cell	Ganglion cell	HGNC:11141, HGNC:11801, HGNC:11801, HGNC:14449, HGNC:16703, HGNC:19097, HGNC:19097, HGNC:20778, HGNC:7734, HGNC:7739, HGNC:9218, HGNC:9219, HGNC:9220	DOI:10.1017/S0952523819000087|DOI:10.1016/j.cell.2019.01.004
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:0000745	retina horizontal cell	Horizontal Cell	HGNC:1434, HGNC:1434, HGNC:6593, HGNC:8138, HGNC:8139, HGNC:9704	DOI:10.1016/j.preteyeres.2020.100844|DOI:10.1016/j.exer.2016.01.002
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:0000748	retinal bipolar neuron	Bipolar Cell	HGNC:12723, HGNC:13714, HGNC:1975, HGNC:1975, HGNC:4389, HGNC:4579, HGNC:4598, HGNC:6132, HGNC:7103, HGNC:7146, HGNC:8522, HGNC:9393, HGNC:9937	DOI:10.1016/j.cell.2019.01.004|DOI:10.1016/j.brainres.2007.06.007|DOI:10.1016/j.exer.2016.01.002
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:0000749	ON-bipolar cell	ON Bipolar cell	HGNC:4400	DOI:10.1016/j.ophtha.2017.09.016
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:0000751	rod bipolar cell	rod bipolar cell	HGNC:9393	DOI:10.1002/cne.10491
+UBERON:0001803	epithelium of lens	epithelial layer	CL:0002224	lens epithelial cell	lens epithelial cell	HGNC:1748	
+UBERON:0000390	lens nucleus	Fetal nucleus	CL:0002225	secondary lens fiber	mature fiber cell	HGNC:17494	
+UBERON:0002444	lens fiber	lens Fibers	CL:0002228	primary lens fiber	primary lens fiber	HGNC:1041	
+UBERON:0001778	ciliary epithelium	ciliary epithelium	CL:0002303	pigmented ciliary epithelial cell	pigmented ciliary epithelial cell	HGNC:799	DOI:10.3390/cell7110210
+UBERON:0001778	ciliary epithelium	ciliary epithelium	CL:0002304	non-pigmented ciliary epithelial cell	non-pigmented ciliary epithelial cell	HGNC:633, HGNC:637, HGNC:800	DOI:10.3390/cell7110210
+UBERON:0003952	anterior stroma of cornea	anterior stroma of cornea	CL:0002363	keratocyte	keratocyte	HGNC:8803	DOI:10.1111/jcmm.13270
+UBERON:0002506	iris epithelium	iris epithelium	CL:0002565	iris pigment epithelial cell	iris pigment epithelial cell	HGNC:799	DOI:10.3390/cell7110210
+UBERON:0004864	vasculature of retina 	vasculature	CL:0002585	retinal blood vessel endothelial cell	Endothelial Cell	HGNC:2047, HGNC:2202, HGNC:5476	
+UBERON:0001782	pigmented layer of retina	retinal pigmented epithelium	CL:0002586	retinal pigment epithelial cell	retinal pigmented epithelial cell	HGNC:10024, HGNC:10294, HGNC:12691	DOI:10.1016/j.ophtha.2017.09.016|DOI:10.1083/jcb.147.7.1533
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:0004219	A2 amacrine cell	A2 cell	HGNC:1435	DOI:10.1016/j.preteyeres.2020.100844
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:0004232	starburst amacrine cell	starburst amacrine cell	HGNC:1912	DOI:10.1016/j.preteyeres.2020.100844
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:0004253	wide field retinal amacrine cell	wide field cell	HGNC:10575, HGNC:12693, HGNC:787, HGNC:9723	DOI:10.1016/j.preteyeres.2020.100844
+UBERON:0002444	lens Fiber	lens Fiber	CL:0011004	lens fiber cell	lens fiber cell	HGNC:12692	DOI:10.1167/iovs.15-18117
+UBERON:0002444	lens fiber	lens Fibers	CL:0011004	lens fiber cell	lens fiber cell	HGNC:7103	
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:0011005	GABAergic interneuron	GABAergic interneuron	HGNC:10575, HGNC:11329, HGNC:11526, HGNC:11528, HGNC:11782, HGNC:12693, HGNC:16941, HGNC:1912, HGNC:24323, HGNC:4093, HGNC:7955, HGNC:9726	DOI:10.1016/j.preteyeres.2020.100844|DOI:10.1002/(SICI)1096-9861(19990816)411:1<19::AID-CNE3>3.0.CO;2-4|DOI:10.1002/cne.902760106
+UBERON:0003952	anterior stroma of cornea	anterior stroma of cornea	CL:0017004	telocyte	telocyte	HGNC:8803	DOI:10.1111/jcmm.13270
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:4030028	glycinergic amacrine cell	Glycinergic Amacrine Cell	HGNC:11510, HGNC:1435, HGNC:19087, HGNC:20151, HGNC:21637, HGNC:9704, HGNC:9723	DOI:10.1002/cne.10985|DOI:10.1016/j.preteyeres.2020.100844|DOI:10.1523/JNEUROSCI.0907-11.2011|DOI:10.1017/S0952523809090075|DOI:10.1002/cne.21666
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:4033019	ON-blue cone bipolar cell	blue cone bipolar cell	HGNC:1569	DOI:10.1016/j.preteyeres.2020.100844
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:4033027	diffuse bipolar 1 cell	Diffuse bipolar 1 (DB1)	HGNC:16941	DOI:10.1002/cne.22756
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:4033028	diffuse bipolar 2 cell	Diffuse bipolar 2 cell	HGNC:10940	DOI:10.1002/cne.903480410|DOI:10.1002/(SICI)1096-9861(20000103)416:1<19::AID-CNE3>3.0.CO;2-H|DOI:10.1002/cne.10491
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:4033029	diffuse bipolar 3a cell	Diffuse bipolar 3a cell	HGNC:10585, HGNC:1384, HGNC:1434, HGNC:4845	DOI:10.1016/j.preteyeres.2020.100844|DOI:10.1002/cne.10491|DOI:10.1523/JNEUROSCI.1249-13.2013
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:4033030	diffuse bipolar 3b cell	Diffuse bipolar 3b cell	HGNC:1394, HGNC:4845	DOI:10.1017/s0952523800011391
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:4033031	diffuse bipolar 4 cell	Diffuse bipolar 4 cell	HGNC:10585, HGNC:1394, HGNC:4845, HGNC:9393, HGNC:9393	DOI:10.1002/cne.22756
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:4033033	flat midget bipolar cell	Flat midget bipolar cell	HGNC:26483, HGNC:9937	DOI:10.1016/j.preteyeres.2020.100844|DOI:10.1002/cne.10491|NoDOI
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	CL:4033034	invaginating midget bipolar cell	invaginating bipolar cell	HGNC:1569	DOI:10.1002/cne.22756

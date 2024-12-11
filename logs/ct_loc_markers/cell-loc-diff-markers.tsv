@@ -1,0 +1,516 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	Terminal CT/ID	Terminal CT/label	Terminal CT/user_label	Markers	References	Table
+UBERON:0000006	islet of Langerhans	Islet of Langerhans	CL:0000235	macrophage	Macrophage	HGNC:1631, HGNC:1693, HGNC:352, HGNC:7228		Pancreas
+UBERON:0000006	islet of Langerhans	Islet of Langerhans	CL:0000235	macrophage	Macrophage	HGNC:1693, HGNC:352		Pancreas
+UBERON:0000178	Blood	Blood	CL:0000897	CD4-positive, alpha-beta memory T cell	CD4 T cell memory	HGNC:11362, HGNC:11892, HGNC:12029, HGNC:12729, HGNC:1608, HGNC:1673, HGNC:1674, HGNC:1678, HGNC:1706, HGNC:19129, HGNC:19383, HGNC:6001, HGNC:6015, HGNC:6817, HGNC:7849, HGNC:8109, HGNC:9666, HGNC:9721		multi_loc
+UBERON:0000178	Blood	Blood	CL:0000897	CD4-positive, alpha-beta memory T cell	CD4 T cell memory	HGNC:12029, HGNC:1608, HGNC:1673, HGNC:1674, HGNC:1678, HGNC:1706, HGNC:2360, HGNC:26974, HGNC:4054, HGNC:537, HGNC:6563, HGNC:9666		multi_loc
+UBERON:0000178	Blood	Blood	CL:0000897	CD4-positive, alpha-beta memory T cell	CD4 T cell memory	HGNC:1608, HGNC:16647, HGNC:1674, HGNC:1678, HGNC:1706, HGNC:2360, HGNC:26974, HGNC:4709, HGNC:6134, HGNC:9360, HGNC:9666		multi_loc
+UBERON:0000178	Blood	Blood	CL:0002399	CD1c-positive myeloid dendritic cell	dendritic cell type 3 (DC3)	HGNC:10498, HGNC:10499, HGNC:11784, HGNC:1628, HGNC:1631, HGNC:1633, HGNC:1636, HGNC:1636, HGNC:1663, HGNC:1674, HGNC:16916, HGNC:3609, HGNC:3619, HGNC:4947, HGNC:6012, HGNC:6152, HGNC:7656	DOI:10.1002/cyto.a.23724	multi_loc
+UBERON:0000178	Blood	Blood	CL:0002399	CD1c-positive myeloid dendritic cell	dendritic cell type 2 (DC2)	HGNC:11784, HGNC:1628, HGNC:1633, HGNC:1636, HGNC:1636, HGNC:1674, HGNC:16916, HGNC:3609, HGNC:3618, HGNC:3619, HGNC:4940, HGNC:4943, HGNC:4947, HGNC:6012, HGNC:6152, HGNC:7656	DOI:10.1016/j.immuni.2017.04.019	multi_loc
+UBERON:0000397	colonic epithelium	lymphcyte	CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	HGNC:1639, HGNC:1673, HGNC:1673, HGNC:1676, HGNC:1676, HGNC:1678, HGNC:1678, HGNC:1685, HGNC:1685, HGNC:1695, HGNC:1695, HGNC:1695	DOI:10.1093/intimm/7.9.1473|PMID:7495755	Large_intestine
+UBERON:0000397	colonic epithelium	epithelium	CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	HGNC:1639, HGNC:1639, HGNC:1673, HGNC:1673, HGNC:1676, HGNC:1676, HGNC:1678, HGNC:1678, HGNC:1685, HGNC:1685, HGNC:1695, HGNC:1695	DOI:10.1093/intimm/7.9.1473|PMID:7495755	multi_loc
+UBERON:0000397	colonic epithelium	lymphocyte	CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	HGNC:1639, HGNC:1673, HGNC:1673, HGNC:1676, HGNC:1676, HGNC:1685, HGNC:1685, HGNC:1695, HGNC:1695, HGNC:1695	DOI:10.1093/intimm/7.9.1473|PMID:7495755	multi_loc
+UBERON:0000397	colonic epithelium	epithelium	CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	HGNC:1639, HGNC:1639, HGNC:1673, HGNC:1673, HGNC:1676, HGNC:1676, HGNC:1685, HGNC:1685, HGNC:1695, HGNC:921	DOI:10.1093/intimm/7.9.1473|PMID:7495755	multi_loc
+UBERON:0000397	colonic epithelium	lymphocyte	CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	HGNC:1639, HGNC:1639, HGNC:1673, HGNC:1673, HGNC:1676, HGNC:1676, HGNC:1685, HGNC:1685, HGNC:1695, HGNC:1695	DOI:10.1093/intimm/7.9.1473|PMID:7495755	multi_loc
+UBERON:0000423	eccrine sweat gland	Eccrine (sweat) glands	CL:1000417	myoepithelial cell of sweat gland	myoepithelial cell	HGNC:10492, HGNC:30840, HGNC:6436	DOI:10.1111/exd.12773|DOI:10.1111/1523-1747.ep12277180|DOI:10.1046/j.1365-2133.1997.17651853.x|PMID:26014472|PMID:2414369|PMID:9274623	Skin
+UBERON:0000423	eccrine sweat gland	eccrine sweat gland	CL:1000417	myoepithelial cell of sweat gland	myoepithelial	HGNC:130, HGNC:130	NoDOI	Large_intestine
+UBERON:0000955	brain	brain	CL:0000057	fibroblast	fibroblast	HGNC:11040	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000057	fibroblast	fibroblast	HGNC:30988, HGNC:9591	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000057	fibroblast	fibroblast	HGNC:3770, HGNC:38, HGNC:53007	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000057	fibroblast	fibroblast	HGNC:1077, HGNC:11005, HGNC:19090	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000057	fibroblast	fibroblast	HGNC:11595, HGNC:6715	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000057	fibroblast	fibroblast	HGNC:1346, HGNC:2198, HGNC:3601	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000057	fibroblast	fibroblast	HGNC:2192, HGNC:30927	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:0000057	fibroblast	fibroblast	HGNC:1072, HGNC:1346	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:0000065	ependymal cell	ependymal cell	HGNC:12261, HGNC:27287, HGNC:8239	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:0000065	ependymal cell	ependymal cell	HGNC:1487, HGNC:2360, HGNC:8239	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000065	ependymal cell	ependymal cell	HGNC:1487	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000065	ependymal cell	ependymal cell	HGNC:8239	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000065	ependymal cell	ependymal cell	HGNC:12405, HGNC:37261	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000065	ependymal cell	ependymal cell	HGNC:28395, HGNC:37261	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000065	ependymal cell	ependymal cell	HGNC:3690, HGNC:37261, HGNC:5318	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:0000127	astrocyte	astrocyte	HGNC:3180, HGNC:43436, HGNC:5318, HGNC:613	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000127	astrocyte	astrocyte	HGNC:42700, HGNC:4453, HGNC:5318	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000127	astrocyte	astrocyte	HGNC:44915, HGNC:5318, HGNC:613	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000127	astrocyte	astrocyte	HGNC:4235, HGNC:633	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000127	astrocyte	astrocyte	HGNC:2389, HGNC:4235	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:0000127	astrocyte	astrocyte	HGNC:18374, HGNC:19719, HGNC:27363, HGNC:42700	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:0000128	oligodendrocyte	oligodendrocyte	HGNC:20707, HGNC:51662, HGNC:9086	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000128	oligodendrocyte	oligodendrocyte	HGNC:10044, HGNC:20675, HGNC:51662	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000128	oligodendrocyte	oligodendrocyte	HGNC:20707, HGNC:3432, HGNC:9086	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000128	oligodendrocyte	oligodendrocyte	HGNC:11740, HGNC:14082, HGNC:23091, HGNC:29268, HGNC:7189	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000128	oligodendrocyte	oligodendrocyte	HGNC:20707, HGNC:23091, HGNC:23723, HGNC:7189	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000128	oligodendrocyte	oligodendrocyte	HGNC:11740, HGNC:23091, HGNC:2389, HGNC:29268	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000129	microglial cell	microglia	HGNC:2558, HGNC:28416, HGNC:50913	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000129	microglial cell	microglia	HGNC:2558, HGNC:54229, HGNC:8133	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000129	microglial cell	microglia	HGNC:2558, HGNC:352, HGNC:54229	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000129	microglial cell	microglia	HGNC:18124, HGNC:19191, HGNC:50913	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000129	microglial cell	microglia	HGNC:18124, HGNC:54124, HGNC:54229	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000129	microglial cell	microglia	HGNC:3531, HGNC:7228	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000129	microglial cell	microglia	HGNC:21695, HGNC:38712, HGNC:6152	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000129	microglial cell	microglia	HGNC:54284, HGNC:9361	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:0000129	microglial cell	microglia	HGNC:12405, HGNC:17379	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:21591, HGNC:26744, HGNC:8138	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:14217, HGNC:25396	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:4855	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:7872, HGNC:7955	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:19179, HGNC:30620, HGNC:983	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:13010, HGNC:16421, HGNC:9459	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:14005, HGNC:21735, HGNC:227, HGNC:26086	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:16189, HGNC:43906	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:8079, HGNC:8651	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:54290	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:11329, HGNC:26683, HGNC:54353	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:11050, HGNC:20692	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:10726, HGNC:4172, HGNC:6654	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:10889, HGNC:25552, HGNC:6132	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:10854, HGNC:11641, HGNC:30620, HGNC:6594	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:12695, HGNC:16709, HGNC:23571	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:11641, HGNC:19087, HGNC:2663, HGNC:6352	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:11641, HGNC:19087, HGNC:3126, HGNC:37462	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:11641, HGNC:6593	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:11329, HGNC:11641, HGNC:20866	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:19090, HGNC:6653, HGNC:9005	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:19090, HGNC:8619	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:19090, HGNC:3126, HGNC:8518	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:1442, HGNC:2171, HGNC:4392, HGNC:5295, HGNC:7001, HGNC:777	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:13733, HGNC:6653, HGNC:9005	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:13285, HGNC:2663, HGNC:4172	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:12872, HGNC:21694, HGNC:37462, HGNC:8010	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:6132, HGNC:8138	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:5114, HGNC:6654	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:21386, HGNC:22950, HGNC:23206, HGNC:9674	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:14005, HGNC:4392	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:777	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:11743, HGNC:6653	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:30748, HGNC:4172, HGNC:50698, HGNC:51231	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:4172, HGNC:50687	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:10889, HGNC:11517, HGNC:4172	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0000540	neuron	neuron	HGNC:14222, HGNC:52588, HGNC:8138	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0002453	oligodendrocyte precursor cell	oligodendrocyte precursor cell	HGNC:51662	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:0002453	oligodendrocyte precursor cell	oligodendrocyte precursor cell	HGNC:26287	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:0002453	oligodendrocyte precursor cell	oligodendrocyte precursor cell	HGNC:16983, HGNC:612	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:0002453	oligodendrocyte precursor cell	oligodendrocyte precursor cell	HGNC:16983	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:4086, HGNC:6132	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	HGNC:19718, HGNC:219, HGNC:3520, HGNC:5184	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	HGNC:10640, HGNC:19718, HGNC:3520, HGNC:9679	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	HGNC:1954, HGNC:19718, HGNC:29	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	HGNC:16018, HGNC:38408, HGNC:8656	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:3023, HGNC:3520, HGNC:8831	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:10640, HGNC:13875, HGNC:6132	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023059	differentiation-committed oligodendrocyte precursor	committed oligodendrocyte precursor cell	HGNC:14344, HGNC:3791	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023059	differentiation-committed oligodendrocyte precursor	committed oligodendrocyte precursor cell	HGNC:974	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023059	differentiation-committed oligodendrocyte precursor	committed oligodendrocyte precursor cell	HGNC:23091, HGNC:7189	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023059	differentiation-committed oligodendrocyte precursor	committed oligodendrocyte precursor cell	HGNC:4471, HGNC:9142, HGNC:974	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023059	differentiation-committed oligodendrocyte precursor	committed oligodendrocyte precursor cell	HGNC:11740	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023059	differentiation-committed oligodendrocyte precursor	committed oligodendrocyte precursor cell	HGNC:20707	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:17178, HGNC:3522, HGNC:7569	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:12693, HGNC:17265	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:11641, HGNC:18404, HGNC:25552, HGNC:9609	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:24323, HGNC:9163, HGNC:9997	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023072	brain vascular cell	brain vascular cell	HGNC:5993, HGNC:9361	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023072	brain vascular cell	brain vascular cell	HGNC:13635	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023072	brain vascular cell	brain vascular cell	HGNC:17995, HGNC:3498	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023072	brain vascular cell	brain vascular cell	HGNC:130, HGNC:3498	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023072	brain vascular cell	brain vascular cell	HGNC:30400, HGNC:4871	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023072	brain vascular cell	brain vascular cell	HGNC:19194, HGNC:3498, HGNC:74	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023072	brain vascular cell	brain vascular cell	HGNC:11045, HGNC:11046, HGNC:14872	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023072	brain vascular cell	brain vascular cell	HGNC:11553, HGNC:130	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023072	brain vascular cell	brain vascular cell	HGNC:10937, HGNC:42872	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023072	brain vascular cell	brain vascular cell	HGNC:3498, HGNC:7060	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023072	brain vascular cell	brain vascular cell	HGNC:26213, HGNC:29836	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023073	choroid plexus cell	choroid plexus cell	HGNC:14344, HGNC:5147	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023073	choroid plexus cell	choroid plexus cell	HGNC:12405, HGNC:4462	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023073	choroid plexus cell	choroid plexus cell	HGNC:18695, HGNC:43906, HGNC:9086	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023073	choroid plexus cell	choroid plexus cell	HGNC:3791, HGNC:8824	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023079	midbrain-derived inhibitory neuron	midbrain-derived inhibitory neuron	HGNC:15576, HGNC:43906, HGNC:52895	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023079	midbrain-derived inhibitory neuron	midbrain-derived inhibitory neuron	HGNC:14866, HGNC:43906, HGNC:9477, HGNC:9957	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023079	midbrain-derived inhibitory neuron	midbrain-derived inhibitory neuron	HGNC:22128, HGNC:31110, HGNC:7941	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023079	midbrain-derived inhibitory neuron	midbrain-derived inhibitory neuron	HGNC:20754, HGNC:23631, HGNC:44222, HGNC:6714	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023079	midbrain-derived inhibitory neuron	midbrain-derived inhibitory neuron	HGNC:1077, HGNC:19194, HGNC:43906	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023079	midbrain-derived inhibitory neuron	midbrain-derived inhibitory neuron	HGNC:10259, HGNC:1077, HGNC:43906	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023079	midbrain-derived inhibitory neuron	midbrain-derived inhibitory neuron	HGNC:23631, HGNC:7941	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000955	brain	brain	CL:4023079	midbrain-derived inhibitory neuron	midbrain-derived inhibitory neuron	HGNC:10725, HGNC:43906, HGNC:52895, HGNC:9477	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023079	midbrain-derived inhibitory neuron	midbrain-derived inhibitory neuron	HGNC:10725, HGNC:11510, HGNC:30506, HGNC:43906, HGNC:53587	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000955	brain	brain	CL:4023079	midbrain-derived inhibitory neuron	midbrain-derived inhibitory neuron	HGNC:15576, HGNC:30506, HGNC:37078	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0000402	CNS interneuron	CNS interneuron	HGNC:19898, HGNC:2731, HGNC:7029	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0000402	CNS interneuron	CNS interneuron	HGNC:11517, HGNC:22950, HGNC:42435, HGNC:676, HGNC:7872	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:40401	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:27823, HGNC:52626, HGNC:53175	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:18638, HGNC:6136	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:10727, HGNC:14632, HGNC:52626	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:20391, HGNC:48724	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:3179	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:4680	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0002605	astrocyte of the cerebral cortex	astrocyte of the cerebral cortex	HGNC:3690, HGNC:43436, HGNC:5362	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0002605	astrocyte of the cerebral cortex	astrocyte of the cerebral cortex	HGNC:14864, HGNC:52515	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0010012	cerebral cortex neuron	cerebral cortex neuron	HGNC:26563	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0010012	cerebral cortex neuron	cerebral cortex neuron	HGNC:1183, HGNC:12338, HGNC:13010	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0010012	cerebral cortex neuron	cerebral cortex neuron	HGNC:2705, HGNC:48603	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0010012	cerebral cortex neuron	cerebral cortex neuron	HGNC:13542, HGNC:3446, HGNC:8569	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0010012	cerebral cortex neuron	cerebral cortex neuron	HGNC:54272	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0010012	cerebral cortex neuron	cerebral cortex neuron	HGNC:10259, HGNC:1686, HGNC:3488	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:0010012	cerebral cortex neuron	cerebral cortex neuron	HGNC:53175, HGNC:53225	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:10259, HGNC:27405	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:12695	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:10725, HGNC:12338, HGNC:4325, HGNC:50645	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:21569	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:16953, HGNC:18374, HGNC:21569	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:53062	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:21569, HGNC:29109, HGNC:42500	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:16097, HGNC:19739, HGNC:42024	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:53175	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:41926, HGNC:53212	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:22989	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:28543, HGNC:50538, HGNC:53225	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:43559, HGNC:53225	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:2210, HGNC:52895, HGNC:6482	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:2210, HGNC:53212	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:30620, HGNC:53175, HGNC:53225	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:23392	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:10259, HGNC:12335, HGNC:17109, HGNC:21694	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:53225	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:30620, HGNC:43558, HGNC:51166	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023009	extratelencephalic-projecting glutamatergic cortical neuron	extratelencephalic-projecting glutamatergic cortical neuron	HGNC:48639, HGNC:53354	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023009	extratelencephalic-projecting glutamatergic cortical neuron	extratelencephalic-projecting glutamatergic cortical neuron	HGNC:41926	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	HGNC:22128	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	HGNC:43910	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	HGNC:3969	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	HGNC:10256, HGNC:43910, HGNC:8076	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	HGNC:13433, HGNC:24665	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	HGNC:1663, HGNC:23631, HGNC:43910	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	HGNC:277, HGNC:43910, HGNC:9229, HGNC:9682	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:2358, HGNC:52895	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:53147	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:17109, HGNC:29213, HGNC:9704	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:1073, HGNC:16421, HGNC:24165	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:13361	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:20391, HGNC:9704	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:11329, HGNC:13841, HGNC:9957	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:19266, HGNC:21591, HGNC:3604	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:18374, HGNC:26270	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:17109, HGNC:18351, HGNC:7549	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:20391, HGNC:26270, HGNC:42435	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:11521, HGNC:3179	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:17178, HGNC:3604, HGNC:7894	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:11517, HGNC:2705	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:14632, HGNC:16421, HGNC:26076, HGNC:3604, HGNC:7154	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:13841, HGNC:42435, HGNC:9454	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:1434, HGNC:3522, HGNC:8831	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:14940, HGNC:2355, HGNC:7945	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:12693, HGNC:1951, HGNC:3763	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:15478	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000956	cerebral cortex	cerebral cortex	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:10640, HGNC:10725, HGNC:19266, HGNC:41081	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0000988	pons	pons	CL:0000540	neuron	neuron	HGNC:11051, HGNC:52588, HGNC:7000	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000988	pons	pons	CL:0000540	neuron	neuron	HGNC:19087, HGNC:19090, HGNC:49024	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000988	pons	pons	CL:0000540	neuron	neuron	HGNC:14222, HGNC:27405, HGNC:52588	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000988	pons	pons	CL:0000540	neuron	neuron	HGNC:4525, HGNC:52588, HGNC:6481	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0000988	pons	pons	CL:0000540	neuron	neuron	HGNC:11051, HGNC:19090, HGNC:8518	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001250	red pulp of spleen	Red Pulp	CL:2000053	splenic endothelial cell	Splenic endothelial cell	HGNC:11784, HGNC:12726, HGNC:1662, HGNC:1662, HGNC:1706, HGNC:8823, HGNC:8823	DOI:10.1007/s00418-007-0320-8|DOI:10.1016/j.aanat.2019.05.004|DOI10.1182/bloodadvances.2017015073	Spleen
+UBERON:0001250	red pulp of spleen	Red Pulp	CL:2000053	splenic endothelial cell	Splenic endothelial cell	HGNC:12663, HGNC:12726, HGNC:12726, HGNC:1662, HGNC:1662, HGNC:8823, HGNC:8823	DOI:10.1017/CBO9780511545979|DOI10.1182/bloodadvances.2017015073	Spleen
+UBERON:0001250	red pulp of spleen	Red Pulp	CL:2000053	splenic endothelial cell	Splenic endothelial cell	HGNC:11784, HGNC:12726, HGNC:1662, HGNC:1662, HGNC:8823	DOI:10.1007/s00418-007-0320-8|DOI10.1182/bloodadvances.2017015073	Spleen
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	CL:1000308	fibrocyte of adventitia of ureter	fibroblast	HGNC:1346, HGNC:2705, HGNC:3011		multi_loc
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	CL:1000308	fibrocyte of adventitia of ureter	fibroblast	HGNC:21245, HGNC:2705, HGNC:29673		multi_loc
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	CL:1000708	ureter adventitial cell	smooth muscle	HGNC:130, HGNC:1663, HGNC:895		Ureter
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	CL:1000708	ureter adventitial cell	smooth muscle	HGNC:130, HGNC:281, HGNC:6934		Ureter
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	CL:1000708	ureter adventitial cell	endothelium	HGNC:10718, HGNC:2047, HGNC:8823		Ureter
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	CL:1000708	ureter adventitial cell	fibroblast	HGNC:11092, HGNC:20396, HGNC:613		Ureter
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	CL:1000708	ureter adventitial cell	myofibroblast	HGNC:11373, HGNC:5318, HGNC:7035		Ureter
+UBERON:0001254	urothelium of ureter	urothelium of ureter	CL:1001428	ureter urothelial cell	urothelium	HGNC:10492, HGNC:2891, HGNC:6442		multi_loc
+UBERON:0001254	urothelium of ureter	urothelium of ureter	CL:1001428	ureter urothelial cell	urothelium	HGNC:12577, HGNC:12578, HGNC:12580		multi_loc
+UBERON:0001254	urothelium of ureter	urothelium of ureter	CL:1001428	ureter urothelial cell	urothelium	HGNC:15979, HGNC:384, HGNC:6415		multi_loc
+UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	CL:1001319	bladder cell	myofibroblast	HGNC:11373, HGNC:5318, HGNC:7035		multi_loc
+UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	CL:1001319	bladder cell	fibroblast	HGNC:21245, HGNC:2705, HGNC:29673		multi_loc
+UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	CL:1001319	bladder cell	fibroblast	HGNC:1346, HGNC:2705, HGNC:3011		multi_loc
+UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	CL:1001319	bladder cell	fibroblast	HGNC:11092, HGNC:20396, HGNC:613		multi_loc
+UBERON:0001282	intralobular bile duct	Canals of Hering	CL:0002196	Hepatic oval stem cell	hepatic oval cell 	HGNC:11801, HGNC:6342	|DOI:10.1136/gut.2007.143321|DOI:10.1053/gast.2001.21175	multi_loc
+UBERON:0001282	intralobular bile duct	Canals of Hering	CL:0002196	Hepatic oval stem cell	hepatic progenitor cell	HGNC:11204, HGNC:11529, HGNC:4504, HGNC:8148, HGNC:9454	DOI:10.1038/nature11826|DOI:10.1634/stemcells.2007-0176|DOI:10.1038/ng.722|DOI:10.1053/j.gastro.2012.08.024	multi_loc
+UBERON:0001289	descending limb of loop of Henle	Loop of Henle (Thin Limb)	CL:4030013	kidney loop of Henle long descending thin limb outer medulla epithelial cell	Descending Thin Limb Cell Type 2	HGNC:11073, HGNC:11530, HGNC:20862, HGNC:2389, HGNC:633, HGNC:633		Kidney
+UBERON:0001289	descending limb of loop of Henle	Loop of Henle (Thin Limb)	CL:4030013	kidney loop of Henle long descending thin limb outer medulla epithelial cell	Descending Thin Limb Cell Type 2	HGNC:11073, HGNC:11530, HGNC:16438, HGNC:20862, HGNC:2389, HGNC:633, HGNC:633	DOI:10.1101/2021.07.28.454201|DOI:10.1016/j.devcel.2019.10.005|DOI:10.1038/s41467-019-10861-2|DOI:10.1681/ASN.2020010071|DOI:10.1152/ajprenal.2000.278.1.F52|PMID:31689386	Kidney
+UBERON:0001291	thick ascending limb of loop of Henle	Loop of Henle (Thick Limb/Medulla)	CL:1001108	kidney loop of Henle medullary thick ascending limb epithelial cell	Medullary Thick Ascending Limb Cell	HGNC:10910, HGNC:12559, HGNC:1514		multi_loc
+UBERON:0001291	thick ascending limb of loop of Henle	Loop of Henle (Thick Limb/Medulla)	CL:1001108	kidney loop of Henle medullary thick ascending limb epithelial cell	Medullary Thick Ascending Limb Cell	HGNC:10910, HGNC:12559, HGNC:12559, HGNC:1514, HGNC:1748, HGNC:1748, HGNC:799, HGNC:799, HGNC:9459, HGNC:9858	DOI:10.1038/s41467-019-10861-2|DOI:10.1016/j.devcel.2019.10.005|DOI:10.1038/s41467-019-10861-2|DOI:10.1172/jci.insight.133267|DOI:10.1681/ASN.2020010071|PMID:31249312|PMCID:PMC6597610|PMID:31689386	Kidney
+UBERON:0001473	lymphatic vessel	Lymphatic Vessels	CL:0002138	endothelial cell of lymphatic vessel	Endothelial Cell of Lymphatic Vessel	HGNC:11924, HGNC:14687, HGNC:1527, HGNC:1527, HGNC:1611, HGNC:1611, HGNC:29602, HGNC:6895, HGNC:7035, HGNC:8021, HGNC:8021, HGNC:8051, HGNC:8514, HGNC:8823, HGNC:9459, HGNC:9666	DOI:10.3389/fcvm.2020.00052|DOI:10.1016/j.immuni.2019.06.027|XiangM,GrossoRA,TakedaA,PanJ,BekkhusT,BruloisK,DermadiD,NordlingS,VanlandewijckM,JalkanenS,UlvmarMH,ButcherEC|ASingle-CellTranscriptionalRoadmapoftheMouseandHumanLymphNodeLymphaticVasculature|FrontCardiovascMed|2020Apr30;7:52|doi:10|3389/fcvm|2020|00052|PMID:32426372;PMCID:PMC7204639||TakedaA,Hollm√©nM,DermadiD,PanJ,BruloisKF,KaukonenR,L√∂nnbergT,Bostr√∂mP,KoskivuoI,IrjalaH,MiyasakaM,SalmiM,ButcherEC,JalkanenS|Single-CellSurveyofHumanLymphaticsUnveilsMarkedEndothelialCellHeterogeneityandMechanismsofHomingforNeutrophils|Immunity|2019Sep17;513:561-572|e5|doi:10|1016/j|immuni|2019|06|027|Epub2019Aug8|PMID:31402260|	multi_loc
+UBERON:0001473	lymphatic vessel	Lymphatic Vessels	CL:0002138	endothelial cell of lymphatic vessel	Lymphatic Endothelium Cell	HGNC:12726, HGNC:14687, HGNC:29602, HGNC:29602, HGNC:8823, HGNC:9459	DOI:10.1369/jhc.4A6514.2005|NoDOI|GarrafaE,TraininiL,BenettiA,SabaE,FezzardiL,LorussoB,BorghettiP,BottioT,CeriE,PortolaniN,BonardlliS,GiuliniSM,AnnibaleG,CorradiA,ImbertiL,CarusoA|Isolation,purification,andheterogeneityofhumanlymphaticendothelialcellsfromdifferenttissues|Lymphology|2005Dec;38(4):159-66|PMID:16515224|	multi_loc
+UBERON:0001891	midbrain	midbrain (mesencephalon)	CL:0000540	neuron	neuron	HGNC:19087, HGNC:4172, HGNC:49642, HGNC:6593	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001891	midbrain	midbrain (mesencephalon)	CL:0000540	neuron	neuron	HGNC:21357, HGNC:8138	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001891	midbrain	midbrain (mesencephalon)	CL:0000540	neuron	neuron	HGNC:11049	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001891	midbrain	midbrain (mesencephalon)	CL:0000540	neuron	neuron	HGNC:11517, HGNC:11641, HGNC:9446	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001891	midbrain	midbrain (mesencephalon)	CL:0000540	neuron	neuron	HGNC:17245, HGNC:23631, HGNC:30988	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001891	midbrain	midbrain (mesencephalon)	CL:0000540	neuron	neuron	HGNC:19087, HGNC:19090, HGNC:4504, HGNC:6551	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001891	midbrain	midbrain (mesencephalon)	CL:0000540	neuron	neuron	HGNC:15581, HGNC:20779	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001891	midbrain	midbrain (mesencephalon)	CL:0000540	neuron	neuron	HGNC:11743, HGNC:3341, HGNC:6551	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001891	midbrain	midbrain (mesencephalon)	CL:0000540	neuron	neuron	HGNC:11743, HGNC:21587, HGNC:4172, HGNC:4579, HGNC:777	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001891	midbrain	midbrain (mesencephalon)	CL:0000540	neuron	neuron	HGNC:11743, HGNC:43906, HGNC:6551	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001891	midbrain	midbrain (mesencephalon)	CL:0000540	neuron	neuron	HGNC:20779, HGNC:6551, HGNC:8522	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001891	midbrain	midbrain (mesencephalon)	CL:0000540	neuron	neuron	HGNC:11743, HGNC:14222	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001896	medulla oblongata	medulla oblongata	CL:0000540	neuron	neuron	HGNC:3969, HGNC:5137	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001896	medulla oblongata	medulla oblongata	CL:0000540	neuron	neuron	HGNC:19090, HGNC:26002, HGNC:5114	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001896	medulla oblongata	medulla oblongata	CL:0000540	neuron	neuron	HGNC:11743, HGNC:25552, HGNC:7001	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001896	medulla oblongata	medulla oblongata	CL:0000540	neuron	neuron	HGNC:11528, HGNC:5114, HGNC:7981	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001896	medulla oblongata	medulla oblongata	CL:0000540	neuron	neuron	HGNC:20660, HGNC:5137	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001896	medulla oblongata	medulla oblongata	CL:0000540	neuron	neuron	HGNC:19087, HGNC:5114, HGNC:8616	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001896	medulla oblongata	medulla oblongata	CL:0000540	neuron	neuron	HGNC:10527, HGNC:5137	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001896	medulla oblongata	medulla oblongata	CL:0000540	neuron	neuron	HGNC:11051, HGNC:12405, HGNC:14632, HGNC:5295	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001896	medulla oblongata	medulla oblongata	CL:0000540	neuron	neuron	HGNC:6136, HGNC:6654	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:0000540	neuron	neuron	HGNC:10259, HGNC:16973, HGNC:8778	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:0000540	neuron	neuron	HGNC:11602, HGNC:8910	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:0000540	neuron	neuron	HGNC:1751, HGNC:18695, HGNC:30620	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:0000540	neuron	neuron	HGNC:644, HGNC:6653	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:0000540	neuron	neuron	HGNC:22788	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:0000540	neuron	neuron	HGNC:2907, HGNC:6132, HGNC:8518	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:0000540	neuron	neuron	HGNC:10882, HGNC:8518	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:0000540	neuron	neuron	HGNC:10882, HGNC:9005	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:0000540	neuron	neuron	HGNC:6132, HGNC:6551	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:4023074	mammillary body neuron	mammillary body neuron	HGNC:10882, HGNC:13604, HGNC:53062, HGNC:9446	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:4023074	mammillary body neuron	mammillary body neuron	HGNC:10882, HGNC:28572, HGNC:7596, HGNC:8139	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:4023074	mammillary body neuron	mammillary body neuron	HGNC:10725, HGNC:9005	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:4023074	mammillary body neuron	mammillary body neuron	HGNC:23319, HGNC:9005	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:4023074	mammillary body neuron	mammillary body neuron	HGNC:10882, HGNC:1663, HGNC:6714	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:4023074	mammillary body neuron	mammillary body neuron	HGNC:11517	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:4023074	mammillary body neuron	mammillary body neuron	HGNC:11517, HGNC:39988, HGNC:42742	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:4023074	mammillary body neuron	mammillary body neuron	HGNC:3969, HGNC:42742	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:4023074	mammillary body neuron	mammillary body neuron	HGNC:21591, HGNC:42742	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0001898	hypothalamus	hypothalamus	CL:4023074	mammillary body neuron	mammillary body neuron	HGNC:28554, HGNC:42742	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0001898	hypothalamus	hypothalamus	CL:4023074	mammillary body neuron	mammillary body neuron	HGNC:10882, HGNC:2356, HGNC:9005	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	CL:0000815	regulatory T cell	T Regulatory Cell	HGNC:1608, HGNC:1674, HGNC:1678, HGNC:6008, HGNC:6008, HGNC:6024, HGNC:6106, HGNC:6106, HGNC:9666	DOI:10.1016/j.immuni.2012.09.020|DOI:10.1007/s00262-015-1729-x|DOI:10.1186/s13059-019-1906-x	Spleen
+UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	CL:0000815	regulatory T cell	T Regulatory Cell	HGNC:1608, HGNC:6008, HGNC:6106	DOI:10.1016/j.immuni.2012.09.020|DOI:10.1007/s00262-015-1729-x|DOI:10.1186/s13059-019-1906-x	Spleen
+UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	CL:0000235	macrophage	macrophage	HGNC:1631, HGNC:1631, HGNC:1693, HGNC:1693, HGNC:1697, HGNC:1697, HGNC:6149, HGNC:6149, HGNC:7228, HGNC:7228	DOI:10.1007/978-1-4939-0897-4_3|PMID:24997029	Large_intestine
+UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	CL:0000235	macrophage	macrophage	HGNC:1673, HGNC:1673, HGNC:1678, HGNC:1678	NoDOI	Large_intestine
+UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	CL:0000236	B cell	B cell	HGNC:4502, HGNC:4502, HGNC:6149, HGNC:6149	NoDOI	Large_intestine
+UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	CL:0000236	B cell	B cell	HGNC:1633, HGNC:1633, HGNC:1698, HGNC:1698	NoDOI	Large_intestine
+UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	CL:0000545	T-helper 1 cell	T helper	HGNC:1673, HGNC:1673, HGNC:1678, HGNC:1678	NoDOI	multi_loc
+UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	CL:0000545	T-helper 1 cell	T helper	HGNC:1673, HGNC:1673, HGNC:1706, HGNC:1706	NoDOI	Large_intestine
+UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	CL:0000815	regulatory T cell	T reg	HGNC:1633, HGNC:1633, HGNC:1698, HGNC:1698	NoDOI	Large_intestine
+UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	CL:0000815	regulatory T cell	T reg	HGNC:1673, HGNC:1673, HGNC:1678, HGNC:1678, HGNC:6106, HGNC:6106	NoDOI	Large_intestine
+UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	CL:0000910	cytotoxic T cell	T killer	HGNC:1673, HGNC:1673, HGNC:1706, HGNC:1706	NoDOI	multi_loc
+UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	CL:0000910	cytotoxic T cell	T killer	HGNC:1673, HGNC:1673, HGNC:1678, HGNC:1678, HGNC:6106, HGNC:6106	NoDOI	multi_loc
+UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	CL:0009018	macrophage	CD8+ T cell	HGNC:1639, HGNC:1639, HGNC:1673, HGNC:1673, HGNC:1676, HGNC:1676, HGNC:1685, HGNC:1685, HGNC:1695, HGNC:1695, HGNC:1706, HGNC:1706	DOI:10.1016/j.immuni.2020.02.001|PMID:32160523PMCID:PMC7155934	Large_intestine
+UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	CL:0009018	lymphocyte of large intestine lamina propria	NK cell	HGNC:1695, HGNC:18788, HGNC:18788, HGNC:6152, HGNC:6152, HGNC:7656, HGNC:7656, HGNC:921	DOI:10.1016/j.immuni.2020.02.001|PMID:32160523PMCID:PMC7155934	multi_loc
+UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	HGNC:1678, HGNC:1678, HGNC:6008, HGNC:6008, HGNC:6106, HGNC:6106	DOI:10.1016/j.immuni.2020.02.001|PMID:32160523PMCID:PMC7155934	multi_loc
+UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	CL:0009018	lymphocyte of large intestine lamina propria	B cell	HGNC:1633, HGNC:1633, HGNC:1698, HGNC:1698, HGNC:2336, HGNC:2336, HGNC:7315, HGNC:7315	DOI:10.1016/j.immuni.2020.02.001|PMID:32160523PMCID:PMC7155934	Large_intestine
+UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	HGNC:1639, HGNC:1639, HGNC:1673, HGNC:1673, HGNC:1676, HGNC:1676, HGNC:1678, HGNC:1678, HGNC:1685, HGNC:1685, HGNC:1695, HGNC:1695	DOI:10.1016/j.immuni.2020.02.001|PMID:32160523PMCID:PMC7155934	multi_loc
+UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	CL:0009018	lymphocyte of large intestine lamina propria	innate lymphoid cell	HGNC:6024, HGNC:6024, HGNC:6342, HGNC:6342, HGNC:6373, HGNC:6373	DOI:10.1016/j.immuni.2020.02.001|PMID:32160523PMCID:PMC7155934	multi_loc
+UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	HGNC:1639, HGNC:1639, HGNC:1676, HGNC:1676, HGNC:1678, HGNC:1678, HGNC:1685, HGNC:1685, HGNC:1695, HGNC:1695	DOI:10.1007/978-1-4939-0897-4_3|PMID:24997029	multi_loc
+UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	CL:0009018	lymphocyte of large intestine lamina propria	NK cell	HGNC:18788, HGNC:18788, HGNC:6152, HGNC:6152, HGNC:7656, HGNC:7656, HGNC:921, HGNC:921	DOI:10.1016/j.immuni.2020.02.001|PMID:32160523PMCID:PMC7155934	multi_loc
+UBERON:0002037	cerebellum	cerebellum	CL:4023057	cerebellar inhibitory GABAergic interneuron	cerebellar inhibitory	HGNC:28751	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0002037	cerebellum	cerebellum	CL:4023057	cerebellar inhibitory GABAergic interneuron	cerebellar inhibitory	HGNC:16941	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0002037	cerebellum	cerebellum	CL:4023057	cerebellar inhibitory GABAergic interneuron	cerebellar inhibitory	HGNC:16941, HGNC:33609, HGNC:9674	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0002371	Bone marrow	Bone marrow	CL:0000764	erythroid lineage cell	early erythroid	HGNC:11529, HGNC:11763, HGNC:1663, HGNC:1663, HGNC:31397, HGNC:3349, HGNC:4170, HGNC:4702, HGNC:607, HGNC:6251, HGNC:6342, HGNC:6345, HGNC:7553, HGNC:9666	DOI:10.1371/journal.pone.0162209	multi_loc
+UBERON:0002371	Bone marrow	Bone marrow	CL:0000764	erythroid lineage cell	mid erythroid	HGNC:10006, HGNC:10008, HGNC:11272, HGNC:11763, HGNC:1663, HGNC:1663, HGNC:21256, HGNC:3349, HGNC:4702, HGNC:6342, HGNC:6345, HGNC:9666		multi_loc
+UBERON:0002371	Bone marrow	Bone marrow	CL:0000764	erythroid lineage cell	late erythroid	HGNC:1093, HGNC:11763, HGNC:1663, HGNC:19911, HGNC:24040, HGNC:3349, HGNC:397, HGNC:4702, HGNC:4824, HGNC:4827, HGNC:4831, HGNC:6342, HGNC:9666		multi_loc
+UBERON:0002371	Bone marrow	Bone marrow	CL:0000897	CD4-positive, alpha-beta memory T cell	CD4 T cell memory	HGNC:12029, HGNC:1608, HGNC:1673, HGNC:1674, HGNC:1678, HGNC:1706, HGNC:2360, HGNC:26974, HGNC:4054, HGNC:537, HGNC:6563, HGNC:9666		Bone-Marrow
+UBERON:0002371	Bone marrow	Bone marrow	CL:0000897	CD4-positive, alpha-beta memory T cell	CD4 T cell memory	HGNC:11362, HGNC:11892, HGNC:12029, HGNC:12729, HGNC:1608, HGNC:1673, HGNC:1674, HGNC:1678, HGNC:1706, HGNC:19129, HGNC:19383, HGNC:6001, HGNC:6015, HGNC:6817, HGNC:7849, HGNC:8109, HGNC:9666, HGNC:9721		Bone-Marrow
+UBERON:0002371	Bone marrow	Bone marrow	CL:0000990	conventional dendritic cell	dendritic cell type 2	HGNC:11784, HGNC:1628, HGNC:1633, HGNC:1636, HGNC:1636, HGNC:1674, HGNC:16916, HGNC:3609, HGNC:3618, HGNC:3619, HGNC:4940, HGNC:4943, HGNC:6012, HGNC:6152, HGNC:7656	DOI:10.1016/j.immuni.2017.04.019	multi_loc
+UBERON:0002371	Bone marrow	Bone marrow	CL:0000990	conventional dendritic cell	dendritic cell type 1	HGNC:11784, HGNC:1625, HGNC:1628, HGNC:1633, HGNC:1636, HGNC:1674, HGNC:26705, HGNC:3619, HGNC:5951, HGNC:6012, HGNC:6152, HGNC:7656	DOI:10.3109/10428194.2013.781167	Bone-Marrow
+UBERON:0002444	lens Fiber	lens Fiber	CL:0011004	lens fiber cell	lens fiber cell	HGNC:12692	DOI:10.1167/iovs.15-18117	Eye
+UBERON:0002444	lens fiber	lens Fibers	CL:0011004	lens fiber cell	lens fiber cell	HGNC:7103		multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:13600, HGNC:14454, HGNC:20391, HGNC:37219	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0002600	limbic lobe	limbic lobe	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:16953, HGNC:22128, HGNC:31401	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	HGNC:27823, HGNC:8038	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	HGNC:20821, HGNC:2210	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	HGNC:27823	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	HGNC:14454, HGNC:6140	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	HGNC:6140	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	HGNC:20821, HGNC:29426, HGNC:50507, HGNC:52895	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	HGNC:8038	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	HGNC:20303, HGNC:2210	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	HGNC:14638, HGNC:49076	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	HGNC:50507	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	HGNC:21184, HGNC:2210, HGNC:50507	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	HGNC:11963	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023061	hippocampal CA4 neuron	hippocampal CA4 neuron	HGNC:18695, HGNC:8038	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023061	hippocampal CA4 neuron	hippocampal CA4 neuron	HGNC:13542, HGNC:1514, HGNC:6140	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023061	hippocampal CA4 neuron	hippocampal CA4 neuron	HGNC:10327, HGNC:24961	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023061	hippocampal CA4 neuron	hippocampal CA4 neuron	HGNC:14866, HGNC:2210, HGNC:27405, HGNC:6140	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023061	hippocampal CA4 neuron	hippocampal CA4 neuron	HGNC:25396, HGNC:4893	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023061	hippocampal CA4 neuron	hippocampal CA4 neuron	HGNC:53062	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023061	hippocampal CA4 neuron	hippocampal CA4 neuron	HGNC:53062, HGNC:6140	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023061	hippocampal CA4 neuron	hippocampal CA4 neuron	HGNC:14866, HGNC:16941, HGNC:25588, HGNC:45056	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023062	dentate gyrus neuron	hippocampal dentate gyrus neuron	HGNC:18695, HGNC:53147	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023062	dentate gyrus neuron	hippocampal dentate gyrus neuron	HGNC:16953	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023062	dentate gyrus neuron	hippocampal dentate gyrus neuron	HGNC:12405, HGNC:277	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023062	dentate gyrus neuron	hippocampal dentate gyrus neuron	HGNC:25588	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023062	dentate gyrus neuron	hippocampal dentate gyrus neuron	HGNC:1955, HGNC:32411	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002600	limbic lobe	limbic lobe	CL:4023062	dentate gyrus neuron	hippocampal dentate gyrus neuron	HGNC:12405, HGNC:43436, HGNC:49076	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002743	basal forebrain	basal forebrain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:26299, HGNC:3020, HGNC:52997	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0002743	basal forebrain	basal forebrain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:52997, HGNC:54353	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002743	basal forebrain	basal forebrain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:8831	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002743	basal forebrain	basal forebrain	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	HGNC:11517, HGNC:4243, HGNC:8831	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002743	basal forebrain	basal forebrain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:3023, HGNC:50645, HGNC:7154	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0002743	basal forebrain	basal forebrain	CL:4023073	choroid plexus cell	choroid plexus cell	HGNC:356, HGNC:9211	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0002743	basal forebrain	basal forebrain	CL:4023073	choroid plexus cell	choroid plexus cell	HGNC:5196	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0002743	basal forebrain	basal forebrain	CL:4023073	choroid plexus cell	choroid plexus cell	HGNC:18083, HGNC:34, HGNC:9211	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0004203	cortical collecting duct	Collecting Duct (Cortex)	CL:1000714	kidney cortex collecting duct principal cell	Cortical Collecting Duct Principal Cell	HGNC:10602, HGNC:4028, HGNC:4172, HGNC:634, HGNC:634, HGNC:636	DOI:10.1038/s41467-019-10861-2|DOI:10.1016/j.devcel.2019.10.005|DOI:10.1172/jci.insight.133267|PMID:31249312|PMCID:PMC6597610|PMID:31689386	Kidney
+UBERON:0004203	cortical collecting duct	Collecting Duct (Cortex)	CL:1000714	kidney cortex collecting duct principal cell	Cortical Collecting Duct Principal Cell	HGNC:634, HGNC:634, HGNC:636		Kidney
+UBERON:0004203	cortical collecting duct	Collecting Duct (Cortex)	CL:1000715	kidney cortex collecting duct intercalated cell	Cortical Collecting Duct Intercalated Cell Type A	HGNC:11027, HGNC:14467, HGNC:6342, HGNC:639	DOI:10.1038/s41467-019-10861-2|DOI:10.1016/j.devcel.2019.10.005|DOI:10.1038/s41467-019-10861-2|DOI:10.1172/jci.insight.133267|PMID:31249312|PMCID:PMC6597610|PMID:31689386	Kidney
+UBERON:0004203	cortical collecting duct	Collecting Duct	CL:1000715	kidney cortex collecting duct intercalated cell	Cortical Collecting Duct Intercalated Cell Type B	HGNC:11035, HGNC:8818	DOI:10.1038/s41467-019-10861-2|DOI:10.1016/j.devcel.2019.10.005|DOI:10.1038/s41467-019-10861-2|DOI:10.1172/jci.insight.133267|DOI:10.1126/science.aat1699|PMID:31249312|PMCID:PMC6597610|PMID:31689386	Kidney
+UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	CL:1001428	bladder urothelial cell	urothelium	HGNC:12578, HGNC:12580, HGNC:40603		multi_loc
+UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	CL:1001428	bladder urothelial cell	urothelium	HGNC:15979, HGNC:384, HGNC:6415		multi_loc
+UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	CL:1001428	bladder urothelial cell	urothelium	HGNC:10492, HGNC:2891, HGNC:6442		multi_loc
+UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	CL:4033008	vein endothelial cell of respiratory system	vein endothelial cell of respiratory system	HGNC:12726, HGNC:16041, HGNC:19832, HGNC:2047, HGNC:30552, HGNC:35454, HGNC:4035, HGNC:4035, HGNC:7884, HGNC:7976, HGNC:8823	doi:10.1148/93.3.507|doi:10.1136/thx.13.2.110	Lung
+UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	CL:4033008	vein endothelial cell of respiratory system	vein endothelial cell of respiratory system	HGNC:13635, HGNC:19832, HGNC:2047, HGNC:35454, HGNC:4035, HGNC:7884		Lung
+UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	CL:4033008	vein endothelial cell of respiratory system	vein endothelial cell of respiratory system	HGNC:19832, HGNC:2047, HGNC:35454, HGNC:7178, HGNC:7884		multi_loc
+UBERON:0005751	glomerular visceral epithelium	visceral epithelial layer	CL:0000653	podocyte	Podocyte	HGNC:13394, HGNC:7908, HGNC:9171, HGNC:9679		Kidney
+UBERON:0005751	glomerular visceral epithelium	visceral epithelial layer	CL:0000653	podocyte	Podocyte	HGNC:13394, HGNC:13517, HGNC:23319, HGNC:7908, HGNC:9171, HGNC:9171, HGNC:9679	DOI:10.1038/s41467-019-10861-2|DOI:10.1172/jci.insight.133267|DOI:10.1038/s41467-019-10861-2|DOI:10.1038/s41586-020-2941-1|DOI:10.1073/pnas.2005477117|PMID:31249312|PMCID:PMC6597610	Kidney
+UBERON:0005751	glomerular visceral epithelium	visceral epithelial layer	CL:0000653	glomerular visceral epithelial cell	Podocyte	HGNC:13394, HGNC:7908, HGNC:9171, HGNC:9171, HGNC:9679		multi_loc
+UBERON:0008974	apocrine gland	apocrine gland	CL:1000417	myoepithelial cell of sweat gland	myoepithelial	HGNC:130, HGNC:130	NoDOI	multi_loc
+UBERON:0008974	apocrine gland	Apocrine glands	CL:1000417	myoepithelial cell of sweat gland	myoepithelial cell	HGNC:4172, HGNC:8993	|DOI:10.1083/jcb.95.2.580|DOI:10.1046/j.0022-202x.2001.00005.x|DOI:10.1097/DAD.0000000000000306|PMID:6183275|PMID:11764285|PMID:26595821	Skin
+UBERON:0009202	vasa recta descending limb	Descending Vasa Recta	CL:1001285	vasa recta descending limb cell	Descending Vasa Recta Endothelial Cell	HGNC:11853, HGNC:15846, HGNC:222, HGNC:8951		multi_loc
+UBERON:0009202	vasa recta descending limb	Descending Vasa Recta	CL:1001285	vasa recta descending limb cell	Descending Vasa Recta Endothelial Cell	HGNC:11853, HGNC:12559, HGNC:15846, HGNC:222, HGNC:8951		Kidney
+UBERON:0010397	efferent lymphatic vessel	Efferent Lymphatics	CL:0002138	endothelial cell of lymphatic vessel	Lymphatic Endothelial Cell	HGNC:11924, HGNC:14687, HGNC:1527, HGNC:1527, HGNC:1611, HGNC:1611, HGNC:29602, HGNC:6895, HGNC:7035, HGNC:8021, HGNC:8021, HGNC:8051, HGNC:8514, HGNC:8823, HGNC:9459, HGNC:9666	DOI:10.3389/fcvm.2020.00052|DOI:10.1016/j.immuni.2019.06.027|XiangM,GrossoRA,TakedaA,PanJ,BekkhusT,BruloisK,DermadiD,NordlingS,VanlandewijckM,JalkanenS,UlvmarMH,ButcherEC|ASingle-CellTranscriptionalRoadmapoftheMouseandHumanLymphNodeLymphaticVasculature|FrontCardiovascMed|2020Apr30;7:52|doi:10|3389/fcvm|2020|00052|PMID:32426372;PMCID:PMC7204639||TakedaA,Hollm√©nM,DermadiD,PanJ,BruloisKF,KaukonenR,L√∂nnbergT,Bostr√∂mP,KoskivuoI,IrjalaH,MiyasakaM,SalmiM,ButcherEC,JalkanenS|Single-CellSurveyofHumanLymphaticsUnveilsMarkedEndothelialCellHeterogeneityandMechanismsofHomingforNeutrophils|Immunity|2019Sep17;513:561-572|e5|doi:10|1016/j|immuni|2019|06|027|Epub2019Aug8|PMID:31402260|	multi_loc
+UBERON:0010397	efferent lymphatic vessel	efferent lymphatic	CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	HGNC:10620, HGNC:10690, HGNC:11757, HGNC:11760, HGNC:14687, HGNC:29612, HGNC:29990, HGNC:3560, HGNC:7178, HGNC:8038, HGNC:9459, HGNC:9459	DOI:10.1126/science.aay3224|DOI:10.1080/01926230600865549|PearseG|Normalstructure,functionandhistologyofthethymus|ToxicolPathol|2006;34(5):504-14|doi:10|1080/01926230600865549|PMID:17067941|	multi_loc
+UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	CL:0002597	smooth muscle cell of bladder	smooth muscle	HGNC:281, HGNC:45169, HGNC:6934		multi_loc
+UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	CL:0002597	smooth muscle cell of bladder	smooth muscle	HGNC:1663, HGNC:45169, HGNC:895		multi_loc
+UBERON:0012271	major duodenal papilla	Major duodenal papilla	CL:0000146	simple columnar epithelial cell	Simple columnar epithelial cell	HGNC:1884, HGNC:6107, HGNC:6436, HGNC:6445		Pancreas
+UBERON:0012271	major duodenal papilla	Major duodenal papilla	CL:0000146	simple columnar epithelial cell	Simple columnar epithelial cell	HGNC:6107, HGNC:6436		Pancreas
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	CL:0002410	pancreatic stellate cell	Pancreatic stellate cell	HGNC:130, HGNC:5129, HGNC:5130, HGNC:6482		multi_loc
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	CL:0002410	pancreatic stellate cell	Pancreatic stellate cell	HGNC:8804		multi_loc
+UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	CL:0000065	ependymal cell	ependymal cell	HGNC:8038	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	CL:0000065	ependymal cell	ependymal cell	HGNC:18651, HGNC:37261, HGNC:42700	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	CL:0000540	neuron	neuron	HGNC:35145	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	CL:0000540	neuron	neuron	HGNC:30209	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	CL:0000540	neuron	neuron	HGNC:37078, HGNC:9143	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	CL:0000540	neuron	neuron	HGNC:11051, HGNC:19087, HGNC:5295, HGNC:8076	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	CL:0000540	neuron	neuron	HGNC:19087, HGNC:19191	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	CL:4023057	cerebellar inhibitory GABAergic interneuron	cerebellar inhibitory	HGNC:16438, HGNC:26256	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	CL:4023057	cerebellar inhibitory GABAergic interneuron	cerebellar inhibitory	HGNC:11051, HGNC:2464, HGNC:9957	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	CL:4023057	cerebellar inhibitory GABAergic interneuron	cerebellar inhibitory	HGNC:11051, HGNC:21184, HGNC:28867	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	CL:4023057	cerebellar inhibitory GABAergic interneuron	cerebellar inhibitory	HGNC:24330	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	CL:4023057	cerebellar inhibitory GABAergic interneuron	cerebellar inhibitory	HGNC:1077, HGNC:11743, HGNC:53587, HGNC:8029	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	CL:4023057	cerebellar inhibitory GABAergic interneuron	cerebellar inhibitory	HGNC:16941, HGNC:20693, HGNC:2464, HGNC:53587	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000402	CNS interneuron	CNS interneuron	HGNC:10640, HGNC:10776, HGNC:1373, HGNC:30620	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000402	CNS interneuron	CNS interneuron	HGNC:16213, HGNC:16938, HGNC:19898	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000402	CNS interneuron	CNS interneuron	HGNC:10776, HGNC:16097, HGNC:25396, HGNC:30620	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000402	CNS interneuron	CNS interneuron	HGNC:9607	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000402	CNS interneuron	CNS interneuron	HGNC:3604, HGNC:40401	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000402	CNS interneuron	CNS interneuron	HGNC:2192, HGNC:2355	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000402	CNS interneuron	CNS interneuron	HGNC:10776, HGNC:13841	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000402	CNS interneuron	CNS interneuron	HGNC:12568, HGNC:24182, HGNC:4587	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:11521, HGNC:18695, HGNC:4324	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:14000, HGNC:25396, HGNC:7603	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:18695, HGNC:5997	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:21735, HGNC:3467, HGNC:44222, HGNC:50687	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:21735, HGNC:2594, HGNC:31700, HGNC:7976	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:14217, HGNC:3467	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:21735, HGNC:3666	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:14025, HGNC:28838	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:894	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:19664, HGNC:9218	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:1544, HGNC:37078, HGNC:9218	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:12873, HGNC:6593, HGNC:687	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:12872, HGNC:8518	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:5019, HGNC:6132, HGNC:687	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:19090, HGNC:23317, HGNC:44222	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000540	neuron	neuron	HGNC:4172, HGNC:5154	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:14632, HGNC:52626	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:2500, HGNC:52467	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:10736, HGNC:19718, HGNC:20391, HGNC:53103	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:3009	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:1527, HGNC:16379, HGNC:20391	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:14265, HGNC:3446, HGNC:5977	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:16379	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0000679	glutamatergic neuron	glutamatergic neuron	HGNC:2500, HGNC:9035	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0012000	astrocyte of the forebrain	astrocyte of the forebrain	HGNC:3690, HGNC:42700, HGNC:43960, HGNC:5318	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0012000	astrocyte of the forebrain	astrocyte of the forebrain	HGNC:18081, HGNC:18374, HGNC:3690	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0012000	astrocyte of the forebrain	astrocyte of the forebrain	HGNC:14404, HGNC:27725, HGNC:42700, HGNC:4319	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0012001	neuron of the forebrain	neuron of the forebrain	HGNC:14454, HGNC:6694	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0012001	neuron of the forebrain	neuron of the forebrain	HGNC:51128, HGNC:52704, HGNC:54138	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0012001	neuron of the forebrain	neuron of the forebrain	HGNC:11191, HGNC:29426, HGNC:44222	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:0012001	neuron of the forebrain	neuron of the forebrain	HGNC:2705, HGNC:4565	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:11353, HGNC:3020, HGNC:49260	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:3020	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:43643, HGNC:8831	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:26299, HGNC:8831	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:32696, HGNC:8831	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:3024, HGNC:7154	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	HGNC:10669, HGNC:1409, HGNC:14632, HGNC:7000, HGNC:9609	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:3020, HGNC:9679	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	HGNC:26002, HGNC:52997, HGNC:6483	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	HGNC:45056, HGNC:4525, HGNC:8139	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:23729, HGNC:6132, HGNC:8569	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	HGNC:11843, HGNC:15813, HGNC:19718, HGNC:26683, HGNC:37203, HGNC:4525	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:3023	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	HGNC:11517, HGNC:16709, HGNC:4243	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	HGNC:10669, HGNC:7000	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	HGNC:10725, HGNC:14632, HGNC:4525, HGNC:7000	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	HGNC:4525, HGNC:8620, HGNC:9446	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	medium spiny neuron	HGNC:4086, HGNC:8831	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	HGNC:11526, HGNC:13875, HGNC:19718, HGNC:427	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:12769	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:19179, HGNC:52626	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:13600, HGNC:13741, HGNC:1544, HGNC:17108	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:21694, HGNC:219, HGNC:26076	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:13542	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:14217, HGNC:9035	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	HGNC:27683, HGNC:53108	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	HGNC:2217, HGNC:23631, HGNC:31401	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	HGNC:16379, HGNC:24665	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	HGNC:5009, HGNC:52844	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	HGNC:16067, HGNC:22128, HGNC:3969	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	HGNC:11528, HGNC:26534, HGNC:41081	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:26534	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:11764, HGNC:13361, HGNC:30367	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:14940, HGNC:26534	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	Amygdala excitatory neuron	HGNC:10593, HGNC:23392, HGNC:44222, HGNC:9609	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:1753, HGNC:19718, HGNC:20779, HGNC:7001, HGNC:9446	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:17318, HGNC:24323, HGNC:6690	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:14222, HGNC:14615	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:18374, HGNC:3372, HGNC:9957	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:16953, HGNC:29426	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:29399, HGNC:4525, HGNC:48724, HGNC:9595	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:18549, HGNC:9595	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:16709, HGNC:16953, HGNC:52626	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:11528, HGNC:21063	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:11764, HGNC:6483	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	HGNC:11528, HGNC:28020, HGNC:4525	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	HGNC:16953	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	HGNC:13542, HGNC:2654, HGNC:50507	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:11329, HGNC:12338, HGNC:2464	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:21591, HGNC:50507, HGNC:6111	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:11329, HGNC:16267, HGNC:8614	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:3604, HGNC:7955	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:11517, HGNC:26373, HGNC:7603	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:11521, HGNC:16231, HGNC:7955	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:6211	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:4893, HGNC:983	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:10723, HGNC:11329, HGNC:16421, HGNC:20754, HGNC:20866	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	HGNC:11329, HGNC:52844, HGNC:6776	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:10257, HGNC:10640, HGNC:1373, HGNC:2355	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:11521	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:3179, HGNC:7945	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:10479, HGNC:12693, HGNC:2355	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:10640, HGNC:11521, HGNC:19179, HGNC:28751	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:6483	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:16941, HGNC:2731	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:3179, HGNC:5297	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:10640, HGNC:26256, HGNC:7843	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:12693, HGNC:8831	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:18081, HGNC:1960, HGNC:2731	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:5196, HGNC:6111	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:12693, HGNC:15985	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:10640, HGNC:19191, HGNC:25396	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023064	caudal ganglionic eminence derived interneuron	CGE interneuron	HGNC:10640, HGNC:14268, HGNC:2500	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:28274, HGNC:49024	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:50526, HGNC:8038, HGNC:9997	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:17797, HGNC:18864	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:21591	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:23503, HGNC:25552, HGNC:26076	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:13826, HGNC:49796	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:18374, HGNC:6173, HGNC:9704	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:1073, HGNC:11641, HGNC:23317, HGNC:53212	DOI:10.1101/2022.10.12.511898	multi_loc
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:3969, HGNC:49471	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:1513, HGNC:16961	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:14605, HGNC:1513	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:1513, HGNC:3180, HGNC:8038	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:3490, HGNC:7679	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:32696	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023068	thalamic excitatory neuron	thalamic excitatory neuron	HGNC:11773, HGNC:18864, HGNC:23317, HGNC:52483	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023079	midbrain-derived inhibitory neuron	midbrain-derived inhibitory neuron	HGNC:1514, HGNC:21641, HGNC:23631	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:0019264	gray matter of forebrain	gray matter of forebrain	CL:4023079	midbrain-derived inhibitory neuron	midbrain-derived inhibitory neuron	HGNC:25723, HGNC:43906, HGNC:53587, HGNC:7941	DOI:10.1101/2022.10.12.511898	Brain
+UBERON:8410041	venule of lymph node	Venule	CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	HGNC:10612, HGNC:11220, HGNC:13635, HGNC:14686, HGNC:1527, HGNC:16041, HGNC:1641, HGNC:1662, HGNC:1662, HGNC:1697, HGNC:17474, HGNC:1764, HGNC:29602, HGNC:30455, HGNC:3763, HGNC:4035, HGNC:4938, HGNC:4940, HGNC:4947, HGNC:4948, HGNC:5344, HGNC:6895, HGNC:8823, HGNC:8823, HGNC:9459, HGNC:9707	DOI:10.1371/journal.pone.0094781|DOI:10.1369/jhc.4A6514.2005|ParkSM,AngelCE,McIntoshJD,MansellC,ChenCJ,CebonJ,DunbarPR|Mappingthedistinctivepopulationsoflymphaticendothelialcellsindifferentzonesofhumanlymphnodes|PLoSOne|2014Apr14;94:e94781|doi:10|1371/journal|pone|0094781|Erratumin:PLoSOne|2014;98:e106814|Mansell,ClaudiaM[correctedtoMansell,ClaudiaJ]|PMID:24733110;PMCID:PMC3986404||PusztaszeriMP,SeelentagW,BosmanFT|ImmunohistochemicalexpressionofendothelialmarkersCD31,CD34,vonWillebrandfactor,andFli-1innormalhumantissues|JHistochemCytochem|2006Apr;544:385-95|doi:10|1369/jhc|4A6514|2005|Epub2005Oct18|PMID:16234507|	Lymph_node
+UBERON:8410041	venule of lymph node	Venule	CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	HGNC:10612, HGNC:11220, HGNC:13635, HGNC:14686, HGNC:1527, HGNC:16041, HGNC:1641, HGNC:1662, HGNC:1662, HGNC:1689, HGNC:1697, HGNC:17474, HGNC:1764, HGNC:29602, HGNC:30455, HGNC:3349, HGNC:4035, HGNC:4938, HGNC:4940, HGNC:4947, HGNC:4948, HGNC:5344, HGNC:6895, HGNC:8823, HGNC:9459, HGNC:9707	DOI:10.1371/journal.pone.0094781|DOI:10.1369/jhc.4A6514.2005|NoDOI|ParkSM,AngelCE,McIntoshJD,MansellC,ChenCJ,CebonJ,DunbarPR|Mappingthedistinctivepopulationsoflymphaticendothelialcellsindifferentzonesofhumanlymphnodes|PLoSOne|2014Apr14;94:e94781|doi:10|1371/journal|pone|0094781|Erratumin:PLoSOne|2014;98:e106814|Mansell,ClaudiaM[correctedtoMansell,ClaudiaJ]|PMID:24733110;PMCID:PMC3986404||PusztaszeriMP,SeelentagW,BosmanFT|ImmunohistochemicalexpressionofendothelialmarkersCD31,CD34,vonWillebrandfactor,andFli-1innormalhumantissues|JHistochemCytochem|2006Apr;544:385-95|doi:10|1369/jhc|4A6514|2005|Epub2005Oct18|PMID:16234507|	multi_loc
+UBERON:8410042	arteriole of lymph node	Arteriole	CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	HGNC:10612, HGNC:11220, HGNC:13635, HGNC:14686, HGNC:1527, HGNC:16041, HGNC:1641, HGNC:1662, HGNC:1662, HGNC:1697, HGNC:17474, HGNC:1764, HGNC:29602, HGNC:30455, HGNC:3349, HGNC:3763, HGNC:4035, HGNC:4938, HGNC:4940, HGNC:4947, HGNC:4948, HGNC:5344, HGNC:6895, HGNC:8823, HGNC:9459, HGNC:9707	DOI:10.1371/journal.pone.0094781|DOI:10.1369/jhc.4A6514.2005|ParkSM,AngelCE,McIntoshJD,MansellC,ChenCJ,CebonJ,DunbarPR|Mappingthedistinctivepopulationsoflymphaticendothelialcellsindifferentzonesofhumanlymphnodes|PLoSOne|2014Apr14;94:e94781|doi:10|1371/journal|pone|0094781|Erratumin:PLoSOne|2014;98:e106814|Mansell,ClaudiaM[correctedtoMansell,ClaudiaJ]|PMID:24733110;PMCID:PMC3986404||PusztaszeriMP,SeelentagW,BosmanFT|ImmunohistochemicalexpressionofendothelialmarkersCD31,CD34,vonWillebrandfactor,andFli-1innormalhumantissues|JHistochemCytochem|2006Apr;544:385-95|doi:10|1369/jhc|4A6514|2005|Epub2005Oct18|PMID:16234507|	Lymph_node
+UBERON:8410042	arteriole of lymph node	Arteriole	CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	HGNC:10612, HGNC:11220, HGNC:13635, HGNC:14686, HGNC:1527, HGNC:16041, HGNC:1641, HGNC:1662, HGNC:1662, HGNC:1689, HGNC:1697, HGNC:17474, HGNC:1764, HGNC:29602, HGNC:30455, HGNC:3349, HGNC:4035, HGNC:4938, HGNC:4940, HGNC:4947, HGNC:4948, HGNC:5344, HGNC:6895, HGNC:8823, HGNC:9459, HGNC:9707	DOI:10.1371/journal.pone.0094781|DOI:10.1369/jhc.4A6514.2005|NoDOI|ParkSM,AngelCE,McIntoshJD,MansellC,ChenCJ,CebonJ,DunbarPR|Mappingthedistinctivepopulationsoflymphaticendothelialcellsindifferentzonesofhumanlymphnodes|PLoSOne|2014Apr14;94:e94781|doi:10|1371/journal|pone|0094781|Erratumin:PLoSOne|2014;98:e106814|Mansell,ClaudiaM[correctedtoMansell,ClaudiaJ]|PMID:24733110;PMCID:PMC3986404||PusztaszeriMP,SeelentagW,BosmanFT|ImmunohistochemicalexpressionofendothelialmarkersCD31,CD34,vonWillebrandfactor,andFli-1innormalhumantissues|JHistochemCytochem|2006Apr;544:385-95|doi:10|1369/jhc|4A6514|2005|Epub2005Oct18|PMID:16234507|	multi_loc
+UBERON:8410042	arteriole of lymph node	Arteriole	CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	HGNC:10612, HGNC:11220, HGNC:13635, HGNC:14686, HGNC:1527, HGNC:16041, HGNC:1641, HGNC:1662, HGNC:1662, HGNC:1697, HGNC:17474, HGNC:30455, HGNC:4035, HGNC:4938, HGNC:4940, HGNC:4947, HGNC:4948, HGNC:5344, HGNC:6895, HGNC:8823, HGNC:9707	DOI:10.1369/jhc.4A6514.2005|PusztaszeriMP,SeelentagW,BosmanFT|ImmunohistochemicalexpressionofendothelialmarkersCD31,CD34,vonWillebrandfactor,andFli-1innormalhumantissues|JHistochemCytochem|2006Apr;544:385-95|doi:10|1369/jhc|4A6514|2005|Epub2005Oct18|PMID:16234507|	Lymph_node
+UBERON:8410042	arteriole of lymph node	Arteriole	CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	HGNC:10612, HGNC:11220, HGNC:13635, HGNC:14686, HGNC:1527, HGNC:16041, HGNC:1641, HGNC:1662, HGNC:1662, HGNC:1697, HGNC:17474, HGNC:1764, HGNC:29602, HGNC:30455, HGNC:3349, HGNC:4035, HGNC:4938, HGNC:4940, HGNC:4947, HGNC:4948, HGNC:5344, HGNC:6895, HGNC:8823, HGNC:9459, HGNC:9707	DOI:10.1371/journal.pone.0094781|DOI:10.1369/jhc.4A6514.2005|ParkSM,AngelCE,McIntoshJD,MansellC,ChenCJ,CebonJ,DunbarPR|Mappingthedistinctivepopulationsoflymphaticendothelialcellsindifferentzonesofhumanlymphnodes|PLoSOne|2014Apr14;94:e94781|doi:10|1371/journal|pone|0094781|Erratumin:PLoSOne|2014;98:e106814|Mansell,ClaudiaM[correctedtoMansell,ClaudiaJ]|PMID:24733110;PMCID:PMC3986404||PusztaszeriMP,SeelentagW,BosmanFT|ImmunohistochemicalexpressionofendothelialmarkersCD31,CD34,vonWillebrandfactor,andFli-1innormalhumantissues|JHistochemCytochem|2006Apr;544:385-95|doi:10|1369/jhc|4A6514|2005|Epub2005Oct18|PMID:16234507|	Lymph_node
+UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	CL:4033024	airway submucosal gland duct basal cell	airway submucosal gland duct basal cell	HGNC:11529, HGNC:15979, HGNC:15979, HGNC:1748, HGNC:20657, HGNC:3318, HGNC:3800, HGNC:3800, HGNC:4027, HGNC:6416, HGNC:6416, HGNC:6442, HGNC:6442		multi_loc
+UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	CL:4033024	airway submucosal gland duct basal cell	airway submucosal gland duct basal cell	HGNC:11529, HGNC:15979, HGNC:15979, HGNC:1748, HGNC:20657, HGNC:3318, HGNC:3800, HGNC:4027, HGNC:6416, HGNC:6416, HGNC:6442, HGNC:6442, HGNC:7809		multi_loc

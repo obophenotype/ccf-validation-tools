@@ -1,0 +1,14 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	Terminal CT/ID	Terminal CT/label	Terminal CT/user_label	Markers	References
+UBERON:0001631	thoracic duct	thoracic duct	CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	HGNC:3767	
+UBERON:0005435	upper part of cisterna chyli	cisterna chyli	CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	HGNC:3767	
+UBERON:0002508	celiac lymph node	celiac lymph node	CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	HGNC:3767	
+UBERON:0016378	ileocolic lymph node	ileocolic lymph node	CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	HGNC:3767	
+UBERON:0002509	mesenteric lymph node	mesenteric lymph node	CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	HGNC:3767	
+UBERON:0016402	mesocolic lymph node	mesocolic lymph node	CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	HGNC:3767	
+UBERON:0016386	paraaortic lymph node	paraaortic lymph node	CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	HGNC:3767	
+UBERON:0015878	common iliac lymph node	common iliac lymph node	CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	HGNC:3767	
+UBERON:0015880	external iliac lymph node	external iliac lymph node	CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	HGNC:3767	
+UBERON:0009006	deep inguinal lymph node	deep inguinal lymph node	CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	HGNC:3767	
+UBERON:0001543	popliteal lymph node	popliteal lymph node	CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	HGNC:3767	
+UBERON:0015881	internal iliac lymph node	internal iliac lymph node	CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	HGNC:3767	
+UBERON:0035279	supraclavicular lymph node	supraclavicular lymph node	CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	HGNC:3767	

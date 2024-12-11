@@ -1,0 +1,11 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	Terminal CT/ID	Terminal CT/label	Terminal CT/user_label	Markers	References
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	CL:1000308	fibrocyte of adventitia of ureter	fibroblast	HGNC:21245, HGNC:2705, HGNC:29673	
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	CL:1000308	fibrocyte of adventitia of ureter	fibroblast	HGNC:1346, HGNC:2705, HGNC:3011	
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	CL:1000708	ureter adventitial cell	myofibroblast	HGNC:11373, HGNC:5318, HGNC:7035	
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	CL:1000708	ureter adventitial cell	fibroblast	HGNC:11092, HGNC:20396, HGNC:613	
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	CL:1000708	ureter adventitial cell	endothelium	HGNC:10718, HGNC:2047, HGNC:8823	
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	CL:1000708	ureter adventitial cell	smooth muscle	HGNC:130, HGNC:281, HGNC:6934	
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	CL:1000708	ureter adventitial cell	smooth muscle	HGNC:130, HGNC:1663, HGNC:895	
+UBERON:0001254	urothelium of ureter	urothelium of ureter	CL:1001428	ureter urothelial cell	urothelium	HGNC:10492, HGNC:2891, HGNC:6442	
+UBERON:0001254	urothelium of ureter	urothelium of ureter	CL:1001428	ureter urothelial cell	urothelium	HGNC:15979, HGNC:384, HGNC:6415	
+UBERON:0001254	urothelium of ureter	urothelium of ureter	CL:1001428	ureter urothelial cell	urothelium	HGNC:12577, HGNC:12578, HGNC:12580	

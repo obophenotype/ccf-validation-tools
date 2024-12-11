@@ -1,0 +1,7 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	Terminal CT/ID	Terminal CT/label	Terminal CT/user_label	Markers	References
+UBERON:0009980	condyle of femur	Distal Femur	CL:0000062	osteoblast	osteoblast	HGNC:2197, HGNC:5341	
+UBERON:0009980	condyle of femur	Distal Femur	CL:0000137	osteocyte	osteocyte	HGNC:2197, HGNC:2932	
+UBERON:4000088	mineralized cartilage tissue	Mineralized Cartilage	CL:0000743	hypertrophic chondrocyte	hypertrophic chondrocyte	HGNC:2185, HGNC:5341	
+UBERON:0009980	condyle of femur	Distal Femur	CL:0000778	mononuclear osteoclast	mononuclear osteoclast	HGNC:124	
+UBERON:0009980	condyle of femur	Distal Femur	CL:0000779	multinuclear osteoclast	multinuclear osteoclast	HGNC:124, HGNC:2536	
+UBERON:0009980	condyle of femur	Distal Femur	CL:1001607	articular chondrocyte	articular chondrocyte	HGNC:2200, HGNC:2201	

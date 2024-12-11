@@ -1,0 +1,4 @@
+ID	Label	Equivalent axioms	Equivalent relationship axioms
+ID	LABEL	EC %	EC located in some %
+	mature eosinophil of crypt	CL:0000041	UBERON:0013485
+	dermal dendritic cell of dermis	CL:0001006	UBERON:0002067
