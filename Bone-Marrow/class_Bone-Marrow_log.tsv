@@ -1,0 +1,65 @@
+row_number	s	slabel	user_slabel	o	olabel	user_olabel	deltaIC
+19	CL:0000990	conventional dendritic cell	dendritic cell type 1	CL:0001056	dendritic cell, human	dendritic cell	22.927194134038274
+20	CL:0000990	conventional dendritic cell	dendritic cell type 2	CL:0001056	dendritic cell, human	dendritic cell	22.927194134038274
+23	CL:0000840	immature conventional dendritic cell	transitional Dendritic Cell	CL:0001056	dendritic cell, human	dendritic cell	11.227346996294116
+39	CL:0000839	myeloid lineage restricted progenitor cell	Myeloid progenitor	CL:0000576	monocyte	monocyte	5.958680514592871
+33	CL:0000037	hematopoietic stem cell	hemopoietic stem cell	CL:0000837	hematopoietic multipotent progenitor cell	hemopoietic stem cell/multipotent progenitor 	0.5779734340704294
+12	CL:0000817	precursor B cell	precursor B cell	UBERON:0002371	Bone marrow	Bone marrow	
+13	CL:0000816	immature B cell	immature B cell	UBERON:0002371	Bone marrow	Bone marrow	
+14	CL:0000787	memory B cell	memory B cell	UBERON:0002371	Bone marrow	Bone marrow	
+15	CL:0000788	naive B cell	naive B cell	UBERON:0002371	Bone marrow	Bone marrow	
+16	CL:0000786	plasma cell	plasma cell	UBERON:0002371	Bone marrow	Bone marrow	
+17	CL:0000826	pro-B cell	pro B progenitor	CL:0000945	lymphocyte of B lineage	B lineage	
+17	CL:0000826	pro-B cell	pro B progenitor	UBERON:0002371	Bone marrow	Bone marrow	
+18	CL:0000818	transitional stage B cell	transitional B cell	UBERON:0002371	Bone marrow	Bone marrow	
+19	CL:0000990	conventional dendritic cell	dendritic cell type 1	UBERON:0002371	Bone marrow	Bone marrow	
+20	CL:0000990	conventional dendritic cell	dendritic cell type 2	UBERON:0002371	Bone marrow	Bone marrow	
+21	CL:0001056	dendritic cell, human	dendritic cell type 3	CL:0001056	dendritic cell, human	dendritic cell	
+21	CL:0001056	dendritic cell, human	dendritic cell type 3	UBERON:0002371	Bone marrow	Bone marrow	
+22	CL:0001058	plasmacytoid dendritic cell, human	Plasmacytoid Dendritic Cell	UBERON:0002371	Bone marrow	Bone marrow	
+23	CL:0000840	immature conventional dendritic cell	transitional Dendritic Cell	UBERON:0002371	Bone marrow	Bone marrow	
+24	CL:0000764	erythroid lineage cell	early erythroid	CL:0000764	erythroid lineage cell	erythroid	
+24	CL:0000764	erythroid lineage cell	early erythroid	UBERON:0002371	Bone marrow	Bone marrow	
+25	CL:0000764	erythroid lineage cell	mid erythroid	CL:0000764	erythroid lineage cell	erythroid	
+25	CL:0000764	erythroid lineage cell	mid erythroid	UBERON:0002371	Bone marrow	Bone marrow	
+26	CL:0000764	erythroid lineage cell	late erythroid	CL:0000764	erythroid lineage cell	erythroid	
+26	CL:0000764	erythroid lineage cell	late erythroid	UBERON:0002371	Bone marrow	Bone marrow	
+27	CL:0000556	megakaryocyte	Megakaryocyte	CL:0000556	Megakaryocyte	Megakaryocyte	
+27	CL:0000556	megakaryocyte	Megakaryocyte	UBERON:0002371	Bone marrow	Bone marrow	
+28	CL:0000553	megakaryocyte progenitor cell	early Megakaryocyte	CL:0000556	Megakaryocyte	Megakaryocyte	
+28	CL:0000553	megakaryocyte progenitor cell	early Megakaryocyte	UBERON:0002371	Bone marrow	Bone marrow	
+29	CL:0000050	megakaryocyte-erythroid progenitor cell	megakaryocyte-erythroid-mast cell progenitor	UBERON:0002371	Bone marrow	Bone marrow	
+30	CL:0000051	common lymphoid progenitor	common lymphoid progenitor	UBERON:0002371	Bone marrow	Bone marrow	
+31	CL:0000049	common myeloid progenitor	common myeloid progenitor	UBERON:0002371	Bone marrow	Bone marrow	
+33	CL:0000037	hematopoietic stem cell	hemopoietic stem cell	UBERON:0002371	Bone marrow	Bone marrow	
+34	CL:0000936	early lymphoid progenitor	lympho-myeloid progenitor cell	UBERON:0002371	Bone marrow	Bone marrow	
+35	CL:0000837	hematopoietic multipotent progenitor cell	multipotent progenitor cell	CL:0000837	hematopoietic multipotent progenitor cell	hemopoietic stem cell/multipotent progenitor 	
+35	CL:0000837	hematopoietic multipotent progenitor cell	multipotent progenitor cell	UBERON:0002371	Bone marrow	Bone marrow	
+36	CL:0001054	CD14-positive monocyte	CD14 monocyte	UBERON:0002371	Bone marrow	Bone marrow	
+37	CL:0002396	CD14-low, CD16-positive monocyte	CD16 monocyte	UBERON:0002371	Bone marrow	Bone marrow	
+38	CL:0000559	promonocyte	promonocyte	CL:0000576	monocyte	monocyte	
+38	CL:0000559	promonocyte	promonocyte	UBERON:0002371	Bone marrow	Bone marrow	
+39	CL:0000839	myeloid lineage restricted progenitor cell	Myeloid progenitor	UBERON:0002371	Bone marrow	Bone marrow	
+40	CL:0002193	myelocyte	myelocyte	CL:0000775	neutrophil	neutrophilic granulocyte	
+40	CL:0002193	myelocyte	myelocyte	UBERON:0002371	Bone marrow	Bone marrow	
+41	CL:0000775	neutrophil	neutrophil	CL:0000775	neutrophil	neutrophilic granulocyte	
+42	CL:0000836	promyelocyte	promyelocyte	CL:0000775	neutrophil	neutrophilic granulocyte	
+42	CL:0000836	promyelocyte	promyelocyte	UBERON:0002371	Bone marrow	Bone marrow	
+43	CL:0000771	eosinophil	eosinophil	UBERON:0002371	Bone marrow	Bone marrow	
+44	CL:0000767	basophil	basophil	UBERON:0002371	Bone marrow	Bone marrow	
+45	CL:0000097	mast cell	mast cell	CL:0000094	granulocyte	granulocyte	
+45	CL:0000097	mast cell	mast cell	UBERON:0002371	Bone marrow	Bone marrow	
+46	CL:0000895	naive thymus-derived CD4-positive, alpha-beta T cell	CD4 naive	UBERON:0002371	Bone marrow	Bone marrow	
+47	CL:0000897	CD4-positive, alpha-beta memory T cell	CD4 T cell memory	UBERON:0002371	Bone marrow	Bone marrow	
+48	CL:0000897	CD4-positive, alpha-beta memory T cell	CD4 T cell memory	UBERON:0002371	Bone marrow	Bone marrow	
+49	CL:0001087	effector memory CD4-positive, alpha-beta T cell, terminally differentiated	CD4 T cell effector memory CD45RA	UBERON:0002371	Bone marrow	Bone marrow	
+50	CL:0000900	naive thymus-derived CD8-positive, alpha-beta T cell	CD8 naive	UBERON:0002371	Bone marrow	Bone marrow	
+51	CL:0000909	CD8-positive, alpha-beta memory T cell	CD8 T cell memory	UBERON:0002371	Bone marrow	Bone marrow	
+52	CL:0000913	effector memory CD8-positive, alpha-beta T cell	CD8 T cell effector memory	UBERON:0002371	Bone marrow	Bone marrow	
+53	CL:0001062	effector memory CD8-positive, alpha-beta T cell, terminally differentiated	CD8 T cell effector memory CD45RA	UBERON:0002371	Bone marrow	Bone marrow	
+54	CL:0000625	CD8-positive, alpha-beta T cell	mature CD8 T cell	UBERON:0002371	Bone marrow	Bone marrow	
+55	CL:0000938	CD16-negative, CD56-bright natural killer cell, human	CD56 bright Natural Killer	CL:0000814	mature NK T cell	NK lymphocyte	
+55	CL:0000938	CD16-negative, CD56-bright natural killer cell, human	CD56 bright Natural Killer	UBERON:0002371	Bone marrow	Bone marrow	
+56	CL:0000824	mature natural killer cell	mature Natural killer	CL:0000814	mature NK T cell	NK lymphocyte	
+56	CL:0000824	mature natural killer cell	mature Natural killer	UBERON:0002371	Bone marrow	Bone marrow	
+57	CL:0000815	regulatory T cell	T regulatory	UBERON:0002371	Bone marrow	Bone marrow	

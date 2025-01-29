@@ -1,0 +1,135 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	974
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	217
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	1083
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	647
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	1189
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	538
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	111
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	429
+CL:0000057	fibroblast	fibroblast	UBERON:0005742	adventitia	adventitia	1250
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	865
+CL:0000057	fibroblast	fibroblast	UBERON:0005742	adventitia	adventitia	1310
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	323
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	756
+CL:0000097	mast cell	mast cell	UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	1346
+CL:0000097	mast cell	mast cell	UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	1328
+CL:0000148	melanocyte	melanocyte	UBERON:0001003	skin epidermis	epidermis	1320
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	444
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	1095
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	553
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	662
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	771
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	989
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	880
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	16
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	229
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	335
+CL:0000188	cell of skeletal muscle	skeletal muscle	UBERON:0001367	external anal sphincter	external anal sphincter	1362
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	655
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	981
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	982
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	874
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	873
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	872
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	983
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	765
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	764
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	763
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	656
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	654
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	547
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	546
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	545
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	438
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	437
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	436
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1130
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	501
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1015
+CL:0000235	macrophage	macrophage	UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	1348
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	264
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	74
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	51
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	797
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	806
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	828
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	42
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	286
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	392
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	370
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	906
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	915
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	719
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	697
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	361
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1024
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	470
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	937
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	688
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	579
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	588
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	610
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	479
+CL:0000235	macrophage	macrophage	UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	1330
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	180
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	158
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1152
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	255
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1046
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	149
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1121
+CL:0000236	B cell	B cell	UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	1334
+CL:0000236	B cell	B cell	UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	1352
+CL:0000240	stratified squamous epithelial cell	squamous	UBERON:0015716	anal canal epithelium	epithelium	1257
+CL:0000312	keratinocyte	keratinocyte	UBERON:0002073	hair follicle	hair follicle	1321
+CL:0000359	vascular associated smooth muscle cell	perivascular smooth muscle cell	UBERON:0000055	vessel	vessel	1339
+CL:0000359	vascular associated smooth muscle cell	perivascular smooth muscle cell	UBERON:0000055	vessel	vessel	1357
+CL:0000434	eccrine cell	eccrine	UBERON:0000423	eccrine sweat gland	eccrine sweat gland	1323
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	1096
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	985
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	1091
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	990
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	12
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	225
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	554
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	230
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	445
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	331
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	336
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	658
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	549
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	663
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	767
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	772
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	17
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	876
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	881
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	440
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1303
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	316
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	952
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1288
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	210
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	195
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	104
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	89
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	301
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	407
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1182
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1243
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1228
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	967
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1167
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	516
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	531
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	625
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	640
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1076
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1061
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	749
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	843
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	858
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	422
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	734
+UBERON:0002384	connective tissue	fibroconnective tissue	UBERON:0002067	dermis	dermis	1327

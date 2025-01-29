@@ -1,0 +1,23 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	CL Name	References/ID	References/DOI
+UBERON:0012252		endocervical epithelium	endocervical epithelial cell	HTTPS:SCREENINGIARCFRCOLPOCHAPPHPLANG1	
+UBERON:0001296		uterine myometrium	uterine smooth muscle type I cell	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+UBERON:0001296		uterine myometrium	uterine smooth muscle type II cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0022355	basal layer of endometrium	stratum basalis	SOX9+ epithelial cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0022355	basal layer of endometrium	stratum basalis	ciliated epithelial cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0022355	basal layer of endometrium	stratum basalis	glandular epithelial cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0022355	basal layer of endometrium	stratum basalis	luminal epithelial cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0022355	basal layer of endometrium	stratum basalis	stromal cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0022355	basal layer of endometrium	stratum basalis	uterine smooth muscle type II cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0022355	basal layer of endometrium	stratum basalis	perivascular support cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0022355	basal layer of endometrium	stratum basalis	macrophage	HTTPS:DOIORG10110120210102425073	
+UBERON:0022355	basal layer of endometrium	stratum basalis	lymphocyte	HTTPS:DOIORG10110120210102425073	
+UBERON:0022355	basal layer of endometrium	stratum basalis	uterine natural killer cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0022355	basal layer of endometrium	stratum basalis	uterine dendritic cells	HTTPS:DOIORG10110120210102425073	
+UBERON:0022356	outer layer of endometrium	statum functionalis	B cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0022356	outer layer of endometrium	statum functionalis	T cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0022356	outer layer of endometrium	statum functionalis	innate lymphoid cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0022356	outer layer of endometrium	statum functionalis	mast cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0001296		uterine myometrium	uterine smooth muscle type I cell	HTTPS:DOIORG1011861471239313S1S7	
+UBERON:0002337		endometrial stroma	stromal cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0012276		endometrium glandular epithelium	glandular epithelial cell	HTTPS:DOIORG10110120210102425073	
+UBERON:0011949		endometrium luminal epithelium	luminal epithelial cell	HTTPS:DOIORG10110120210102425073	

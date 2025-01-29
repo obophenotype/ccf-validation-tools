@@ -1,0 +1,5 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0002598	bronchial smooth muscle cell	bronchial smooth muscle cell	UBERON:0004241	main bronchus smooth muscle	main bronchus smooth muscle	14
+CL:0019002	tracheobronchial chondrocyte	tracheobronchial chondrocyte	UBERON:0001956	cartilage of bronchus	cartilage of bronchus	21
+UBERON:0004848	respiratory system arterial endothelium	respiratory system arterial endothelium	UBERON:0002040	bronchial artery	bronchial artery	31
+UBERON:0012416	respiratory system arterial smooth muscle	arterial system smooth muscle	UBERON:0002040	bronchial artery	bronchial artery	32

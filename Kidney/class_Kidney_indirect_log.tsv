@@ -1,0 +1,84 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+UBERON:0001225	cortex of kidney	cortex of kidney	UBERON:0002113	kidney	kidney	15
+UBERON:0001225	cortex of kidney	cortex of kidney	UBERON:0002113	kidney	kidney	13
+UBERON:0001225	cortex of kidney	renal cortex	UBERON:0002113	kidney	kidney	20
+UBERON:0001225	cortex of kidney	cortex of kidney	UBERON:0002113	kidney	kidney	14
+UBERON:0001228	renal papilla	Papilla	UBERON:0002113	kidney	kidney	89
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	42
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	46
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	45
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	26
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	27
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	29
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	30
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	31
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	32
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	33
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	34
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	44
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	36
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	37
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	38
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	39
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	40
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	41
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	43
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	35
+UBERON:0001231	nephron tubule	Tubules	UBERON:0001285	nephron	nephron	28
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	44
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	32
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	42
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	31
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	40
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	30
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	43
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	29
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	35
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	36
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	28
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	33
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	34
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	27
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	45
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	26
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	25
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	38
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	24
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	46
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	23
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	39
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	22
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	41
+UBERON:0001285	nephron	nephron	UBERON:0002113	kidney	kidney	37
+UBERON:0001289	descending limb of loop of Henle	Loop of Henle (Thin Limb)	UBERON:0001231	nephron tubule	Tubules	32
+UBERON:0001289	descending limb of loop of Henle	Loop of Henle (Thin Limb)	UBERON:0001231	nephron tubule	Tubules	31
+UBERON:0001289	descending limb of loop of Henle	Loop of Henle (Thin Limb)	UBERON:0001231	nephron tubule	Tubules	33
+UBERON:0001289	descending limb of loop of Henle	Loop of Henle (Thin Limb)	UBERON:0001231	nephron tubule	Tubules	30
+UBERON:0001291	thick ascending limb of loop of Henle	Loop of Henle (Thick Limb/ Cortex)	UBERON:0001231	nephron tubule	Tubules	38
+UBERON:0001291	thick ascending limb of loop of Henle	Loop of Henle (Thick Limb/Medulla)	UBERON:0001231	nephron tubule	Tubules	37
+UBERON:0001291	thick ascending limb of loop of Henle	Loop of Henle (Thick Limb/Cortex)	UBERON:0001231	nephron tubule	Tubules	36
+UBERON:0001291	thick ascending limb of loop of Henle	Loop of Henle (Thick Limb)	UBERON:0001231	nephron tubule	Tubules	35
+UBERON:0001292	distal convoluted tubule	Distal Convolution	UBERON:0001231	nephron tubule	Tubules	41
+UBERON:0001292	distal convoluted tubule	Distal Convolution	UBERON:0001231	nephron tubule	Tubules	40
+UBERON:0001292	distal convoluted tubule	Distal Convolution	UBERON:0001231	nephron tubule	Tubules	39
+UBERON:0002015	kidney capsule	kidney capsule	UBERON:0002113	kidney	kidney	12
+UBERON:0003527	kidney capillary	Kidney Capillary	UBERON:0006544	kidney vasculature	Vessels	62
+UBERON:0004134	proximal tubule	Proximal Tubule	UBERON:0001231	nephron tubule	Tubules	29
+UBERON:0004134	proximal tubule	Proximal Tubule	UBERON:0001231	nephron tubule	Tubules	28
+UBERON:0004134	proximal tubule	Proximal Tubule	UBERON:0001231	nephron tubule	Tubules	27
+UBERON:0004134	proximal tubule	proximal tubule	UBERON:0001231	nephron tubule	Tubules	26
+UBERON:0004188	glomerular epithelium	Glomerular Epithelium	UBERON:0001229	Renal Corpuscle	Renal Corpuscle	23
+UBERON:0004188	glomerular epithelium	Glomerular Epithelium	UBERON:0001229	Renal Corpuscle	Renal Corpuscle	22
+UBERON:0004193	loop of Henle ascending limb thin segment	Loop of Henle (Thin Limb)	UBERON:0001231	nephron tubule	Tubules	34
+UBERON:0004196	proximal convoluted tubule segment 1	proximal convoluted tubule segment 1	UBERON:0004134	proximal tubule	Proximal Tubule	27
+UBERON:0004197	proximal convoluted tubule segment 2	proximal convoluted tubule segment 2	UBERON:0004134	proximal tubule	Proximal Tubule	28
+UBERON:0004201	kidney outer medulla inner stripe	kidney outer medulla inner stripe	UBERON:0000362	renal medulla	renal medulla	17
+UBERON:0004202	kidney outer medulla outer stripe	kidney outer medulla outer stripe	UBERON:0000362	renal medulla	renal medulla	16
+UBERON:0004294	glomerular capillary endothelium	glomerular capillary endothelium	UBERON:0004190	renal glomerulus vasculature	Glomerulus Vasculature	24
+UBERON:0005097	renal connecting tubule	Connecting Tubule	UBERON:0001231	nephron tubule	Tubules	42
+UBERON:0005097	renal connecting tubule	Connecting Tubule	UBERON:0001231	nephron tubule	Tubules	43
+UBERON:0005097	renal connecting tubule	Connecting Tubule	UBERON:0001231	nephron tubule	Tubules	44
+UBERON:0005097	renal connecting tubule	Connecting Tubule	UBERON:0001231	nephron tubule	Tubules	45
+UBERON:0005097	renal connecting tubule	Connecting Tubule	UBERON:0001231	nephron tubule	Tubules	46
+UBERON:0034884	juxtaglomerular arteriole	Juxtaglomerular Arteriole	UBERON:0006544	kidney vasculature	Vessels	60
+UBERON:0034884	juxtaglomerular arteriole	Juxtaglomerular Arteriole	UBERON:0006544	kidney vasculature	Vessels	61

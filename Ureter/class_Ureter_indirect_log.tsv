@@ -1,0 +1,18 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+UBERON:0001224	renal pelvis	renal pelvis	UBERON:0000056	ureter	ureter	26
+UBERON:0001224	renal pelvis	renal pelvis	UBERON:0000056	ureter	ureter	24
+UBERON:0001224	renal pelvis	renal pelvis	UBERON:0000056	ureter	ureter	25
+UBERON:0001226	major calyx	major calyx	UBERON:0001224	renal pelvis	renal pelvis	25
+UBERON:0001227	minor calyx	minor calyx	UBERON:0001224	renal pelvis	renal pelvis	26
+UBERON:0005005	mucosa of left ureter	mucosa of left ureter	UBERON:0000056	ureter	ureter	12
+UBERON:0005005	mucosa of left ureter	mucosa of left ureter	UBERON:0000056	ureter	ureter	14
+UBERON:0005005	mucosa of left ureter	mucosa of left ureter	UBERON:0000056	ureter	ureter	13
+UBERON:0036376	wall of left ureter	wall of left ureter	UBERON:0000056	ureter	ureter	18
+UBERON:0036376	wall of left ureter	wall of left ureter	UBERON:0000056	ureter	ureter	19
+UBERON:0036376	wall of left ureter	wall of left ureter	UBERON:0000056	ureter	ureter	16
+UBERON:0036376	wall of left ureter	wall of left ureter	UBERON:0000056	ureter	ureter	21
+UBERON:0036376	wall of left ureter	wall of left ureter	UBERON:0000056	ureter	ureter	22
+UBERON:0036376	wall of left ureter	wall of left ureter	UBERON:0000056	ureter	ureter	23
+UBERON:0036376	wall of left ureter	wall of left ureter	UBERON:0000056	ureter	ureter	15
+UBERON:0036376	wall of left ureter	wall of left ureter	UBERON:0000056	ureter	ureter	17
+UBERON:0036376	wall of left ureter	wall of left ureter	UBERON:0000056	ureter	ureter	20

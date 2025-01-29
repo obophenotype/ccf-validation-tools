@@ -1,0 +1,16 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000036	epithelial fate stem cell	epithelial fate stem cell	UBERON:0000482	basal lamina of epithelium	basal epithelium	28
+CL:0000066	epithelial cell	epithelial cell	UBERON:0002506	iris epithelium	iris epithelium	26
+CL:0000561	Amacrine Cell	Amacrine Cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	41
+CL:0000561	Amacrine Cell	Amacrine cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	42
+CL:0000561	Amacrine Cell	Amacrine cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	43
+CL:0000561	Amacrine Cell	Amacrine cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	44
+CL:0000561	Amacrine Cell	Amacrine cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	45
+CL:0000561	Amacrine Cell	Amacrine cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	46
+CL:0000561	Amacrine Cell	Amacrine cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	47
+CL:0000561	Amacrine Cell	Amacrine cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	48
+CL:0000740	retinal ganglion cell	Ganglion cell	UBERON:0001792	ganglionic layer of retina	retinal ganglion cell layer	66
+CL:0000740	retinal ganglion cell	Ganglion cell	UBERON:0001792	ganglionic layer of retina	retinal ganglion cell layer	74
+CL:0000745	retina horizontal cell	Horizontal Cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	67
+CL:0011004	lens fiber cell	lens fiber cell	UBERON:0002444	lens fiber	lens Fibers	31
+CL:0011004	lens fiber cell	lens fiber cell	UBERON:0002444	lens Fiber	lens Fiber	38

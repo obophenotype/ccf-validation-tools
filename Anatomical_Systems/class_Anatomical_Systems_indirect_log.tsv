@@ -1,0 +1,20 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+UBERON:0000017	exocrine pancreas	exocrine pancreas	UBERON:0002330	exocrine system	exocrine system	29
+UBERON:0000065	respiratory tract	respiratory tract	UBERON:0001004	respiratory system	respiratory system	39
+UBERON:0000065	respiratory tract	respiratory tract	UBERON:0001004	respiratory system	respiratory system	38
+UBERON:0000065	respiratory tract	respiratory tract	UBERON:0001004	respiratory system	respiratory system	40
+UBERON:0000065	respiratory tract	respiratory tract	UBERON:0001004	respiratory system	respiratory system	41
+UBERON:0000992	ovary	ovary	UBERON:0000474	female reproductive system	female reproductive system	46
+UBERON:0001911	mammary gland	mammary gland	UBERON:0002416	integumental system	integumental system	37
+UBERON:0002048	lung	lung	UBERON:0000170	pair of lungs	pair of lungs	39
+UBERON:0002106	spleen	spleen	UBERON:0002390	hematopoietic system	hematopoietic system	32
+UBERON:0002107	liver	liver	UBERON:0001007	digestive system	digestive system	15
+UBERON:0002370	thymus	thymus	UBERON:0002390	hematopoietic system	hematopoietic system	33
+UBERON:0003729	mouth mucosa	mouth mucosa	UBERON:0000165	mouth	mouth	20
+UBERON:0003729	mouth mucosa	mouth mucosa	UBERON:0000165	mouth	mouth	21
+UBERON:0003889	fallopian tube	fallopian tube	UBERON:0003975	internal female genitalia	internal female genitalia	47
+UBERON:0004537	blood vasculature	blood vasculature	UBERON:0004535	cardiovascular system	cardiovascular system	14
+UBERON:0010147	male accessory sex gland	male accessory sex gland	UBERON:0000079	male reproductive system	male reproductive system	50
+UBERON:0011143	upper urinary tract	upper urinary tract	UBERON:0001008	renal system	renal system	44
+UBERON:0011143	upper urinary tract	upper urinary tract	UBERON:0001008	renal system	renal system	42
+UBERON:0011143	upper urinary tract	upper urinary tract	UBERON:0001008	renal system	renal system	43

@@ -1,0 +1,19 @@
+Upper AS	Upper AS/label	Upper AS/ID	AS Name	References/ID	References/DOI
+frontal lobe	frontal lobe	UBERON:0016525	frontomarginal gyrus	HTTPS:DOIORG101002CNE24080	
+occipital lobe	occipital lobe	UBERON:0002021	occipitoparietal transition region	HTTPS:DOIORG101002CNE24080	
+occipital lobe	occipital lobe	UBERON:0002021	occipitotemporal transition region	HTTPS:DOIORG101002CNE24080	
+occipital lobe	occipital lobe	UBERON:0002021	occipitotemporal (fusiform) gyrus, occipital part	HTTPS:DOIORG101002CNE24080	
+cingulate gyrus	cingulate gyrus	UBERON:0002967	cingulate gyrus, retrospleninal part	HTTPS:DOIORG101002CNE24080	
+hippocampal gyrus (formation)	hippocampal formation	UBERON:0002421	head of hippocampus	HTTPS:DOIORG101002CNE24080	
+hippocampal gyrus (formation)	hippocampal formation	UBERON:0002421	body of hippocampus	HTTPS:DOIORG101002CNE24080	
+basal forebrain	basal forebrain	UBERON:0002743	septal nuclei	HTTPS:DOIORG101002CNE24080	
+lateral ventricles	telencephalic ventricle	UBERON:0002285	atrium of lateral ventricle	HTTPS:DOIORG101002CNE24080	
+inferior frontal sulcus	inferior frontal sulcus	UBERON:0002761	ifs1	HTTPS:DOIORG101016JCORTEX202203019	
+inferior frontal sulcus	inferior frontal sulcus	UBERON:0002761	ifs2	HTTPS:DOIORG101016JCORTEX202203019	
+inferior frontal sulcus	inferior frontal sulcus	UBERON:0002761	ifs3	HTTPS:DOIORG101016JCORTEX202203019	
+inferior frontal sulcus	inferior frontal sulcus	UBERON:0002761	ifs4	HTTPS:DOIORG101016JCORTEX202203019	
+frontal lobe	frontal lobe	UBERON:0016525	inferior frontal junction	HTTPS:DOIORG101016JCORTEX202203019	
+inferior frontal junction	inferior frontal junction		ifj1	HTTPS:DOIORG101016JCORTEX202203019	
+inferior frontal junction	inferior frontal junction		ifj2	HTTPS:DOIORG101016JCORTEX202203019	
+gray matter of forebrain	gray matter of forebrain	UBERON:0019264	thalamus	HTTPS:DOIORG10110120221012511898	
+gray matter of forebrain	gray matter of forebrain	UBERON:0019264	amygdaloid complex	HTTPS:DOIORG10110120221012511898	

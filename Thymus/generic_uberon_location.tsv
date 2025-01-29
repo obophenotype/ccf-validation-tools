@@ -1,0 +1,57 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+UBERON:0002384	connective tissue	connective tissue	UBERON:0004791	thymus trabecula	thymus trabecula	21	53.10690966190233
+UBERON:0002384	connective tissue	connective tissue	UBERON:0002122	capsule of thymus	capsule of thymus	12	48.51382469474165
+UBERON:0001021	nerve	nerve	UBERON:0004791	thymus trabecula	thymus trabecula	16	43.80302447212981
+UBERON:0001021	nerve	nerve	UBERON:0004791	thymus trabecula	thymus trabecula	18	43.80302447212981
+UBERON:0001021	nerve	nerve	UBERON:0004791	thymus trabecula	thymus trabecula	22	43.80302447212981
+UBERON:0001021	nerve	nerve	UBERON:0004791	thymus trabecula	thymus trabecula	24	43.80302447212981
+UBERON:0001021	nerve	nerve	UBERON:0006936	thymus subcapsular epithelium	thymus subcapsular epithelium	36	43.80302447212981
+UBERON:0001021	nerve	nerve	UBERON:0006936	thymus subcapsular epithelium	thymus subcapsular epithelium	34	43.80302447212981
+UBERON:0001021	nerve	nerve	UBERON:0002122	capsule of thymus	capsule of thymus	15	39.209939504969135
+UBERON:0001021	nerve	nerve	UBERON:0002122	capsule of thymus	capsule of thymus	14	39.209939504969135
+UBERON:0001021	nerve	nerve	UBERON:0002123	cortex of thymus	cortex of thymus	42	32.81490728088813
+UBERON:0001021	nerve	nerve	UBERON:0002123	cortex of thymus	cortex of thymus	40	32.81490728088813
+UBERON:0001013	adipose tissue	adipose tissue	UBERON:0004791	thymus trabecula	thymus trabecula	19	31.010415522925094
+UBERON:0001021	nerve	nerve	UBERON:0002124	medulla of thymus	medulla of thymus	89	30.234149808850326
+UBERON:0001021	nerve	nerve	UBERON:0002124	medulla of thymus	medulla of thymus	87	30.234149808850326
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	83	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	82	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	84	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	85	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	86	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	80	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	79	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	81	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	89	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	87	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	88	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	77	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	90	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	91	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	92	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	93	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	94	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	95	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	78	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	71	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	76	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	69	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	75	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	66	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	67	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	68	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	96	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	70	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	72	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	73	1.6959222605430853
+UBERON:0002124	medulla of thymus	medulla of thymus	UBERON:0002125	thymus lobule	thymus lobule	74	1.6959222605430853
+UBERON:0003846	thymus epithelium	thymus epithelium	UBERON:0002123	cortex of thymus	cortex of thymus	43	1.1553389293473089
+UBERON:0003846	thymus epithelium	thymus epithelium	UBERON:0002125	thymus lobule	thymus lobule	36	0.2705037178525913
+UBERON:0003846	thymus epithelium	thymus epithelium	UBERON:0002125	thymus lobule	thymus lobule	35	0.2705037178525913
+UBERON:0003846	thymus epithelium	thymus epithelium	UBERON:0002125	thymus lobule	thymus lobule	34	0.2705037178525913
+UBERON:0003846	thymus epithelium	thymus epithelium	UBERON:0002125	thymus lobule	thymus lobule	33	0.2705037178525913
+UBERON:0003846	thymus epithelium	thymus epithelium	UBERON:0002125	thymus lobule	thymus lobule	32	0.2705037178525913
+UBERON:0003846	thymus epithelium	thymus epithelium	UBERON:0002125	thymus lobule	thymus lobule	31	0.2705037178525913
+UBERON:0003846	thymus epithelium	thymus epithelium	UBERON:0002125	thymus lobule	thymus lobule	30	0.2705037178525913
+UBERON:0003846	thymus epithelium	thymus epithelium	UBERON:0002125	thymus lobule	thymus lobule	29	0.2705037178525913
+UBERON:0003846	thymus epithelium	thymus epithelium	UBERON:0002125	thymus lobule	thymus lobule	28	0.2705037178525913

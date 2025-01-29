@@ -1,0 +1,8 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000182	hepatocyte	hepatocyte	UBERON:0005452	hepatic cord	hepatic plate	16
+CL:0002543	vein endothelial cell	endothelial cell	UBERON:0006841	central vein of liver	central vein	20
+CL:0002543	vein endothelial cell	endothelial cell	UBERON:0002017	portal vein	portal vein	23
+UBERON:0001193	hepatic artery	hepatic artery	UBERON:0001279	portal triad	portal triad/tract	25
+UBERON:0001193	hepatic artery	hepatic artery	UBERON:0001279	portal triad	portal triad/tract	26
+UBERON:0002017	portal vein	portal vein	UBERON:0001279	portal triad	portal triad/tract	23
+UBERON:0002384	connective tissue	connective tissue	UBERON:0016478	liver stroma	stroma	31

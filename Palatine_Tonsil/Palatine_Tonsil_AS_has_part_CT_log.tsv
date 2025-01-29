@@ -1,0 +1,10 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001610	lingual artery	dorsal lingual artery	26
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001612	facial artery	tonsillar branch of the facial artery	28
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001070	external carotid artery	lesser palatine artery	30
+CL:0000084	T Cell	T Cell	UBERON:0010754	germinal center	germinal center	47
+CL:0000236	B cell	B cell	UBERON:0010754	germinal center	germinal center	42
+CL:0000236	B cell	B cell	UBERON:0010754	germinal center	germinal center	45
+CL:0000624	CD4-positive, alpha-beta T cell	CD4 T cell	UBERON:0010754	germinal center	germinal center	43
+CL:0000844	germinal center B cell	germinal center B cell	UBERON:0010754	germinal center	germinal center	49
+CL:0000844	germinal center B cell	germinal center B cell	UBERON:0010754	germinal center	germinal center	50

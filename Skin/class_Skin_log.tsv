@@ -1,0 +1,73 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+CL:0000540	Neuron	Neuron	UBERON:0007121	skin nerve field	nerve	59	68.34985815042238
+CL:0000540	Neuron	Neuron	UBERON:0007121	skin nerve field	nerve	79	68.34985815042238
+CL:0000115	endothelial cell	Endothelial cell	UBERON:0035549	vasculature of integument	Blood vessels	62	17.884170682128797
+CL:0000115	endothelial cell	Endothelial cell	UBERON:0035549	vasculature of integument	Blood vessels	82	17.884170682128797
+CL:0000236	B cell	B cell	UBERON:0002072	hypodermis	Subcutaneous	76	15.960116451582174
+CL:0000312	keratinocyte	Keratinocyte (Granular)	UBERON:0002069	stratum granulosum of epidermis	Stratum granulosum (SG)	13	12.171533942351445
+CL:0000235	macrophage	Macrophage	UBERON:0002072	hypodermis	Subcutaneous	71	7.23538066147583
+CL:0000775	neutrophil	Neutrophil	UBERON:0002072	hypodermis	Subcutaneous	77	2.17772837259632
+UBERON:0008974	apocrine gland	Apocrine glands	UBERON:0001820	sweat gland	sweat gland	37	1.3449487089001195
+UBERON:0035549	vasculature of integument	Blood vessels	UBERON:0002072	hypodermis	Subcutaneous	82	1.215573008448132
+CL:0000097	mast cell	Mast cell	UBERON:0002072	hypodermis	Subcutaneous	72	0.17563513643894169
+CL:0002457	epidermal Langerhans cell	Langerhans cell	UBERON:0002069	stratum granulosum of epidermis	Stratum granulosum (SG)	14	
+CL:0002457	epidermal Langerhans cell	Langerhans cell	UBERON:0002026	stratum spinosum of epidermis	Stratum spinosum (SS)	16	
+CL:0000242	Merkel cell	Merkel cell	UBERON:0002026	stratum spinosum of epidermis	Stratum spinosum (SS)	17	
+CL:0002457	epidermal Langerhans cell	Langerhans cell	UBERON:0002025	stratum basale of epidermis	Stratum basale (SB)	19	
+CL:1000458	melanocyte of skin	Melanocyte	UBERON:0002025	stratum basale of epidermis	Stratum basale (SB)	21	
+CL:0002483	hair follicle melanocyte	Melanocyte	UBERON:0005932	bulb of hair follicle	Hair bulb	24	
+UBERON:0000412	dermal papilla	Hair papilla	UBERON:0002073	hair follicle	Hair follicles	25	
+UBERON:0005184	hair medulla	medulla	UBERON:0002074	hair shaft	Hair shaft	30	
+UBERON:0001821	sebaceous gland	Sebaceous glands	UBERON:0002073	hair follicle	Hair follicles	35	
+CL:1000417	myoepithelial cell of sweat gland	myoepithelial cell	UBERON:0000423	eccrine sweat gland	Eccrine (sweat) glands	36	
+CL:1000417	myoepithelial cell of sweat gland	myoepithelial cell	UBERON:0008974	apocrine gland	Apocrine glands	37	
+CL:0002337	keratinocyte stem cell	keratinocyte stem cell	UBERON:0002073	hair follicle	Hair follicles	38	
+CL:1000417	myoepithelial cell of sweat gland	myoepithelial cell	UBERON:0002067	dermis	Dermis	40	
+CL:0000097	mast cell	Mast cell	UBERON:0002067	dermis	Dermis	42	
+CL:0000235	macrophage	Macrophage	UBERON:0002067	dermis	Dermis	47	
+CL:0000545	T-helper 1 cell	T helper	UBERON:0002067	dermis	Dermis	48	
+CL:0000910	cytotoxic T cell	T killer	UBERON:0002067	dermis	Dermis	49	
+CL:0000815	regulatory T cell	T reg	UBERON:0002067	dermis	Dermis	50	
+CL:0000623	natural killer cell	Natural killer cell	UBERON:0002067	dermis	Dermis	51	
+CL:0001067	group 1 innate lymphoid cell	Natural killer cell / Innate lymphoid cell 1	UBERON:0002067	dermis	Dermis	52	
+CL:0001069	group 2 innate lymphoid cell	Innate lymphoid cell 2	UBERON:0002067	dermis	Dermis	53	
+CL:0001071	group 3 innate lymphoid cell	Innate lymphoid cell 3	UBERON:0002067	dermis	Dermis	54	
+CL:0000236	B cell	B cell	UBERON:0002067	dermis	Dermis	55	
+CL:0000786	plasma cell	Plasma cell	UBERON:0002067	dermis	Dermis	56	
+CL:0000775	neutrophil	Neutrophil	UBERON:0002067	dermis	Dermis	57	
+CL:0000771	eosinophil	Eosinophil	UBERON:0002067	dermis	Dermis	58	
+CL:0002573	Schwann cell	Schwann cell	UBERON:0002067	dermis	Dermis	60	
+CL:0002576	perineurial cell	perineurial cells	UBERON:0002067	dermis	Dermis	61	
+UBERON:0035549	vasculature of integument	Blood vessels	UBERON:0002067	dermis	Dermis	62	
+CL:0000359	vascular associated smooth muscle cell	Perivascular smooth muscle cell	UBERON:0002067	dermis	Dermis	63	
+CL:0002292	type I cell of carotid body	Glomus cell	UBERON:0002067	dermis	Dermis	64	
+CL:0000669	pericyte	pericyte	UBERON:0002067	dermis	Dermis	65	
+CL:0000669	pericyte	Pericyte	UBERON:0002067	dermis	Dermis	66	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	68	
+CL:0002138	endothelial cell of lymphatic vessel	Lymphatic	UBERON:0002072	hypodermis	Subcutaneous	68	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	69	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	70	
+CL:0002620	skin fibroblast	Fibroblast	UBERON:0002072	hypodermis	Subcutaneous	70	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	71	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	72	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	73	
+CL:0000545	T-helper 1 cell	T helper	UBERON:0002072	hypodermis	Subcutaneous	73	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	74	
+CL:0000910	cytotoxic T cell	T killer	UBERON:0002072	hypodermis	Subcutaneous	74	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	75	
+CL:0000815	regulatory T cell	T reg	UBERON:0002072	hypodermis	Subcutaneous	75	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	76	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	77	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	78	
+CL:0000771	eosinophil	Eosinophil	UBERON:0002072	hypodermis	Subcutaneous	78	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	79	
+UBERON:0007121	skin nerve field	nerve	UBERON:0002072	hypodermis	Subcutaneous	79	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	80	
+CL:0002573	Schwann cell	Schwann cell	UBERON:0002072	hypodermis	Subcutaneous	80	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	81	
+CL:0002576	perineurial cell	Perineural cell	UBERON:0002072	hypodermis	Subcutaneous	81	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	82	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	83	
+CL:0000359	vascular associated smooth muscle cell	Perivascular smooth muscle cell	UBERON:0002072	hypodermis	Subcutaneous	83	
+UBERON:0002072	hypodermis	Subcutaneous	UBERON:0002097	skin of body	skin	84	
+CL:0002292	type I cell of carotid body	Glomus cell	UBERON:0002072	hypodermis	Subcutaneous	84	

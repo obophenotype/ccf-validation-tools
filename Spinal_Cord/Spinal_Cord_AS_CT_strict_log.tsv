@@ -1,0 +1,53 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000065	Ependymal Cell	Ependymal Cell	UBERON:0014543	lumbar division of spinal cord central canal	lumbar division of spinal cord central canal	20
+CL:0000100	motor neuron	motor neuron	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	94
+CL:0000115	Endothelial Cell	Endothelial Cell	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	98
+CL:0000115	Endothelial Cell	Endothelial Cell	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	86
+CL:0000115	Endothelial Cell	Endothelial Cell	UBERON:0026386	lumbar spinal cord white matter	lumbar spinal cord white matter	25
+CL:0000115	Endothelial Cell	Endothelial Cell	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	107
+CL:0000127	Astrocyte	Astrocyte	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	84
+CL:0000127	Astrocyte	Astrocyte	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	105
+CL:0000127	Astrocyte	Astrocyte	UBERON:0026386	lumbar spinal cord white matter	lumbar spinal cord white matter	23
+CL:0000127	Astrocyte	Astrocyte	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	96
+CL:0000128	Oligodendrocyte	Oligodendrocyte	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	83
+CL:0000128	Oligodendrocyte	Oligodendrocyte	UBERON:0026386	lumbar spinal cord white matter	lumbar spinal cord white matter	21
+CL:0000128	Oligodendrocyte	Oligodendrocyte	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	95
+CL:0000128	Oligodendrocyte	Oligodendrocyte	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	104
+CL:0000129	microglial cell	Microglia	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	85
+CL:0000129	microglial cell	Microglia	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	97
+CL:0000129	microglial cell	Microglia	UBERON:0026386	lumbar spinal cord white matter	lumbar spinal cord white matter	24
+CL:0000129	microglial cell	Microglia	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	106
+CL:0000540	neuron	Medial Inhibitory Neuron 1	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	103
+CL:0000540	neuron	Ventral Excitatory Neuron 1	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	87
+CL:0000540	neuron	Ventral Excitatory Neuron 2	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	88
+CL:0000540	neuron	Ventral Excitatory Neuron 3	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	89
+CL:0000540	neuron	Medial Excitatory Neuron 1	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	99
+CL:0000540	neuron	Ventral Inhibitory Neuron 1	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	91
+CL:0000540	neuron	Ventral Inhibitory Neuron 2	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	92
+CL:0000540	neuron	Ventral Inhibitory Neuron 3	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	93
+CL:0000540	neuron	Medial Excitatory Neuron 4	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	102
+CL:0000540	neuron	Medial Excitatory Neuron 3	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	101
+CL:0000540	neuron	Medial Excitatory Neuron 2	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	100
+CL:0000540	neuron	Ventral Excitatory Neuron 1	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	90
+CL:0000540	neuron	Dorsal Excitatory Neuron 1	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	62
+CL:0000540	neuron	Dorsal Inhibitory Neuron 7	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	80
+CL:0000540	neuron	Dorsal Excitatory Neuron 2	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	63
+CL:0000540	neuron	Dorsal Excitatory Neuron 3	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	64
+CL:0000540	neuron	Dorsal Excitatory Neuron 4	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	65
+CL:0000540	neuron	Dorsal Excitatory Neuron 5	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	66
+CL:0000540	neuron	Dorsal Excitatory Neuron 6	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	67
+CL:0000540	neuron	Dorsal Excitatory Neuron 7	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	68
+CL:0000540	neuron	Dorsal Excitatory Neuron 8	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	69
+CL:0000540	neuron	Dorsal Excitatory Neuron 9	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	70
+CL:0000540	neuron	Dorsal Inhibitory Neuron 9	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	82
+CL:0000540	neuron	Dorsal Excitatory Neuron 10	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	71
+CL:0000540	neuron	Dorsal Excitatory Neuron 12	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	73
+CL:0000540	neuron	Dorsal Inhibitory Neuron 1	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	74
+CL:0000540	neuron	Dorsal Inhibitory Neuron 2	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	75
+CL:0000540	neuron	Dorsal Inhibitory Neuron 3	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	76
+CL:0000540	neuron	Dorsal Inhibitory Neuron 4	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	77
+CL:0000540	neuron	Dorsal Inhibitory Neuron 5	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	78
+CL:0000540	neuron	Dorsal Inhibitory Neuron 6	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	79
+CL:0000540	neuron	Dorsal Excitatory Neuron 11	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	72
+CL:0000540	neuron	Dorsal Inhibitory Neuron 8	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	81
+CL:0002453	Oligodendrocyte Precursor Cell	Oligodendrocyte Precursor Cell	UBERON:0026386	lumbar spinal cord white matter	lumbar spinal cord white matter	22

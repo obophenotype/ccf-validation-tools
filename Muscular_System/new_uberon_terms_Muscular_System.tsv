@@ -1,0 +1,83 @@
+Upper AS	Upper AS/label	Upper AS/ID	AS Name	References/ID	References/DOI
+anterior abdominal wall muscle	anterior abdominal wall muscle	UBERON:0002461	internal abdominal oblique muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+abdomen muscle	muscle of abdomen	UBERON:0002378	pelvic floor muscle	HTTPS:FIPATLIBRARYDALCATA2	
+abdomen muscle	muscle of abdomen	UBERON:0002378	pelvic floor muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+pelvic floor muscle			puboanalis muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+pelvic floor muscle			puboperineales muscle	HTTPS:FIPATLIBRARYDALCATA2	
+perineal muscle	perineal muscle	UBERON:0002379	external anal sphincter muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+perineal muscle	perineal muscle	UBERON:0002379	sphincter urethrae muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+abdomen muscle	muscle of abdomen	UBERON:0002378	posterior abdominal wall muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+posterior abdominal wall muscle			respiratory diaphragm muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+respiratory diaphragm muscle			costal part of respiratory diaphragm muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+respiratory diaphragm muscle			left crus of lumbar part of respiratory diaphragm muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+respiratory diaphragm muscle			right crus of lumbar part of respiratory diaphragm muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+respiratory diaphragm muscle			sternal part of respiratory diaphragm muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+abdomen muscle	muscle of abdomen	UBERON:0002378	spermatic cord muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+hand muscle	muscle of manus	UBERON:0001500	palmar interosseous muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+hypothenar compartment of hand muscle	Hypothenar compartment of hand	FMA:321806	flexor digiti minimi brevis muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+hypothenar compartment of hand muscle	Hypothenar compartment of hand	FMA:321806	opponens digiti minimi muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+arm muscle	muscle of arm	UBERON:0001499	hypothenar hand muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+erector spinae muscle	Erector spinae muscle group	FMA:71302	iliocostalis cervicalis muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+back muscle	muscle of back	UBERON:0002324	intermediate back muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+back muscle	muscle of back	UBERON:0002324	segmental back muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+segmental back muscle			anterior cervical intertransversarii muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+segmental back muscle			interspinales cervicalis muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+segmental back muscle			intertransversarii laterales lumborum muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+intertransversarii laterales lumborum muscle			dorsal part of intertransversarii laterales lumborum muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+intertransversarii laterales lumborum muscle			ventral part of intertransversarii laterales lumborum muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+segmental back muscle			lateral posterior cervical intertransversarii muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+segmental back muscle			medial lumbar intertransversarii muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+segmental back muscle			medial posterior cervical intertransversarii muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+segmental back muscle			thoracic intertransversarii muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+back muscle	muscle of back	UBERON:0002324	spinotransversales muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+spinotransversales muscle			splenius capitus muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+back muscle	muscle of back	UBERON:0002324	superficial back muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+transversospinales muscle	transversospinales muscle	UBERON:0010990	multifidus cervicis muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+transversospinales muscle	transversospinales muscle	UBERON:0010990	multifidus lumborum muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+transversospinales muscle	transversospinales muscle	UBERON:0010990	multifidus thoracis muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+pectoralis major muscle	pectoralis major	UBERON:0002381	clavicular head of pectoralis major muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+pectoralis major muscle	pectoralis major	UBERON:0002381	sternocostal head of pectoralis major muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+chest muscle	chest muscle	UBERON:0002426	thoracic wall muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+thoracic wall muscle			levator costarum muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+levator costarum muscle			levatores costarum breves of levator costarum muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+levator costarum muscle			levatores costarum longi of levator costarum muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+cranial muscle	cranial muscle	UBERON:0002376	external ear muscle	HTTPS:FIPATLIBRARYDALCATA2	
+cranial muscle	cranial muscle	UBERON:0002376	external ear muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+hyoglossus muscle	hyoglossus muscle	UBERON:0001572	ceratoglossus of hyoglossus muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+hyoglossus muscle	hyoglossus muscle	UBERON:0001572	chondroglossus of hyoglossus muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+cranial muscle	cranial muscle	UBERON:0002376	intrinsic eye muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+intrinsic tongue muscle	intrinsic muscle of tongue	UBERON:0001576	inferior longitudinal lingual muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+intrinsic tongue muscle	intrinsic muscle of tongue	UBERON:0001576	superior longitudinal lingual muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+intrinsic tongue muscle	intrinsic muscle of tongue	UBERON:0001576	transverse muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+intrinsic tongue muscle	intrinsic muscle of tongue	UBERON:0001576	vertical muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+lateral pterygoid muscle	lateral pterygoid muscle	UBERON:0006719	inferior head of lateral pterygoid muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+lateral pterygoid muscle	lateral pterygoid muscle	UBERON:0006719	superior head of lateral pterygoid muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+cranial muscle	cranial muscle	UBERON:0002376	middle ear muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+cranial muscle	cranial muscle	UBERON:0002376	muscle of facial expression	HTTPS:FIPATLIBRARYDALCATA2	
+cranial muscle	cranial muscle	UBERON:0002376	muscle of facial expression	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+occipitofrontalis muscle	occipitofrontalis muscle	UBERON:0010946	frontal belly of occipitofrontalis muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+occipitofrontalis muscle	occipitofrontalis muscle	UBERON:0010946	occipital belly of occipitofrontalis muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+palatal muscle	palatal muscle	UBERON:0003682	musculus uvulae muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+anterior compartment of leg muscle	Muscle of anterior compartment of leg	FMA:22472	tibalis anterior muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+anterior compartment of thigh muscle	Muscle of anterior compartment of thigh	FMA:22424	articularis genu muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+leg muscle	muscle of leg	UBERON:0001383	dorsum of foot muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+gluteal muscle	gluteal muscle	UBERON:0002000	tensor fascia latae muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+leg muscle	muscle of leg	UBERON:0001383	lateral compartmet of leg muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+adductor magnus muscle	adductor magnus	UBERON:0000370	hamstring portion of adductor magnus muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+leg muscle	muscle of leg	UBERON:0001383	posterior abdominal wall muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+posterior compartment of leg muscle	Muscle of posterior compartment of leg	FMA:22474	tibalis posterior muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+leg muscle	muscle of leg	UBERON:0001383	sole of foot muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+sole of foot muscle			flexor digiti minimi brevis muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+sole of foot muscle			plantar interosseous muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+neck muscle	muscle of neck	UBERON:0002377	anterior vertebral muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+anterior vertebral muscle			longus capitus muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+anterior vertebral muscle			rectus capitus anterior muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+neck muscle	muscle of neck	UBERON:0002377	circular pharyngeal muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+inferior pharyngeal constrictor muscle	Inferior pharyngeal constrictor	FMA:46623	thyropharyngeal part of inferior pharyngeal constrictor muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+superior pharyngeal constrictor muscle	Superior pharyngeal constrictor	FMA:46621	pteryopharyngeal part of superior pharyngeal constrictor muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+oblique arytenoid muscle	Oblique arytenoid	FMA:46583	aryepiglottic part of oblique arytenoid muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+thyroarytenoid muscle	Thyro-arytenoid	FMA:46588	thyroepiglottic part of thyroarytenoid muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+neck muscle	muscle of neck	UBERON:0002377	lateral vertebral muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+neck muscle	muscle of neck	UBERON:0002377	longitudinal pharyngeal muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+neck muscle	muscle of neck	UBERON:0002377	muscle of facial expression	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	
+suboccipital muscle	Set of suboccipital muscles	FMA:71439	rectus capitius posterior minor muscle	HTTPS:FIPATLIBRARYDALCATA2 ; ISBN:9780323393225	

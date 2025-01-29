@@ -1,0 +1,80 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:0006842	lymphatic capillary	capillaries of lymph node	59
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410036	medullary venule of lymph node	Venule	91
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410035	medullary arteriole of lymph node	Arteriole	90
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410038	high endothelial venule of lymph node	High Endothelial Venule	60
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410034	lymph node artery	Lymphatic Artery	97
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410042	arteriole of lymph node	Arteriole	58
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410042	arteriole of lymph node	Arteriole	26
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410041	venule of lymph node	Venule	25
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410033	lymph node vein	Hilar Vein	98
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410042	arteriole of lymph node	Arteriole	16
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410042	arteriole of lymph node	Arteriole	13
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410041	venule of lymph node	Venule	14
+CL:0000084	T Cell	T Cell	UBERON:0009745	lymph node medullary cord	Medullary Cord	82
+CL:0000084	T Cell	T Cell	UBERON:0009745	lymph node medullary cord	Medullary Cord	81
+CL:0000097	mast cell	Mast Cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	75
+CL:0000097	mast cell	Mast Cell	UBERON:0009745	lymph node medullary cord	Medullary Cord	86
+CL:0000186	myofibroblast cell	Myofibroblast	UBERON:0002194	capsule of lymph node	Capsule	12
+CL:0000186	myofibroblast cell	Myofibroblast	UBERON:0002195	trabecula of lymph node	Trabeculae	15
+CL:0000235	macrophage	Macrophage	UBERON:0010395	lymph node primary follicle	Primary Follicle	30
+CL:0000235	macrophage	Macrophage	UBERON:0009745	lymph node medullary cord	Medullary Cord	87
+CL:0000235	macrophage	Macrophage	UBERON:8410074	lymph node paracortical sinus	Paracortical Sinus	57
+CL:0000235	macrophage	Macrophage	UBERON:0009744	lymph node medullary sinus	Medullary Sinus	79
+CL:0000236	B cell	B Cell	UBERON:0009745	lymph node medullary cord	Medullary Cord	85
+CL:0000236	B cell	B Cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	78
+CL:0000442	follicular dendritic cell	Follicular Dendritic Cell	UBERON:8410052	lymph node germinal center light zone	Light Zone	31
+CL:0000442	follicular dendritic cell	Follicular Dendritic Cell	UBERON:0010395	lymph node primary follicle	Primary Follicle	27
+CL:0000451	dendritic cell	Dendritic Cell	UBERON:0009745	lymph node medullary cord	Medullary Cord	89
+CL:0000451	dendritic cell	Dendritic Cell	UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	52
+CL:0000451	dendritic cell	Dendritic Cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	63
+CL:0000545	T-helper 1 cell	Th1 cell	UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	43
+CL:0000545	T-helper 1 cell	Th1 cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	66
+CL:0000546	T-helper 2 cell	Th2 cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	67
+CL:0000546	T-helper 2 cell	Th2 cell	UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	44
+CL:0000623	natural killer cell	Natural Killer Cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	74
+CL:0000623	natural killer cell	Natural Killer Cell	UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	50
+CL:0000669	pericyte	Pericyte	UBERON:0002007	medulla of lymph node	Medulla	92
+CL:0000669	pericyte	Pericyte	UBERON:8410041	venule of lymph node	Venule	17
+CL:0000786	plasma cell	Plasma Cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	76
+CL:0000786	plasma cell	Plasma Cell	UBERON:0009745	lymph node medullary cord	Medullary Cord	84
+CL:0000787	memory B cell	Memory B Cell	UBERON:0010395	lymph node primary follicle	Primary Follicle	29
+CL:0000787	memory B cell	Memory B Cell	UBERON:0010420	lymph node germinal center mantle zone	Mantle Zone	40
+CL:0000788	naive B cell	Naive B Cell	UBERON:0010395	lymph node primary follicle	Primary Follicle	28
+CL:0000788	naive B cell	Naive B Cell	UBERON:0010420	lymph node germinal center mantle zone	Mantle Zone	39
+CL:0000798	gamma-delta T cell	Gamma/Delta T cells	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	69
+CL:0000815	regulatory T cell	T Regulatory Cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	70
+CL:0000815	regulatory T cell	T Regulatory Cell	UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	46
+CL:0000887	lymph node subcapsular sinus macrophage	Macrophage	UBERON:0005463	subcapsular sinus of lymph node	Subcapsular Sinus	20
+CL:0000888	lymph node tingible body macrophage	Tingible Body Macrophage	UBERON:8410052	lymph node germinal center light zone	Light Zone	35
+CL:0000895	naive thymus-derived CD4-positive, alpha-beta T cell	Naive CD4+ T cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	64
+CL:0000895	naive thymus-derived CD4-positive, alpha-beta T cell	Naive CD4+ T cell	UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	41
+CL:0000897	CD4-positive, alpha-beta memory T cell	Memory CD4+ T cell	UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	42
+CL:0000897	CD4-positive, alpha-beta memory T cell	Memory CD4+ T cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	65
+CL:0000899	T-helper 17 cell	Th17 cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	68
+CL:0000899	T-helper 17 cell	Th17 cell	UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	45
+CL:0000900	naive thymus-derived CD8-positive, alpha-beta T cell	Naive CD8+ T cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	72
+CL:0000900	naive thymus-derived CD8-positive, alpha-beta T cell	Naive CD8+ T cell	UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	48
+CL:0000909	CD8-positive, alpha-beta memory T cell	Memory CD8+ T cell	UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	49
+CL:0000909	CD8-positive, alpha-beta memory T cell	Memory CD8+ T cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	73
+CL:0000910	cytotoxic T cell	T Cytotoxic Cell	UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	47
+CL:0000910	cytotoxic T cell	T Cytotoxic Cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	71
+CL:0000980	plasmablast	Plasmablast	UBERON:0009745	lymph node medullary cord	Medullary Cord	88
+CL:0000980	plasmablast	Plasmablast	UBERON:8410052	lymph node germinal center light zone	Light Zone	36
+CL:0001058	plasmacytoid dendritic cell, human	Plasmacytoid Dendritic Cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	61
+CL:0002038	T follicular helper cell	T Follicular Helper Cell	UBERON:8410052	lymph node germinal center light zone	Light Zone	33
+CL:0002138	endothelial cell of lymphatic vessel	Lymphatic Endothelial Cell	UBERON:0009744	lymph node medullary sinus	Medullary Sinus	83
+CL:0002138	endothelial cell of lymphatic vessel	Lymphatic Endothelial Cell	UBERON:8410074	lymph node paracortical sinus	Paracortical Sinus	55
+CL:0002138	endothelial cell of lymphatic vessel	Lymphatic Endothelial Cell	UBERON:0010397	efferent lymphatic vessel	Efferent Lymphatics	94
+CL:0002394	CD141-positive myeloid dendritic cell	Conventional Dendritic Cell cDC1	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	62
+CL:0002399	CD1c-positive myeloid dendritic cell	Conventional Dendritic Cell cDC2	UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	54
+CL:0009105	T cell zone reticular cell	T Cell Zone Reticular Cell	UBERON:8410074	lymph node paracortical sinus	Paracortical Sinus	56
+CL:0009105	T cell zone reticular cell	T Cell Zone Reticular Cell	UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	51
+CL:0009106	medullary reticular cell	Medullary Reticular Cell	UBERON:0009745	lymph node medullary cord	Medullary Cord	80
+CL:0009109	lymphatic endothelial cell of trabecula	Lymphatic Endothelial Cell-Trabeculae	UBERON:8410032	trabecular sinus of lymph node	Trabecular sinus	24
+CL:0009110	lymphatic endothelial cell of medulla ceiling	Lymphatic Endothelial Cell of Medulla Ceiling	UBERON:0005463	subcapsular sinus of lymph node	Subcapsular Sinus	93
+CL:0009113	T follicular regulatory cell	T Follicular Regulatory Cell	UBERON:8410052	lymph node germinal center light zone	Light Zone	34
+CL:0009113	T follicular regulatory cell	T Follicular Regulatory Cell	UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	53
+CL:0009114	monocytoid B Cell	Monocytoid B Cell	UBERON:8410075	lymph node paracortical cord	Paracortical Cord	77
+CL:0011103	sympathetic neuron	Sympathetic Neuron	UBERON:0034729	sympathetic nerve	Sympathetic nerve	96
+CL:0019017	lymphatic vessel smooth muscle cell	Smooth Muscle Cell	UBERON:0010397	efferent lymphatic vessel	Efferent Lymphatics	95

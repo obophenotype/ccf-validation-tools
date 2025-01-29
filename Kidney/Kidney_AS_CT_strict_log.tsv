@@ -1,0 +1,27 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000084	T cell	T Cell	UBERON:0005215	kidney interstitium	Interstitium	82
+CL:0000097	mast cell	Mast cell	UBERON:0005215	kidney interstitium	Interstitium	88
+CL:0000113	mononuclear phagocyte	mononuclear phagocyte	UBERON:0005215	kidney interstitium	Interstitium	81
+CL:0000115	endothelial cell	Endothelial Cell	UBERON:0001986	endothelium	Endothelium (non glomerular)	59
+CL:0000236	B cell	B cell	UBERON:0005215	kidney interstitium	Interstitium	85
+CL:0000499	stromal cell	stromal cell	UBERON:0002015	kidney capsule	kidney capsule	12
+CL:0000576	monocyte	Monocyte	UBERON:0005215	kidney interstitium	Interstitium	80
+CL:0000623	natural killer cell	Natural Killer Cell	UBERON:0005215	kidney interstitium	Interstitium	75
+CL:0000738	Leukocyte	Leukocyte	UBERON:0005215	kidney interstitium	Interstitium	72
+CL:0000775	neutrophil	Neutrophil	UBERON:0005215	kidney interstitium	Interstitium	87
+CL:0000786	plasma cell	Plasma cell	UBERON:0005215	kidney interstitium	Interstitium	86
+CL:0000814	mature NK T cell	Natural Killer T Cell	UBERON:0005215	kidney interstitium	Interstitium	76
+CL:0000815	regulatory T cell	regulatory T cell	UBERON:0005215	kidney interstitium	Interstitium	84
+CL:0000875	non-classical monocyte	non Classical Monocyte	UBERON:0005215	kidney interstitium	Interstitium	74
+CL:0000910	cytotoxic T cell	Cytotoxic T Cell	UBERON:0005215	kidney interstitium	Interstitium	83
+CL:0000990	conventional dendritic cell	Dendritic Cell (classical)	UBERON:0005215	kidney interstitium	Interstitium	78
+CL:0001056	dendritic cell, human	Dendritic Cell (general)	UBERON:0005215	kidney interstitium	Interstitium	77
+CL:0001058	plasmacytoid dendritic cell, human	Dendritic Cell (plasmatoid)	UBERON:0005215	kidney interstitium	Interstitium	79
+CL:0002138	endothelial cell of lymphatic vessel	Lymphatic Endothelial Cell	UBERON:0002042	lymphatic vessel endothelium	Endothelium (non glomerular)	65
+CL:0002201	renal beta-intercalated cell	Intercalated Cell Type B	UBERON:0001232	collecting duct of renal tubule	Collecting Duct	57
+CL:0019018	blood vessel smooth muscle cell	Vascular Smooth Muscle Cell	UBERON:0003517	kidney blood vessel	Kidney Blood Vessel	67
+CL:1000718	kidney inner medulla collecting duct principal cell	Inner Medullary Collecting Duct Cell	UBERON:0009095	tip of renal papilla	papillary tip	19
+CL:1001318	renal interstitial pericyte	Vascular Smooth Muscle Cell/Pericyte (general)	UBERON:0003517	kidney blood vessel	Kidney Blood Vessel	66
+CL:4030013	kidney loop of Henle long descending thin limb outer medulla epithelial cell	Descending Thin Limb Cell Type 2	UBERON:8600036	kidney loop of Henle long descending thin limb outer medulla	descending thin limb of loop of Henle 2	32
+CL:4030013	kidney loop of Henle long descending thin limb outer medulla epithelial cell	Descending Thin Limb Cell Type 2	UBERON:8600036	kidney loop of Henle long descending thin limb outer medulla	descending thin limb of loop of Henle 2	17
+CL:4030014	kidney loop of Henle long descending thin limb inner medulla epithelial cell	Descending Thin Limb Cell Type 3	UBERON:8600037	kidney loop of Henle long descending thin limb inner medulla	descending thin limb of loop of Henle 3	33

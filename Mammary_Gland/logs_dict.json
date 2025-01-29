@@ -1,0 +1,128 @@
+{
+  "no_valid_id": [
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Basal cell",
+      "row_number": 12
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "estrogen receptor negative luminal progenitor cell",
+      "row_number": 13
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "mature luminal cell",
+      "row_number": 14
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Endothelial cell 1",
+      "row_number": 15
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Endothelial cell 2",
+      "row_number": 16
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Adipocyte 1",
+      "row_number": 17
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Adipocyte 2",
+      "row_number": 18
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Fibroblast",
+      "row_number": 19
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "T-cell",
+      "row_number": 20
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Macrophage",
+      "row_number": 21
+    }
+  ],
+  "no_found_id": [],
+  "diff_label": [],
+  "no_parent": [
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Basal cell",
+      "row_number": 12
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "estrogen receptor negative luminal progenitor cell",
+      "row_number": 13
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "mature luminal cell",
+      "row_number": 14
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Endothelial cell 1",
+      "row_number": 15
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Endothelial cell 2",
+      "row_number": 16
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Adipocyte 1",
+      "row_number": 17
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Adipocyte 2",
+      "row_number": 18
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Fibroblast",
+      "row_number": 19
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "T-cell",
+      "row_number": 20
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Macrophage",
+      "row_number": 21
+    }
+  ]
+}

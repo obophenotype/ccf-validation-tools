@@ -1,0 +1,34 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+CL:0000084	T Cell	T Cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	60	44.36917459208757
+CL:0000236	B cell	B cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	58	44.30637623978891
+CL:0000236	B cell	B cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	55	44.30637623978891
+CL:0000236	B cell	B cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	54	44.30637623978891
+UBERON:0001981	blood vessel	blood vessel	UBERON:0002373	palatine tonsil	palatine tonsil	30	41.37455205951718
+UBERON:0001981	blood vessel	blood vessel	UBERON:0002373	palatine tonsil	palatine tonsil	28	41.37455205951718
+UBERON:0001981	blood vessel	blood vessel	UBERON:0002373	palatine tonsil	palatine tonsil	31	41.37455205951718
+UBERON:0001981	blood vessel	blood vessel	UBERON:0002373	palatine tonsil	palatine tonsil	29	41.37455205951718
+UBERON:0001981	blood vessel	blood vessel	UBERON:0002373	palatine tonsil	palatine tonsil	26	41.37455205951718
+UBERON:0001981	blood vessel	blood vessel	UBERON:0002373	palatine tonsil	palatine tonsil	27	41.37455205951718
+CL:0000235	Macrophage	macrophage	UBERON:0013688	tonsil germinal center	tonsil germinal center	61	35.58164044968257
+CL:0000624	CD4-positive, alpha-beta T cell	CD4 T cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	56	34.12684973439549
+CL:0000084	T cell	T cell	UBERON:0002373	palatine tonsil	palatine tonsil	16	32.5687769928711
+CL:0000236	B cell	B cell	UBERON:0002373	palatine tonsil	palatine tonsil	21	32.505978640572444
+CL:0000057	Fibroblast	fibroblast	UBERON:0002373	palatine tonsil	palatine tonsil	19	30.608695788960638
+CL:0000786	Plasma Cell	plasma cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	59	26.271158922168112
+CL:0000815	regulatory T cell	regulatory T cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	57	26.148053893112035
+CL:0000235	Macrophage	macrophage	UBERON:0002373	palatine tonsil	palatine tonsil	23	23.7812428504661
+CL:0000451	Dendritic Cell	dendritic cell	UBERON:0002373	palatine tonsil	palatine tonsil	22	23.7812428504661
+CL:0000624	CD4-positive, alpha-beta T cell	CD4 T cell	UBERON:0002373	palatine tonsil	palatine tonsil	17	22.326452135179025
+CL:0000844	germinal center B cell	germinal center B cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	62	21.457586928142902
+CL:0000844	germinal center B cell	germinal center B cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	63	21.457586928142902
+CL:0000625	CD8-positive, alpha-beta T cell	CD8 T cell	UBERON:0002373	palatine tonsil	palatine tonsil	18	19.035778260692283
+CL:0000786	Plasma Cell	plasma cell	UBERON:0002373	palatine tonsil	palatine tonsil	25	14.470761322951645
+CL:0000786	Plasma Cell	plasma cell	UBERON:0002373	palatine tonsil	palatine tonsil	24	14.470761322951645
+CL:0000235	Macrophage	macrophage	UBERON:0010754	germinal center	germinal center	48	12.55389585417197
+CL:0000432	Reticular cell	reticular cells	UBERON:0002373	palatine tonsil	palatine tonsil	20	3.364260419900816
+CL:0000786	Plasma Cell	plasma cell	UBERON:0010754	germinal center	germinal center	46	3.243414326657515
+CL:0000815	regulatory T cell	regulatory T cell	UBERON:0010754	germinal center	germinal center	44	3.1203092976014375
+UBERON:0010423	primary lymphoid nodule of tonsil	primary nodular lymphoid tissue	UBERON:0002373	palatine tonsil	palatine tonsil	12	
+UBERON:0012181	tonsil crypt	tonsil crypt	UBERON:0002373	palatine tonsil	palatine tonsil	13	
+UBERON:0005207	tonsil capsule	tonsil capsule	UBERON:0002373	palatine tonsil	palatine tonsil	14	
+UBERON:0013696	tonsil epithelium	tonsil epithelium	UBERON:0002373	palatine tonsil	palatine tonsil	15	

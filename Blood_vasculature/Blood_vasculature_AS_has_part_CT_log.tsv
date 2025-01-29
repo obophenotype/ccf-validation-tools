@@ -1,0 +1,830 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000057	fibroblast	fibroblast	UBERON:0000947	aorta	aorta	38
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002016	pulmonary vein	pulmonary vein	17
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011955	left hepatic vein	left hepatic vein	2731
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011955	left hepatic vein	left hepatic vein	2733
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006841	central vein of liver	central vein of liver	2735
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001281	hepatic sinusoid	hepatic sinusoid	2737
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600085	hepatic portal venule	hepatic portal venule	2740
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600085	hepatic portal venule	hepatic portal venule	2742
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001639	hepatic portal vein	hepatic portal vein #2	2748
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600085	hepatic portal venule	hepatic portal venule	2750
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600085	hepatic portal venule	hepatic portal venule	2754
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001639	hepatic portal vein	hepatic portal vein	2760
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035392	cystic vein	cystic vein	2762
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001639	hepatic portal vein	hepatic portal vein	2764
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014690	left gastric vein	left gastric vein	2766
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035655	paraumbilical vein	paraumbilical vein	2768
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001639	hepatic portal vein	hepatic portal vein	2770
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014691	right gastric vein	right gastric vein	2772
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014691	right gastric vein	right gastric vein	2774
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0003713	splenic vein	splenic vein	2776
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001215	inferior mesenteric vein	inferior mesenteric vein	2778
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8410017	left colic vein	left colic vein	2780
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8410017	left colic vein	left colic vein	2782
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011955	left hepatic vein	left hepatic vein	2729
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011955	left hepatic vein	left hepatic vein	2727
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001072	inferior vena cava	inferior vena cava	2725
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006687	median sacral vein	median sacral vein	2723
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006690	deep dorsal vein of clitoris	deep dorsal vein of clitoris	2681
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006690	deep dorsal vein of clitoris	deep dorsal vein of clitoris	2683
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006656	deep dorsal vein of penis	deep dorsal vein of penis	2685
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001317	internal iliac vein	internal iliac vein	2687
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001318	inferior vesical vein	inferior vesical vein	2689
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0009042	prostatic venous plexus	prostatic venous plexus	2691
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600084	prostatic venule	prostatic venule	2693
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0018252	internal pudendal vein	internal pudendal vein	2695
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0018252	internal pudendal vein	internal pudendal vein	2697
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0018252	internal pudendal vein	internal pudendal vein	2699
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0018252	internal pudendal vein	internal pudendal vein	2701
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600056	lateral sacral vein	lateral sacral vein	2703
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600057	middle hemorrhoidal vein	middle hemorrhoidal vein	2705
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001321	obturator vein	obturator vein	2707
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001362	perineal vein	perineal vein	2709
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001317	internal iliac vein	internal iliac vein	2711
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006355	superior vesical vein	superior vesical vein	2713
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600058	uterine vein	uterine vein	2715
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0008889	uterine venous plexus	uterine venous plexus	2717
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001319	vaginal vein	vaginal vein	2719
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002460	vesical vein	vesical vein	2721
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001215	inferior mesenteric vein	inferior mesenteric vein	2784
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001215	inferior mesenteric vein	inferior mesenteric vein	2786
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001215	inferior mesenteric vein	inferior mesenteric vein	2788
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0003713	splenic vein	splenic vein	2790
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001142	left renal vein	left renal vein	2883
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001142	left renal vein	left renal vein	2885
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001142	left renal vein	left renal vein	2887
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035483	left suprarenal vein	left suprarenal vein	2889
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0000443	left testicular vein	left testicular vein	2891
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600105	lumbar vein	lumbar vein	2893
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600105	lumbar vein	lumbar vein	2895
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600104	intervertebral vein	intervertebral vein	2897
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600103	anterior internal vertebral venous plexus	anterior internal vertebral venous plexus	2899
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600066	basivertebral vein	basivertebral vein	2901
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600104	intervertebral vein	intervertebral vein	2903
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600104	intervertebral vein	intervertebral vein	2909
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600104	intervertebral vein	intervertebral vein	2911
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600105	lumbar vein	lumbar vein	2921
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011957	middle hepatic vein	middle hepatic vein	2923
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011957	middle hepatic vein	middle hepatic vein	2925
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011957	middle hepatic vein	middle hepatic vein	2927
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011957	middle hepatic vein	middle hepatic vein	2929
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001140	renal vein	renal vein	2931
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001140	renal vein	renal vein	2933
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0009887	interlobar vein	interlobar renal vein	2935
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600085	hepatic portal venule	hepatic portal venule	2879
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600085	hepatic portal venule	hepatic portal venule	2875
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600085	hepatic portal venule	hepatic portal venule	2869
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600085	hepatic portal venule	hepatic portal venule	2865
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001214	pancreatic tributary of splenic vein	pancreatic tributary of splenic vein	2792
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0003713	splenic vein	splenic vein	2794
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0010400	spleen trabecular vein	spleen trabecular vein	2806
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0010400	spleen trabecular vein	spleen trabecular vein	2808
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0003910	splenic sinusoid	splenic venous sinusoid	2810
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001138	superior mesenteric vein	superior mesenteric vein	2813
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001138	superior mesenteric vein	superior mesenteric vein	2815
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001217	ileal vein	ileal vein	2817
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001219	ileocolic vein	ileocolic vein	2819
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001219	ileocolic vein	ileocolic vein	2821
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001317	internal iliac vein	internal iliac vein	2679
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001216	jejunal vein	jejunal vein	2831
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001218	middle colic vein	middle colic vein	2835
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001138	superior mesenteric vein	superior mesenteric vein	2837
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8410018	right colic vein	right colic vein	2839
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8410018	right colic vein	right colic vein	2841
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001138	superior mesenteric vein	superior mesenteric vein	2843
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001639	hepatic portal vein	hepatic portal vein	2847
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001639	hepatic portal vein	hepatic portal vein	2849
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600085	hepatic portal venule	hepatic portal venule	2851
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600085	hepatic portal venule	hepatic portal venule	2855
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600085	hepatic portal venule	hepatic portal venule	2859
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001218	middle colic vein	middle colic vein	2833
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001320	iliolumbar vein	iliolumbar vein	2677
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001316	external iliac vein	external iliac vein	2675
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007154	inferior epigastric vein	inferior epigastric vein	2673
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0018231	labyrinthine artery	labyrinthine artery	2445
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002505	spiral modiolar artery	spiral modiolar artery	2457
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001633	basilar artery	basilar artery	2465
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001633	basilar artery	basilar artery	2469
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001636	posterior cerebral artery	posterior cerebral artery	2473
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035183	calcarine artery	calcarine artery	2477
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001636	posterior cerebral artery	posterior cerebral artery	2481
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001636	posterior cerebral artery	posterior cerebral artery	2485
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001636	posterior cerebral artery	posterior cerebral artery	2489
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001634	mesencephalic artery	mesencephalic artery	2493
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001636	posterior cerebral artery	posterior cerebral artery	2497
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001636	posterior cerebral artery	posterior cerebral artery	2501
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001635	superior cerebellar artery	superior cerebellar artery	2505
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0009688	posterior inferior cerebellar artery	posterior inferior cerebellar artery	2509
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007146	posterior spinal artery	posterior spinal artery	2513
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001535	vertebral artery	vertebral artery	2517
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001626	left coronary artery	left coronary artery	2521
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600102	left anterior descending artery	left anterior descending artery	2525
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600102	left anterior descending artery	left anterior descending artery	2529
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600102	left anterior descending artery	left anterior descending artery	2533
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600102	left anterior descending artery	left anterior descending artery	2537
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0018231	labyrinthine artery	labyrinthine artery	2441
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0018231	labyrinthine artery	labyrinthine artery	2437
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0009689	anterior inferior cerebellar artery	anterior inferior cerebellar artery	2433
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001633	basilar artery	basilar artery	2429
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006632	musculo-phrenic artery	musculophrenic artery	2315
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006632	musculo-phrenic artery	musculophrenic artery	2319
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006632	musculo-phrenic artery	musculophrenic artery	2323
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600081	percardiacophrenic artery	percardiacophrenic artery	2327
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001651	right pulmonary artery	right pulmonary artery	3417
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007153	superior epigastric artery	superior epigastric artery	2339
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0018243	thymic artery	thymic artery	2343
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0018243	thymic artery	thymic artery	2347
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600062	thyrocervical trunk	thyrocervical trunk	2353
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007149	inferior thyroid artery	inferior thyroid artery	2357
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600063	septal perforating artery	septal perforating artery	2541
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012322	ascending cervical artery	ascending cervical artery	2361
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007149	inferior thyroid artery	inferior thyroid artery	2389
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007149	inferior thyroid artery	inferior thyroid artery	2393
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007149	inferior thyroid artery	inferior thyroid artery	2397
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600062	thyrocervical trunk	thyrocervical trunk	2401
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012324	transverse cervical artery	transverse cervical artery	2405
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012324	transverse cervical artery	transverse cervical artery	2409
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001071	superficial cervical artery	superficial cervical artery	2413
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001535	vertebral artery	vertebral artery	2417
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005431	anterior spinal artery	anterior spinal artery	2421
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005431	anterior spinal artery	anterior spinal artery	2425
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012322	ascending cervical artery	ascending cervical artery	2365
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0004719	kidney arcuate vein	arcuate renal vein	2937
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035422	circumflex branch of left coronary artery	left circumflex artery	2545
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035422	circumflex branch of left coronary artery	left circumflex artery	2553
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600082	superficial iliac circumflex vein	superficial iliac circumflex vein	2627
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600065	lateral femoral circumflex vein	lateral femoral circumflex vein	2629
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035234	medial circumflex femoral vein	medial circumflex femoral vein	2631
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001544	popliteal vein	popliteal vein	2633
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001545	anterior tibial vein	anterior tibial vein	2635
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0008783	dorsal venous arch	dorsal venous arch of foot	2637
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001549	dorsal metatarsal vein	dorsal metatarsal vein	2639
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001549	dorsal metatarsal vein	dorsal metatarsal vein	2641
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0013143	gastrocnemius vein	gastrocnemius vein	2643
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001544	popliteal vein	popliteal vein	2645
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0013142	soleal vein	soleal vein	2647
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001546	posterior tibial vein	posterior tibial vein	2649
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001546	posterior tibial vein	posterior tibial vein	2651
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006139	plantar digital vein	plantar digital vein	2657
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006144	medial plantar digital vein	medial plantar vein	2659
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006144	medial plantar digital vein	medial plantar vein	2661
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0013142	soleal vein	soleal vein #2	2663
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001547	small saphenous vein	small saphenous vein	2665
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0008783	dorsal venous arch	dorsal venous arch of foot #3	2667
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001548	lateral marginal vein	lateral marginal vein	2669
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0013144	vein of genicular venous plexus	vein of genicular venous plexus	2671
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0009049	superficial external pudendal vein	superficial external pudendal vein	2625
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014692	superficial epigastric vein	superficial epigastric vein	2623
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001363	great saphenous vein	great saphenous vein	2621
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0008783	dorsal venous arch	dorsal venous arch of foot #2	2619
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600064	posterolateral artery	posterolateral artery	2557
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001625	right coronary artery	right coronary artery	2561
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001625	right coronary artery	right coronary artery	2565
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001625	right coronary artery	right coronary artery	2569
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001625	right coronary artery	right coronary artery	2573
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001625	right coronary artery	right coronary artery	2581
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001625	right coronary artery	right coronary artery	2585
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005438	coronary sinus	coronary sinus	2590
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006958	great vein of heart	great cardiac vein	2591
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006958	great vein of heart	great cardiac vein	2593
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035422	circumflex branch of left coronary artery	left circumflex artery	2549
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0009687	middle cardiac vein	middle cardiac vein	2595
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001072	inferior vena cava	inferior vena cava	2599
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001139	common iliac vein	common iliac vein	2601
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001316	external iliac vein	external iliac vein	2603
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001360	deep circumflex iliac vein	deep circumflex iliac vein	2605
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001361	femoral vein	femoral vein	2607
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001363	great saphenous vein	great saphenous vein	2609
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001363	great saphenous vein	great saphenous vein	2611
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0009048	deep external pudendal vein	deep external pudendal vein	2613
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0018253	external pudendal vein	external pudendal vein	2615
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001550	medial marginal vein	medial marginal vein	2617
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035374	small cardiac vein	small cardiac vein	2597
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005168	renal interlobular vein	interlobular renal vein	2939
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005168	renal interlobular vein	interlobular renal vein	2941
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0010181	straight venules of kidney	straight venule of kidney	2943
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012200	anterior intercostal vein	anterior intercostal vein	3198
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001589	internal thoracic vein	internal thoracic vein	3200
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001589	internal thoracic vein	internal thoracic vein	3202
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001589	internal thoracic vein	internal thoracic vein	3204
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001589	internal thoracic vein	internal thoracic vein	3206
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001589	internal thoracic vein	internal thoracic vein	3208
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001589	internal thoracic vein	internal thoracic vein	3210
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006662	musculo-phrenic vein	musculophrenic vein	3212
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006662	musculo-phrenic vein	musculophrenic vein	3214
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006662	musculo-phrenic vein	musculophrenic vein	3216
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006662	musculo-phrenic vein	musculophrenic vein	3218
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007155	superior epigastric vein	superior epigastric vein	3220
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001590	pericardiacophrenic vein	pericardiacophrenic vein	3222
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001587	subclavian vein	subclavian vein	3224
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0000985	axillary vein	axillary vein	3226
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001411	basilic vein	basilic vein	3228
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001411	basilic vein	basilic vein	3230
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001411	basilic vein	basilic vein	3236
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001414	median basilic vein	median cubital vein	3238
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001413	brachial vein	brachial vein	3240
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600092	radial vein	radial vein	3242
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001589	internal thoracic vein	internal thoracic vein	3196
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007157	superior thyroid vein	superior thyroid vein	3194
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600072	glandular venous plexus	glandular venous plexus	3192
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007157	superior thyroid vein	superior thyroid vein	3190
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001641	transverse sinus	transverse sinus	3147
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005481	tentorial sinus	straight sinus	3149
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006666	great cerebral vein	great cerebral vein	3150
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035530	basal vein	basal vein	3152
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001672	anterior cerebral vein	anterior cerebral vein	3154
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035532	deep middle cerebral vein	deep middle cerebral vein	3156
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035530	basal vein	basal vein	3158
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035530	basal vein	basal vein	3160
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035152	internal cerebral vein	internal cerebral vein	3162
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035152	internal cerebral vein	internal cerebral vein	3164
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600092	radial vein	radial vein	3244
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035152	internal cerebral vein	internal cerebral vein	3166
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001669	superior cerebellar vein	superior cerebellar vein	3169
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001642	superior sagittal sinus	superior sagittal sinus	3171
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001642	superior sagittal sinus	superior sagittal sinus	3172
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035150	superior cerebral vein	superior cerebral vein	3174
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600091	inferior anastomotic vein	inferior anastomotic vein	3176
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001670	inferior cerebellar vein	inferior cerebellar vein	3178
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001664	inferior cerebral vein	inferior cerebral vein	3180
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001641	transverse sinus	transverse sinus	3182
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0003712	cavernous sinus	cavernous sinus #2	3183
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0036074	vein of vestibular aqueduct	vein of vestibular aqueduct	3186
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007152	inferior sagittal sinus	inferior sagittal sinus	3168
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001641	transverse sinus	transverse sinus	3146
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600093	ulnar vein	ulnar vein	3246
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001412	common palmar digital vein	common palmar digital vein	3250
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600076	suboccipital venous plexus	suboccipital venous plexus	3310
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001588	vertebral vein	vertebral vein	3312
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001588	vertebral vein	vertebral vein	3314
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001585	anterior vena cava	superior vena cava	3316
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012195	left superior intercostal vein	left superior intercostal vein	3318
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012195	left superior intercostal vein	left superior intercostal vein	3320
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012195	left superior intercostal vein	left superior intercostal vein	3322
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001591	thymic vein	thymic vein	3324
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001591	thymic vein	thymic vein	3326
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001585	anterior vena cava	superior vena cava	3328
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002333	pulmonary trunk	pulmonary trunk	3331
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001652	left pulmonary artery	left pulmonary artery	3335
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001652	left pulmonary artery	left pulmonary artery	3339
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001652	left pulmonary artery	left pulmonary artery	3351
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001652	left pulmonary artery	left pulmonary artery	3391
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600060	subsegmental pulmonary artery	subsegmental pulmonary artery	3395
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600077	pulmonary arteriole	pulmonary arteriole	3399
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600094	intra-acinar arteriole	intra-acinar arteriole	3403
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600094	intra-acinar arteriole	intra-acinar arteriole	3407
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0016405	pulmonary capillary	pulmonary capillary	3411
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001651	right pulmonary artery	right pulmonary artery	3413
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600076	suboccipital venous plexus	suboccipital venous plexus	3308
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600059	deep cervical vein	deep cervical vein	3306
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001588	vertebral vein	vertebral vein	3304
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001588	vertebral vein	vertebral vein	3302
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0004561	proper palmar digital vein	proper palmar digital vein	3252
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001106	cephalic vein	cephalic vein	3260
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001106	cephalic vein	cephalic vein	3262
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600073	circumflex humeral vein	circumflex humeral vein	3264
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002088	lateral thoracic vein	lateral thoracic vein	3266
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001420	subscapular vein	subscapular vein	3268
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600074	thoracoacromial vein	thoracoacromial vein	3270
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002089	thoracodorsal vein	thoracodorsal vein	3272
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001101	external jugular vein	external jugular vein	3274
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001104	anterior jugular vein	anterior jugular vein	3276
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600093	ulnar vein	ulnar vein	3248
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001104	anterior jugular vein	anterior jugular vein	3278
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001104	anterior jugular vein	anterior jugular vein	3282
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006199	posterior auricular vein	posterior auricular vein	3284
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001101	external jugular vein	external jugular vein	3286
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001656	retromandibular vein	retromandibular vein #2	3288
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035249	posterior external jugular vein	posterior external jugular vein	3290
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001101	external jugular vein	external jugular vein	3292
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600075	transverse cervical vein	transverse cervical vein	3294
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600054	supreme intercostal vein	supreme intercostal vein	3296
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001588	vertebral vein	vertebral vein	3298
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001588	vertebral vein	vertebral vein	3300
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001104	anterior jugular vein	anterior jugular vein	3280
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006632	musculo-phrenic artery	musculophrenic artery	2311
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0017637	marginal venous sinus	marginal venous sinus	3145
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0034965	middle thyroid vein	middle thyroid vein	3142
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006663	hemiazygos vein	hemiazygos vein	2997
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006663	hemiazygos vein	hemiazygos vein	2999
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006663	hemiazygos vein	hemiazygos vein	3001
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035252	left subcostal vein	left subcostal vein	3003
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012199	posterior intercostal vein	posterior intercostal vein	3005
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012199	posterior intercostal vein	posterior intercostal vein	3007
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012199	posterior intercostal vein	posterior intercostal vein	3009
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012199	posterior intercostal vein	posterior intercostal vein	3011
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001594	azygos vein	azygos vein	3013
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001594	azygos vein	azygos vein	3015
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001594	azygos vein	azygos vein	3017
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001594	azygos vein	azygos vein	3019
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001594	azygos vein	azygos vein	3021
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001594	azygos vein	azygos vein	3023
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001594	azygos vein	azygos vein	3025
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001594	azygos vein	azygos vein	3027
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035474	right subcostal vein	right subcostal vein	3029
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012196	right superior intercostal vein	right superior intercostal vein	3031
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012196	right superior intercostal vein	right superior intercostal vein	3033
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012196	right superior intercostal vein	right superior intercostal vein	3035
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012196	right superior intercostal vein	right superior intercostal vein	3037
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006663	hemiazygos vein	hemiazygos vein	2995
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600053	esophageal vein	esophageal vein	2993
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006665	accessory hemiazygos vein	accessory hemiazygos vein	2991
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006665	accessory hemiazygos vein	accessory hemiazygos vein	2989
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0009091	ascending vasa recta	ascending vasa recta of kidney	2945
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001072	inferior vena cava	inferior vena cava	2947
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011956	right hepatic vein	right hepatic vein	2949
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011956	right hepatic vein	right hepatic vein	2951
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011956	right hepatic vein	right hepatic vein	2953
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011956	right hepatic vein	right hepatic vein	2955
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001072	inferior vena cava	inferior vena cava	2957
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001072	inferior vena cava	inferior vena cava	2959
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001141	right renal vein	right renal vein	2961
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035435	right suprarenal vein	right suprarenal vein	2963
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012194	superior intercostal vein	superior intercostal vein	3039
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0000442	right testicular vein	right testicular vein	2965
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0000442	right testicular vein	right testicular vein	2969
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001585	anterior vena cava	superior vena cava	2971
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001594	azygos vein	azygos vein	2973
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006665	accessory hemiazygos vein	accessory hemiazygos vein	2975
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001592	bronchial vein	bronchial vein	2977
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600067	bronchial venule	bronchial venule	2979
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006665	accessory hemiazygos vein	accessory hemiazygos vein	2981
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006665	accessory hemiazygos vein	accessory hemiazygos vein	2983
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006665	accessory hemiazygos vein	accessory hemiazygos vein	2985
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006665	accessory hemiazygos vein	accessory hemiazygos vein	2987
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001330	pampiniform plexus	pampiniform venous plexus	2967
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005475	sigmoid sinus	sigmoid sinus	3144
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012237	superior phrenic vein	superior phrenic vein	3041
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007156	inferior thyroid vein	inferior thyroid vein	3045
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001655	submental vein	submental vein	3101
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0003477	vein of upper lip	superior labial vein	3103
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007160	inferior petrosal sinus	inferior petrosal sinus	3107
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0003712	cavernous sinus	cavernous sinus	3108
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001673	central retinal vein	central retinal vein	3109
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0036300	tributary of central retinal vein	tributary of central retinal vein	3111
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600090	hypophyseal vein	hypophyseal vein	3113
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011193	inferior ophthalmic vein	inferior ophthalmic vein	3115
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035547	posterior ciliary vein	vorticose vein	3117
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035231	superficial middle cerebral vein	superficial middle cerebral vein	3119
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035231	superficial middle cerebral vein	superficial middle cerebral vein	3121
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011192	superior ophthalmic vein	superior ophthalmic vein	3122
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011192	superior ophthalmic vein	superior ophthalmic vein	3124
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0011192	superior ophthalmic vein	superior ophthalmic vein	3126
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0018256	lacrimal vein	lacrimal vein	3128
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0004689	naso-frontal vein	nasofrontal vein	3130
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035547	posterior ciliary vein	vorticose vein #2	3132
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006634	lingual vein	lingual vein	3134
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600069	deep lingual vein	deep lingual vein	3136
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600070	dorsal lingual vein	dorsal lingual vein	3138
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600071	sublingual vein	sublingual vein	3140
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035662	parotid vein	parotid vein	3099
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600068	mental vein	mental vein	3097
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0003478	vein of lower lip	inferior labial vein	3095
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035659	deep facial vein	deep facial vein	3093
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007156	inferior thyroid vein	inferior thyroid vein	3047
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007156	inferior thyroid vein	inferior thyroid vein	3049
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007156	inferior thyroid vein	inferior thyroid vein	3051
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001586	internal jugular vein	internal jugular vein	3053
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001586	internal jugular vein	internal jugular vein	3055
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001656	retromandibular vein	retromandibular vein	3059
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001660	maxillary vein	maxillary vein	3061
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014685	pterygoid plexus	pterygoid venous plexus	3063
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001661	deep temporal vein	deep temporal vein	3065
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014685	pterygoid plexus	pterygoid venous plexus	3067
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0003711	brachiocephalic vein	brachiocephalic vein	3043
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001658	middle temporal vein	middle temporal vein	3069
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001659	transverse facial vein	transverse facial vein	3073
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001659	transverse facial vein	transverse facial vein #2	3075
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001653	facial vein	facial vein	3077
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014686	angular vein	angular vein	3079
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600087	external nasal vein	external nasal vein	3081
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002459	inferior palpebral vein	inferior palpebral vein	3083
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014768	superior palpebral vein	superior palpebral vein	3085
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001654	supraorbital vein	supraorbital vein	3087
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600088	supratrochlear vein	supratrochlear vein	3089
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600089	transverse nasal root vein	transverse nasal root vein	3091
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001657	superficial temporal vein	superficial temporal vein	3071
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2307
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2331
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001651	right pulmonary artery	right pulmonary artery	3453
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015482	right hepatic artery	right hepatic artery	732
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005436	common hepatic artery	common hepatic artery	744
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001192	left gastric artery	left gastric artery	748
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001192	left gastric artery	left gastric artery	752
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001194	splenic artery	splenic artery	756
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001194	splenic artery	splenic artery	760
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001194	splenic artery	splenic artery	764
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001194	splenic artery	splenic artery	772
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001194	splenic artery	splenic artery	776
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015482	right hepatic artery	right hepatic artery	728
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035830	left gastroepiploic artery	left gastroepiploic artery	780
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0010399	spleen trabecular artery	spleen trabecular artery	792
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0010401	spleen central arteriole	spleen central arteriole	796
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0010401	spleen central arteriole	spleen central arteriole	800
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0013132	penicillar arteriole	penicillar arteriole of spleen	813
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0013132	penicillar arteriole	penicillar arteriole of spleen	817
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0010401	spleen central arteriole	spleen central arteriole	819
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001194	splenic artery	splenic artery	823
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001194	splenic artery	splenic artery	877
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001194	splenic artery	splenic artery	881
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001194	splenic artery	splenic artery	784
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001191	common iliac artery	common iliac artery	885
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015482	right hepatic artery	right hepatic artery	716
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015482	right hepatic artery	right hepatic artery	708
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015160	supraorbital artery	supraorbital artery	592
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012187	frontal artery	supratrochlear artery	596
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001628	posterior communicating artery	posterior communicating artery	600
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035404	superior hypophysial artery	superior hypophyseal artery	604
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035404	superior hypophysial artery	superior hypophyseal artery	608
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001640	celiac artery	celiac artery	628
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005436	common hepatic artery	common hepatic artery	632
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0010132	gastroduodenal artery	gastroduodenal artery	636
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0010132	gastroduodenal artery	gastroduodenal artery	640
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015482	right hepatic artery	right hepatic artery	712
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035829	right gastroepiploic artery	right gastroepiploic artery	644
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002070	superior pancreaticoduodenal artery	superior pancreaticoduodenal artery	652
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002070	superior pancreaticoduodenal artery	superior pancreaticoduodenal artery	656
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0010132	gastroduodenal artery	gastroduodenal artery	660
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015480	proper hepatic artery	proper hepatic artery	664
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015481	left hepatic artery	left hepatic artery	668
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015481	left hepatic artery	left hepatic artery	672
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015481	left hepatic artery	left hepatic artery	676
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015481	left hepatic artery	left hepatic artery	688
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015481	left hepatic artery	left hepatic artery	700
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002070	superior pancreaticoduodenal artery	superior pancreaticoduodenal artery	648
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005336	capillary layer of choroid	capillary layer of choroid	590
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001308	external iliac artery	external iliac artery	889
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007316	deep external pudendal artery	deep external pudendal artery	897
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001611	sublingual artery	sublingual artery	168
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001553	medial tarsal artery	medial tarsal artery	1057
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001537	anterior tibial artery	anterior tibial artery	1061
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600098	dorsal lingual artery	dorsal lingual artery	164
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001537	anterior tibial artery	anterior tibial artery	1065
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600097	deep lingual artery	deep lingual artery	160
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002250	popliteal artery	popliteal artery	1069
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002250	popliteal artery	popliteal artery	1073
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002250	popliteal artery	popliteal artery	1077
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001539	dorsalis pedis artery	dorsalis pedis artery	1053
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002250	popliteal artery	popliteal artery	1081
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002250	popliteal artery	popliteal artery	1089
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002250	popliteal artery	popliteal artery	1093
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002250	popliteal artery	popliteal artery	1097
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001540	peroneal artery	peroneal artery	1101
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001540	peroneal artery	peroneal artery	1105
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001540	peroneal artery	peroneal artery	1109
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001540	peroneal artery	peroneal artery	1113
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001538	posterior tibial artery	posterior tibial artery	1117
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001538	posterior tibial artery	posterior tibial artery	1121
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002250	popliteal artery	popliteal artery	1085
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001308	external iliac artery	external iliac artery	893
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001616	maxillary artery	maxillary artery	172
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001539	dorsalis pedis artery	dorsalis pedis artery	1033
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001355	deep femoral artery	deep femoral artery	901
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001355	deep femoral artery	deep femoral artery	905
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001356	medial circumflex femoral artery	medial circumflex femoral artery	917
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001356	medial circumflex femoral artery	medial circumflex femoral artery	921
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001356	medial circumflex femoral artery	medial circumflex femoral artery	925
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001355	deep femoral artery	deep femoral artery	929
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0009041	superficial circumflex iliac artery	superficial circumflex iliac artery	933
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0034964	superficial epigastric artery	superficial epigastric artery	937
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007317	superficial external pudendal artery	superficial external pudendal artery	941
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001539	dorsalis pedis artery	dorsalis pedis artery	1037
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015350	saphenous artery	saphenous branch of descending genicular artery	957
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001537	anterior tibial artery	anterior tibial artery	965
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001537	anterior tibial artery	anterior tibial artery	969
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001537	anterior tibial artery	anterior tibial artery	977
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001537	anterior tibial artery	anterior tibial artery	981
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001539	dorsalis pedis artery	dorsalis pedis artery	985
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0034927	arcuate artery of foot	arcuate artery of foot	989
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0034927	arcuate artery of foot	arcuate artery of foot	993
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0034927	arcuate artery of foot	arcuate artery of foot	1009
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0034927	arcuate artery of foot	arcuate artery of foot	1021
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002250	popliteal artery	popliteal artery	961
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001619	ophthalmic artery	ophthalmic artery	586
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012319	posterior ethmoidal artery	posterior ethmoidal artery	582
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014773	medial palpebral artery	medial palpebral artery	578
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001613	occipital artery	occipital artery	288
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001613	occipital artery	occipital artery	292
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001613	occipital artery	occipital artery	296
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001613	occipital artery	occipital artery	300
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014694	posterior auricular artery	posterior auricular artery	304
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014694	posterior auricular artery	posterior auricular artery	308
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014694	posterior auricular artery	posterior auricular artery	312
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014694	posterior auricular artery	posterior auricular artery	316
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014694	posterior auricular artery	posterior auricular artery	320
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001613	occipital artery	occipital artery	284
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006345	stapedial artery	stapedial artery	324
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001614	superficial temporal artery	superficial temporal artery	332
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001614	superficial temporal artery	superficial temporal artery	336
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001614	superficial temporal artery	superficial temporal artery	340
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035042	middle temporal artery	middle temporal artery	344
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035261	posterior temporal artery	posterior temporal artery	348
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001615	transverse facial artery	transverse facial artery	352
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015157	zygomatico-orbital artery	zygomatico-orbital artery	356
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007150	superior thyroid artery	superior thyroid artery	360
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007150	superior thyroid artery	superior thyroid artery	364
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014694	posterior auricular artery	posterior auricular artery	328
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005608	hyoid artery	infrahyoid artery	368
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001613	occipital artery	occipital artery	280
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001613	occipital artery	occipital artery	272
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001616	maxillary artery	maxillary artery	184
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001616	maxillary artery	maxillary artery	188
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600100	artery of pterygoid canal	artery of pterygoid canal	192
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001618	buccal artery	buccal artery	196
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014695	deep auricular artery	deep auricular artery	200
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600101	descending palatine artery	descending palatine artery	204
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006664	greater palatine artery	greater palatine artery	208
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600101	descending palatine artery	descending palatine artery	212
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014693	inferior alveolar artery	inferior alveolar artery	216
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001613	occipital artery	occipital artery	276
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600086	incisor artery	incisor artery	220
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0004646	infraorbital artery	infraorbital artery	228
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0004646	infraorbital artery	infraorbital artery	232
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0013648	masseteric artery	masseteric artery	236
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0010250	middle meningeal artery	middle meningeal artery	240
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001616	maxillary artery	maxillary artery	244
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001616	maxillary artery	maxillary artery	248
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0018397	posterior superior alveolar artery	posterior superior alveolar artery	252
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001616	maxillary artery	maxillary artery	256
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001616	maxillary artery	maxillary artery	260
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001617	mental artery	mental artery	224
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007150	superior thyroid artery	superior thyroid artery	372
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007150	superior thyroid artery	superior thyroid artery	376
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001532	internal carotid artery	internal carotid artery	380
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001627	middle cerebral artery	middle cerebral artery	498
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001627	middle cerebral artery	middle cerebral artery	502
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001627	middle cerebral artery	middle cerebral artery	506
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001627	middle cerebral artery	middle cerebral artery	510
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035222	posterior parietal artery	posterior parietal artery	514
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001627	middle cerebral artery	middle cerebral artery	518
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001627	middle cerebral artery	middle cerebral artery	522
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001619	ophthalmic artery	ophthalmic artery	526
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001619	ophthalmic artery	ophthalmic artery	530
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001627	middle cerebral artery	middle cerebral artery	494
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012318	anterior ethmoidal artery	anterior ethmoidal artery	534
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001620	central retinal artery	central retinal artery	542
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001623	dorsal nasal artery	dorsal nasal artery	546
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002270	hyaloid artery	hyaloid artery	550
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001622	lacrimal artery	lacrimal artery	554
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014772	lateral palpebral artery	lateral palpebral artery	558
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001622	lacrimal artery	lacrimal artery	562
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001622	lacrimal artery	lacrimal artery	566
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001622	lacrimal artery	lacrimal artery	570
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001619	ophthalmic artery	ophthalmic artery	574
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0010251	anterior meningeal artery	anterior meningeal artery	538
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035462	anterior parietal artery	artery of postcentral sulcus	490
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001627	middle cerebral artery	middle cerebral artery	486
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035225	anterior temporal artery	anterior temporal artery	482
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001624	anterior cerebral artery	anterior cerebral artery	384
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006764	anterior communicating artery	anterior communicating artery	388
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001624	anterior cerebral artery	anterior cerebral artery	392
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001624	anterior cerebral artery	anterior cerebral artery	396
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001624	anterior cerebral artery	anterior cerebral artery	400
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001624	anterior cerebral artery	anterior cerebral artery	404
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001624	anterior cerebral artery	anterior cerebral artery	408
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001624	anterior cerebral artery	anterior cerebral artery	412
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001624	anterior cerebral artery	anterior cerebral artery	416
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001624	anterior cerebral artery	anterior cerebral artery	420
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001624	anterior cerebral artery	anterior cerebral artery	424
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001624	anterior cerebral artery	anterior cerebral artery	428
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001624	anterior cerebral artery	anterior cerebral artery	432
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001624	anterior cerebral artery	anterior cerebral artery	436
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014696	anterior choroidal artery	anterior choroidal artery	440
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007693	caroticotympanic artery	caroticotympanic artery	444
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001532	internal carotid artery	internal carotid artery	448
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600079	dural artery	dural artery	464
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035492	inferior hypophysial artery	inferior hypophyseal artery	468
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035492	inferior hypophysial artery	inferior hypophyseal artery	472
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001627	middle cerebral artery	middle cerebral artery	478
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001538	posterior tibial artery	posterior tibial artery	1125
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0009654	alveolar artery	alveolar artery	180
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001538	posterior tibial artery	posterior tibial artery	1221
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001541	medial plantar artery	medial plantar artery	1229
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001536	left common carotid artery plus branches	left common carotid artery	1907
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001584	left subclavian artery	left subclavian artery	1911
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001533	subclavian artery	subclavian artery	1915
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001394	axillary artery	axillary artery	1919
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001394	axillary artery	axillary artery	1923
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001398	brachial artery	brachial artery	1927
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001399	deep brachial artery	deep brachial artery	1931
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001399	deep brachial artery	deep brachial artery	1935
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001399	deep brachial artery	deep brachial artery	1939
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001398	brachial artery	brachial artery	1943
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001404	radial artery	radial artery	1947
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001404	radial artery	radial artery	1951
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001404	radial artery	radial artery	1967
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001404	radial artery	radial artery	2011
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001404	radial artery	radial artery	2023
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001404	radial artery	radial artery	2031
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001404	radial artery	radial artery	2043
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001404	radial artery	radial artery	2047
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001404	radial artery	radial artery	2059
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0013133	superior phrenic artery	superior phrenic artery	1903
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001561	subcostal artery	subcostal artery	1895
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600080	pericardial artery	pericardial artery	1831
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035539	esophageal artery	esophageal artery	1775
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0003468	ureteric segment of renal artery	ureteric segment of renal artery	1641
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035322	right common iliac artery	right common iliac artery	1645
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001185	right renal artery	right renal artery	1681
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001188	right testicular artery	right testicular artery	1685
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001182	superior mesenteric artery	superior mesenteric artery	1689
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005628	ileal artery	ileal artery	1693
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005628	ileal artery	ileal artery	1697
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001197	ileocolic artery	ileocolic artery	1701
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001197	ileocolic artery	ileocolic artery	1705
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001398	brachial artery	brachial artery	2063
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001197	ileocolic artery	ileocolic artery	1717
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001195	inferior pancreaticoduodenal artery	inferior pancreaticoduodenal artery	1729
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001195	inferior pancreaticoduodenal artery	inferior pancreaticoduodenal artery	1733
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0018255	jejunal artery	jejunal branches	1737
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0018255	jejunal artery	jejunal branches	1741
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001196	middle colic artery	middle colic artery	1753
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8410023	right colic artery	right colic artery	1757
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001187	testicular artery	testicular artery	1761
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002040	bronchial artery	bronchial artery	1765
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002040	bronchial artery	bronchial artery	1769
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001195	inferior pancreaticoduodenal artery	inferior pancreaticoduodenal artery	1725
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001406	ulnar artery	ulnar artery	2067
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001406	ulnar artery	ulnar artery	2071
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001406	ulnar artery	ulnar artery	2075
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012321	deep cervical artery	deep cervical artery	2255
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012321	deep cervical artery	deep cervical artery	2259
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006198	dorsal intercostal artery	supreme intercostal artery	2263
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006198	dorsal intercostal artery	supreme intercostal artery	2267
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006198	dorsal intercostal artery	supreme intercostal artery	2271
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001533	subclavian artery	subclavian artery	2275
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001529	brachiocephalic artery	brachiocephalic artery	48
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2279
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2283
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0004688	costo-cervical trunk	costocervical trunk	2251
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0000947	aorta	aorta	36
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600061	intra-acinar venule	intra-acinar venule	29
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2291
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600061	intra-acinar venule	intra-acinar venule	27
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600052	subsegmental pulmonary vein	subsegmental pulmonary vein	23
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2295
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600052	subsegmental pulmonary vein	subsegmental pulmonary vein	21
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2299
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0014904	intersegmental pulmonary vein	intersegmental pulmonary vein	19
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2303
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2287
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001184	renal artery	renal artery	1637
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001395	thoraco-acromial artery	thoracoacromial artery	2247
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001395	thoraco-acromial artery	thoracoacromial artery	2239
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001406	ulnar artery	ulnar artery	2087
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001406	ulnar artery	ulnar artery	2091
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002249	median artery	median artery	2103
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001406	ulnar artery	ulnar artery	2107
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001406	ulnar artery	ulnar artery	2111
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006564	superficial palmar arch	superficial palmar arch	2115
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001410	common palmar digital artery	common palmar digital artery	2119
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006137	proper palmar digital artery	proper palmar digital artery	2123
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006564	superficial palmar arch	superficial palmar arch	2127
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001395	thoraco-acromial artery	thoracoacromial artery	2243
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006564	superficial palmar arch	superficial palmar arch	2147
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006564	superficial palmar arch	superficial palmar arch	2187
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001396	lateral thoracic artery	lateral thoracic artery	2207
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001394	axillary artery	axillary artery	2211
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001397	subscapular artery	subscapular artery	2215
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001397	subscapular artery	subscapular artery	2219
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002011	thoracodorsal artery	thoracodorsal artery	2223
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035273	superior thoracic artery	superior thoracic artery	2227
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001395	thoraco-acromial artery	thoracoacromial artery	2231
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001395	thoraco-acromial artery	thoracoacromial artery	2235
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006564	superficial palmar arch	superficial palmar arch	2167
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001541	medial plantar artery	medial plantar artery	1225
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001531	right common carotid artery plus branches	right common carotid artery	52
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0004726	vasa recta	vasa recta of kidney	1633
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007315	internal pudendal artery	internal pudendal artery	1339
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007315	internal pudendal artery	internal pudendal artery	1343
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0034727	vestibular bulb artery	vestibular bulb artery	1347
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001314	obturator artery	obturator artery	1355
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001314	obturator artery	obturator artery	1359
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001314	obturator artery	obturator artery	1363
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001314	obturator artery	obturator artery	1367
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001312	superior vesical artery	superior vesical artery	1371
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035640	middle vesical artery	middle vesical artery	1375
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001358	perineal artery	perineal artery	1335
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001310	umbilical artery	umbilical artery	1379
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005192	deferent duct artery	deferent duct artery	1383
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002493	uterine artery	uterine artery	1387
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015173	helicine branch of uterine artery	arcuate artery of uterus	1391
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015173	helicine branch of uterine artery	arcuate artery of uterus	1395
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600096	submental artery	submental artery	144
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015171	uterine spiral artery	uterine spiral artery	1399
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001309	internal iliac artery	internal iliac artery	1407
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001313	iliolumbar artery	iliolumbar artery	1411
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001612	facial artery	facial artery	140
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0003470	artery of upper lip	superior labial artery	148
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001313	iliolumbar artery	iliolumbar artery	1415
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001358	perineal artery	perineal artery	1331
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0008323	dorsal artery of clitoris	dorsal artery of clitoris	1323
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001541	medial plantar artery	medial plantar artery	1233
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0009040	deep circumflex iliac artery	deep circumflex iliac artery	1237
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001354	inferior epigastric artery	inferior epigastric artery	1241
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001354	inferior epigastric artery	inferior epigastric artery	1245
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0034693	cremasteric artery	cremasteric artery	1249
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001354	inferior epigastric artery	inferior epigastric artery	1253
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001309	internal iliac artery	internal iliac artery	1257
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001309	internal iliac artery	internal iliac artery	1261
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001610	lingual artery	lingual artery	156
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001357	inferior rectal artery	inferior rectal artery	1327
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001311	inferior vesical artery	inferior vesical artery	1269
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001311	inferior vesical artery	inferior vesical artery	1273
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0007315	internal pudendal artery	internal pudendal artery	1291
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0008320	common penile artery	common penile artery	1295
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0008320	common penile artery	common penile artery	1299
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0008320	common penile artery	common penile artery	1303
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0008321	deep artery of penis	deep artery of penis	1307
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0015174	helicine artery of penis	helicine artery of penis	1311
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001340	dorsal artery of penis	dorsal artery of penis	1315
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0008322	deep artery of clitoris	deep artery of clitoris	1319
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001612	facial artery	facial artery	152
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005272	peritubular capillary	peritubular capillary	1635
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001313	iliolumbar artery	iliolumbar artery	1419
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001315	superior gluteal artery	superior gluteal artery	1427
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001184	renal artery	renal artery	1593
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0002056	inferior suprarenal artery	inferior suprarenal artery	1597
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001184	renal artery	renal artery	1601
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001184	renal artery	renal artery	1605
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0009885	interlobar artery	interlobar renal artery	1609
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001552	kidney arcuate artery	arcuate renal artery	1613
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001612	facial artery	facial artery	120
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600078	ascending pharyngeal artery	ascending pharyngeal artery	96
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0004723	interlobular artery	interlobular renal artery	1617
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001184	renal artery	renal artery	1589
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0010249	posterior meningeal artery	posterior meningeal artery	92
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0004639	renal afferent arteriole	renal afferent arteriole	1621
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600078	ascending pharyngeal artery	ascending pharyngeal artery	72
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600078	ascending pharyngeal artery	ascending pharyngeal artery	68
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0004212	glomerular capillary	glomerular capillary	1625
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001070	external carotid artery	external carotid artery	64
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0004640	renal efferent arteriole	renal efferent arteriole	1627
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001530	common carotid artery plus branches	common carotid artery	60
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001534	right subclavian artery	right subclavian artery	56
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0009202	descending vasa recta	descending vasa recta of kidney	1631
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600078	ascending pharyngeal artery	ascending pharyngeal artery	76
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0003471	artery of lower lip	inferior labial artery	136
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001184	renal artery	renal artery	1585
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001190	ovarian artery	ovarian artery	1577
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001315	superior gluteal artery	superior gluteal artery	1431
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001315	superior gluteal artery	superior gluteal artery	1435
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001612	facial artery	facial artery	132
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001183	inferior mesenteric artery	inferior mesenteric artery	1439
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8410022	left colic artery	left colic artery	1443
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8410022	left colic artery	left colic artery	1447
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600095	ascending palatine artery	ascending palatine artery	128
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8410022	left colic artery	left colic artery	1497
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0010408	ocular angle artery	angular artery	124
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035180	sigmoid artery	sigmoid artery	1501
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001184	renal artery	renal artery	1581
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035040	superior rectal artery	superior rectal artery	1505
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001198	superior suprarenal artery	superior suprarenal artery	1513
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0035529	left common iliac artery	left common iliac artery	1517
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001186	left renal artery	left renal artery	1553
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001189	left testicular artery	left testicular artery	1557
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006636	lumbar artery	lumbar artery	1561
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0006636	lumbar artery	lumbar artery	1565
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0005464	median sacral artery	median sacral artery	1569
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012173	middle suprarenal artery	middle suprarenal artery	1573
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0012255	inferior phrenic artery	inferior phrenic artery	1509
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:8600099	accessory meningeal artery	accessory meningeal artery	176
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0000947	aorta	aorta	39
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0001529	brachiocephalic artery	brachiocephalic artery	51
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2310
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0004639	renal afferent arteriole	renal afferent arteriole	1624
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0004723	interlobular artery	interlobular renal artery	1620
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0001533	subclavian artery	subclavian artery	1918
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0001552	kidney arcuate artery	arcuate renal artery	1616
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0001533	subclavian artery	subclavian artery	2278
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2282
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0004640	renal efferent arteriole	renal efferent arteriole	1630
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2290
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2286
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2294
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0001310	umbilical artery	umbilical artery	1382
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2298
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2302
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2306
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0002456	internal thoracic artery	internal thoracic artery	2334
+CL:0002144	capillary endothelial cell	capillary endothelial cell	UBERON:0016405	pulmonary capillary	pulmonary capillary	3412
+CL:0002144	capillary endothelial cell	capillary endothelial cell	UBERON:0005272	peritubular capillary	peritubular capillary	1636
+CL:0002144	capillary endothelial cell	capillary endothelial cell	UBERON:0004212	glomerular capillary	glomerular capillary	1626
+CL:0002262	endothelial cell of sinusoid	endothelial cell of sinusoid	UBERON:0001281	hepatic sinusoid	hepatic sinusoid	2739
+CL:0002543	vein endothelial cell	endothelial cell of vein	UBERON:0004719	kidney arcuate vein	arcuate renal vein	2938
+CL:0002543	vein endothelial cell	endothelial cell of vein	UBERON:0005168	renal interlobular vein	interlobular renal vein	2940
+CL:0002543	vein endothelial cell	endothelial cell of vein	UBERON:0006841	central vein of liver	central vein of liver	2736
+CL:0002543	vein endothelial cell	endothelial cell of vein	UBERON:0001639	hepatic portal vein	hepatic portal vein #2	2749
+CL:0002543	vein endothelial cell	endothelial cell of vein	UBERON:0001639	hepatic portal vein	hepatic portal vein	2761
+CL:0002543	vein endothelial cell	endothelial cell of vein	UBERON:0001639	hepatic portal vein	hepatic portal vein	2765
+CL:0002543	vein endothelial cell	endothelial cell of vein	UBERON:0001639	hepatic portal vein	hepatic portal vein	2771
+CL:0002543	vein endothelial cell	endothelial cell of vein	UBERON:0001639	hepatic portal vein	hepatic portal vein	2848
+CL:0002543	vein endothelial cell	endothelial cell of vein	UBERON:0001639	hepatic portal vein	hepatic portal vein	2850
+CL:0002543	vein endothelial cell	endothelial cell of vein	UBERON:0001140	renal vein	renal vein	2932
+CL:0002543	vein endothelial cell	endothelial cell of vein	UBERON:0001140	renal vein	renal vein	2934
+CL:1000412	endothelial cell of arteriole	endothelial cell of arteriole	UBERON:0004639	renal afferent arteriole	renal afferent arteriole	1622
+CL:1000412	endothelial cell of arteriole	endothelial cell of arteriole	UBERON:0004640	renal efferent arteriole	renal efferent arteriole	1628
+CL:1000413	endothelial cell of artery	endothelial cell of artery	UBERON:0004723	interlobular artery	interlobular renal artery	1618
+CL:1000413	endothelial cell of artery	endothelial cell of artery	UBERON:0001552	kidney arcuate artery	arcuate renal artery	1614
+CL:1000413	endothelial cell of artery	endothelial cell of artery	UBERON:0000947	aorta	aorta	37

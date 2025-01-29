@@ -1,0 +1,30 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	CL Name	References/ID	References/DOI
+UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	basal cell of bladder urothelium		
+UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	intermediate cell of bladder urothelium		
+UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	superficial cell of bladder urothelium		
+UBERON:0000381	urinary bladder detrusor smooth muscle	urinary bladder detrusor smooth muscle	detrusor smooth muscle cell of bladder		
+UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	myofibroblast cell of bladder		
+UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	fibroblast of urinary bladder		
+UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	PI16+ fibroblast cell of bladder		
+UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	DPT+ fibroblast cell of bladder		
+UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	lipofibroblast cell of bladder		
+UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	endothelial cell of bladder		
+UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	vascular smooth muscle cell of urinary bladder		
+UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	pericyte cell of urinary bladder		
+UBERON:0011945	luminal layer of epithelium	luminal layer of epithelium	superficial epithelial cell of urinary bladder		
+UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	basal epithelia		
+UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	intermediate epithelia		
+UBERON:0001255	urinary bladder	urinary bladder	fibroblast cell of urinary bladder		
+UBERON:0001255	urinary bladder	urinary bladder	CXCL14 fibroblast		
+UBERON:0001255	urinary bladder	urinary bladder	urinary bladder interstitial fibroblast		
+UBERON:0001255	urinary bladder	urinary bladder	minor interstitial fibroblast		
+UBERON:0001255	urinary bladder	urinary bladder	periurothelial fibroblast		
+UBERON:0001255	urinary bladder	urinary bladder	myofibroblast cell of urinary bladder		
+UBERON:0001255	urinary bladder	urinary bladder	major interstitial fibroblast		
+UBERON:0001255	urinary bladder	urinary bladder	neruofibroblast of urinary bladder		
+UBERON:0001255	urinary bladder	urinary bladder	lipofibroblast cell of bladder		
+UBERON:0004237	blood vessel smooth muscle	vascular smooth muscle	vascular smooth muscle cell of urinary bladder		
+UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	vascular arterial endothelial cell of urinary bladder		
+UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	vascular capillary endothelial cell of urinary bladder		
+UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	vascular venous endothelial cell of urinary bladder		
+UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	lymphatic endothelial cell of urinary bladder		

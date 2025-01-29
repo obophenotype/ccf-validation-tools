@@ -1,0 +1,651 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+UBERON:0002127	inferior olivary complex	inferior olive	UBERON:0024151	tegmentum	tegmentum of the medulla	145	18.260067750962534
+UBERON:0006083	perirhinal cortex	perirhinal gyrus ( rostral part of FuGt)	UBERON:0022364	occipital fusiform gyrus	occipitotemporal (fusiform) gyrus, temporal part	41	11.800397599216467
+UBERON:0001717	spinal nucleus of trigeminal nerve	spinal trigeminal nucleus	UBERON:0024151	tegmentum	tegmentum of the medulla	144	10.59964108137666
+UBERON:0001943	midbrain tegmentum	midbrain tegmentum	UBERON:0019267	gray matter of midbrain	gray matter of midbrain	128	7.801391255927001
+UBERON:0006083	perirhinal cortex	perirhinal lobule	UBERON:0002576	temporal pole	temporal pole	45	7.23538066147583
+UBERON:0002688	supramarginal gyrus	supramarginal gyrus	UBERON:0006088	inferior parietal cortex	inferior parietal lobule	33	6.034624143636023
+UBERON:0001945	superior colliculus	superior colliculus	UBERON:0019267	gray matter of midbrain	gray matter of midbrain	132	3.757566957917149
+UBERON:0001944	Pretectal region	Pretectal region	UBERON:0019267	gray matter of midbrain	gray matter of midbrain	127	3.3134035857372055
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	345	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	346	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	354	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	348	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	349	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	350	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	351	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	352	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	353	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	344	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	357	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	355	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	342	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	358	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	359	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	360	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	361	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	362	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	363	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	364	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	405	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	426	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	343	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	340	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	341	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	277	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	66	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	339	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	211	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	242	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	68	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	269	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	327	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	329	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	334	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	337	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	338	3.0607551671824496
+UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	UBERON:0002600	limbic lobe	limbic lobe	67	3.0607551671824496
+UBERON:0002037	cerebellum	cerebellum	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	464	3.031193126681366
+UBERON:0002037	cerebellum	cerebellum	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	462	3.031193126681366
+UBERON:0002037	cerebellum	cerebellum	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	461	3.031193126681366
+UBERON:0002037	cerebellum	cerebellum	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	139	3.031193126681366
+UBERON:0002037	cerebellum	cerebellum	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	136	3.031193126681366
+UBERON:0002037	cerebellum	cerebellum	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	137	3.031193126681366
+UBERON:0002037	cerebellum	cerebellum	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	138	3.031193126681366
+UBERON:0002037	cerebellum	cerebellum	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	140	3.031193126681366
+UBERON:0002037	cerebellum	cerebellum	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	209	3.031193126681366
+UBERON:0002037	cerebellum	cerebellum	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	500	3.031193126681366
+UBERON:0002038	substantia nigra	substantia nigra	UBERON:0019267	gray matter of midbrain	gray matter of midbrain	131	2.6703637237351927
+UBERON:0001946	inferior colliculus	inferior colliculus	UBERON:0019267	gray matter of midbrain	gray matter of midbrain	133	0.2485550562845873
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	12	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	13	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	14	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	15	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	16	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	17	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	18	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	19	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	20	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	21	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	22	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	23	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	24	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	25	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	26	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	27	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	28	
+UBERON:0004725	piriform cortex	lateral olfactory gyrus	UBERON:0016525	frontal lobe	frontal lobe	28	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	29	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	30	
+UBERON:0001872	parietal lobe	parietal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	31	
+UBERON:0001872	parietal lobe	parietal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	32	
+UBERON:0001872	parietal lobe	parietal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	33	
+UBERON:0001872	parietal lobe	parietal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	34	
+UBERON:0002686	angular gyrus	angular gyrus	UBERON:0006088	inferior parietal cortex	inferior parietal lobule	34	
+UBERON:0001872	parietal lobe	parietal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	35	
+UBERON:0001872	parietal lobe	parietal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	36	
+UBERON:0001872	parietal lobe	parietal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	37	
+UBERON:0002911	parietal operculum	parietal operculum	UBERON:0001872	parietal lobe	parietal lobe	37	
+UBERON:0001871	temporal lobe	temporal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	38	
+UBERON:0001871	temporal lobe	temporal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	39	
+UBERON:0001871	temporal lobe	temporal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	40	
+UBERON:0001871	temporal lobe	temporal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	41	
+UBERON:0001871	temporal lobe	temporal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	42	
+UBERON:0001871	temporal lobe	temporal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	43	
+UBERON:0001871	temporal lobe	temporal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	44	
+UBERON:0001871	temporal lobe	temporal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	45	
+UBERON:0001871	temporal lobe	temporal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	46	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	57	
+UBERON:0002967	cingulate gyrus	cingulate gyrus	UBERON:0002600	limbic lobe	limbic lobe	57	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	58	
+UBERON:0002967	cingulate gyrus	cingulate gyrus	UBERON:0002600	limbic lobe	limbic lobe	58	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	59	
+UBERON:0002967	cingulate gyrus	cingulate gyrus	UBERON:0002600	limbic lobe	limbic lobe	59	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	60	
+UBERON:0002738	isthmus of cingulate gyrus	cingulo-parahippocampal isthmus	UBERON:0002600	limbic lobe	limbic lobe	60	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	61	
+UBERON:0003020	subcallosal area	subcallosal gyrus (parolfactory gyrus)	UBERON:0002600	limbic lobe	limbic lobe	61	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	62	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	63	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	64	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	65	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	66	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	67	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	68	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	69	
+UBERON:0002590	prepyriform area	prepiriform region	UBERON:0002600	limbic lobe	limbic lobe	69	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	70	
+UBERON:0002264	olfactory bulb	Olfactory bulb	UBERON:0002600	limbic lobe	limbic lobe	70	
+UBERON:0001880	bed nucleus of stria terminalis	bed nucleus of stria terminalis	UBERON:0001876	amygdala	amygdaloid complex	80	
+UBERON:0010011	collection of basal ganglia	basal nuclei (basal ganglia)	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	81	
+UBERON:0010011	collection of basal ganglia	basal nuclei (basal ganglia)	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	82	
+UBERON:0010011	collection of basal ganglia	basal nuclei (basal ganglia)	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	83	
+UBERON:0010011	collection of basal ganglia	basal nuclei (basal ganglia)	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	84	
+UBERON:0010011	collection of basal ganglia	basal nuclei (basal ganglia)	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	85	
+UBERON:0002743	basal forebrain	basal forebrain	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	87	
+UBERON:0002743	basal forebrain	basal forebrain	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	88	
+UBERON:0001920	paraventricular nucleus of thalamus	paraventricular nucleus of thalamus	UBERON:0001899	epithalamus	epithalamus	105	
+UBERON:0007769	medial preoptic region	preoptic region	UBERON:0007769	medial preoptic region	preoptic region	109	
+UBERON:0001898	hypothalamus	mammillary region	UBERON:0001898	hypothalamus	hypothalamus	112	
+UBERON:0000052	fornix of brain	fornix	UBERON:0019261	white matter of forebrain	white matter of forebrain	115	
+UBERON:0002990	mammillothalamic tract of hypothalamus	mammillothalamic tract	UBERON:0019261	white matter of forebrain	white matter of forebrain	117	
+UBERON:0002285	telencephalic ventricle	lateral ventricles	UBERON:0002285	telencephalic ventricle	ventricle of forebrain	121	
+UBERON:0002285	telencephalic ventricle	lateral ventricles	UBERON:0002285	telencephalic ventricle	ventricle of forebrain	122	
+UBERON:0002285	telencephalic ventricle	lateral ventricles	UBERON:0002285	telencephalic ventricle	ventricle of forebrain	123	
+UBERON:0002285	telencephalic ventricle	lateral ventricles	UBERON:0002285	telencephalic ventricle	ventricle of forebrain	124	
+UBERON:0002285	telencephalic ventricle	lateral ventricles	UBERON:0002285	telencephalic ventricle	ventricle of forebrain	125	
+UBERON:0002286	third ventricle	third ventricle	UBERON:0002285	telencephalic ventricle	ventricle of forebrain	126	
+UBERON:0001947	red nucleus	red nucleus	UBERON:0019267	gray matter of midbrain	gray matter of midbrain	130	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	141	
+UBERON:0007228	vestibular nucleus	vestibular nuclei	UBERON:0003023	pontine tegmentum	pontine tegmentum	141	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	142	
+UBERON:0007634	parabrachial nucleus	parabrachial nuclei	UBERON:0003023	pontine tegmentum	pontine tegmentum	142	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	143	
+UBERON:0001896	medulla oblongata	medulla oblongata	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	144	
+UBERON:0024151	tegmentum	tegmentum of the medulla	UBERON:0001896	medulla oblongata	medulla oblongata	144	
+UBERON:0001896	medulla oblongata	medulla oblongata	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	145	
+UBERON:0024151	tegmentum	tegmentum of the medulla	UBERON:0001896	medulla oblongata	medulla oblongata	145	
+UBERON:0002707	corticospinal tract	pyramidal tract	UBERON:0019258	white matter of hindbrain	white matter of hindbrain	146	
+UBERON:0002150	superior cerebellar peduncle	superior cerebellar peduncle	UBERON:0019258	white matter of hindbrain	white matter of hindbrain	147	
+UBERON:0004086	brain ventricle	ventricles of hindbrain	UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	150	
+UBERON:0004086	brain ventricle	ventricles of hindbrain	UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	151	
+UBERON:0002291	central canal of spinal cord	central canal of medulla oblongata	UBERON:0004086	brain ventricle	ventricles of hindbrain	151	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	152	
+UBERON:0002761	inferior frontal sulcus	inferior frontal sulcus	UBERON:0016525	frontal lobe	frontal lobe	152	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	153	
+UBERON:0002761	inferior frontal sulcus	inferior frontal sulcus	UBERON:0016525	frontal lobe	frontal lobe	153	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	154	
+UBERON:0002761	inferior frontal sulcus	inferior frontal sulcus	UBERON:0016525	frontal lobe	frontal lobe	154	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	155	
+UBERON:0002761	inferior frontal sulcus	inferior frontal sulcus	UBERON:0016525	frontal lobe	frontal lobe	155	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	156	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	157	
+CL:0000236	B cell	B cell	UBERON:0000955	brain	brain	158	
+CL:0000084	T cell	T cell	UBERON:0000955	brain	brain	159	
+CL:0000623	natural killer cell	NK cell	UBERON:0000955	brain	brain	160	
+CL:0000576	monocyte	monocyte	UBERON:0000955	brain	brain	161	
+PCL:0051005	Mgl_4 microglial cell (Hsap)	Mgl_4	UBERON:0000955	brain	brain	162	
+PCL:0051006	Mgl_5 microglial cell (Hsap)	Mgl_5	UBERON:0000955	brain	brain	163	
+PCL:0051007	Mgl_6 microglial cell (Hsap)	Mgl_6	UBERON:0000955	brain	brain	164	
+PCL:0051008	Mgl_7 microglial cell (Hsap)	Mgl_7	UBERON:0000955	brain	brain	165	
+PCL:0051009	Mgl_8 microglial cell (Hsap)	Mgl_8	UBERON:0000955	brain	brain	166	
+PCL:0051010	Mgl_9 microglial cell (Hsap)	Mgl_9	UBERON:0000955	brain	brain	167	
+PCL:0051011	Mgl_10 microglial cell (Hsap)	Mgl_10	UBERON:0000955	brain	brain	168	
+PCL:0051012	Mgl_11 microglial cell (Hsap)	Mgl_11	UBERON:0000955	brain	brain	169	
+PCL:0051013	Mgl_12 microglial cell (Hsap)	Mgl_12	UBERON:0000955	brain	brain	170	
+PCL:0051025	Fbl_24 fibroblast (Hsap)	Fbl_24	UBERON:0000955	brain	brain	182	
+PCL:0051026	Fbl_25 fibroblast (Hsap)	Fbl_25	UBERON:0000955	brain	brain	183	
+PCL:0051027	Fbl_26 fibroblast (Hsap)	Fbl_26	UBERON:0000955	brain	brain	184	
+PCL:0051028	Fbl_27 fibroblast (Hsap)	Fbl_27	UBERON:0000955	brain	brain	185	
+PCL:0051029	Fbl_28 fibroblast (Hsap)	Fbl_28	UBERON:0000955	brain	brain	186	
+PCL:0051030	Fbl_29 fibroblast (Hsap)	Fbl_29	UBERON:0000955	brain	brain	187	
+PCL:0051031	Fbl_30 fibroblast (Hsap)	Fbl_30	UBERON:0000955	brain	brain	188	
+PCL:0051032	Fbl_31 arachnoid barrier cell (Hsap)	Fbl_31	UBERON:0000955	brain	brain	189	
+PCL:0051033	OPC_32 oligodendrocyte precursor cell (Hsap)	OPC_32	UBERON:0000955	brain	brain	190	
+PCL:0051034	OPC_33 oligodendrocyte precursor cell (Hsap)	OPC_33	UBERON:0000955	brain	brain	191	
+PCL:0051035	OPC_34 oligodendrocyte precursor cell (Hsap)	OPC_34	UBERON:0000955	brain	brain	192	
+PCL:0051036	OPC_35 oligodendrocyte precursor cell (Hsap)	OPC_35	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	193	
+PCL:0051037	OPC_36 oligodendrocyte precursor cell (Hsap)	OPC_36	UBERON:0000955	brain	brain	194	
+PCL:0051038	COP_37 differentiation-committed oligodendrocyte precursor (Hsap)	COP_37	UBERON:0000955	brain	brain	195	
+PCL:0051039	COP_38 differentiation-committed oligodendrocyte precursor (Hsap)	COP_38	UBERON:0000955	brain	brain	196	
+PCL:0051040	COP_39 differentiation-committed oligodendrocyte precursor (Hsap)	COP_39	UBERON:0000955	brain	brain	197	
+PCL:0051041	Oligo_40 oligodendrocyte (Hsap)	Oligo_40	UBERON:0000955	brain	brain	198	
+PCL:0051042	COP_41 differentiation-committed oligodendrocyte precursor (Hsap)	COP_41	UBERON:0000955	brain	brain	199	
+PCL:0051043	COP_42 differentiation-committed oligodendrocyte precursor (Hsap)	COP_42	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	200	
+PCL:0051044	COP_43 differentiation-committed oligodendrocyte precursor (Hsap)	COP_43	UBERON:0000955	brain	brain	201	
+PCL:0051045	Oligo_44 oligodendrocyte (Hsap)	Oligo_44	UBERON:0000955	brain	brain	202	
+PCL:0051046	Oligo_45 oligodendrocyte (Hsap)	Oligo_45	UBERON:0000955	brain	brain	203	
+PCL:0051047	Oligo_46 oligodendrocyte (Hsap)	Oligo_46	UBERON:0000955	brain	brain	204	
+PCL:0051048	Oligo_47 oligodendrocyte (Hsap)	Oligo_47	UBERON:0000955	brain	brain	205	
+PCL:0051049	Oligo_48 oligodendrocyte (Hsap)	Oligo_48	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	206	
+PCL:0051050	Oligo_49 oligodendrocyte (Hsap)	Oligo_49	UBERON:0000955	brain	brain	207	
+PCL:0051051	Oligo_50 oligodendrocyte (Hsap)	Oligo_50	UBERON:0001898	hypothalamus	hypothalamus	208	
+PCL:0051052	Bgl_51 Bergmann glial cell (Hsap)	Bgl_51	UBERON:0002037	cerebellum	cerebellum	209	
+PCL:0051053	Astro_52 astrocyte (Hsap)	Astro_52	CL:0002605	astrocyte of the cerebral cortex	astrocyte of the cerebral cortex	210	
+PCL:0051053	Astro_52 astrocyte (Hsap)	Astro_52	UBERON:0000956	cerebral cortex	cerebral cortex	210	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	211	
+PCL:0051054	Astro_53 astrocyte (Hsap)	Astro_53	CL:0002604	hippocampal astrocyte	hippocampal astrocyte	211	
+PCL:0051054	Astro_53 astrocyte (Hsap)	Astro_53	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	211	
+PCL:0051055	Astro_54 astrocyte (Hsap)	Astro_54	CL:0012000	astrocyte of the forebrain	astrocyte of the forebrain	212	
+PCL:0051055	Astro_54 astrocyte (Hsap)	Astro_54	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	212	
+PCL:0051056	Astro_55 astrocyte (Hsap)	Astro_55	CL:0012000	astrocyte of the forebrain	astrocyte of the forebrain	213	
+PCL:0051056	Astro_55 astrocyte (Hsap)	Astro_55	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	213	
+PCL:0051057	Astro_56 astrocyte (Hsap)	Astro_56	UBERON:0000955	brain	brain	214	
+PCL:0051058	Astro_57 astrocyte (Hsap)	Astro_57	CL:0012000	astrocyte of the forebrain	astrocyte of the forebrain	215	
+PCL:0051058	Astro_57 astrocyte (Hsap)	Astro_57	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	215	
+PCL:0051059	Astro_58 astrocyte (Hsap)	Astro_58	CL:0002605	astrocyte of the cerebral cortex	astrocyte of the cerebral cortex	216	
+PCL:0051059	Astro_58 astrocyte (Hsap)	Astro_58	UBERON:0000956	cerebral cortex	cerebral cortex	216	
+PCL:0051060	Astro_59 astrocyte (Hsap)	Astro_59	UBERON:0000955	brain	brain	217	
+PCL:0051061	Astro_60 astrocyte (Hsap)	Astro_60	UBERON:0000955	brain	brain	218	
+PCL:0051062	Astro_61 astrocyte (Hsap)	Astro_61	UBERON:0000955	brain	brain	219	
+PCL:0051063	Astro_62 astrocyte (Hsap)	Astro_62	UBERON:0000955	brain	brain	220	
+PCL:0051064	Astro_63 astrocyte (Hsap)	Astro_63	UBERON:0000955	brain	brain	221	
+PCL:0051065	Astro_64 astrocyte (Hsap)	Astro_64	UBERON:0001898	hypothalamus	hypothalamus	222	
+PCL:0051066	Epen_65 ependymal cell (Hsap)	Epen_65	UBERON:0000955	brain	brain	223	
+PCL:0051067	Epen_66 ependymal cell (Hsap)	Epen_66	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	224	
+PCL:0051068	Epen_67 ependymal cell (Hsap)	Epen_67	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	225	
+PCL:0051069	Epen_68 ependymal cell (Hsap)	Epen_68	UBERON:0000955	brain	brain	226	
+PCL:0051070	Epen_69 ependymal cell (Hsap)	Epen_69	UBERON:0000955	brain	brain	227	
+PCL:0051071	Epen_70 ependymal cell (Hsap)	Epen_70	UBERON:0000955	brain	brain	228	
+PCL:0051072	Epen_71 ependymal cell (Hsap)	Epen_71	UBERON:0000955	brain	brain	229	
+PCL:0051073	Epen_72 ependymal cell (Hsap)	Epen_72	UBERON:0000955	brain	brain	230	
+PCL:0051074	Epen_73 ependymal cell (Hsap)	Epen_73	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	231	
+PCL:0051075	Epen_74 ependymal cell (Hsap)	Epen_74	UBERON:0000955	brain	brain	232	
+PCL:0051076	COP_75 differentiation-committed oligodendrocyte precursor (Hsap)	COP_75	UBERON:0000955	brain	brain	233	
+UBERON:0002743	basal forebrain	basal forebrain	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	236	
+PCL:0051079	Chrp_78 choroid plexus epithelial cell (Hsap)	Chrp_78	UBERON:0002743	basal forebrain	basal forebrain	236	
+UBERON:0002743	basal forebrain	basal forebrain	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	237	
+PCL:0051080	Chrp_79 choroid plexus epithelial cell (Hsap)	Chrp_79	UBERON:0002743	basal forebrain	basal forebrain	237	
+UBERON:0002743	basal forebrain	basal forebrain	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	238	
+PCL:0051081	Chrp_80 choroid plexus epithelial cell (Hsap)	Chrp_80	UBERON:0002743	basal forebrain	basal forebrain	238	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	242	
+PCL:0051085	DLCT6b_84 glutamatergic neuron (Hsap)	DLCT6b_84	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	242	
+PCL:0051098	DLCT6b_97 glutamatergic neuron (Hsap)	DLCT6b_97	UBERON:0000956	cerebral cortex	cerebral cortex	255	
+PCL:0051099	DLCT6b_98 glutamatergic neuron (Hsap)	DLCT6b_98	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	256	
+PCL:0051100	DLCT6b_99 glutamatergic neuron (Hsap)	DLCT6b_99	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	257	
+PCL:0051101	DLCT6b_100 glutamatergic neuron (Hsap)	DLCT6b_100	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	258	
+PCL:0051102	DLCT6b_101 glutamatergic neuron (Hsap)	DLCT6b_101	UBERON:0000956	cerebral cortex	cerebral cortex	259	
+PCL:0051103	DLCT6b_102 glutamatergic neuron (Hsap)	DLCT6b_102	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	260	
+PCL:0051104	DLCT6b_103 glutamatergic neuron (Hsap)	DLCT6b_103	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	261	
+PCL:0051105	DLCT6b_104 glutamatergic neuron (Hsap)	DLCT6b_104	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	262	
+PCL:0051106	DLCT6b_105 glutamatergic neuron (Hsap)	DLCT6b_105	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	263	
+PCL:0051107	DLCT6b_106 glutamatergic neuron (Hsap)	DLCT6b_106	UBERON:0000956	cerebral cortex	cerebral cortex	264	
+PCL:0051108	DLCT6b_107 glutamatergic neuron (Hsap)	DLCT6b_107	UBERON:0000956	cerebral cortex	cerebral cortex	265	
+PCL:0051109	DLCT6b_108 glutamatergic neuron (Hsap)	DLCT6b_108	UBERON:0000956	cerebral cortex	cerebral cortex	266	
+PCL:0051110	DLCT6b_109 glutamatergic neuron (Hsap)	DLCT6b_109	UBERON:0000956	cerebral cortex	cerebral cortex	267	
+PCL:0051111	DLCT6b_110 glutamatergic neuron (Hsap)	DLCT6b_110	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	268	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	269	
+PCL:0051112	DLCT6b_111 glutamatergic neuron (Hsap)	DLCT6b_111	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	269	
+PCL:0051113	DLCT6b_112 glutamatergic neuron (Hsap)	DLCT6b_112	UBERON:0000956	cerebral cortex	cerebral cortex	270	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	277	
+PCL:0051165	Misc_164 neuron of the forebrain (Hsap)	Misc_164	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	322	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	327	
+PCL:0051171	Misc_170 neuron of the forebrain (Hsap)	Misc_170	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	328	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	329	
+PCL:0051172	Amex_171 amygdala excitatory neuron (Hsap)	Amex_171	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	329	
+PCL:0051173	Amex_172 amygdala excitatory neuron (Hsap)	Amex_172	UBERON:0000956	cerebral cortex	cerebral cortex	330	
+PCL:0051176	Amex_175 amygdala excitatory neuron (Hsap)	Amex_175	UBERON:0000956	cerebral cortex	cerebral cortex	333	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	334	
+PCL:0051177	Misc_176 neuron (Hsap)	Misc_176	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	334	
+PCL:0051178	Misc_177 neuron (Hsap)	Misc_177	UBERON:0000955	brain	brain	335	
+PCL:0051179	Misc_178 neuron (Hsap)	Misc_178	UBERON:0000955	brain	brain	336	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	337	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	338	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	339	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	340	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	341	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	342	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	343	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	344	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	345	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	346	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	348	
+PCL:0051191	CA4_190 hippocampal CA4 neuron (Hsap)	CA4_190	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	348	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	349	
+PCL:0051192	CA4_191 hippocampal CA4 neuron (Hsap)	CA4_191	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	349	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	350	
+PCL:0051193	CA4_192 hippocampal CA4 neuron (Hsap)	CA4_192	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	350	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	351	
+PCL:0051194	CA4_193 hippocampal CA4 neuron (Hsap)	CA4_193	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	351	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	352	
+PCL:0051195	CA4_194 hippocampal CA4 neuron (Hsap)	CA4_194	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	352	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	353	
+PCL:0051196	CA4_195 hippocampal CA4 neuron (Hsap)	CA4_195	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	353	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	354	
+PCL:0051197	CA4_196 hippocampal CA4 neuron (Hsap)	CA4_196	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	354	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	355	
+PCL:0051198	CA4_197 hippocampal CA4 neuron (Hsap)	CA4_197	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	355	
+PCL:0051199	CA4_198 hippocampal CA4 neuron (Hsap)	CA4_198	UBERON:0000955	brain	brain	356	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	357	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	358	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	359	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	360	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	361	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	362	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	363	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	364	
+PCL:0051207	MSN_206 medium spiny neuron (Hsap)	MSN_206	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	364	
+UBERON:0002743	basal forebrain	basal forebrain	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	365	
+PCL:0051208	MSN_207 indirect pathway medium spiny neuron (Hsap)	MSN_207	UBERON:0002743	basal forebrain	basal forebrain	365	
+PCL:0051209	MSN_208 indirect pathway medium spiny neuron (Hsap)	MSN_208	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	366	
+UBERON:0002743	basal forebrain	basal forebrain	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	367	
+PCL:0051210	MSN_209 direct pathway medium spiny neuron (Hsap)	MSN_209	UBERON:0002743	basal forebrain	basal forebrain	367	
+UBERON:0002743	basal forebrain	basal forebrain	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	368	
+PCL:0051211	MSN_210 direct pathway medium spiny neuron (Hsap)	MSN_210	UBERON:0002743	basal forebrain	basal forebrain	368	
+PCL:0051212	MSN_211 direct pathway medium spiny neuron (Hsap)	MSN_211	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	369	
+UBERON:0002743	basal forebrain	basal forebrain	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	370	
+PCL:0051213	MSN_212 indirect pathway medium spiny neuron (Hsap)	MSN_212	UBERON:0002743	basal forebrain	basal forebrain	370	
+PCL:0051214	MSN_213 indirect pathway medium spiny neuron (Hsap)	MSN_213	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	371	
+PCL:0051215	MSN_214 direct pathway medium spiny neuron (Hsap)	MSN_214	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	372	
+PCL:0051216	MSN_215 direct pathway medium spiny neuron (Hsap)	MSN_215	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	373	
+PCL:0051218	MSN_217 indirect pathway medium spiny neuron (Hsap)	MSN_217	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	375	
+PCL:0051219	MSN_218 medium spiny neuron (Hsap)	MSN_218	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	376	
+PCL:0051221	MSN_220 direct pathway medium spiny neuron (Hsap)	MSN_220	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	378	
+PCL:0051222	MSN_221 indirect pathway medium spiny neuron (Hsap)	MSN_221	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	379	
+UBERON:0002743	basal forebrain	basal forebrain	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	380	
+PCL:0051223	EMSN_222 medium spiny neuron (Hsap)	EMSN_222	UBERON:0002743	basal forebrain	basal forebrain	380	
+PCL:0051224	EMSN_223 medium spiny neuron (Hsap)	EMSN_223	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	381	
+PCL:0051225	EMSN_224 medium spiny neuron (Hsap)	EMSN_224	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	382	
+PCL:0051226	EMSN_225 medium spiny neuron (Hsap)	EMSN_225	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	383	
+PCL:0051228	EMSN_227 medium spiny neuron (Hsap)	EMSN_227	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	385	
+PCL:0051229	EMSN_228 medium spiny neuron (Hsap)	EMSN_228	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	386	
+PCL:0051230	EMSN_229 medium spiny neuron (Hsap)	EMSN_229	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	387	
+PCL:0051232	EMSN_231 medium spiny neuron (Hsap)	EMSN_231	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	389	
+PCL:0051235	EMSN_234 medium spiny neuron (Hsap)	EMSN_234	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	392	
+PCL:0051239	Splat_238 neuron (Hsap)	Splat_238	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	396	
+PCL:0051243	MGE_242 medial ganglionic eminence derived interneuron (Hsap)	MGE_242	UBERON:0000956	cerebral cortex	cerebral cortex	400	
+PCL:0051245	MGE_244 medial ganglionic eminence derived interneuron (Hsap)	MGE_244	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	402	
+PCL:0051246	MGE_245 medial ganglionic eminence derived interneuron (Hsap)	MGE_245	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	403	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	405	
+PCL:0051248	MGE_247 medial ganglionic eminence derived interneuron (Hsap)	MGE_247	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	405	
+PCL:0051251	MGE_250 medial ganglionic eminence derived interneuron (Hsap)	MGE_250	UBERON:0000956	cerebral cortex	cerebral cortex	408	
+PCL:0051252	MGE_251 medial ganglionic eminence derived interneuron (Hsap)	MGE_251	UBERON:0000956	cerebral cortex	cerebral cortex	409	
+PCL:0051256	MGE_255 medial ganglionic eminence derived interneuron (Hsap)	MGE_255	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	413	
+PCL:0051264	MGE_263 medial ganglionic eminence derived interneuron (Hsap)	MGE_263	UBERON:0000956	cerebral cortex	cerebral cortex	421	
+PCL:0051265	LLC_264 chandelier cell (Hsap)	LLC_264	CL:0000402	obsolete CNS interneuron	CNS interneuron	422	
+PCL:0051265	LLC_264 chandelier cell (Hsap)	LLC_264	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	422	
+PCL:0051266	LLC_265 chandelier cell (Hsap)	LLC_265	CL:0000402	obsolete CNS interneuron	CNS interneuron	423	
+PCL:0051266	LLC_265 chandelier cell (Hsap)	LLC_265	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	423	
+PCL:0051267	LLC_266 chandelier cell (Hsap)	LLC_266	CL:0000402	obsolete CNS interneuron	CNS interneuron	424	
+PCL:0051267	LLC_266 chandelier cell (Hsap)	LLC_266	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	424	
+PCL:0051268	LLC_267 interneuron (Hsap)	LLC_267	CL:0000402	obsolete CNS interneuron	CNS interneuron	425	
+PCL:0051268	LLC_267 interneuron (Hsap)	LLC_267	UBERON:0000956	cerebral cortex	cerebral cortex	425	
+UBERON:0002600	limbic lobe	limbic lobe	UBERON:0000956	cerebral cortex	cerebral cortex	426	
+PCL:0051269	LLC_268 interneuron (Hsap)	LLC_268	CL:0000402	obsolete CNS interneuron	CNS interneuron	426	
+PCL:0051269	LLC_268 interneuron (Hsap)	LLC_268	UBERON:0002421	hippocampal formation	hippocampal gyrus (formation)	426	
+PCL:0051270	LLC_269 interneuron (Hsap)	LLC_269	CL:0000402	obsolete CNS interneuron	CNS interneuron	427	
+PCL:0051270	LLC_269 interneuron (Hsap)	LLC_269	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	427	
+PCL:0051271	LLC_270 interneuron (Hsap)	LLC_270	CL:0000402	obsolete CNS interneuron	CNS interneuron	428	
+PCL:0051271	LLC_270 interneuron (Hsap)	LLC_270	UBERON:0000956	cerebral cortex	cerebral cortex	428	
+PCL:0051272	LLC_271 interneuron (Hsap)	LLC_271	CL:0000402	obsolete CNS interneuron	CNS interneuron	429	
+PCL:0051272	LLC_271 interneuron (Hsap)	LLC_271	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	429	
+PCL:0051273	LLC_272 interneuron (Hsap)	LLC_272	CL:0000402	obsolete CNS interneuron	CNS interneuron	430	
+PCL:0051273	LLC_272 interneuron (Hsap)	LLC_272	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	430	
+PCL:0051274	LLC_273 interneuron (Hsap)	LLC_273	CL:0000402	obsolete CNS interneuron	CNS interneuron	431	
+PCL:0051274	LLC_273 interneuron (Hsap)	LLC_273	UBERON:0000955	brain	brain	431	
+PCL:0051275	LLC_274 interneuron (Hsap)	LLC_274	CL:0000402	obsolete CNS interneuron	CNS interneuron	432	
+PCL:0051275	LLC_274 interneuron (Hsap)	LLC_274	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	432	
+PCL:0051276	LLC_275 interneuron (Hsap)	LLC_275	CL:0000402	obsolete CNS interneuron	CNS interneuron	433	
+PCL:0051276	LLC_275 interneuron (Hsap)	LLC_275	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	433	
+PCL:0051298	URL_297 neuron (Hsap)	URL_297	UBERON:0001891	midbrain	midbrain (mesencephalon)	455	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	459	
+PCL:0051302	CBI_301 cerebellar inhibitory GABAergic interneuron (Hsap)	CBI_301	UBERON:0000988	pons	pons	459	
+PCL:0051309	URL_308 unipolar brush cell (Hsap)	URL_308	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	466	
+PCL:0051310	URL_309 neuron (Hsap)	URL_309	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	467	
+PCL:0051311	URL_310 cerebellar granule cell (Hsap)	URL_310	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	468	
+PCL:0051312	URL_311 cerebellar granule cell (Hsap)	URL_311	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	469	
+PCL:0051313	URL_312 cerebellar granule cell (Hsap)	URL_312	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	470	
+PCL:0051314	Splat_313 neuron (Hsap)	Splat_313	UBERON:0000955	brain	brain	471	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	473	
+PCL:0051316	LRL_315 neuron (Hsap)	LRL_315	UBERON:0000988	pons	pons	473	
+PCL:0051317	LRL_316 neuron (Hsap)	LRL_316	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	474	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	475	
+PCL:0051318	LRL_317 neuron (Hsap)	LRL_317	UBERON:0000988	pons	pons	475	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	476	
+PCL:0051319	LRL_318 neuron (Hsap)	LRL_318	UBERON:0000988	pons	pons	476	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	477	
+PCL:0051320	LRL_319 neuron (Hsap)	LRL_319	UBERON:0000988	pons	pons	477	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	478	
+PCL:0051321	LRL_320 neuron (Hsap)	LRL_320	UBERON:0000988	pons	pons	478	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	479	
+PCL:0051322	LRL_321 neuron (Hsap)	LRL_321	UBERON:0000988	pons	pons	479	
+PCL:0051323	LRL_322 neuron (Hsap)	LRL_322	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	480	
+PCL:0051335	Splat_334 neuron (Hsap)	Splat_334	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	492	
+PCL:0051336	Splat_335 neuron (Hsap)	Splat_335	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	493	
+PCL:0051337	Splat_336 neuron (Hsap)	Splat_336	UBERON:0001891	midbrain	midbrain (mesencephalon)	494	
+PCL:0051338	Splat_337 neuron (Hsap)	Splat_337	UBERON:0000955	brain	brain	495	
+UBERON:0001896	medulla oblongata	medulla oblongata	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	496	
+PCL:0051339	Splat_338 neuron (Hsap)	Splat_338	UBERON:0001896	medulla oblongata	medulla oblongata	496	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	497	
+PCL:0051340	Splat_339 neuron (Hsap)	Splat_339	UBERON:0000988	pons	pons	497	
+PCL:0051341	Splat_340 neuron (Hsap)	Splat_340	UBERON:0000955	brain	brain	498	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	499	
+PCL:0051342	Splat_341 neuron (Hsap)	Splat_341	UBERON:0000988	pons	pons	499	
+PCL:0051343	Splat_342 neuron (Hsap)	Splat_342	UBERON:0002037	cerebellum	cerebellum	500	
+UBERON:0001896	medulla oblongata	medulla oblongata	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	501	
+PCL:0051344	Splat_343 neuron (Hsap)	Splat_343	UBERON:0001896	medulla oblongata	medulla oblongata	501	
+PCL:0051345	Splat_344 neuron (Hsap)	Splat_344	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	502	
+PCL:0051346	Splat_345 neuron (Hsap)	Splat_345	UBERON:0000955	brain	brain	503	
+UBERON:0001896	medulla oblongata	medulla oblongata	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	504	
+PCL:0051347	Splat_346 neuron (Hsap)	Splat_346	UBERON:0001896	medulla oblongata	medulla oblongata	504	
+UBERON:0001896	medulla oblongata	medulla oblongata	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	505	
+PCL:0051348	Splat_347 neuron (Hsap)	Splat_347	UBERON:0001896	medulla oblongata	medulla oblongata	505	
+UBERON:0001896	medulla oblongata	medulla oblongata	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	506	
+PCL:0051349	Splat_348 neuron (Hsap)	Splat_348	UBERON:0001896	medulla oblongata	medulla oblongata	506	
+UBERON:0001896	medulla oblongata	medulla oblongata	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	507	
+PCL:0051350	Splat_349 neuron (Hsap)	Splat_349	UBERON:0001896	medulla oblongata	medulla oblongata	507	
+UBERON:0001896	medulla oblongata	medulla oblongata	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	508	
+PCL:0051351	Splat_350 neuron (Hsap)	Splat_350	UBERON:0001896	medulla oblongata	medulla oblongata	508	
+PCL:0051352	Splat_351 neuron (Hsap)	Splat_351	UBERON:0000955	brain	brain	509	
+PCL:0051353	Splat_352 neuron (Hsap)	Splat_352	UBERON:0001891	midbrain	midbrain (mesencephalon)	510	
+PCL:0051354	Splat_353 neuron (Hsap)	Splat_353	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	511	
+PCL:0051355	Splat_354 neuron (Hsap)	Splat_354	UBERON:0000955	brain	brain	512	
+PCL:0051356	Splat_355 neuron (Hsap)	Splat_355	UBERON:0000955	brain	brain	513	
+PCL:0051357	Splat_356 neuron (Hsap)	Splat_356	UBERON:0000955	brain	brain	514	
+PCL:0051358	Splat_357 neuron (Hsap)	Splat_357	UBERON:0001891	midbrain	midbrain (mesencephalon)	515	
+PCL:0051359	Splat_358 neuron (Hsap)	Splat_358	UBERON:0001891	midbrain	midbrain (mesencephalon)	516	
+PCL:0051360	Splat_359 neuron (Hsap)	Splat_359	UBERON:0001891	midbrain	midbrain (mesencephalon)	517	
+PCL:0051361	Splat_360 neuron (Hsap)	Splat_360	UBERON:0001891	midbrain	midbrain (mesencephalon)	518	
+PCL:0051362	Splat_361 neuron (Hsap)	Splat_361	UBERON:0000955	brain	brain	519	
+PCL:0051363	Splat_362 neuron (Hsap)	Splat_362	UBERON:0000955	brain	brain	520	
+PCL:0051364	Splat_363 neuron (Hsap)	Splat_363	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	521	
+PCL:0051365	Splat_364 neuron (Hsap)	Splat_364	UBERON:0001891	midbrain	midbrain (mesencephalon)	522	
+PCL:0051366	Splat_365 neuron (Hsap)	Splat_365	UBERON:0000955	brain	brain	523	
+PCL:0051367	Splat_366 neuron (Hsap)	Splat_366	UBERON:0000955	brain	brain	524	
+PCL:0051368	Splat_367 neuron (Hsap)	Splat_367	UBERON:0001891	midbrain	midbrain (mesencephalon)	525	
+PCL:0051369	Splat_368 neuron (Hsap)	Splat_368	UBERON:0000955	brain	brain	526	
+PCL:0051370	Splat_369 neuron (Hsap)	Splat_369	UBERON:0001891	midbrain	midbrain (mesencephalon)	527	
+PCL:0051371	Splat_370 neuron (Hsap)	Splat_370	UBERON:0001891	midbrain	midbrain (mesencephalon)	528	
+PCL:0051372	Splat_371 neuron (Hsap)	Splat_371	UBERON:0001891	midbrain	midbrain (mesencephalon)	529	
+PCL:0051374	Splat_373 neuron (Hsap)	Splat_373	UBERON:0000955	brain	brain	531	
+PCL:0051375	Splat_374 neuron (Hsap)	Splat_374	UBERON:0000955	brain	brain	532	
+PCL:0051376	Splat_375 neuron (Hsap)	Splat_375	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	533	
+PCL:0051377	Splat_376 neuron (Hsap)	Splat_376	UBERON:0000955	brain	brain	534	
+PCL:0051378	Splat_377 neuron (Hsap)	Splat_377	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	535	
+PCL:0051379	Splat_378 neuron (Hsap)	Splat_378	UBERON:0000955	brain	brain	536	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	537	
+PCL:0051380	Splat_379 neuron (Hsap)	Splat_379	UBERON:0000988	pons	pons	537	
+PCL:0051381	Splat_380 neuron (Hsap)	Splat_380	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	538	
+PCL:0051382	Splat_381 neuron (Hsap)	Splat_381	UBERON:0000955	brain	brain	539	
+PCL:0051383	Splat_382 neuron (Hsap)	Splat_382	UBERON:0000955	brain	brain	540	
+PCL:0051384	Splat_383 neuron (Hsap)	Splat_383	UBERON:0000955	brain	brain	541	
+PCL:0051385	Splat_384 neuron (Hsap)	Splat_384	UBERON:0000955	brain	brain	542	
+PCL:0051386	Splat_385 neuron (Hsap)	Splat_385	UBERON:0001898	hypothalamus	hypothalamus	543	
+UBERON:0001896	medulla oblongata	medulla oblongata	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	544	
+PCL:0051387	Splat_386 neuron (Hsap)	Splat_386	UBERON:0001896	medulla oblongata	medulla oblongata	544	
+PCL:0051388	Splat_387 neuron (Hsap)	Splat_387	UBERON:0000955	brain	brain	545	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	546	
+PCL:0051389	Splat_388 neuron (Hsap)	Splat_388	UBERON:0000988	pons	pons	546	
+PCL:0051390	Splat_389 neuron (Hsap)	Splat_389	UBERON:0000955	brain	brain	547	
+PCL:0051391	Splat_390 neuron (Hsap)	Splat_390	UBERON:0000955	brain	brain	548	
+PCL:0051392	Splat_391 neuron (Hsap)	Splat_391	UBERON:0001898	hypothalamus	hypothalamus	549	
+PCL:0051393	Splat_392 neuron (Hsap)	Splat_392	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	550	
+PCL:0051394	Splat_393 neuron (Hsap)	Splat_393	UBERON:0000955	brain	brain	551	
+UBERON:0000988	pons	pons	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	552	
+PCL:0051395	Splat_394 neuron (Hsap)	Splat_394	UBERON:0000988	pons	pons	552	
+PCL:0051396	Splat_395 neuron (Hsap)	Splat_395	UBERON:0001891	midbrain	midbrain (mesencephalon)	553	
+PCL:0051397	Splat_396 neuron (Hsap)	Splat_396	UBERON:0000955	brain	brain	554	
+PCL:0051398	Splat_397 neuron (Hsap)	Splat_397	UBERON:0000955	brain	brain	555	
+PCL:0051399	Splat_398 neuron (Hsap)	Splat_398	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	556	
+UBERON:0001896	medulla oblongata	medulla oblongata	UBERON:0019263	gray matter of hindbrain	gray matter of hindbrain	557	
+PCL:0051400	Splat_399 neuron (Hsap)	Splat_399	UBERON:0001896	medulla oblongata	medulla oblongata	557	
+PCL:0051401	Splat_400 neuron (Hsap)	Splat_400	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	558	
+PCL:0051402	Misc_401 neuron of the forebrain (Hsap)	Misc_401	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	559	
+PCL:0051403	Splat_402 neuron (Hsap)	Splat_402	UBERON:0000955	brain	brain	560	
+PCL:0051404	Splat_403 neuron (Hsap)	Splat_403	UBERON:0000955	brain	brain	561	
+PCL:0051410	Splat_409 neuron (Hsap)	Splat_409	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	567	
+PCL:0051411	Splat_410 neuron (Hsap)	Splat_410	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	568	
+PCL:0051412	Splat_411 neuron (Hsap)	Splat_411	UBERON:0001898	hypothalamus	hypothalamus	569	
+PCL:0051413	Splat_412 neuron (Hsap)	Splat_412	UBERON:0001898	hypothalamus	hypothalamus	570	
+PCL:0051414	Splat_413 neuron (Hsap)	Splat_413	UBERON:0001898	hypothalamus	hypothalamus	571	
+PCL:0051415	Splat_414 neuron (Hsap)	Splat_414	UBERON:0001898	hypothalamus	hypothalamus	572	
+PCL:0051416	Splat_415 neuron (Hsap)	Splat_415	UBERON:0000955	brain	brain	573	
+PCL:0051417	Splat_416 neuron (Hsap)	Splat_416	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	574	
+PCL:0051418	Splat_417 neuron (Hsap)	Splat_417	UBERON:0001898	hypothalamus	hypothalamus	575	
+PCL:0051419	Splat_418 neuron (Hsap)	Splat_418	UBERON:0001898	hypothalamus	hypothalamus	576	
+PCL:0051421	Splat_420 neuron (Hsap)	Splat_420	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	578	
+PCL:0051422	Splat_421 neuron (Hsap)	Splat_421	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	579	
+PCL:0051423	Splat_422 neuron (Hsap)	Splat_422	UBERON:0000955	brain	brain	580	
+PCL:0051424	Splat_423 neuron (Hsap)	Splat_423	UBERON:0000955	brain	brain	581	
+PCL:0051425	Splat_424 neuron (Hsap)	Splat_424	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	582	
+PCL:0051426	Splat_425 neuron (Hsap)	Splat_425	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	583	
+PCL:0051427	EMSN_426 medium spiny neuron (Hsap)	EMSN_426	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	584	
+PCL:0051429	Splat_428 neuron (Hsap)	Splat_428	UBERON:0000955	brain	brain	586	
+PCL:0051430	Splat_429 neuron (Hsap)	Splat_429	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	587	
+PCL:0051431	MSN_430 medium spiny neuron (Hsap)	MSN_430	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	588	
+PCL:0051432	Splat_431 neuron (Hsap)	Splat_431	UBERON:0001898	hypothalamus	hypothalamus	589	
+PCL:0051433	Splat_432 neuron (Hsap)	Splat_432	UBERON:0000955	brain	brain	590	
+PCL:0051434	Midi_433 midbrain-derived inhibitory neuron (Hsap)	Midi_433	UBERON:0000955	brain	brain	591	
+PCL:0051435	Midi_434 midbrain-derived inhibitory neuron (Hsap)	Midi_434	UBERON:0000955	brain	brain	592	
+PCL:0051436	Midi_435 midbrain-derived inhibitory neuron (Hsap)	Midi_435	UBERON:0000955	brain	brain	593	
+PCL:0051437	Midi_436 midbrain-derived inhibitory neuron (Hsap)	Midi_436	UBERON:0000955	brain	brain	594	
+PCL:0051438	Midi_437 midbrain-derived inhibitory neuron (Hsap)	Midi_437	UBERON:0000955	brain	brain	595	
+PCL:0051439	Midi_438 midbrain-derived inhibitory neuron (Hsap)	Midi_438	UBERON:0000955	brain	brain	596	
+PCL:0051440	Midi_439 midbrain-derived inhibitory neuron (Hsap)	Midi_439	UBERON:0000955	brain	brain	597	
+PCL:0051441	Midi_440 midbrain-derived inhibitory neuron (Hsap)	Midi_440	UBERON:0000955	brain	brain	598	
+PCL:0051442	Midi_441 midbrain-derived inhibitory neuron (Hsap)	Midi_441	UBERON:0000955	brain	brain	599	
+PCL:0051443	Midi_442 midbrain-derived inhibitory neuron (Hsap)	Midi_442	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	600	
+PCL:0051444	Midi_443 midbrain-derived inhibitory neuron (Hsap)	Midi_443	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	601	
+PCL:0051445	Midi_444 midbrain-derived inhibitory neuron (Hsap)	Midi_444	UBERON:0000955	brain	brain	602	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	619	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	620	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	621	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	622	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	623	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	624	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	625	
+PCL:0015007	Inh L3-6 PAX6 LINC01497 primary motor cortex GABAergic interneuron (Hsap)	Inh L3-6 PAX6 LINC01497	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	625	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	626	
+PCL:0015008	Inh L1 PAX6 MIR101-1 primary motor cortex GABAergic interneuron (Hsap)	Inh L1 PAX6 MIR101-1	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	626	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	627	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	628	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	629	
+PCL:0015009	Inh L1 PAX6 CHRFAM7A primary motor cortex GABAergic interneuron (Hsap)	Inh L1 PAX6 CHRFAM7A	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	629	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	630	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	631	
+PCL:0015011	Inh L2 PAX6 FREM2 primary motor cortex GABAergic interneuron (Hsap)	Inh L2 PAX6 FREM2	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	631	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	632	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	633	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	634	
+PCL:0015016	Inh L1 PVALB-like SST ASIC4 primary motor cortex GABAergic interneuron (Hsap)	Inh L1 PVALB SST ASIC4	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	634	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	635	
+PCL:0015017	Inh L1 SST P4HA3 primary motor cortex GABAergic interneuron (Hsap)	Inh L1 SST P4HA3	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	635	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	636	
+PCL:0015018	Inh L1 SST DEFB108B primary motor cortex GABAergic interneuron (Hsap)	Inh L1 SST DEFB108B	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	636	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	637	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	638	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	639	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	640	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	641	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	642	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	643	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	644	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	645	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	646	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	647	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	648	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	649	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	650	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	651	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	652	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	653	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	654	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	655	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	656	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	657	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	658	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	659	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	660	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	661	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	662	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	663	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	664	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	665	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	666	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	667	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	668	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	669	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	670	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	671	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	672	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	673	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	674	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	675	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	676	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	677	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	678	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	679	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	680	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	681	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	682	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	683	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	684	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	685	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	686	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	687	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	688	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	689	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	690	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	691	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	692	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	693	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	694	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	695	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	696	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	697	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	698	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	699	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	700	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	701	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	702	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	703	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	704	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	705	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	706	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	707	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	708	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	709	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	710	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	711	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	712	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	713	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	714	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	715	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	716	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	717	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	718	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	719	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	720	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	721	
+PCL:0015104	Exc L6 FEZF2 PDYN primary motor cortex glutamatergic neuron (Hsap)	Exc L6 FEZF2 PDYN	CL:4023038	L6b glutamatergic cortical neuron	L6b glutamatergic cortical neuron	721	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	722	
+PCL:0015105	Exc L6 FEZF2 FFAR4 primary motor cortex glutamatergic neuron (Hsap)	Exc L6 FEZF2 FFAR4	CL:4023038	L6b glutamatergic cortical neuron	L6b glutamatergic cortical neuron	722	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	723	
+PCL:0015106	Exc L6 FEZF2 PROKR2 primary motor cortex glutamatergic neuron (Hsap)	Exc L6 FEZF2 PROKR2	CL:4023038	L6b glutamatergic cortical neuron	L6b glutamatergic cortical neuron	723	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	724	
+PCL:0015107	Exc L5-6 FEZF2 CFTR primary motor cortex glutamatergic neuron (Hsap)	Exc L5-6 FEZF2 CFTR	CL:4023038	L6b glutamatergic cortical neuron	L6b glutamatergic cortical neuron	724	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	725	
+PCL:0015108	Exc L6 FEZF2 KLK7 primary motor cortex glutamatergic neuron (Hsap)	Exc L6 FEZF2 KLK7	CL:4023038	L6b glutamatergic cortical neuron	L6b glutamatergic cortical neuron	725	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	726	
+PCL:0015109	Exc L6 FEZF2 POGK primary motor cortex glutamatergic neuron (Hsap)	Exc L6 FEZF2 POGK	CL:4023038	L6b glutamatergic cortical neuron	L6b glutamatergic cortical neuron	726	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	727	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	728	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	729	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	730	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	731	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	732	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	733	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	734	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	735	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	736	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	737	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	738	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	739	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	740	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	741	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	742	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	743	
+PCL:0015125	Endo L2-5 NOSTRIN SRGN primary motor cortex endothelial cell (Hsap)	Endo L2-5 NOSTRIN SRGN	CL:4023072	brain vascular cell	brain vascular cell	743	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	744	
+PCL:0015126	VLMC L1-5 PDGFRA COLEC12 primary motor cortex vascular leptomeningeal cell (Hsap)	VLMC L1-5 PDGFRA COLEC12	CL:4023072	brain vascular cell	brain vascular cell	744	
+UBERON:0016525	frontal lobe	frontal lobe	UBERON:0000956	cerebral cortex	cerebral cortex	745	

@@ -1,0 +1,75 @@
+Upper AS	Upper AS/label	Upper AS/ID	AS Name	References/ID	References/DOI
+Uterus	uterus	UBERON:0000995	superior uterine vein	HTTPS:DOIORG101111AJT15973	
+Uterus	uterus	UBERON:0000995	inferior uterine vein		
+uterine cervix	uterine cervix	UBERON:0000002	cervical mucosa	HTTPS:SCREENINGIARCFRCOLPOCHAPPHPLANG1	
+uterine cervix	uterine cervix	UBERON:0000002	cervical os	HTTPS:SCREENINGIARCFRCOLPOCHAPPHPLANG1	
+uterine cervix	uterine cervix	UBERON:0000002	cervical squamo-columnar junction	HTTPS:SCREENINGIARCFRCOLPOCHAPPHPLANG1	
+body of uterus	body of uterus	UBERON:0009853	central anterior body of uterus	HTTPS:DOIORG10110120210102425073	
+fundus of uterus	Fundus of uterus	FMA:17561	central anterior fundus of uterus	HTTPS:DOIORG10110120210102425073	
+Uterus	uterus	UBERON:0000995	lower uterine segment	HTTPS:DOIORG10110120210102425073	
+lower uterine segment			central anterior lower uterine segment	HTTPS:DOIORG10110120210102425073	
+body of uterus	body of uterus	UBERON:0009853	central posterior body of uterus	HTTPS:DOIORG10110120210102425073	
+fundus of uterus	Fundus of uterus	FMA:17561	central posterior fundus of uterus	HTTPS:DOIORG10110120210102425073	
+lower uterine segment			central posterior lower uterine segment	HTTPS:DOIORG10110120210102425073	
+body of uterus	body of uterus	UBERON:0009853	left anterior body of uterus	HTTPS:DOIORG10110120210102425073	
+fundus of uterus	Fundus of uterus	FMA:17561	left anterior fundus of uterus	HTTPS:DOIORG10110120210102425073	
+lower uterine segment			left anterior lower uterine segment	HTTPS:DOIORG10110120210102425073	
+body of uterus	body of uterus	UBERON:0009853	left posterior body of uterus	HTTPS:DOIORG10110120210102425073	
+fundus of uterus	Fundus of uterus	FMA:17561	left posterior fundus of uterus	HTTPS:DOIORG10110120210102425073	
+lower uterine segment			left posterior lower uterine segment	HTTPS:DOIORG10110120210102425073	
+endocervix	endocervix	UBERON:0000458	internal cervical os	HTTPS:SCREENINGIARCFRCOLPOCHAPPHPLANG1	
+endocervix	endocervix	UBERON:0000458	endocervical stroma	HTTPS:SCREENINGIARCFRCOLPOCHAPPHPLANG1	
+endocervix	endocervix	UBERON:0000458	columnar cell of endocervix		
+ectocervix	ectocervix	UBERON:0012249	external cervical os	HTTPS:SCREENINGIARCFRCOLPOCHAPPHPLANG1	
+ectocervix	ectocervix	UBERON:0012249	ectocervical epithelium	HTTPS:SCREENINGIARCFRCOLPOCHAPPHPLANG1	
+ectocervix	ectocervix	UBERON:0012249	ectocervical stroma	HTTPS:SCREENINGIARCFRCOLPOCHAPPHPLANG1	
+body of uterus	body of uterus	UBERON:0009853	right anterior body of uterus	HTTPS:DOIORG10110120210102425073	
+fundus of uterus	Fundus of uterus	FMA:17561	right anterior fundus of uterus	HTTPS:DOIORG10110120210102425073	
+lower uterine segment			right anterior lower uterine segment	HTTPS:DOIORG10110120210102425073	
+body of uterus	body of uterus	UBERON:0009853	right posterior body of uterus	HTTPS:DOIORG10110120210102425073	
+fundus of uterus	Fundus of uterus	FMA:17561	right posterior fundus of uterus	HTTPS:DOIORG10110120210102425073	
+lower uterine segment			right posterior lower uterine segment	HTTPS:DOIORG10110120210102425073	
+body of uterus	body of uterus	UBERON:0009853	central anterior body of uterus		
+serosa of the uterus		UBERON:0001297	connective tissue of the uterine serosa		
+serosa of the uterus		UBERON:0001297	mesothelium of the uterine serosa		
+body of uterus	body of uterus	UBERON:0009853	central anterior body of uterus	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+uterine myometrium		UBERON:0001296	inner uterine myometrium	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+uterine myometrium		UBERON:0001296	outer uterine myometrium	HTTPS:DOIORG10110120210102425073	
+fundus of uterus	Fundus of uterus	FMA:17561	central anterior fundus of uterus		
+fundus of uterus	Fundus of uterus	FMA:17561	central anterior fundus of uterus	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+Uterus	uterus	UBERON:0000995	lower uterine segment		
+lower uterine segment			central anterior lower uterine segment		
+Uterus	uterus	UBERON:0000995	lower uterine segment	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+lower uterine segment			central anterior lower uterine segment	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+body of uterus	body of uterus	UBERON:0009853	central posterior body of uterus		
+body of uterus	body of uterus	UBERON:0009853	central posterior body of uterus	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+fundus of uterus	Fundus of uterus	FMA:17561	central posterior fundus of uterus		
+fundus of uterus	Fundus of uterus	FMA:17561	central posterior fundus of uterus	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+lower uterine segment			central posterior lower uterine segment		
+lower uterine segment			central posterior lower uterine segment	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+body of uterus	body of uterus	UBERON:0009853	left anterior body of uterus		
+body of uterus	body of uterus	UBERON:0009853	left anterior body of uterus	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+fundus of uterus	Fundus of uterus	FMA:17561	left anterior fundus of uterus		
+fundus of uterus	Fundus of uterus	FMA:17561	left anterior fundus of uterus	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+lower uterine segment			left anterior lower uterine segment		
+lower uterine segment			left anterior lower uterine segment	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+body of uterus	body of uterus	UBERON:0009853	left posterior body of uterus		
+body of uterus	body of uterus	UBERON:0009853	left posterior body of uterus	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+fundus of uterus	Fundus of uterus	FMA:17561	left posterior fundus of uterus		
+fundus of uterus	Fundus of uterus	FMA:17561	left posterior fundus of uterus	HTTPS:DOIORG1011861471239313S1S7	
+uterine myometrium		UBERON:0001296	inner uterine myometrium	HTTPS:DOIORG1011861471239313S1S7	
+lower uterine segment			left posterior lower uterine segment		
+Uterus	uterus	UBERON:0000995	lower uterine segment	HTTPS:DOIORG1011861471239313S1S7	
+lower uterine segment			left posterior lower uterine segment	HTTPS:DOIORG1011861471239313S1S7	
+body of uterus	body of uterus	UBERON:0009853	right anterior body of uterus		
+body of uterus	body of uterus	UBERON:0009853	right anterior body of uterus	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+fundus of uterus	Fundus of uterus	FMA:17561	right anterior fundus of uterus		
+fundus of uterus	Fundus of uterus	FMA:17561	right anterior fundus of uterus	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+lower uterine segment			right anterior lower uterine segment		
+lower uterine segment			right anterior lower uterine segment	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+body of uterus	body of uterus	UBERON:0009853	right posterior body of uterus		
+body of uterus	body of uterus	UBERON:0009853	right posterior body of uterus	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+fundus of uterus	Fundus of uterus	FMA:17561	right posterior fundus of uterus		
+fundus of uterus	Fundus of uterus	FMA:17561	right posterior fundus of uterus	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	
+lower uterine segment			right posterior lower uterine segment		
+lower uterine segment			right posterior lower uterine segment	HTTPS:DOIORG101093MOLEHRGAT083 ; HTTPS:DOIORG1011861471239313S1S7	

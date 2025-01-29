@@ -1,0 +1,170 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+CL:0019018	blood vessel smooth muscle cell	blood vessel smooth muscle cell	UBERON:0012418	respiratory system venous smooth muscle	venous system smooth muscle	117	20.650136948319414
+CL:0019018	blood vessel smooth muscle cell	blood vessel smooth muscle cell	UBERON:0012418	respiratory system venous smooth muscle	venous system smooth muscle	113	20.650136948319414
+CL:4033044	deuterosomal cell	airway deuterosomal cell	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	44	16.892569990402265
+CL:4033044	deuterosomal cell	airway deuterosomal cell	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	57	16.892569990402265
+CL:4033044	deuterosomal cell	airway deuterosomal cell	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	64	16.892569990402265
+CL:0019018	blood vessel smooth muscle cell	blood vessel smooth muscle cell	UBERON:0012416	respiratory system arterial smooth muscle	arterial system smooth muscle	115	16.085120010578777
+UBERON:0004884	lobar bronchus mesenchyme	bronchial mesenchyme	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	67	12.815622769442498
+UBERON:8600000	lobular bronchiole	lobular bronchiole	UBERON:0012067	primary bronchiole	proximal bronchiole	68	12.815622769442498
+UBERON:8600000	lobular bronchiole	lobular bronchiole	UBERON:0012067	primary bronchiole	proximal bronchiole	69	12.815622769442498
+UBERON:8600000	lobular bronchiole	lobular bronchiole	UBERON:0012067	primary bronchiole	proximal bronchiole	70	12.815622769442498
+UBERON:8600000	lobular bronchiole	lobular bronchiole	UBERON:0012067	primary bronchiole	proximal bronchiole	71	12.815622769442498
+CL:1000413	endothelial cell of artery	endothelial cell of artery	UBERON:0004848	respiratory system arterial endothelium	respiratory system arterial endothelium	114	11.800397599216467
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	118	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	132	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	129	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	131	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	130	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	134	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	128	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	127	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	133	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	138	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	135	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	136	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	137	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	125	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	139	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	140	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	141	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	142	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	143	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	144	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	145	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	126	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	146	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	124	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	123	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	122	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	121	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	120	11.18663870451968
+UBERON:0002405	immune system	immune system of respiratory tract	UBERON:0002048	lung	lung	119	11.18663870451968
+UBERON:0002299	alveolus of lung	alveolus of lung on respiratory bronchiole	UBERON:0002188	respiratory bronchiole	respiratory bronchiole	80	10.599641081376646
+UBERON:0002299	alveolus of lung	alveolus of lung on respiratory bronchiole	UBERON:0002188	respiratory bronchiole	respiratory bronchiole	81	10.599641081376646
+UBERON:0002299	alveolus of lung	alveolus of lung on respiratory bronchiole	UBERON:0002188	respiratory bronchiole	respiratory bronchiole	82	10.599641081376646
+UBERON:0002299	alveolus of lung	alveolus of lung on respiratory bronchiole	UBERON:0002188	respiratory bronchiole	respiratory bronchiole	83	10.599641081376646
+UBERON:0002299	alveolus of lung	alveolus of lung on respiratory bronchiole	UBERON:0002188	respiratory bronchiole	respiratory bronchiole	84	10.599641081376646
+UBERON:0002299	alveolus of lung	alveolus of lung on respiratory bronchiole	UBERON:0002188	respiratory bronchiole	respiratory bronchiole	85	10.599641081376646
+UBERON:0002299	alveolus of lung	alveolus of lung on respiratory bronchiole	UBERON:0002188	respiratory bronchiole	respiratory bronchiole	86	10.599641081376646
+CL:0002619	adult endothelial progenitor cell	adult endothelial progenitor cell	UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	101	9.130033875481274
+CL:0019003	tracheobronchial goblet cell	tracheobronchial goblet cell	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	43	9.130033875481274
+CL:0019003	tracheobronchial goblet cell	tracheobronchial goblet cell	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	63	9.130033875481274
+UBERON:0002051	epithelium of bronchiole	epithelium of bronchiole	UBERON:8600000	lobular bronchiole	lobular bronchiole	70	8.890519214984991
+UBERON:0002051	epithelium of bronchiole	epithelium of bronchiole	UBERON:8600000	lobular bronchiole	lobular bronchiole	69	8.890519214984991
+UBERON:0002051	epithelium of bronchiole	epithelium of bronchiole	UBERON:8600000	lobular bronchiole	lobular bronchiole	68	8.890519214984991
+UBERON:0018227	pulmonary lymphatic vessel	pulmonary lymphatic vessel	UBERON:8600022	pulmonary interlobular septum	pulmonary interlobular septum	103	7.235380661475844
+CL:4033044	deuterosomal cell	airway deuterosomal cell	UBERON:0002339	epithelium of lobar bronchus	lobar bronchial epithelium	22	4.076947220959767
+CL:0002063	pulmonary alveolar type 2 cell	alveolar type II cell	UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	89	3.4946790835759742
+UBERON:0002009	pulmonary nerve plexus	pulmonary nerve plexus	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	12	
+CL:4033055	airway submucosal gland duct multiciliated cell	airway submucosal gland ciliated duct cell	UBERON:8600010	bronchial submucosal gland ciliated duct	ciliated ducts of bronchial submucosal gland	13	
+UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	14	
+CL:4033024	airway submucosal gland duct basal cell	airway submucosal gland duct basal cell	UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	14	
+UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	15	
+CL:4033023	airway submucosal gland collecting duct epithelial cell	airway submucosal gland collecting duct epithelial cell	UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	15	
+UBERON:8600012	submucosal gland acinus	submucosal gland acinus	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	16	
+CL:4033005	serous secreting cell of bronchus submucosal gland	serous secreting cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	16	
+UBERON:8600012	submucosal gland acinus	submucosal gland acinus	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	17	
+CL:4033022	mucus secreting cell of bronchus submucosal gland	mucus secreting cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	17	
+UBERON:8600012	submucosal gland acinus	submucosal gland acinus	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	18	
+CL:4033003	myoepithelial cell of bronchus submucosal gland	myoepithelial cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	18	
+CL:4033026	lung perichondrial fibroblast	lung perichondrial fibroblast	UBERON:0001956	cartilage of bronchus	cartilage of bronchus	21	
+CL:4033048	respiratory tract suprabasal cell	respiratory suprabasal cell	UBERON:0002339	epithelium of lobar bronchus	lobar bronchial epithelium	24	
+CL:4033055	airway submucosal gland duct multiciliated cell	airway submucosal gland ciliated duct cells	UBERON:8600010	bronchial submucosal gland ciliated duct	ciliated ducts of bronchial submucosal gland	31	
+UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	32	
+CL:4033024	airway submucosal gland duct basal cell	airway submucosal gland duct basal cell	UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	32	
+UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	33	
+CL:4033023	airway submucosal gland collecting duct epithelial cell	airway submucosal gland collecting duct epithelial cell	UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	33	
+UBERON:8600012	submucosal gland acinus	submucosal gland acinus	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	34	
+CL:4033005	serous secreting cell of bronchus submucosal gland	serous secreting cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	34	
+UBERON:8600012	submucosal gland acinus	submucosal gland acinus	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	35	
+CL:4033022	mucus secreting cell of bronchus submucosal gland	mucus secreting cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	35	
+UBERON:8600012	submucosal gland acinus	submucosal gland acinus	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	36	
+CL:4033003	myoepithelial cell of bronchus submucosal gland	myoepithelial cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	36	
+CL:4033048	respiratory tract suprabasal cell	respiratory suprabasal cell	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	39	
+UBERON:0004884	lobar bronchus mesenchyme	bronchial mesenchyme	UBERON:0002184	segmental bronchus	tertiary bronchus	48	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	49	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	50	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	51	
+CL:4033055	airway submucosal gland duct multiciliated cell	airway submucosal gland ciliated duct cells	UBERON:8600010	bronchial submucosal gland ciliated duct	ciliated ducts of bronchial submucosal gland	51	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	52	
+UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	52	
+CL:4033024	airway submucosal gland duct basal cell	airway submucosal gland duct basal cell	UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	52	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	53	
+UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	53	
+CL:4033023	airway submucosal gland collecting duct epithelial cell	airway submucosal gland collecting duct epithelial cell	UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	53	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	54	
+UBERON:8600012	submucosal gland acinus	submucosal gland acinus	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	54	
+CL:4033005	serous secreting cell of bronchus submucosal gland	serous secreting cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	54	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	55	
+UBERON:8600012	submucosal gland acinus	submucosal gland acinus	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	55	
+CL:4033022	mucus secreting cell of bronchus submucosal gland	mucus secreting cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	55	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	56	
+UBERON:8600012	submucosal gland acinus	submucosal gland acinus	UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	56	
+CL:4033003	myoepithelial cell of bronchus submucosal gland	myoepithelial cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	56	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	57	
+UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	57	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	58	
+UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	58	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	59	
+UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	59	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	60	
+UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	60	
+CL:4033048	respiratory tract suprabasal cell	respiratory suprabasal cell	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	60	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	61	
+UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	61	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	62	
+UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	62	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	63	
+UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	63	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	64	
+UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	64	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	65	
+UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	65	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	66	
+UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	66	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	67	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	68	
+UBERON:0012067	primary bronchiole	proximal bronchiole	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	68	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	69	
+UBERON:0012067	primary bronchiole	proximal bronchiole	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	69	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	70	
+UBERON:0012067	primary bronchiole	proximal bronchiole	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	70	
+UBERON:8600017	bronchopulmonary segment	bronchopulmonary segment	UBERON:0007196	tracheobronchial tree	tracheobronchial tree	71	
+UBERON:0012067	primary bronchiole	proximal bronchiole	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	71	
+UBERON:0004515	smooth muscle tissue of bronchiole	smooth muscle tissue of bronchiole	UBERON:8600000	lobular bronchiole	lobular bronchiole	71	
+UBERON:0016405	pulmonary capillary	pulmonary capillary	UBERON:0002299	alveolus of lung	alveolus of lung on respiratory bronchiole	80	
+UBERON:0016405	pulmonary capillary	pulmonary capillary	UBERON:0002299	alveolus of lung	alveolus of lung on respiratory bronchiole	81	
+CL:0009089	lung pericyte	lung pericyte	UBERON:0002299	alveolus of lung	alveolus of lung on respiratory bronchiole	84	
+UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	UBERON:0002188	respiratory bronchiole	respiratory bronchiole	87	
+UBERON:0016405	pulmonary capillary	pulmonary capillary	UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	87	
+UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	UBERON:0002188	respiratory bronchiole	respiratory bronchiole	88	
+UBERON:0016405	pulmonary capillary	pulmonary capillary	UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	88	
+UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	UBERON:0002188	respiratory bronchiole	respiratory bronchiole	89	
+UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	UBERON:0002188	respiratory bronchiole	respiratory bronchiole	90	
+CL:0002062	pulmonary alveolar type 1 cell	alveolar type I cell	UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	90	
+UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	UBERON:0002188	respiratory bronchiole	respiratory bronchiole	91	
+CL:0009089	lung pericyte	lung pericyte	UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	91	
+UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	UBERON:0002188	respiratory bronchiole	respiratory bronchiole	92	
+CL:4028006	alveolar adventitial fibroblast	adventitial fibroblast	UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	92	
+UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	UBERON:0002188	respiratory bronchiole	respiratory bronchiole	93	
+CL:4028004	alveolar type 1 fibroblast cell	alveolar type 1 fibroblast cell	UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	93	
+UBERON:0016405	pulmonary capillary	pulmonary capillary	UBERON:0008870	pulmonary alveolar parenchyma	pulmonary alveolar parenchyma	94	
+UBERON:0016405	pulmonary capillary	pulmonary capillary	UBERON:0008870	pulmonary alveolar parenchyma	pulmonary alveolar parenchyma	95	
+CL:4028006	alveolar adventitial fibroblast	adventitial fibroblast	UBERON:0008870	pulmonary alveolar parenchyma	pulmonary alveolar parenchyma	99	
+CL:4028004	alveolar type 1 fibroblast cell	alveolar type 1 fibroblast cell	UBERON:0008870	pulmonary alveolar parenchyma	pulmonary alveolar parenchyma	100	
+UBERON:0014904	intersegmental pulmonary vein	intersegmental pulmonary vein	UBERON:8600022	pulmonary interlobular septum	pulmonary interlobular septum	101	
+UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	UBERON:0014904	intersegmental pulmonary vein	intersegmental pulmonary vein	101	
+UBERON:0014904	intersegmental pulmonary vein	intersegmental pulmonary vein	UBERON:8600022	pulmonary interlobular septum	pulmonary interlobular septum	102	
+UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	UBERON:0014904	intersegmental pulmonary vein	intersegmental pulmonary vein	102	
+CL:4033008	vein endothelial cell of respiratory system	vein endothelial cell of respiratory system	UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	102	
+UBERON:0004848	respiratory system arterial endothelium	respiratory system arterial endothelium	UBERON:0002012	pulmonary artery	pulmonary artery	109	
+CL:1001568	pulmonary artery endothelial cell	pulmonary artery endothelial cell	UBERON:0004848	respiratory system arterial endothelium	respiratory system arterial endothelium	109	
+UBERON:0012416	respiratory system arterial smooth muscle	arterial system smooth muscle	UBERON:0002012	pulmonary artery	pulmonary artery	110	
+CL:0002591	smooth muscle cell of the pulmonary artery	smooth muscle cell of the pulmonary artery	UBERON:0012416	respiratory system arterial smooth muscle	arterial system smooth muscle	110	
+UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	UBERON:0002016	pulmonary vein	pulmonary vein	112	
+CL:4033008	vein endothelial cell of respiratory system	vein endothelial cell of respiratory system	UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	112	
+UBERON:0012418	respiratory system venous smooth muscle	venous system smooth muscle	UBERON:0002016	pulmonary vein	pulmonary vein	113	
+UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	UBERON:0001592	bronchial vein	bronchial vein	116	
+CL:4033008	vein endothelial cell of respiratory system	vein endothelial cell of respiratory system	UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	116	
+UBERON:0012418	respiratory system venous smooth muscle	venous system smooth muscle	UBERON:0001592	bronchial vein	bronchial vein	117	

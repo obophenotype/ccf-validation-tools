@@ -1,0 +1,32 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+CL:0000125	glial cell	glial cell	UBERON:0035966	scleral lamina cribrosa	scleral lamina cribrosa	21	49.43786771670267
+CL:0000125	glial cell	glial cell	UBERON:0018107	foveola of retina	foveola of retina	75	49.43786771670267
+CL:0000125	glial cell	glial cell	UBERON:0000941	cranial nerve II	optic nerve	20	16.13780044361812
+UBERON:0034713	cranial neuron projection bundle	nerve bundle	UBERON:0000941	cranial nerve II	optic nerve	24	11.231159400046096
+CL:0000573	retinal cone cell	retinal cone cell	UBERON:0001789	outer nuclear layer of retina	outer nuclear layer	62	10.815592470591767
+CL:0000604	retinal rod cell	retinal rod cell	UBERON:0001789	outer nuclear layer of retina	outer nuclear layer	71	6.6623300585534935
+CL:0011004	lens fiber cell	lens fiber cell	UBERON:0000390	lens nucleus	Adult nucleus	35	6.034624143636009
+CL:0011004	lens fiber cell	lens fiber cell	UBERON:0000389	lens cortex	cortex	36	4.565016937740623
+CL:0011004	lens fiber cell	lens fiber cell	UBERON:0000389	lens cortex	cortex	37	4.565016937740623
+UBERON:0003902	retinal neural layer	retinal neural layer	UBERON:0000941	cranial nerve II	optic nerve	23	3.5707327304602217
+UBERON:0000482	basal lamina of epithelium	basal epithelium	UBERON:0006761	corneo-scleral junction	corneoscleral limbus	28	1.8946532140054302
+CL:0002363	keratocyte	keratocyte	UBERON:0003952	anterior stroma of cornea	anterior stroma of cornea	17	
+CL:0017004	telocyte	telocyte	UBERON:0003952	anterior stroma of cornea	anterior stroma of cornea	18	
+UBERON:0035966	scleral lamina cribrosa	scleral lamina cribrosa	UBERON:0000941	cranial nerve II	optic nerve	21	
+UBERON:0001773	sclera	sclera	UBERON:0000941	cranial nerve II	optic nerve	22	
+UBERON:0006136	unmyelinated nerve fiber	unmyelinated nerve bundles	UBERON:0000941	cranial nerve II	optic nerve	25	
+UBERON:0002276	lamina of spiral limbus	lamina of spiral limbus	UBERON:0000970	eye	eye	28	
+UBERON:0006761	corneo-scleral junction	corneoscleral limbus	UBERON:0002276	lamina of spiral limbus	lamina of spiral limbus	28	
+CL:0002228	primary lens fiber	primary lens fiber	UBERON:0002444	lens fiber	lens Fibers	29	
+CL:0002225	secondary lens fiber	mature fiber cell	UBERON:0000390	lens nucleus	Fetal nucleus	34	
+UBERON:0002203	vasculature of eye	vasculature of eye	UBERON:0000966	retina	retina	61	
+CL:0002585	retinal blood vessel endothelial cell	Endothelial Cell	UBERON:0004864	vasculature of retina	vasculature	63	
+CL:4023188	Midget ganglion cell of retina	Midget cell	UBERON:0001792	ganglionic layer of retina	retinal ganglion cell layer	64	
+CL:4023189	Parasol ganglion cell of retina	Parasol cell	UBERON:0001792	ganglionic layer of retina	retinal ganglion cell layer	65	
+CL:0000129	microglial cell	microglial cell	CL:0000540	neuron	Neuron	68	
+CL:0000129	microglial cell	microglial cell	UBERON:0000966	retina	retina	68	
+CL:0000636	Mueller cell	Muller glia	CL:0000540	neuron	Neuron	69	
+CL:0000636	Mueller cell	Muller glia	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	69	
+CL:0000669	pericyte	Pericyte	UBERON:0004864	vasculature of retina	vasculature	70	
+UBERON:0000054	macula	macula	UBERON:0000966	retina	retina	75	
+UBERON:0018107	foveola of retina	foveola of retina	UBERON:0000054	macula	macula	75	

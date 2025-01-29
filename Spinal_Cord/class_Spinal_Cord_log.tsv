@@ -1,0 +1,66 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+CL:0000540	neuron	Medial Inhibitory Neuron 1	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	103	68.34985815042238
+CL:0000540	neuron	Medial Excitatory Neuron 4	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	102	68.34985815042238
+CL:0000540	neuron	Medial Excitatory Neuron 3	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	101	68.34985815042238
+CL:0000540	neuron	Medial Excitatory Neuron 2	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	100	68.34985815042238
+CL:0000540	neuron	Medial Excitatory Neuron 1	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	99	68.34985815042238
+CL:0000115	Endothelial Cell	Endothelial Cell	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	98	47.446003478783666
+CL:0000115	Endothelial Cell	Endothelial Cell	UBERON:0026386	lumbar spinal cord white matter	lumbar spinal cord white matter	25	47.446003478783666
+CL:0000115	Endothelial Cell	Endothelial Cell	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	107	47.446003478783666
+CL:0000115	Endothelial Cell	Endothelial Cell	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	86	40.21062281730782
+CL:0000127	Astrocyte	Astrocyte	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	96	34.959865131561756
+CL:0000127	Astrocyte	Astrocyte	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	105	34.959865131561756
+CL:0000127	Astrocyte	Astrocyte	UBERON:0026386	lumbar spinal cord white matter	lumbar spinal cord white matter	23	34.959865131561756
+CL:0000128	Oligodendrocyte	Oligodendrocyte	UBERON:0026386	lumbar spinal cord white matter	lumbar spinal cord white matter	21	29.780170823800674
+CL:0000128	Oligodendrocyte	Oligodendrocyte	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	104	29.780170823800674
+CL:0000128	Oligodendrocyte	Oligodendrocyte	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	95	29.780170823800674
+CL:0002453	Oligodendrocyte Precursor Cell	Oligodendrocyte Precursor Cell	UBERON:0026386	lumbar spinal cord white matter	lumbar spinal cord white matter	22	29.10216298286312
+CL:0000127	Astrocyte	Astrocyte	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	84	27.724484470085912
+CL:0000129	microglial cell	Microglia	UBERON:0031906	lumbar spinal cord lateral horn	lumbar spinal cord lateral horn	106	24.294691894598557
+CL:0000129	microglial cell	Microglia	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	97	24.294691894598557
+CL:0000129	microglial cell	Microglia	UBERON:0026386	lumbar spinal cord white matter	lumbar spinal cord white matter	24	24.294691894598557
+CL:0000128	Oligodendrocyte	Oligodendrocyte	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	83	22.54479016232483
+CL:0000065	Ependymal Cell	Ependymal Cell	UBERON:0014543	lumbar division of spinal cord central canal	lumbar division of spinal cord central canal	20	19.27529292118855
+CL:0000129	microglial cell	Microglia	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	85	17.059311233122713
+UBERON:0014620	cervical spinal cord dorsal horn	cervical spinal cord dorsal horn	UBERON:0014613	cervical spinal cord gray matter	cervical spinal cord gray matter	141	2.670363723735207
+UBERON:0014620	cervical spinal cord dorsal horn	cervical spinal cord dorsal horn	UBERON:0014613	cervical spinal cord gray matter	cervical spinal cord gray matter	142	2.670363723735207
+UBERON:0014609	thoracic spinal cord dorsal horn	thoracic spinal cord dorsal horn	UBERON:0014636	thoracic spinal cord gray matter	thoracic spinal cord gray matter	145	2.670363723735207
+UBERON:0014609	thoracic spinal cord dorsal horn	thoracic spinal cord dorsal horn	UBERON:0014636	thoracic spinal cord gray matter	thoracic spinal cord gray matter	146	2.670363723735207
+UBERON:0014543	lumbar division of spinal cord central canal	lumbar division of spinal cord central canal	UBERON:0002792	lumbar spinal cord	lumbar spinal cord	20	
+UBERON:0014541	thoracic division of spinal cord central canal	thoracic division of spinal cord central canal	UBERON:0003038	thoracic spinal cord	thoracic spinal cord	35	
+UBERON:0014547	sacral division of spinal cord central canal	sacral division of spinal cord central canal	UBERON:0005843	sacral spinal cord	sacral spinal cord	36	
+UBERON:0014619	cervical spinal cord lateral horn	cervical spinal cord lateral horn	UBERON:0014613	cervical spinal cord gray matter	cervical spinal cord gray matter	48	
+UBERON:0014621	cervical spinal cord ventral horn	cervical spinal cord ventral horn	UBERON:0014613	cervical spinal cord gray matter	cervical spinal cord gray matter	49	
+UBERON:0007836	cervical spinal cord ventral commissure	cervical spinal cord ventral commissure	UBERON:0014613	cervical spinal cord gray matter	cervical spinal cord gray matter	50	
+UBERON:0007834	lumbar spinal cord ventral commissure	lumbar spinal cord ventral commissure	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	61	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	62	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	63	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	64	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	65	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	66	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	67	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	68	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	69	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	70	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	71	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	72	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	73	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	74	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	75	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	76	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	77	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	78	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	79	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	80	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	81	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	82	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	83	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	84	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	85	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	86	
+UBERON:0014607	thoracic spinal cord lateral horn	thoracic spinal cord lateral horn	UBERON:0014636	thoracic spinal cord gray matter	thoracic spinal cord gray matter	127	
+UBERON:0014610	thoracic spinal cord ventral horn	thoracic spinal cord ventral horn	UBERON:0014636	thoracic spinal cord gray matter	thoracic spinal cord gray matter	128	
+UBERON:0007837	thoracic spinal cord ventral commissure	thoracic spinal cord ventral commissure	UBERON:0014636	thoracic spinal cord gray matter	thoracic spinal cord gray matter	129	
+UBERON:0007835	sacral spinal cord ventral commissure	sacral spinal cord ventral commissure	UBERON:0029503	sacral spinal cord gray matter	sacral spinal cord gray matter	136	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	143	
+UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	UBERON:0029636	lumbar spinal cord gray matter	lumbar spinal cord gray matter	144	

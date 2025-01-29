@@ -1,0 +1,433 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1038
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	841
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	843
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1083
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	856
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	858
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	860
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	862
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	864
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	866
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	868
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	870
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	839
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1081
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	885
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	887
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	889
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	891
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	893
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	895
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	897
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1078
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	910
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	912
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	914
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	883
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	837
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	835
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	833
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	756
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	758
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	760
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	762
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1091
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	775
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	777
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	779
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	781
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	783
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	785
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	787
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	789
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1088
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	802
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	804
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	806
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	808
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	810
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	812
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	814
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	816
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1086
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	829
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	831
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	916
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	754
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	918
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	922
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1006
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1008
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1011
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1013
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1016
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1018
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1021
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1023
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1026
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1028
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1031
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1003
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1033
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1071
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1041
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1043
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1046
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1048
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1051
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1053
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1056
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1058
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1061
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1063
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1036
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1001
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	998
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	996
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	924
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1076
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	937
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	939
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	941
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	943
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	945
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	947
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	949
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	951
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1073
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	964
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	966
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	968
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	970
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	972
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	974
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	976
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	978
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	981
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	983
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	986
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	988
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	991
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	993
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	920
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	752
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	750
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	748
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1223
+CL:0000503	theca cell	theca cell	UBERON:0002512	corpus luteum	corpus luteum	373
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1221
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1218
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1216
+CL:0000503	theca cell	theca cell	UBERON:0002512	corpus luteum	corpus luteum	386
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1213
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1211
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1208
+CL:0000503	theca cell	theca cell	UBERON:0002512	corpus luteum	corpus luteum	399
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1206
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1226
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1203
+CL:0000503	theca cell	theca cell	UBERON:0002512	corpus luteum	corpus luteum	412
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1198
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1196
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1193
+CL:0000503	theca cell	theca cell	UBERON:0002512	corpus luteum	corpus luteum	425
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1191
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1188
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1186
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1183
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1181
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1178
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1201
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1228
+CL:0000503	theca cell	theca cell	UBERON:0002512	corpus luteum	corpus luteum	360
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1231
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1278
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1276
+CL:0000503	theca cell	theca cell	UBERON:0002512	corpus luteum	corpus luteum	282
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1273
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1271
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1268
+CL:0000503	theca cell	theca cell	UBERON:0002512	corpus luteum	corpus luteum	295
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1266
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1263
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1261
+CL:0000503	theca cell	theca cell	UBERON:0002512	corpus luteum	corpus luteum	308
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1258
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1256
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1253
+CL:0000503	theca cell	theca cell	UBERON:0002512	corpus luteum	corpus luteum	321
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1251
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1248
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1246
+CL:0000503	theca cell	theca cell	UBERON:0002512	corpus luteum	corpus luteum	334
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1243
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1241
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1238
+CL:0000503	theca cell	theca cell	UBERON:0002512	corpus luteum	corpus luteum	347
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1236
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1233
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1176
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1173
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1171
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1168
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	671
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	673
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	675
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	677
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	679
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	681
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1098
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	694
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	696
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	698
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	700
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	702
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	704
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	706
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	708
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1096
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	721
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	723
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	725
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	727
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	729
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	731
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	733
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	735
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1093
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	669
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1066
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	667
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1103
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1166
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1163
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1161
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1158
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1156
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1153
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1151
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1148
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1146
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1143
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1141
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1138
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1136
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1133
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1131
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1128
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1126
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1123
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1121
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1118
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1116
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1113
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1111
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1108
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1106
+CL:0000503	theca cell	theca cell	UBERON:0000156	theca externa	theca externa	1101
+CL:0000503	theca cell	theca cell	UBERON:0000157	theca interna	theca interna	1068
+CL:0000654	primary oocyte	primary oocyte	UBERON:0007180	atretic follicle of ovary	atretic follicle of ovary	275
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003982	mature ovarian follicle	ovulatory antral follicle	960
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	370
+CL:0000654	primary oocyte	primary oocyte	UBERON:0007180	atretic follicle of ovary	atretic follicle of ovary	379
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	381
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	383
+CL:0000654	primary oocyte	primary oocyte	UBERON:0007180	atretic follicle of ovary	atretic follicle of ovary	392
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	394
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	396
+CL:0000654	primary oocyte	primary oocyte	UBERON:0007180	atretic follicle of ovary	atretic follicle of ovary	405
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	407
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	409
+CL:0000654	primary oocyte	primary oocyte	UBERON:0007180	atretic follicle of ovary	atretic follicle of ovary	418
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	420
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	422
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003981	primordial ovarian follicle	primordial ovarian follicle	428
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000035	primary ovarian follicle	primary ovarian follicle	433
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000036	secondary ovarian follicle	secondary ovarian follicle	437
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003981	primordial ovarian follicle	primordial ovarian follicle	447
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	368
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000035	primary ovarian follicle	primary ovarian follicle	452
+CL:0000654	primary oocyte	primary oocyte	UBERON:0007180	atretic follicle of ovary	atretic follicle of ovary	366
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	355
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	277
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	279
+CL:0000654	primary oocyte	primary oocyte	UBERON:0007180	atretic follicle of ovary	atretic follicle of ovary	288
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	290
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	292
+CL:0000654	primary oocyte	primary oocyte	UBERON:0007180	atretic follicle of ovary	atretic follicle of ovary	301
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	303
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	305
+CL:0000654	primary oocyte	primary oocyte	UBERON:0007180	atretic follicle of ovary	atretic follicle of ovary	314
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	316
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	318
+CL:0000654	primary oocyte	primary oocyte	UBERON:0007180	atretic follicle of ovary	atretic follicle of ovary	327
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	331
+CL:0000654	primary oocyte	primary oocyte	UBERON:0007180	atretic follicle of ovary	atretic follicle of ovary	340
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	342
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	344
+CL:0000654	primary oocyte	primary oocyte	UBERON:0007180	atretic follicle of ovary	atretic follicle of ovary	353
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	357
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000036	secondary ovarian follicle	secondary ovarian follicle	456
+CL:0000654	primary oocyte	primary oocyte	UBERON:0001305	ovarian follicle	ovarian follicle	329
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000035	primary ovarian follicle	primary ovarian follicle	471
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003981	primordial ovarian follicle	primordial ovarian follicle	618
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000035	primary ovarian follicle	primary ovarian follicle	623
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000036	secondary ovarian follicle	secondary ovarian follicle	627
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003981	primordial ovarian follicle	primordial ovarian follicle	637
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000035	primary ovarian follicle	primary ovarian follicle	642
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000036	secondary ovarian follicle	secondary ovarian follicle	646
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003982	mature ovarian follicle	ovulatory antral follicle	663
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003982	mature ovarian follicle	ovulatory antral follicle	690
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003982	mature ovarian follicle	ovulatory antral follicle	717
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003982	mature ovarian follicle	ovulatory antral follicle	744
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003982	mature ovarian follicle	ovulatory antral follicle	798
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003982	mature ovarian follicle	ovulatory antral follicle	825
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003982	mature ovarian follicle	ovulatory antral follicle	852
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003982	mature ovarian follicle	ovulatory antral follicle	879
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003982	mature ovarian follicle	ovulatory antral follicle	906
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003982	mature ovarian follicle	ovulatory antral follicle	933
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003981	primordial ovarian follicle	primordial ovarian follicle	466
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000036	secondary ovarian follicle	secondary ovarian follicle	608
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000035	primary ovarian follicle	primary ovarian follicle	604
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003982	mature ovarian follicle	ovulatory antral follicle	771
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000036	secondary ovarian follicle	secondary ovarian follicle	589
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000036	secondary ovarian follicle	secondary ovarian follicle	475
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003981	primordial ovarian follicle	primordial ovarian follicle	599
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003981	primordial ovarian follicle	primordial ovarian follicle	485
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000035	primary ovarian follicle	primary ovarian follicle	490
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000036	secondary ovarian follicle	secondary ovarian follicle	494
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000035	primary ovarian follicle	primary ovarian follicle	509
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000036	secondary ovarian follicle	secondary ovarian follicle	513
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003981	primordial ovarian follicle	primordial ovarian follicle	523
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000035	primary ovarian follicle	primary ovarian follicle	528
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003981	primordial ovarian follicle	primordial ovarian follicle	504
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003981	primordial ovarian follicle	primordial ovarian follicle	542
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000035	primary ovarian follicle	primary ovarian follicle	547
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000036	secondary ovarian follicle	secondary ovarian follicle	551
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000035	primary ovarian follicle	primary ovarian follicle	585
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003981	primordial ovarian follicle	primordial ovarian follicle	561
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000035	primary ovarian follicle	primary ovarian follicle	566
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000036	secondary ovarian follicle	secondary ovarian follicle	570
+CL:0000654	primary oocyte	primary oocyte	UBERON:0000036	secondary ovarian follicle	secondary ovarian follicle	532
+CL:0000654	primary oocyte	primary oocyte	UBERON:0003981	primordial ovarian follicle	primordial ovarian follicle	580
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1432
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1434
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1436
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1438
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1440
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1446
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1444
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1448
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1430
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1452
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1450
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1442
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1428
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1410
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1424
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1422
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1420
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1418
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1416
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1414
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1412
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1408
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1406
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1404
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1454
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1402
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1426
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1456
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1498
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1460
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1400
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1514
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1512
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1510
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1508
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1506
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1504
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1502
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1500
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1496
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1494
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1492
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1490
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1488
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1486
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1484
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1482
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1480
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1478
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1476
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1474
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1472
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1470
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1468
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1466
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1464
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1462
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1458
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1398
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1316
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1394
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1330
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1328
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1326
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1324
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1322
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1320
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1318
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1516
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1314
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1312
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1310
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1308
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1332
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1306
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1302
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1300
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1298
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1296
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1294
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1292
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1290
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1288
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1286
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1284
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1282
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1280
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1304
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1334
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1336
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1338
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1392
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1390
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1388
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1386
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1384
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1382
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1380
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1378
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1376
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1374
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1372
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1370
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1368
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1366
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1364
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1362
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1360
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1358
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1356
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1354
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1352
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1350
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1348
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1346
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1344
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1342
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1340
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1396
+CL:0000711	cumulus cell	cumulus granulosa cell	UBERON:0005170	granulosa cell layer	granulosa cell layer	1518

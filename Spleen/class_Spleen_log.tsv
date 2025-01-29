@@ -1,0 +1,134 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+CL:0000499	stromal cell	stromal cell	UBERON:0003910	splenic sinusoid	Splenic Sinusoid	32	46.672740814202946
+CL:0000499	stromal cell	stromal cell	UBERON:0013132	Penicillar Arteriole	Penicillar Arteriole	19	46.672740814202946
+CL:0000499	stromal cell	stromal cell	UBERON:0013132	Penicillar Arteriole	Penicillar Arteriole	20	46.672740814202946
+CL:0000499	stromal cell	stromal cell	UBERON:0003910	splenic sinusoid	Splenic Sinusoid	30	46.672740814202946
+CL:0000738	leukocyte	leukocyte	UBERON:0005353	spleen perifollicular zone	Perifollicular Zone	52	45.838260944860934
+CL:0000037	hematopoietic stem cell	Hematopoetic Stem Cell	UBERON:0001266	splenic cord	Splenic Cord	36	41.52665875804205
+CL:0000236	B cell	B cell	UBERON:0001266	splenic cord	Splenic Cord	39	39.741359302048274
+CL:0000499	stromal cell	stromal cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	124	39.4373601527271
+CL:0000499	stromal cell	Stromal Cell	UBERON:0005353	spleen perifollicular zone	Perifollicular Zone	53	39.4373601527271
+CL:0000192	smooth muscle cell	smooth muscle cell	UBERON:0013132	Penicillar Arteriole	Penicillar Arteriole	21	38.44686830832749
+CL:0000499	stromal cell	stromal cell	UBERON:0010401	spleen central arteriole	Periarteriolar Lymphoid Sheath (PALS)	97	37.54270693872167
+CL:0000236	B cell	B cell	UBERON:0010421	spleen B cell corona	Mantle Zone	72	37.07099557831307
+CL:0000232	erythrocyte	Erythrocytes	UBERON:0001266	splenic cord	Splenic Cord	38	35.12089827127107
+UBERON:0001473	lymphatic vessel	Lymphatic Vessels	UBERON:0001248	hilum of spleen	Hilum	135	34.14532359587094
+CL:0000232	erythrocyte	Erythrocytes	UBERON:0005353	spleen perifollicular zone	Perifollicular Zone	49	32.45053454753586
+UBERON:0001473	lymphatic vessel	Lymphatic Vessels	UBERON:0004641	spleen capsule	Capsule	138	31.474959872135734
+CL:0000233	platelet	Platelet	UBERON:0001266	splenic cord	Splenic Cord	45	31.419382096759648
+CL:0000192	smooth muscle cell	smooth muscle cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	110	31.211487646851644
+CL:4033050	catecholaminergic neuron	Catecholaminergic Neuron	UBERON:0012373	Sympathetic nerve plexus	Sympathetic nerves	134	29.200609170127898
+CL:4033050	catecholaminergic neuron	Catecholaminergic Neuron	UBERON:0012373	Sympathetic nerve plexus	Sympathetic nerves	14	29.200609170127898
+CL:4033050	catecholaminergic neuron	Catecholaminergic Neuron	UBERON:0010401	spleen central arteriole	Periarteriolar Lymphoid Sheath (PALS)	98	29.200609170127898
+CL:4033050	catecholaminergic neuron	Catecholaminergic Neuron	UBERON:0012373	Sympathetic nerve plexus	Sympathetic nerves	108	29.200609170127898
+CL:4033050	catecholaminergic neuron	Catecholaminergic Neuron	UBERON:0012373	Sympathetic nerve plexus	Sympathetic nerves	13	29.200609170127898
+CL:4033050	catecholaminergic neuron	Catecholaminergic Neuron	UBERON:0012373	Sympathetic nerve plexus	Sympathetic nerves	141	29.200609170127898
+CL:0000623	natural killer cell	NK Cell	UBERON:0001266	splenic cord	Splenic Cord	46	26.3920050154114
+CL:0000625	CD8-positive, alpha-beta T cell	CD8+ T Cell	UBERON:0001266	splenic cord	Splenic Cord	40	26.271158922168112
+CL:0000787	memory B cell	Memory-Like B Cell	UBERON:0013132	Penicillar Arteriole	Penicillar Arteriole	17	26.148053893112035
+UBERON:0001473	lymphatic vessel	Lymphatic Vessels	UBERON:0001265	trabecula of spleen	Trabeculae	142	25.01528972038968
+CL:0000990	conventional dendritic cell	conventional dendritic cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	128	24.821847348043704
+CL:0000990	conventional dendritic cell	conventional dendritic cell	UBERON:0004641	spleen capsule	Capsule	137	24.821847348043704
+CL:0000990	conventional dendritic cell	conventional dendritic cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	106	24.821847348043704
+CL:0000990	conventional dendritic cell	conventional dendritic cell	UBERON:0005353	spleen perifollicular zone	Perifollicular Zone	58	24.821847348043704
+CL:0000818	transitional stage B cell	Transitional Immature B Cells	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	118	24.349347206593663
+CL:0000818	transitional stage B cell	Transitional Immature B Cells	UBERON:0010421	spleen B cell corona	Mantle Zone	73	24.349347206593663
+CL:0000499	stromal cell	stromal cell	UBERON:0001251	Marginal Zone of Spleen	Superficial Zone	88	23.847656125499775
+CL:0000623	natural killer cell	NK Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	130	23.721641291676193
+CL:0000775	neutrophil	Neutrophil	UBERON:0005353	spleen perifollicular zone	Perifollicular Zone	51	23.288607499327213
+CL:0000798	gamma-delta T cell	Gamma/Delta T cells	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	131	22.252034085780807
+CL:0000786	plasma cell	Plasma Cell	UBERON:0001266	splenic cord	Splenic Cord	42	21.706141984427475
+CL:0000980	plasmablast	Plasmablast	UBERON:0001266	splenic cord	Splenic Cord	43	21.32970082642845
+CL:0000492	CD4-positive helper T cell	CD4+ T Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	112	21.110879126730893
+CL:0000492	CD4-positive helper T cell	CD4+ T Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	100	21.110879126730893
+CL:0000788	naive B Cell	Naive B Cell	UBERON:0013132	Penicillar Arteriole	Penicillar Arteriole	16	19.391861049164433
+CL:0000909	CD8-positive, alpha-beta memory T cell	Memory CD8+ T Cell	UBERON:0001266	splenic cord	Splenic Cord	41	19.39186104916442
+CL:0000990	conventional dendritic cell	conventional dendritic cell	UBERON:0004041	spleen primary B follicle	Primary Follicle	65	19.24160524007705
+CL:0000972	class switched memory B cell	Switched B Cell	UBERON:0013132	Penicillar Arteriole	Penicillar Arteriole	18	19.035778260692297
+CL:0000787	memory B cell	Memory B Cell	UBERON:0010421	spleen B cell corona	Mantle Zone	78	18.91267323163619
+CL:0000815	regulatory T cell	T Regulatory Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	104	18.91267323163619
+CL:0000815	regulatory T cell	T Regulatory Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	116	18.91267323163619
+CL:0000980	plasmablast	Plasmablast	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	129	18.659337102693243
+CL:0000909	CD8-positive, alpha-beta memory T cell	Non-Cytotoxic CD8+ Memory T Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	120	16.721497325429212
+CL:0000909	CD8-positive, alpha-beta memory T cell	Cytotoxic Memory T Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	119	16.721497325429212
+CL:0002138	endothelial cell of lymphatic vessel	Lymphatic Endothelium Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	109	15.98897337895805
+CL:0000897	CD4-positive, alpha-beta memory T cell	CD4+ Memory T Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	121	15.98897337895805
+CL:0002543	vein endothelial cell	vein endothelial cell	UBERON:0003910	splenic sinusoid	Splenic Sinusoid	31	15.792363934034753
+CL:0000787	memory B cell	Memory B Cell	UBERON:0004041	spleen primary B follicle	Primary Follicle	63	13.332431123669537
+CL:0000895	naive thymus-derived CD4-positive, alpha-beta T cell	Naive CD4+ T Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	111	12.815622769442484
+CL:0000895	naive thymus-derived CD4-positive, alpha-beta T cell	Naive CD4+ T Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	99	12.815622769442484
+CL:0000788	naive B cell	Naive B Cell	UBERON:0010421	spleen B cell corona	Mantle Zone	77	12.156480387688589
+CL:0000900	naive thymus-derived CD8-positive, alpha-beta T cell	Naive CD8+ T Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	101	11.800397599216453
+CL:0000900	naive thymus-derived CD8-positive, alpha-beta T cell	Naive CD8+ T Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	113	11.800397599216453
+CL:0000442	follicular dendritic cell	Follicular Dendritic Cell (FDC)	UBERON:0010421	spleen B cell corona	Mantle Zone	74	11.02468708948669
+CL:0000442	follicular dendritic cell	Follicular Dendritic Cell (FDC)	UBERON:0010421	spleen B cell corona	Mantle Zone	79	11.02468708948669
+CL:0000980	plasmablast	Plasmablast	UBERON:0005196	spleen germinal center	Germinal Center	71	10.102353830134334
+CL:0000794	CD8-positive, alpha-beta cytotoxic T cell	Cytotoxic T Cells	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	115	9.13003387548126
+CL:0000186	myofibroblast cell	Myofibroblasts	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	122	9.13003387548126
+CL:0000186	myofibroblast cell	Myofibroblast	UBERON:0004641	spleen capsule	Capsule	136	9.13003387548126
+CL:0000794	CD8-positive, alpha-beta cytotoxic T cell	Cytotoxic T Cells	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	103	9.13003387548126
+CL:0000818	transitional stage B cell	Transitional Immature B Cells	UBERON:0001251	Marginal Zone of Spleen	Superficial Zone	85	8.759643179366336
+CL:0000787	memory B cell	Memory-Like B Cell	UBERON:0001250	red pulp of spleen	Red Pulp	28	8.31303215025956
+UBERON:0003713	splenic vein	Splenic Vein	UBERON:0001248	hilum of spleen	Hilum	133	8.250605831701861
+CL:0000775	neutrophil	Neutrophil	UBERON:0001251	Marginal Zone of Spleen	Superficial Zone	93	7.698903472099886
+CL:1000413	endothelial cell of artery	Blood Endothelial Cells	UBERON:0001194	splenic artery	Splenic Artery	132	7.23538066147583
+UBERON:0001265	trabecula of spleen	Trabeculae	UBERON:0004641	spleen capsule	Capsule	142	6.459670151746053
+UBERON:0001265	trabecula of spleen	Trabeculae	UBERON:0004641	spleen capsule	Capsule	143	6.459670151746053
+UBERON:0001265	trabecula of spleen	Trabeculae	UBERON:0004641	spleen capsule	Capsule	139	6.459670151746053
+UBERON:0001265	trabecula of spleen	Trabeculae	UBERON:0004641	spleen capsule	Capsule	140	6.459670151746053
+UBERON:0001265	trabecula of spleen	Trabeculae	UBERON:0004641	spleen capsule	Capsule	141	6.459670151746053
+CL:0000844	germinal center B cell	Germinal Center B Cell	UBERON:0005196	spleen germinal center	Germinal Center	67	5.665222994108149
+CL:0000492	CD4-positive helper T cell	CD4+ T cell	UBERON:0001251	Marginal Zone of Spleen	Superficial Zone	90	5.521175099503566
+CL:0000442	follicular dendritic cell	Follicular Dendritic Cell (FDC)	UBERON:0004041	spleen primary B follicle	Primary Follicle	61	5.444444981520036
+UBERON:0012373	Sympathetic nerve plexus	Sympathetic nerves	UBERON:0001248	hilum of spleen	Hilum	134	4.565016937740637
+UBERON:0001194	splenic artery	Splenic Artery	UBERON:0001248	hilum of spleen	Hilum	132	4.565016937740637
+CL:0001056	dendritic cell, human	Dendritic Cell	UBERON:0001266	splenic cord	Splenic Cord	44	4.565016937740637
+CL:2000053	splenic endothelial cell	Splenic endothelial cell	UBERON:0013132	Penicillar Arteriole	Penicillar Arteriole	15	4.565016937740637
+CL:0000786	plasma cell	Plasma Cell	UBERON:0001251	Marginal Zone of Spleen	Superficial Zone	91	3.446074233464941
+CL:0000787	memory B cell	Memory B Cell	UBERON:0001251	Marginal Zone of Spleen	Superficial Zone	83	3.3229692044088637
+CL:0002543	vein endothelial cell	Blood Endothelial Cells	UBERON:0003713	splenic vein	Splenic Vein	133	2.976741164592255
+CL:0000186	myofibroblast cell	Myofibroblast	UBERON:0001265	trabecula of spleen	Trabeculae	143	2.670363723735207
+CL:0000442	follicular dendritic cell	Follicular Dendritic Cell (FDC)	UBERON:0005196	spleen germinal center	Germinal Center	66	2.4677038169277807
+CL:0000788	naive B Cell	Naive B Cell	UBERON:0001250	red pulp of spleen	Red Pulp	27	1.5568393063119572
+CL:0000972	class switched memory B cell	Switched B Cell	UBERON:0001250	red pulp of spleen	Red Pulp	29	1.200756517839821
+CL:0002038	T follicular helper cell	T Follicular Helper Cell	UBERON:0005196	spleen germinal center	Germinal Center	68	0.5730506029223505
+UBERON:0001194	Splenic Artery	Splenic Artery	UBERON:1000023	spleen pulp	Splenic Pulp	12	
+CL:2000053	splenic endothelial cell	Splenic endothelial cell	UBERON:0001194	Splenic Artery	Splenic Artery	12	
+UBERON:0001194	Splenic Artery	Splenic Artery	UBERON:1000023	spleen pulp	Splenic Pulp	13	
+UBERON:0012373	Sympathetic nerve plexus	Sympathetic nerves	UBERON:0001194	Splenic Artery	Splenic Artery	13	
+UBERON:0012373	Sympathetic nerve plexus	Sympathetic nerves	UBERON:0010401	Spleen central arteriole	Spleen central arteriole	14	
+UBERON:0003713	splenic vein	Splenic Vein	UBERON:0001250	red pulp of spleen	Red Pulp	33	
+CL:2000053	splenic endothelial cell	Splenic endothelial cell	UBERON:0003713	splenic vein	Splenic Vein	33	
+CL:0000874	splenic red pulp macrophage	Red Pulp Macrophage	UBERON:0001266	splenic cord	Splenic Cord	35	
+CL:0001055	CD14-positive, CD16-low monocyte	Monocytes	UBERON:0001266	splenic cord	Splenic Cord	37	
+CL:0001055	CD14-positive, CD16-low monocyte	Monocytes	UBERON:0005353	spleen perifollicular zone	Perifollicular Zone	50	
+CL:0002394	CD141-positive myeloid dendritic cell	cDC1 myeloid dendritic cell	UBERON:0005353	spleen perifollicular zone	Perifollicular Zone	54	
+CL:0002399	CD1c-positive myeloid dendritic cell	cDC2 myeloid dendritic cell	UBERON:0005353	spleen perifollicular zone	Perifollicular Zone	55	
+CL:0011031	monocyte-derived dendritic cell	Monocyte-Derived DC	UBERON:0005353	spleen perifollicular zone	Perifollicular Zone	56	
+CL:0001058	plasmacytoid dendritic cell, human	Plasmacytoid Dendritic Cell	UBERON:0005353	spleen perifollicular zone	Perifollicular Zone	57	
+CL:2000053	splenic endothelial cell	Splenic endothelial cell	UBERON:0001959	white pulp of spleen	White Pulp	59	
+CL:0002138	endothelial cell of lymphatic vessel	Lymphatic Endothelium Cell	UBERON:0001959	white pulp of spleen	White Pulp	60	
+CL:0000876	splenic white pulp macrophage	Macrophage	UBERON:0004041	spleen primary B follicle	Primary Follicle	64	
+CL:0009113	T follicular regulatory cell	T Follicular Regulatory Cell	UBERON:0005196	spleen germinal center	Germinal Center	69	
+CL:0000877	splenic tingible body macrophage	Tingible Body Macrophage	UBERON:0005196	spleen germinal center	Germinal Center	70	
+CL:2000053	splenic endothelial cell	Splenic endothelial cell	UBERON:0010421	spleen B cell corona	Mantle Zone	75	
+CL:2000053	splenic endothelial cell	Splenic endothelial cell	UBERON:0010421	spleen B cell corona	Mantle Zone	81	
+CL:0000972	class switched memory B cell	Switched B Cell	UBERON:0001251	Marginal Zone of Spleen	Superficial Zone	82	
+CL:0000442	follicular dendritic cell	Follicular Dendritic Cell (FDC)	UBERON:0001251	Marginal Zone of Spleen	Superficial Zone	86	
+CL:0001058	plasmacytoid dendritic cell, human	Plasmacytoid Dendritic Cell	UBERON:0001251	Marginal Zone of Spleen	Superficial Zone	89	
+CL:0001078	group 3 innate lymphoid cell, human	Innate Lymphoid Cell (Type 3)	UBERON:0001251	Marginal Zone of Spleen	Superficial Zone	92	
+CL:2000053	splenic endothelial cell	Splenic endothelial cell	UBERON:0001251	Marginal Zone of Spleen	Superficial Zone	94	
+CL:1000489	reticular cell of splenic cord	Fibroblastic Reticular Cell (FRC)	UBERON:0001251	Marginal Zone of Spleen	Superficial Zone	95	
+CL:2000053	splenic endothelial cell	Splenic endothelial cell	UBERON:0010401	spleen central arteriole	Periarteriolar Lymphoid Sheath (PALS)	96	
+CL:0001050	effector CD8-positive, alpha-beta T cell	CD8+ T Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	102	
+CL:1000489	reticular cell of splenic cord	Fibroblastic Reticular Cell (FRC)	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	105	
+CL:0000876	splenic white pulp macrophage	Macrophages	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	107	
+CL:0001050	effector CD8-positive, alpha-beta T cell	CD8+ T Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	114	
+CL:1000489	reticular cell of splenic cord	Fibroblastic Reticular Cell (FRC)	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	117	
+CL:0001058	plasmacytoid dendritic cell, human	Plasmacytoid Dendritic Cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	123	
+CL:0002394	CD141-positive myeloid dendritic cell	cDC1 myeloid dendritic cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	125	
+CL:0002399	CD1c-positive myeloid dendritic cell	cDC2 myeloid dendritic cell	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	126	
+CL:0000876	splenic white pulp macrophage	Macrophage	UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	127	
+CL:2000053	splenic endothelial cell	Splenic endothelial cell	UBERON:0010399	Spleen Trabecular Artery	Spleen Trabecular Artery	139	
+CL:2000053	splenic endothelial cell	Splenic endothelial cell	UBERON:0010400	Spleen Trabecular Vein	Spleen Trabecular Vein	140	
+UBERON:0012373	Sympathetic nerve plexus	Sympathetic nerves	UBERON:0001265	trabecula of spleen	Trabeculae	141	

@@ -1,0 +1,295 @@
+{
+  "no_valid_id": [
+    {
+      "id": "FMA:3823",
+      "label": "Sinoatrial nodal branch of right coronary artery",
+      "user_label": "sinoatrial nodal artery",
+      "row_number": 13
+    },
+    {
+      "id": "FMA:3823",
+      "label": "Sinoatrial nodal branch of right coronary artery",
+      "user_label": "sinoatrial nodal artery",
+      "row_number": 14
+    },
+    {
+      "id": "FMA:3823",
+      "label": "Sinoatrial nodal branch of right coronary artery",
+      "user_label": "sinoatrial nodal artery",
+      "row_number": 15
+    },
+    {
+      "id": "FMA:76767",
+      "label": "Anterior cardiac vein",
+      "user_label": "anterior cardiac veins",
+      "row_number": 31
+    },
+    {
+      "id": "FMA:76767",
+      "label": "Anterior cardiac vein",
+      "user_label": "anterior cardiac veins",
+      "row_number": 32
+    },
+    {
+      "id": "FMA:76767",
+      "label": "Anterior cardiac vein",
+      "user_label": "anterior cardiac veins",
+      "row_number": 33
+    },
+    {
+      "id": "FMA:3851",
+      "label": "Atrioventricular node branch of right coronary artery",
+      "user_label": "atrioventicular nodal artery",
+      "row_number": 41
+    },
+    {
+      "id": "FMA:3851",
+      "label": "Atrioventricular node branch of right coronary artery",
+      "user_label": "atrioventicular nodal artery",
+      "row_number": 42
+    },
+    {
+      "id": "FMA:3851",
+      "label": "Atrioventricular node branch of right coronary artery",
+      "user_label": "atrioventicular nodal artery",
+      "row_number": 43
+    },
+    {
+      "id": "FMA:49913",
+      "label": "left inferior pulmonary vein",
+      "user_label": "left inferior pulmonary vein",
+      "row_number": 72
+    },
+    {
+      "id": "FMA:49913",
+      "label": "left inferior pulmonary vein",
+      "user_label": "left inferior pulmonary vein",
+      "row_number": 73
+    },
+    {
+      "id": "FMA:49913",
+      "label": "left inferior pulmonary vein",
+      "user_label": "left inferior pulmonary vein",
+      "row_number": 74
+    },
+    {
+      "id": "FMA:49916",
+      "label": "left superior pulmonary vein",
+      "user_label": "left superior pulmonary vein",
+      "row_number": 75
+    },
+    {
+      "id": "FMA:49916",
+      "label": "left superior pulmonary vein",
+      "user_label": "left superior pulmonary vein",
+      "row_number": 76
+    },
+    {
+      "id": "FMA:49916",
+      "label": "left superior pulmonary vein",
+      "user_label": "left superior pulmonary vein",
+      "row_number": 77
+    },
+    {
+      "id": "FMA:49911",
+      "label": "right inferior pulmonary vein",
+      "user_label": "right inferior pulmonary vein",
+      "row_number": 78
+    },
+    {
+      "id": "FMA:49911",
+      "label": "right inferior pulmonary vein",
+      "user_label": "right inferior pulmonary vein",
+      "row_number": 79
+    },
+    {
+      "id": "FMA:49911",
+      "label": "right inferior pulmonary vein",
+      "user_label": "right inferior pulmonary vein",
+      "row_number": 80
+    },
+    {
+      "id": "FMA:49914",
+      "label": "right superior pulmonary vein",
+      "user_label": "right superior pulmonary vein",
+      "row_number": 81
+    },
+    {
+      "id": "FMA:49914",
+      "label": "right superior pulmonary vein",
+      "user_label": "right superior pulmonary vein",
+      "row_number": 82
+    },
+    {
+      "id": "FMA:49914",
+      "label": "right superior pulmonary vein",
+      "user_label": "right superior pulmonary vein",
+      "row_number": 83
+    },
+    {
+      "id": "FMA:4715",
+      "label": "oblique vein of the left atrium",
+      "user_label": "oblique vein of the left atrium",
+      "row_number": 84
+    },
+    {
+      "id": "FMA:4715",
+      "label": "oblique vein of the left atrium",
+      "user_label": "oblique vein of the left atrium",
+      "row_number": 85
+    },
+    {
+      "id": "FMA:4715",
+      "label": "oblique vein of the left atrium",
+      "user_label": "oblique vein of the left atrium",
+      "row_number": 86
+    },
+    {
+      "id": "FMA:3860",
+      "label": "Diagonal branch of anterior descending branch of left coronary artery",
+      "user_label": "left diagonal branch of the left anterior descending artery",
+      "row_number": 110
+    },
+    {
+      "id": "FMA:3860",
+      "label": "Diagonal branch of anterior descending branch of left coronary artery",
+      "user_label": "left diagonal branch of the left anterior descending artery",
+      "row_number": 111
+    },
+    {
+      "id": "FMA:3860",
+      "label": "Diagonal branch of anterior descending branch of left coronary artery",
+      "user_label": "left diagonal branch of the left anterior descending artery",
+      "row_number": 112
+    },
+    {
+      "id": "FMA:3902",
+      "label": "Left marginal artery",
+      "user_label": "left obtuse marginal branch of the left coronary artery",
+      "row_number": 113
+    },
+    {
+      "id": "FMA:3902",
+      "label": "Left marginal artery",
+      "user_label": "left obtuse marginal branch of the left coronary artery",
+      "row_number": 114
+    },
+    {
+      "id": "FMA:3902",
+      "label": "Left marginal artery",
+      "user_label": "left obtuse marginal branch of the left coronary artery",
+      "row_number": 115
+    },
+    {
+      "id": "FMA:3835",
+      "label": "Posterior ventricular branch of right coronary artery",
+      "user_label": "posterior left ventricular branch of the right coronary artery",
+      "row_number": 116
+    },
+    {
+      "id": "FMA:3835",
+      "label": "Posterior ventricular branch of right coronary artery",
+      "user_label": "posterior left ventricular branch of the right coronary artery",
+      "row_number": 117
+    },
+    {
+      "id": "FMA:3835",
+      "label": "Posterior ventricular branch of right coronary artery",
+      "user_label": "posterior left ventricular branch of the right coronary artery",
+      "row_number": 118
+    },
+    {
+      "id": "FMA:4708",
+      "label": "left marginal vein",
+      "user_label": "left marginal vein",
+      "row_number": 119
+    },
+    {
+      "id": "FMA:4708",
+      "label": "left marginal vein",
+      "user_label": "left marginal vein",
+      "row_number": 120
+    },
+    {
+      "id": "FMA:4708",
+      "label": "left marginal vein",
+      "user_label": "left marginal vein",
+      "row_number": 121
+    },
+    {
+      "id": "FMA:4712",
+      "label": "Posterior vein of left ventricle",
+      "user_label": "posterior vein of the left ventricle",
+      "row_number": 122
+    },
+    {
+      "id": "FMA:4712",
+      "label": "Posterior vein of left ventricle",
+      "user_label": "posterior vein of the left ventricle",
+      "row_number": 123
+    },
+    {
+      "id": "FMA:4712",
+      "label": "Posterior vein of left ventricle",
+      "user_label": "posterior vein of the left ventricle",
+      "row_number": 124
+    },
+    {
+      "id": "FMA:3840",
+      "label": "posterior descending artery",
+      "user_label": "posterior descending artery",
+      "row_number": 128
+    },
+    {
+      "id": "FMA:3840",
+      "label": "posterior descending artery",
+      "user_label": "posterior descending artery",
+      "row_number": 129
+    },
+    {
+      "id": "FMA:3840",
+      "label": "posterior descending artery",
+      "user_label": "posterior descending artery",
+      "row_number": 130
+    },
+    {
+      "id": "FMA:3818",
+      "label": "right marginal artery",
+      "user_label": "right marginal artery",
+      "row_number": 171
+    },
+    {
+      "id": "FMA:3818",
+      "label": "right marginal artery",
+      "user_label": "right marginal artery",
+      "row_number": 172
+    },
+    {
+      "id": "FMA:3818",
+      "label": "right marginal artery",
+      "user_label": "right marginal artery",
+      "row_number": 173
+    },
+    {
+      "id": "FMA:76767",
+      "label": "Anterior cardiac vein",
+      "user_label": "anterior cardiac veins",
+      "row_number": 174
+    },
+    {
+      "id": "FMA:76767",
+      "label": "Anterior cardiac vein",
+      "user_label": "anterior cardiac veins",
+      "row_number": 175
+    },
+    {
+      "id": "FMA:76767",
+      "label": "Anterior cardiac vein",
+      "user_label": "anterior cardiac veins",
+      "row_number": 176
+    }
+  ],
+  "no_found_id": [],
+  "diff_label": [],
+  "no_parent": []
+}

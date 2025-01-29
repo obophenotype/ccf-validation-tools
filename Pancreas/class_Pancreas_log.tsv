@@ -1,0 +1,378 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+UBERON:0002384	connective tissue	"connective tissue
+"	UBERON:0009752	pancreas mesenchyme	Connective tissue	92	52.23801937389032
+UBERON:0002384	connective tissue	"connective tissue
+"	UBERON:0009752	pancreas mesenchyme	Connective tissue	85	52.23801937389032
+UBERON:0002384	connective tissue	connective tissue	UBERON:0009752	pancreas mesenchyme	Connective tissue	57	52.23801937389032
+UBERON:0002384	connective tissue	Interlobular connective tissue	UBERON:0009752	pancreas mesenchyme	Connective tissue	67	52.23801937389032
+UBERON:0002384	connective tissue	"connective tissue
+"	UBERON:0009752	pancreas mesenchyme	Connective tissue	78	52.23801937389032
+UBERON:0002384	connective tissue	connective tissue	UBERON:0009752	pancreas mesenchyme	Connective tissue	45	52.23801937389032
+CL:0000075	columnar/cuboidal epithelial cell	columnar/cuboidal epithelial cell	UBERON:0014726	intercalated duct of pancreas	Intercalated duct	19	46.53361592597674
+CL:0000075	columnar/cuboidal epithelial cell	columnar/cuboidal epithelial cell	CL:0002080	pancreatic centro-acinar cell	Centroacinar cell	19	39.298235264500896
+CL:0000192	smooth muscle cell	Smooth muscle cell	UBERON:0005429	dorsal pancreatic duct	Papilla of Santorini	23	38.44686830832749
+CL:0000057	fibroblast	Fibroblast	CL:0002574	stromal cell of pancreas	Stromal cell	42	35.17371272670126
+CL:0000057	fibroblast	Fibroblast	CL:0002574	stromal cell of pancreas	Stromal cell	41	35.17371272670126
+CL:0000192	smooth muscle cell	Smooth muscle cell	UBERON:0004915	sphincter of hepatopancreatic ampulla	Hepatopancreatic sphincter (Sphincter of Oddi)	13	33.88185137058685
+CL:0000136	adipocyte	Adipocyte	UBERON:0018234	stroma of pancreas	Stroma of pancreas	43	31.638933337005994
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	34	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	75	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	82	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	64	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	30	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	32	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	33	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	31	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	35	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	37	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	38	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	54	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	39	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	89	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	36	26.33185914261668
+UBERON:0000016	endocrine pancreas	Endocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	40	26.33185914261668
+CL:0000146	simple columnar epithelial cell	Simple columnar epithelial cell	UBERON:0012271	major duodenal papilla	Major duodenal papilla	14	26.02260386588354
+CL:0000146	simple columnar epithelial cell	Simple columnar epithelial cell	UBERON:0012271	major duodenal papilla	Major duodenal papilla	15	26.02260386588354
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0010373	uncinate process of pancreas	Uncinate process of pancreas	75	23.956877986905056
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0010373	uncinate process of pancreas	Uncinate process of pancreas	77	23.956877986905056
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0010373	uncinate process of pancreas	Uncinate process of pancreas	76	23.956877986905056
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0010373	uncinate process of pancreas	Uncinate process of pancreas	72	23.956877986905056
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0010373	uncinate process of pancreas	Uncinate process of pancreas	74	23.956877986905056
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0010373	uncinate process of pancreas	Uncinate process of pancreas	73	23.956877986905056
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0010373	uncinate process of pancreas	Uncinate process of pancreas	71	23.956877986905056
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0010373	uncinate process of pancreas	Uncinate process of pancreas	70	23.956877986905056
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0010373	uncinate process of pancreas	Uncinate process of pancreas	69	23.956877986905056
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0010373	uncinate process of pancreas	Uncinate process of pancreas	78	23.956877986905056
+CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	CL:0002079	pancreatic ductal cell	Ductal cell	14	23.224354040433894
+CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	CL:0002079	pancreatic ductal cell	Ductal cell	24	23.224354040433894
+CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	UBERON:0014726	intercalated duct of pancreas	Intercalated duct	17	23.224354040433894
+CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	CL:0002079	pancreatic ductal cell	Ductal cell	17	23.224354040433894
+CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	CL:0002079	pancreatic ductal cell	Ductal cell	15	23.224354040433894
+CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	CL:0002079	pancreatic ductal cell	Ductal cell	18	23.224354040433894
+CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	CL:0002079	pancreatic ductal cell	Ductal cell	16	23.224354040433894
+CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	UBERON:0014726	intercalated duct of pancreas	Intercalated duct	18	23.224354040433894
+UBERON:0001174	common bile duct	Common bile duct	UBERON:2005346	extrapancreatic duct	Extrapancreatic duct	24	22.400038680593113
+UBERON:0001174	common bile duct	Common bile duct	UBERON:2005346	extrapancreatic duct	Extrapancreatic duct	53	22.400038680593113
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	21	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	63	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	62	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	17	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	61	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	87	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	60	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	59	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	28	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	16	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	88	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	53	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	52	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	51	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	50	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	49	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	15	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	48	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	47	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	29	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	20	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	71	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	25	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	80	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	22	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	74	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	81	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	73	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	19	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	72	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	23	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	12	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	24	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	70	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	14	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	69	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	27	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	26	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	13	22.119744154214786
+UBERON:0000017	exocrine pancreas	Exocrine pancreas	UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	18	22.119744154214786
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001151	tail of pancreas	Tail of pancreas	89	19.39186104916442
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001151	tail of pancreas	Tail of pancreas	90	19.39186104916442
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001151	tail of pancreas	Tail of pancreas	91	19.39186104916442
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001151	tail of pancreas	Tail of pancreas	88	19.39186104916442
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001151	tail of pancreas	Tail of pancreas	92	19.39186104916442
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001151	tail of pancreas	Tail of pancreas	87	19.39186104916442
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001150	body of pancreas	Body of pancreas	83	16.721497325429212
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001150	body of pancreas	Body of pancreas	80	16.721497325429212
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001150	body of pancreas	Body of pancreas	81	16.721497325429212
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001150	body of pancreas	Body of pancreas	84	16.721497325429212
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001150	body of pancreas	Body of pancreas	85	16.721497325429212
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001150	body of pancreas	Body of pancreas	82	16.721497325429212
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	63	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	59	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	64	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	65	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	60	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	67	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	62	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	61	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	66	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	12	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	45	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	19	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	36	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	35	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	24	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	34	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	33	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	18	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	32	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	31	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	20	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	38	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	30	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	29	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	21	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	22	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	28	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	27	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	26	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	25	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	37	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	23	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	40	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	39	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	13	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	43	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	41	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	44	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	14	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	15	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	42	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	16	14.826844111423782
+UBERON:0007324	pancreatic lobule	Pancreas lobule	UBERON:0001069	head of pancreas	Head of pancreas	17	14.826844111423782
+CL:0000084	T cell	T lymphocyte	UBERON:0000006	islet of Langerhans	Islet of Langerhans	37	14.039858553853001
+CL:0000236	B cell	B lymphocyte	UBERON:0000006	islet of Langerhans	Islet of Langerhans	36	13.977060201554345
+CL:0000084	T cell	T lymphocyte	UBERON:0000017	exocrine pancreas	Exocrine pancreas	26	13.119396562391508
+CL:0000236	B cell	B lymphocyte	UBERON:0000017	exocrine pancreas	Exocrine pancreas	25	13.05659821009285
+CL:0000577	type EC enteroendocrine cell	Enterochromaffin cell	CL:0002079	pancreatic ductal cell	Ductal cell	22	10.59964108137666
+CL:0000577	type EC enteroendocrine cell	Enterochromaffin cell	UBERON:0014726	intercalated duct of pancreas	Intercalated duct	22	10.59964108137666
+UBERON:0004913	hepatopancreatic ampulla	Hepatopancreatic ampulla	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	62	8.436137179315637
+UBERON:0004913	hepatopancreatic ampulla	Hepatopancreatic ampulla	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	72	8.436137179315637
+UBERON:0004913	hepatopancreatic ampulla	Hepatopancreatic ampulla	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	16	8.436137179315637
+UBERON:0004913	hepatopancreatic ampulla	Hepatopancreatic ampulla	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	50	8.436137179315637
+UBERON:0009752	pancreas mesenchyme	Connective tissue	UBERON:0018234	stroma of pancreas	Stroma of pancreas	45	7.235380661475844
+UBERON:0009752	pancreas mesenchyme	Connective tissue	UBERON:0018234	stroma of pancreas	Stroma of pancreas	44	7.235380661475844
+UBERON:0009752	pancreas mesenchyme	Connective tissue	UBERON:0018234	stroma of pancreas	Stroma of pancreas	67	7.235380661475844
+UBERON:0009752	pancreas mesenchyme	Connective tissue	UBERON:0018234	stroma of pancreas	Stroma of pancreas	92	7.235380661475844
+UBERON:0009752	pancreas mesenchyme	Connective tissue	UBERON:0018234	stroma of pancreas	Stroma of pancreas	78	7.235380661475844
+UBERON:0009752	pancreas mesenchyme	Connective tissue	UBERON:0018234	stroma of pancreas	Stroma of pancreas	66	7.235380661475844
+UBERON:0009752	pancreas mesenchyme	Connective tissue	UBERON:0018234	stroma of pancreas	Stroma of pancreas	77	7.235380661475844
+UBERON:0009752	pancreas mesenchyme	Connective tissue	UBERON:0018234	stroma of pancreas	Stroma of pancreas	85	7.235380661475844
+CL:0002080	pancreatic centro-acinar cell	Centroacinar cell	CL:0002079	pancreatic ductal cell	Ductal cell	19	7.235380661475844
+UBERON:0009752	pancreas mesenchyme	Connective tissue	UBERON:0018234	stroma of pancreas	Stroma of pancreas	91	7.235380661475844
+UBERON:0009752	pancreas mesenchyme	Connective tissue	UBERON:0018234	stroma of pancreas	Stroma of pancreas	56	7.235380661475844
+UBERON:0009752	pancreas mesenchyme	Connective tissue	UBERON:0018234	stroma of pancreas	Stroma of pancreas	57	7.235380661475844
+UBERON:0009752	pancreas mesenchyme	Connective tissue	UBERON:0018234	stroma of pancreas	Stroma of pancreas	84	7.235380661475844
+UBERON:0000482	basal lamina of epithelium	Basal lamina	UBERON:0009752	pancreas mesenchyme	Connective tissue	77	6.459670151746053
+UBERON:0000482	basal lamina of epithelium	Basal lamina	UBERON:0009752	pancreas mesenchyme	Connective tissue	91	6.459670151746053
+UBERON:0000482	basal lamina of epithelium	Basal lamina	UBERON:0009752	pancreas mesenchyme	Connective tissue	84	6.459670151746053
+UBERON:0000482	basal lamina of epithelium	Basal lamina	UBERON:0009752	pancreas mesenchyme	Connective tissue	44	6.459670151746053
+UBERON:0000482	basal lamina of epithelium	Basal lamina	UBERON:0009752	pancreas mesenchyme	Connective tissue	56	6.459670151746053
+UBERON:0000482	basal lamina of epithelium	Basal lamina	UBERON:0009752	pancreas mesenchyme	Connective tissue	66	6.459670151746053
+CL:0000235	macrophage	Macrophage	UBERON:0000006	islet of Langerhans	Islet of Langerhans	38	5.252324411448001
+CL:0000451	dendritic cell	Dendritic cell	UBERON:0000006	islet of Langerhans	Islet of Langerhans	40	5.252324411448001
+CL:0000235	macrophage	Macrophage	UBERON:0000006	islet of Langerhans	Islet of Langerhans	39	5.252324411448001
+UBERON:0014716	interlobular duct	Interlobular duct	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	21	5.192722852658093
+UBERON:0014716	interlobular duct	Interlobular duct	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	18	5.192722852658093
+UBERON:0014716	interlobular duct	Interlobular duct	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	17	5.192722852658093
+UBERON:0014716	interlobular duct	Interlobular duct	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	63	5.192722852658093
+UBERON:0014716	interlobular duct	Interlobular duct	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	22	5.192722852658093
+UBERON:0014716	interlobular duct	Interlobular duct	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	20	5.192722852658093
+UBERON:0014716	interlobular duct	Interlobular duct	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	88	5.192722852658093
+UBERON:0014716	interlobular duct	Interlobular duct	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	73	5.192722852658093
+UBERON:0014716	interlobular duct	Interlobular duct	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	51	5.192722852658093
+UBERON:0014716	interlobular duct	Interlobular duct	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	81	5.192722852658093
+UBERON:0014716	interlobular duct	Interlobular duct	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	19	5.192722852658093
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	62	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	63	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	72	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	61	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	60	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	64	4.565016937740637
+CL:0002410	pancreatic stellate cell	Pancreatic stellate cell	UBERON:0018234	stroma of pancreas	Stroma of pancreas	41	4.565016937740637
+CL:0002410	pancreatic stellate cell	Pancreatic stellate cell	UBERON:0018234	stroma of pancreas	Stroma of pancreas	42	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	59	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	71	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	75	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	65	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	67	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	69	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	76	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	77	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	66	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	74	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	73	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	78	4.565016937740637
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009709	ventral pancreas	Ventral pancreas	70	4.565016937740637
+CL:0000451	dendritic cell	Dendritic cell	UBERON:0000017	exocrine pancreas	Exocrine pancreas	29	4.331862419986507
+CL:0000235	macrophage	Macrophage	UBERON:0000017	exocrine pancreas	Exocrine pancreas	28	4.331862419986507
+CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	UBERON:0004913	hepatopancreatic ampulla	Hepatopancreatic ampulla	16	4.188575779741598
+CL:0000146	simple columnar epithelial cell	Simple columnar epithelial cell	UBERON:0001174	common bile duct	Common bile duct	24	3.6225651852904264
+UBERON:0014719	intralobular duct	Intralobular duct	UBERON:0014716	interlobular duct	Interlobular duct	73	2.866973168658504
+UBERON:0014719	intralobular duct	Intralobular duct	UBERON:0014716	interlobular duct	Interlobular duct	51	2.866973168658504
+UBERON:0014719	intralobular duct	Intralobular duct	UBERON:0014716	interlobular duct	Interlobular duct	88	2.866973168658504
+UBERON:0014719	intralobular duct	Intralobular duct	UBERON:0014716	interlobular duct	Interlobular duct	63	2.866973168658504
+UBERON:0014719	intralobular duct	Intralobular duct	UBERON:0014716	interlobular duct	Interlobular duct	22	2.866973168658504
+UBERON:0014719	intralobular duct	Intralobular duct	UBERON:0014716	interlobular duct	Interlobular duct	21	2.866973168658504
+UBERON:0014719	intralobular duct	Intralobular duct	UBERON:0014716	interlobular duct	Interlobular duct	17	2.866973168658504
+UBERON:0014719	intralobular duct	Intralobular duct	UBERON:0014716	interlobular duct	Interlobular duct	18	2.866973168658504
+UBERON:0014719	intralobular duct	Intralobular duct	UBERON:0014716	interlobular duct	Interlobular duct	81	2.866973168658504
+UBERON:0014719	intralobular duct	Intralobular duct	UBERON:0014716	interlobular duct	Interlobular duct	20	2.866973168658504
+UBERON:0014719	intralobular duct	Intralobular duct	UBERON:0014716	interlobular duct	Interlobular duct	19	2.866973168658504
+CL:0000146	simple columnar epithelial cell	Simple columnar epithelial cell	CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	15	2.798249825449645
+CL:0000146	simple columnar epithelial cell	Simple columnar epithelial cell	CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	24	2.798249825449645
+CL:0000146	simple columnar epithelial cell	Simple columnar epithelial cell	CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	14	2.798249825449645
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	12	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	12	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	13	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	13	
+UBERON:0004915	sphincter of hepatopancreatic ampulla	Hepatopancreatic sphincter (Sphincter of Oddi)	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	13	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	14	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	14	
+UBERON:0012271	major duodenal papilla	Major duodenal papilla	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	14	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	15	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	15	
+UBERON:0012271	major duodenal papilla	Major duodenal papilla	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	15	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	16	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	16	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	17	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	17	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	18	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	18	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	19	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	19	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	20	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	20	
+CL:1000322	pancreatic goblet cell	Pancreatic goblet cell	CL:0002079	pancreatic ductal cell	Ductal cell	20	
+CL:1000322	pancreatic goblet cell	Pancreatic goblet cell	UBERON:0014726	intercalated duct of pancreas	Intercalated duct	20	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	21	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	21	
+CL:0002079	pancreatic ductal cell	Ductal cell	UBERON:0014726	intercalated duct of pancreas	Intercalated duct	21	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	22	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	22	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	23	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	23	
+UBERON:0005429	dorsal pancreatic duct	Papilla of Santorini	UBERON:0005429	Dorsal pancreatic duct	Accessory pancreatic duct (Duct of Santorini)	23	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	24	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	24	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	25	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	25	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	26	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	26	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	27	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	27	
+CL:0000775	neutrophil	Neutrophil	UBERON:0000017	exocrine pancreas	Exocrine pancreas	27	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	28	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	28	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	29	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	29	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	30	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	30	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	31	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	31	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	32	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	32	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	33	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	33	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	34	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	34	
+CL:0005019	pancreatic epsilon cell	Epsilon cell	UBERON:0000006	islet of Langerhans	Islet of Langerhans	34	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	35	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	35	
+CL:0000509	gastrin secreting cell	Gastrin cell	CL:0008024	pancreatic endocrine cell	Endocrine cell	35	
+CL:0000509	gastrin secreting cell	Gastrin cell	UBERON:0000006	islet of Langerhans	Islet of Langerhans	35	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	36	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	36	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	37	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	37	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	38	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	38	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	39	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	39	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	40	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	40	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	41	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	41	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	42	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	42	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	43	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	43	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	44	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	44	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	45	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	45	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	47	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	47	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	48	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	48	
+UBERON:0004915	sphincter of hepatopancreatic ampulla	Hepatopancreatic sphincter (Sphincter of Oddi)	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	48	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	49	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	49	
+UBERON:0012271	major duodenal papilla	Major duodenal papilla	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	49	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	50	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	50	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	51	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	51	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	52	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	52	
+UBERON:0005429	dorsal pancreatic duct	Papilla of Santorini	UBERON:0005429	Dorsal pancreatic duct	Accessory pancreatic duct (Duct of Santorini)	52	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	53	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	53	
+UBERON:0012271	major duodenal papilla	Major duodenal papilla	UBERON:0001174	common bile duct	Common bile duct	53	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	54	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	54	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	55	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	55	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	56	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	56	
+UBERON:0001069	head of pancreas	Head of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	57	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	57	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	59	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	60	
+UBERON:0004915	sphincter of hepatopancreatic ampulla	Hepatopancreatic sphincter (Sphincter of Oddi)	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	60	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	61	
+UBERON:0012271	major duodenal papilla	Major duodenal papilla	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	61	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	62	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	63	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	64	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	65	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	66	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	67	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	69	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	70	
+UBERON:0004915	sphincter of hepatopancreatic ampulla	Hepatopancreatic sphincter (Sphincter of Oddi)	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	70	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	71	
+UBERON:0012271	major duodenal papilla	Major duodenal papilla	UBERON:0001064	Ventral pancreatic duct	Main pancreatic duct (Duct of Wirsung)	71	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	72	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	73	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	74	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	75	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	76	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	77	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	78	
+UBERON:0001150	body of pancreas	Body of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	80	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	80	
+UBERON:0001150	body of pancreas	Body of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	81	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	81	
+UBERON:0001150	body of pancreas	Body of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	82	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	82	
+UBERON:0001150	body of pancreas	Body of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	83	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	83	
+UBERON:0001150	body of pancreas	Body of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	84	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	84	
+UBERON:0001150	body of pancreas	Body of pancreas	UBERON:0009708	dorsal pancreas	Dorsal pancreas	85	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	85	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	87	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	88	
+UBERON:0001978	parenchyma of pancreas	Parenchyma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	89	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	90	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	91	
+UBERON:0018234	stroma of pancreas	Stroma of pancreas	UBERON:0007324	pancreatic lobule	Pancreas lobule	92	

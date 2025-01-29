@@ -1,0 +1,30 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000100	motor neuron	motor neuron	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	94
+CL:0000540	neuron	Ventral Inhibitory Neuron 2	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	92
+CL:0000540	neuron	Ventral Inhibitory Neuron 1	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	91
+CL:0000540	neuron	Ventral Excitatory Neuron 1	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	90
+CL:0000540	neuron	Ventral Excitatory Neuron 3	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	89
+CL:0000540	neuron	Ventral Excitatory Neuron 2	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	88
+CL:0000540	neuron	Ventral Excitatory Neuron 1	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	87
+CL:0000540	neuron	Dorsal Inhibitory Neuron 9	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	82
+CL:0000540	neuron	Dorsal Inhibitory Neuron 8	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	81
+CL:0000540	neuron	Dorsal Inhibitory Neuron 7	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	80
+CL:0000540	neuron	Dorsal Inhibitory Neuron 6	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	79
+CL:0000540	neuron	Dorsal Inhibitory Neuron 5	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	78
+CL:0000540	neuron	Dorsal Inhibitory Neuron 4	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	77
+CL:0000540	neuron	Ventral Inhibitory Neuron 3	UBERON:0030276	lumbar spinal cord ventral horn	lumbar spinal cord ventral horn	93
+CL:0000540	neuron	Dorsal Excitatory Neuron 1	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	62
+CL:0000540	neuron	Dorsal Inhibitory Neuron 1	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	74
+CL:0000540	neuron	Dorsal Excitatory Neuron 12	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	73
+CL:0000540	neuron	Dorsal Excitatory Neuron 11	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	72
+CL:0000540	neuron	Dorsal Excitatory Neuron 10	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	71
+CL:0000540	neuron	Dorsal Excitatory Neuron 9	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	70
+CL:0000540	neuron	Dorsal Excitatory Neuron 8	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	69
+CL:0000540	neuron	Dorsal Excitatory Neuron 7	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	68
+CL:0000540	neuron	Dorsal Excitatory Neuron 6	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	67
+CL:0000540	neuron	Dorsal Excitatory Neuron 5	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	66
+CL:0000540	neuron	Dorsal Excitatory Neuron 4	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	65
+CL:0000540	neuron	Dorsal Excitatory Neuron 3	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	64
+CL:0000540	neuron	Dorsal Excitatory Neuron 2	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	63
+CL:0000540	neuron	Dorsal Inhibitory Neuron 2	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	75
+CL:0000540	neuron	Dorsal Inhibitory Neuron 3	UBERON:0014638	lumbar spinal cord dorsal horn	lumbar spinal cord dorsal horn	76

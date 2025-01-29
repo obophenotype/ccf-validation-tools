@@ -1,0 +1,33 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000057	Fibroblast	fibroblast	UBERON:0002373	palatine tonsil	palatine tonsil	19
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001070	external carotid artery	lesser palatine artery	30
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001612	facial artery	tonsillar branch of the facial artery	28
+CL:0000071	blood vessel endothelial cell	blood vessel endothelial cell	UBERON:0001610	lingual artery	dorsal lingual artery	26
+CL:0000084	T Cell	T Cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	60
+CL:0000084	T Cell	T Cell	UBERON:0010754	germinal center	germinal center	47
+CL:0000084	T cell	T cell	UBERON:0002373	palatine tonsil	palatine tonsil	16
+CL:0000235	Macrophage	macrophage	UBERON:0002373	palatine tonsil	palatine tonsil	23
+CL:0000235	Macrophage	macrophage	UBERON:0010754	germinal center	germinal center	48
+CL:0000235	Macrophage	macrophage	UBERON:0013688	tonsil germinal center	tonsil germinal center	61
+CL:0000236	B cell	B cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	55
+CL:0000236	B cell	B cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	54
+CL:0000236	B cell	B cell	UBERON:0010754	germinal center	germinal center	42
+CL:0000236	B cell	B cell	UBERON:0010754	germinal center	germinal center	45
+CL:0000236	B cell	B cell	UBERON:0002373	palatine tonsil	palatine tonsil	21
+CL:0000236	B cell	B cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	58
+CL:0000432	Reticular cell	reticular cells	UBERON:0002373	palatine tonsil	palatine tonsil	20
+CL:0000451	Dendritic Cell	dendritic cell	UBERON:0002373	palatine tonsil	palatine tonsil	22
+CL:0000624	CD4-positive, alpha-beta T cell	CD4 T cell	UBERON:0010754	germinal center	germinal center	43
+CL:0000624	CD4-positive, alpha-beta T cell	CD4 T cell	UBERON:0002373	palatine tonsil	palatine tonsil	17
+CL:0000624	CD4-positive, alpha-beta T cell	CD4 T cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	56
+CL:0000625	CD8-positive, alpha-beta T cell	CD8 T cell	UBERON:0002373	palatine tonsil	palatine tonsil	18
+CL:0000786	Plasma Cell	plasma cell	UBERON:0010754	germinal center	germinal center	46
+CL:0000786	Plasma Cell	plasma cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	59
+CL:0000786	Plasma Cell	plasma cell	UBERON:0002373	palatine tonsil	palatine tonsil	25
+CL:0000786	Plasma Cell	plasma cell	UBERON:0002373	palatine tonsil	palatine tonsil	24
+CL:0000815	regulatory T cell	regulatory T cell	UBERON:0010754	germinal center	germinal center	44
+CL:0000815	regulatory T cell	regulatory T cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	57
+CL:0000844	germinal center B cell	germinal center B cell	UBERON:0010754	germinal center	germinal center	50
+CL:0000844	germinal center B cell	germinal center B cell	UBERON:0010754	germinal center	germinal center	49
+CL:0000844	germinal center B cell	germinal center B cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	62
+CL:0000844	germinal center B cell	germinal center B cell	UBERON:0013688	tonsil germinal center	tonsil germinal center	63

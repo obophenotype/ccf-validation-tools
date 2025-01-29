@@ -1,0 +1,391 @@
+Upper AS	Upper AS/label	Upper AS/ID	AS Name	References/ID	References/DOI
+arm bone	arm bone	UBERON:0003460	free part of arm bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+humerus	humerus	UBERON:0000976	coronoid fossa of humerus	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+humerus	humerus	UBERON:0000976	olecranon fossa of humerus	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+humerus	humerus	UBERON:0000976	radial fossa of humerus	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+humerus	humerus	UBERON:0000976	radial groove of humerus	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+radius bone	radius bone	UBERON:0001423	head of radius of radius	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+radius bone	radius bone	UBERON:0001423	neck of radius of radius	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+radius bone	radius bone	UBERON:0001423	radial tuberosity of radius	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+radius bone	radius bone	UBERON:0001423	shaft of radius of radius	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ulna	ulna	UBERON:0001424	head of ulna of ulna	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ulna	ulna	UBERON:0001424	olecranon of ulna	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ulna	ulna	UBERON:0001424	shaft of ulna of ulna	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ulna	ulna	UBERON:0001424	supinator fossa of ulna	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ulna	ulna	UBERON:0001424	trochlear notch of ulna	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ulna	ulna	UBERON:0001424	ulnar tuberosity of ulna	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+distal phalanx of digit of hand 1	distal phalanx of manual digit 1	UBERON:0004337	base of first distal phalanx of hand	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+distal phalanx of digit of hand 1	distal phalanx of manual digit 1	UBERON:0004337	shaft of first distal phalanx of hand	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+distal phalanx of digit of hand 1	distal phalanx of manual digit 1	UBERON:0004337	tuberosity of first distal phalanx of hand	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+distal phalanx of digit of hand 2	distal phalanx of manual digit 2	UBERON:0004311	head of second distal phalanx of hand	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+distal phalanx of digit of hand 2	distal phalanx of manual digit 2	UBERON:0004311	tuberosity of second distal phalanx of hand	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+distal phalanx of digit of hand 3	distal phalanx of manual digit 3	UBERON:0004312	tuberosity of third distal phalanx of hand	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+distal phalanx of digit of hand 4	distal phalanx of manual digit 4	UBERON:0004313	tuberosity of fourth distal phalanx of hand	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+distal phalanx of digit of hand 5	distal phalanx of manual digit 5	UBERON:0004314	tuberosity of fifth distal phalanx of hand	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+middle phalanx of digit of hand 2	middle phalanx of manual digit 2	UBERON:0004320	head of second middle phalanx of hand	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+middle phalanx of digit of hand 3	middle phalanx of manual digit 3	UBERON:0004321	head of third middle phalanx of hand	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+proximal phalanx of digit of hand 1	proximal phalanx of manual digit 1	UBERON:0004338	base of first proximal phalanx of hand	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+proximal phalanx of digit of hand 1	proximal phalanx of manual digit 1	UBERON:0004338	shaft of first proximal phalanx of hand	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+scaphoid	radiale	UBERON:0001427	scaphoid tubercle of scaphoid	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+scapula	scapula	UBERON:0006849	acromial process of scapula	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+scapula	scapula	UBERON:0006849	glenoid fossa of scapula	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+scapula	scapula	UBERON:0006849	infraglenoid tubercle of scapula	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+scapula	scapula	UBERON:0006849	infraspinous fossa of scapula	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+scapula	scapula	UBERON:0006849	scapular neck of scapula	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+scapula	scapula	UBERON:0006849	scapular notch of scapula	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+scapula	scapula	UBERON:0006849	scapular spine of scapula	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+scapula	scapula	UBERON:0006849	subscapular fossa of scapula	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+scapula	scapula	UBERON:0006849	supraglenoid tubercle of scapula	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+scapula	scapula	UBERON:0006849	supraspinous fossa of scapula	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+calcaneus	calcaneus	UBERON:0001450	articular surface for cuboid bone of calcaneus	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+calcaneus	calcaneus	UBERON:0001450	body of calcaneus	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+calcaneus	calcaneus	UBERON:0001450	calcaneal sulcus of calcaneus	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+calcaneus	calcaneus	UBERON:0001450	calcaneal tuberosity of calcaneus	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+calcaneus	calcaneus	UBERON:0001450	fibular trochlea of calcaneus	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+calcaneus	calcaneus	UBERON:0001450	groove for tendon of flexor hallucis longus muscle of calcaneus	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+calcaneus	calcaneus	UBERON:0001450	lateral process of tuberosity of calcaneus	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+calcaneus	calcaneus	UBERON:0001450	medial process of tuberosity of calcaneus	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+calcaneus	calcaneus	UBERON:0001450	sustentaculum tali of calcaneus	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cuboid bone	cuboid bone	UBERON:0001455	groove for fibularis longus tendon of cuboid	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+distal phalanx of digit of foot 1	distal phalanx of pedal digit 1	UBERON:0004315	base of first distal phalanx of foot	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+distal phalanx of digit of foot 2	distal phalanx of pedal digit 2	UBERON:0004316	head of second distal phalanx of foot	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+middle phalanx of digit of foot 2	middle phalanx of pedal digit 2	UBERON:0004324	head of second middle phalanx of foot	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+proximal phalanx of digit of foot 1	proximal phalanx of pedal digit 1	UBERON:0004332	base of first proximal phalanx of foot	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+leg bone	leg bone	UBERON:0005893	free part of leg bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+femur	femur	UBERON:0000981	gluteal tuberosity of femur	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+femur	femur	UBERON:0000981	intercondylar notch of femur	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+femur	femur	UBERON:0000981	pectinal line of femur	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+tibia	tibia	UBERON:0000979	anterolateral tubercle of tibia	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+tibia	tibia	UBERON:0000979	fibular facet of tibia	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+tibia	tibia	UBERON:0000979	fibular notch of tibia	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+tibia	tibia	UBERON:0000979	interosseus border of tibia	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+tibia	tibia	UBERON:0000979	medial malleolus of tibia	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+tibia	tibia	UBERON:0000979	soleal line of tibia	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+tibia	tibia	UBERON:0000979	tibial plateau of tibia	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+tibia	tibia	UBERON:0000979	tibial tuberosity of tibia	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	acetabular fossa of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	acetabular notch of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	acetabulum of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	anterior gluteal line of ilium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	anterior inferior iliac spine of ilium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	anterior superior iliac spine of ilium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	arcuate line of ilium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	auricular surface of ilium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	gluteal surface of ilium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	greater sciatic notch of ilium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	iliac crest of ilium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	iliac fossa of ilium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	iliac tubercle of ilium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	iliac tuberosity of ilium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	iliopubic ramus of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	inferior pubic ramus of pubis of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	ischial body of ischium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	ischial ramus of ischium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	ischial spine of ischium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	ischial tuberosity of ischium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	ischiopubic ramus of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	lesser sciatic notch of ischium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	lunate surface of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	obturator foramen of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	obturator groove of pubis of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	pecten pubis of pubis of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	posterior gluteal line of ilium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	posterior inferior iliac spine of ilium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	posterior superior iliac spine of ilium of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	pubic body of pubis of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	pubic crest of pubis of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	pubic symphysis of pubis of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	pubic tubercle of pubis of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+os coxa	innominate bone	UBERON:0001272	superior pubic ramus of pubis of os coxa	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cranial bone	cranial bone	UBERON:0004766	hyoid region bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+hyoid bone	hyoid bone	UBERON:0001685	greater cornu of hyoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+hyoid bone	hyoid bone	UBERON:0001685	lesser cornu of hyoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ethmoid bone	ethmoid bone	UBERON:0001679	anterior ethmoidal foramen of ethmoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ethmoid bone	ethmoid bone	UBERON:0001679	cribiform plate of ethmoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ethmoid bone	ethmoid bone	UBERON:0001679	crista galla of ethmoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ethmoid bone	ethmoid bone	UBERON:0001679	ethmoidal air cells of ethmoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ethmoid bone	ethmoid bone	UBERON:0001679	ethmoidal bulla of ethmoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ethmoid bone	ethmoid bone	UBERON:0001679	middle nasal concha of ethmoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ethmoid bone	ethmoid bone	UBERON:0001679	olfactory foramina of ethmoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ethmoid bone	ethmoid bone	UBERON:0001679	perpendicular plate of ethmoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ethmoid bone	ethmoid bone	UBERON:0001679	posterior ethmoidal foramen of ethmoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+ethmoid bone	ethmoid bone	UBERON:0001679	superior nasal concha of ethmoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+frontal bone	tetrapod frontal bone	UBERON:0000209	frontal crest of frontal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+frontal bone	tetrapod frontal bone	UBERON:0000209	frontal sinus of frontal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+frontal bone	tetrapod frontal bone	UBERON:0000209	glabella of frontal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+frontal bone	tetrapod frontal bone	UBERON:0000209	groove for superior sagittal sinus of frontal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+frontal bone	tetrapod frontal bone	UBERON:0000209	lacrimal fossa of frontal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+frontal bone	tetrapod frontal bone	UBERON:0000209	supercilary arch of frontal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+frontal bone	tetrapod frontal bone	UBERON:0000209	supraorbital notch or foramen of frontal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+occipital bone	occipital bone	UBERON:0001676	external occipital protuberance of squamous part of occipital bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+occipital bone	occipital bone	UBERON:0001676	foramen magnum of basilar part of occipital bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+occipital bone	occipital bone	UBERON:0001676	groove for transverse sinus of squamous part of occipital bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+occipital bone	occipital bone	UBERON:0001676	hypoglossal canal of basilar part of occipital bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+occipital bone	occipital bone	UBERON:0001676	inferior nuchal line of squamous part of occipital bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+occipital bone	occipital bone	UBERON:0001676	internal occipital protuberance of squamous part of occipital bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+occipital bone	occipital bone	UBERON:0001676	jugular foramen of basilar part of occipital bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+occipital bone	occipital bone	UBERON:0001676	occipital condyle of basilar part of occipital bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+occipital bone	occipital bone	UBERON:0001676	superior nuchal line of squamous part of occipital bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+parietal bone	tetrapod parietal bone	UBERON:0000210	granula foveaolae of parietal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+parietal bone	tetrapod parietal bone	UBERON:0000210	groove for middle meningeal a. of parietal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+parietal bone	tetrapod parietal bone	UBERON:0000210	groove for superior sagittal sinus of parietal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+parietal bone	tetrapod parietal bone	UBERON:0000210	temporal fossa of parietal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	anterior clinoid process of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	body of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	dorsum sellae of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	foramen lacerum of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	foramen ovale of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	foramen rotundum of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	greater wings of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	hypophyseal fossa of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	lateral pterygoid plate of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	lesser wings of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	medial pterygoid plate of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	optic canal of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	posterior clinoid process of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	pterygoid canal of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	pterygoid fossa of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	pterygoid hamulus of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	sella turcica of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	sphenoid sinus of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sphenoid bone	sphenoid bone	UBERON:0001677	superior orbital fissure of sphenoid bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	articular tubercle of squamous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	carotid canal of petrous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	external auditory meatus of squamous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	groove for posterior deep temporal artery of squamous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	groove for sigmoid sinus of mastoid part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	hiatus and groove of petrous part of temporal bone for greater petrosal nerve	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	hiatus and groove of petrous part of temporal bone for lesser petrosal nerve	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	internal auditory meatus of petrous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	jugular foramen of petrous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	mandibular fossa of squamous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	mastoid foramen of mastoid part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	mastoid notch of mastoid part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	mastoid process of mastoid part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	petrotympanic fissure of squamous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	postglenoid tubercle of squamous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	styloid process of petrous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	stylomastoid foramen of petrous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	supramastoid crest of squamous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	trigeminal impression of petrous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	tympanic caniliculus of petrous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+temporal bone	temporal bone	UBERON:0001678	zygomatic process of squamous part of temporal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lacrimal bone	lacrimal bone	UBERON:0001680	fossa for lacrimal sac of lacrimal bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	alveolar border of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	digastric fossa of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	inferior mental spine of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	mandibular angle of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	mandibular canal of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	mandibular condyle of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	mandibular foramen of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	mandibular neck of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	mandibular notch of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	mental foramen of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	mental protuberance of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	mylohyoid groove of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	mylohyoid line of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	pterygoid fovea of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	sublingual fossa of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	submandibular fossa of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+mandible	mandible	UBERON:0001684	superior mental spine of mandible	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+maxilla	maxilla	UBERON:0002397	greater palatine canal of maxilla	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+maxilla	maxilla	UBERON:0002397	incisive foramen of maxilla	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+maxilla	maxilla	UBERON:0002397	infraorbital canal of maxilla	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+maxilla	maxilla	UBERON:0002397	infraorbital foramen of maxilla	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+maxilla	maxilla	UBERON:0002397	infraorbital groove of maxilla	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+maxilla	maxilla	UBERON:0002397	intermaxillary suture of maxilla	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+maxilla	maxilla	UBERON:0002397	maxillary sinus of maxilla	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+maxilla	maxilla	UBERON:0002397	nasolacrimal canal of maxilla	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+palatine bone	palatine bone	UBERON:0001682	greater palatine foramen of palatine bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+palatine bone	palatine bone	UBERON:0001682	lesser palatine foramen of palatine bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+vomer	vomer	UBERON:0002396	groove for nasopalatine nerve of vomer	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+zygomatic bone	jugal bone	UBERON:0001683	zygomaticofacial foramen of zygomatic bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic skeleton	thoracic skeleton	UBERON:0014477	costal region bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 1	rib 1	UBERON:0004601	costal groove of first rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 1	rib 1	UBERON:0004601	facet of first rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 1	rib 1	UBERON:0004601	groove for subclavian artery of first rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 1	rib 1	UBERON:0004601	groove for subclavian vein of first rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 1	rib 1	UBERON:0004601	non-articular facet of tubercle of first rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 1	rib 1	UBERON:0004601	scalene tubercle of first rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 1	rib 1	UBERON:0004601	sternal end of first rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 10	rib 10	UBERON:0004609	facet of tenth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 10	rib 10	UBERON:0004609	non-articular facet of tubercle of tenth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 10	rib 10	UBERON:0004609	sternal end of tenth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 11	rib 11	UBERON:0004610	facet of eleventh rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 11	rib 11	UBERON:0004610	sternal end of eleventh rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 12	rib 12	UBERON:0004611	costal groove of twelfth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 12	rib 12	UBERON:0004611	facet of twelfth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 12	rib 12	UBERON:0004611	sternal end of twelfth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 2	rib 2	UBERON:0004602	non-articular facet of tubercle of second rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 2	rib 2	UBERON:0004602	sternal end of second rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 3	rib 3	UBERON:0004603	non-articular facet of tubercle of third rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 3	rib 3	UBERON:0004603	sternal end of third rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 4	rib 4	UBERON:0004604	non-articular facet of tubercle of fourth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 4	rib 4	UBERON:0004604	sternal end of fourth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 5	rib 5	UBERON:0004605	non-articular facet of tubercle of fifth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 5	rib 5	UBERON:0004605	sternal end of fifth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 6	rib 6	UBERON:0004606	non-articular facet of tubercle of sixth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 6	rib 6	UBERON:0004606	sternal end of sixth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 7	rib 7	UBERON:0004607	non-articular facet of tubercle of seventh rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 7	rib 7	UBERON:0004607	sternal end of seventh rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 8	rib 8	UBERON:0010757	non-articular facet of tubercle of eighth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 8	rib 8	UBERON:0010757	sternal end of eighth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 9	rib 9	UBERON:0004608	non-articular facet of tubercle of ninth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+rib 9	rib 9	UBERON:0004608	sternal end of ninth rib	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic skeleton	thoracic skeleton	UBERON:0014477	sternal region bone	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sternum	sternum	UBERON:0000975	costal notches of sternum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sternum	sternum	UBERON:0000975	sternal angle of sternum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sternum	sternum	UBERON:0000975	sternal body of sternum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sternum	sternum	UBERON:0000975	transverse ridges of sternum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+coccyx	coccyx	UBERON:0001350	coccygeal cornu of coccyx	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+coccyx	coccyx	UBERON:0001350	transverse process of coccyx	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	anterior arch of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	anterior tubercle of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	groove for vertebral artery of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	inferior articular facet of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	inferior articular process of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	inferior vertebral notch of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	lamina of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	pedicle of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	posterior arch of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	posterior tubercle of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	spinous process of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	superior articular facet of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	superior articular process of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	superior vertebral notch of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	transverse foramen of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	transverse process of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	vertebral body of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 1	vertebral bone 1	UBERON:0001092	vertebral foramen of first cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 2	vertebral bone 2	UBERON:0001093	body of second cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 2	vertebral bone 2	UBERON:0001093	inferior articular facet of second cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 2	vertebral bone 2	UBERON:0001093	inferior articular process of second cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 2	vertebral bone 2	UBERON:0001093	lamina of second cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 2	vertebral bone 2	UBERON:0001093	pedicle of second cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 2	vertebral bone 2	UBERON:0001093	spinous process of second cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 2	vertebral bone 2	UBERON:0001093	superior articular facet of second cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 2	vertebral bone 2	UBERON:0001093	superior articular process of second cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 2	vertebral bone 2	UBERON:0001093	superior vertebral notch of second cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 2	vertebral bone 2	UBERON:0001093	transverse foramen of second cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 2	vertebral bone 2	UBERON:0001093	transverse process of second cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 2	vertebral bone 2	UBERON:0001093	vertebral arch of second cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 2	vertebral bone 2	UBERON:0001093	vertebral body of second cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 2	vertebral bone 2	UBERON:0001093	vertebral foramen of second cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 3	mammalian cervical vertebra 3	UBERON:0004612	inferior articular facet of third cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 3	mammalian cervical vertebra 3	UBERON:0004612	superior articular facet of third cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 3	mammalian cervical vertebra 3	UBERON:0004612	vertebral arch of third cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 3	mammalian cervical vertebra 3	UBERON:0004612	vertebral body of third cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 4	mammalian cervical vertebra 4	UBERON:0004613	inferior articular facet of fourth cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 4	mammalian cervical vertebra 4	UBERON:0004613	superior articular facet of fourth cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 4	mammalian cervical vertebra 4	UBERON:0004613	vertebral arch of fourth cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 4	mammalian cervical vertebra 4	UBERON:0004613	vertebral body of fourth cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 5	mammalian cervical vertebra 5	UBERON:0004614	inferior articular facet of fifth cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 5	mammalian cervical vertebra 5	UBERON:0004614	superior articular facet of fifth cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 5	mammalian cervical vertebra 5	UBERON:0004614	vertebral arch of fifth cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 5	mammalian cervical vertebra 5	UBERON:0004614	vertebral body of fifth cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 6	mammalian cervical vertebra 6	UBERON:0004615	inferior articular facet of sixth cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 6	mammalian cervical vertebra 6	UBERON:0004615	superior articular facet of sixth cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 6	mammalian cervical vertebra 6	UBERON:0004615	vertebral arch of sixth cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 6	mammalian cervical vertebra 6	UBERON:0004615	vertebral body of sixth cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 7	mammalian cervical vertebra 7	UBERON:0004616	inferior articular facet of seventh cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 7	mammalian cervical vertebra 7	UBERON:0004616	superior articular facet of seventh cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 7	mammalian cervical vertebra 7	UBERON:0004616	vertebra prominens of seventh cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 7	mammalian cervical vertebra 7	UBERON:0004616	vertebral arch of seventh cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+cervical vertebra 7	mammalian cervical vertebra 7	UBERON:0004616	vertebral body of seventh cervical vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 1	lumbar vertebra 1	UBERON:0004617	mammillary process of first lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 1	lumbar vertebra 1	UBERON:0004617	superior articular facet of first lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 1	lumbar vertebra 1	UBERON:0004617	vertebral arch of first lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 1	lumbar vertebra 1	UBERON:0004617	vertebral body of first lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 2	lumbar vertebra 2	UBERON:0004618	mammillary process of second lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 2	lumbar vertebra 2	UBERON:0004618	superior articular facet of second lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 2	lumbar vertebra 2	UBERON:0004618	vertebral arch of second lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 2	lumbar vertebra 2	UBERON:0004618	vertebral body of second lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 3	lumbar vertebra 3	UBERON:0004619	mammillary process of third lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 3	lumbar vertebra 3	UBERON:0004619	superior articular facet of third lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 3	lumbar vertebra 3	UBERON:0004619	vertebral arch of third lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 3	lumbar vertebra 3	UBERON:0004619	vertebral body of third lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 4	lumbar vertebra 4	UBERON:0004620	mammillary process of fourth lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 4	lumbar vertebra 4	UBERON:0004620	superior articular facet of fourth lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 4	lumbar vertebra 4	UBERON:0004620	vertebral arch of fourth lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 4	lumbar vertebra 4	UBERON:0004620	vertebral body of fourth lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 5	lumbar vertebra 5	UBERON:0004621	mammillary process of fifth lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 5	lumbar vertebra 5	UBERON:0004621	superior articular facet of fifth lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 5	lumbar vertebra 5	UBERON:0004621	vertebral arch of fifth lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+lumbar vertebra 5	lumbar vertebra 5	UBERON:0004621	vertebral body of fifth lumbar vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sacrum	fused sacrum	UBERON:0003690	alae of sacrum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sacrum	fused sacrum	UBERON:0003690	anterior sacral foramina of sacrum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sacrum	fused sacrum	UBERON:0003690	intermediate sacral crest of sacrum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sacrum	fused sacrum	UBERON:0003690	lateral sacral crest of sacrum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sacrum	fused sacrum	UBERON:0003690	linea terminalis of sacrum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sacrum	fused sacrum	UBERON:0003690	median sacral crest of sacrum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sacrum	fused sacrum	UBERON:0003690	posterior sacral foramina of sacrum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sacrum	fused sacrum	UBERON:0003690	sacral apex of sacrum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sacrum	fused sacrum	UBERON:0003690	sacral canal of sacrum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sacrum	fused sacrum	UBERON:0003690	sacral cornu of sacrum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sacrum	fused sacrum	UBERON:0003690	sacral hiatus of sacrum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sacrum	fused sacrum	UBERON:0003690	sacral promontory of sacrum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sacrum	fused sacrum	UBERON:0003690	sacral spine of sacrum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+sacrum	fused sacrum	UBERON:0003690	sacral tuberosity of sacrum	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 1	thoracic vertebra 1	UBERON:0004626	inferior articular facet of first thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 1	thoracic vertebra 1	UBERON:0004626	superior articular facet of first thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 1	thoracic vertebra 1	UBERON:0004626	transverse costal facet of first thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 1	thoracic vertebra 1	UBERON:0004626	vertebral arch of first thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 1	thoracic vertebra 1	UBERON:0004626	vertebral body of first thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 1	thoracic vertebra 1	UBERON:0004626	vertebral foramen of first thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 10	thoracic vertebra 10	UBERON:0004634	inferior articular facet of tenth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 10	thoracic vertebra 10	UBERON:0004634	inferior costal facet of tenth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 10	thoracic vertebra 10	UBERON:0004634	superior articular facet of tenth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 10	thoracic vertebra 10	UBERON:0004634	transverse costal facet of tenth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 10	thoracic vertebra 10	UBERON:0004634	vertebral arch of tenth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 10	thoracic vertebra 10	UBERON:0004634	vertebral body of tenth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 11	thoracic vertebra 11	UBERON:0004635	inferior articular facet of eleventh thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 11	thoracic vertebra 11	UBERON:0004635	inferior costal facet of eleventh thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 11	thoracic vertebra 11	UBERON:0004635	superior articular facet of eleventh thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 11	thoracic vertebra 11	UBERON:0004635	superior costal facet of eleventh thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 11	thoracic vertebra 11	UBERON:0004635	transverse costal facet of eleventh thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 11	thoracic vertebra 11	UBERON:0004635	vertebral arch of eleventh thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 11	thoracic vertebra 11	UBERON:0004635	vertebral body of eleventh thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 12	thoracic vertebra 12	UBERON:0004636	inferior articular facet of twelfth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 12	thoracic vertebra 12	UBERON:0004636	superior articular facet of twelfth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 12	thoracic vertebra 12	UBERON:0004636	vertebral arch of twelfth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 12	thoracic vertebra 12	UBERON:0004636	vertebral body of twelfth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 2	thoracic vertebra 2	UBERON:0004627	inferior articular facet of second thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 2	thoracic vertebra 2	UBERON:0004627	superior articular facet of second thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 2	thoracic vertebra 2	UBERON:0004627	transverse costal facet of second thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 2	thoracic vertebra 2	UBERON:0004627	vertebral arch of second thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 2	thoracic vertebra 2	UBERON:0004627	vertebral body of second thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 3	thoracic vertebra 3	UBERON:0004628	inferior articular facet of third thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 3	thoracic vertebra 3	UBERON:0004628	superior articular facet of third thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 3	thoracic vertebra 3	UBERON:0004628	transverse costal facet of third thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 3	thoracic vertebra 3	UBERON:0004628	vertebral arch of third thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 3	thoracic vertebra 3	UBERON:0004628	vertebral body of third thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 4	thoracic vertebra 4	UBERON:0004629	inferior articular facet of fourth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 4	thoracic vertebra 4	UBERON:0004629	superior articular facet of fourth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 4	thoracic vertebra 4	UBERON:0004629	transverse costal facet of fourth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 4	thoracic vertebra 4	UBERON:0004629	vertebral arch of fourth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 4	thoracic vertebra 4	UBERON:0004629	vertebral body of fourth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 5	thoracic vertebra 5	UBERON:0004630	inferior articular facet of fifth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 5	thoracic vertebra 5	UBERON:0004630	superior articular facet of fifth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 5	thoracic vertebra 5	UBERON:0004630	transverse costal facet of fifth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 5	thoracic vertebra 5	UBERON:0004630	vertebral arch of fifth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 5	thoracic vertebra 5	UBERON:0004630	vertebral body of fifth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 6	thoracic vertebra 6	UBERON:0004631	inferior articular facet of sixth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 6	thoracic vertebra 6	UBERON:0004631	superior articular facet of sixth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 6	thoracic vertebra 6	UBERON:0004631	transverse costal facet of sixth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 6	thoracic vertebra 6	UBERON:0004631	vertebral arch of sixth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 6	thoracic vertebra 6	UBERON:0004631	vertebral body of sixth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 7	thoracic vertebra 7	UBERON:0004632	inferior articular facet of seventh thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 7	thoracic vertebra 7	UBERON:0004632	superior articular facet of seventh thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 7	thoracic vertebra 7	UBERON:0004632	transverse costal facet of seventh thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 7	thoracic vertebra 7	UBERON:0004632	vertebral arch of seventh thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 7	thoracic vertebra 7	UBERON:0004632	vertebral body of seventh thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 8	thoracic vertebra 8	UBERON:0011050	inferior articular facet of eighth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 8	thoracic vertebra 8	UBERON:0011050	superior articular facet of eighth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 8	thoracic vertebra 8	UBERON:0011050	transverse costal facet of eighth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 8	thoracic vertebra 8	UBERON:0011050	vertebral arch of eighth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 8	thoracic vertebra 8	UBERON:0011050	vertebral body of eighth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 9	thoracic vertebra 9	UBERON:0004633	inferior articular facet of ninth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 9	thoracic vertebra 9	UBERON:0004633	superior articular facet of ninth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 9	thoracic vertebra 9	UBERON:0004633	transverse costal facet of ninth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 9	thoracic vertebra 9	UBERON:0004633	vertebral arch of ninth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	
+thoracic vertebra 9	thoracic vertebra 9	UBERON:0004633	vertebral body of ninth thoracic vertebra	ISBN:9780323393225 ; HTTPS:FIPATLIBRARYDALCATA2	

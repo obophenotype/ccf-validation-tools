@@ -1,0 +1,312 @@
+Upper AS	Upper AS/label	Upper AS/ID	AS Name	References/ID	References/DOI
+subsegmental pulmonary vein	subsegmental pulmonary vein	UBERON:8600052	pulmonary venule	HTTPS:RADIOLOGYKEYCOM6PULMONARYARTERYANDVEIN	
+subsegmental pulmonary vein	subsegmental pulmonary vein	UBERON:8600052	pulmonary venule	HTTPS:ENWIKIPEDIAORGWIKIBRONCHIAL:ARTERY	
+pulmonary venule			bronchial capillary #2	HTTPS:ENWIKIPEDIAORGWIKIBRONCHIAL:ARTERY	
+subsegmental pulmonary vein	subsegmental pulmonary vein	UBERON:8600052	pulmonary venule	HTTPS:DOIORG101152JAPPLPHYSIOL011772009	
+intra-acinar venule	intra-acinar venule	UBERON:8600061	post-alveolar capillary	HTTPS:DOIORG101152JAPPLPHYSIOL011772009	
+ascending pharyngeal artery	ascending pharyngeal artery	UBERON:8600078	neuromeningeal trunk	HTTPS:ENWIKIPEDIAORGWIKIASCENDING:PHARYNGEAL_ARTERY	
+neuromeningeal trunk			hypoglossal branch of ascending pharyngeal artery	HTTPS:ENWIKIPEDIAORGWIKIASCENDING:PHARYNGEAL_ARTERY	
+neuromeningeal trunk			jugular branch of ascending pharyngeal artery	HTTPS:ENWIKIPEDIAORGWIKIASCENDING:PHARYNGEAL_ARTERY	
+ascending pharyngeal artery	ascending pharyngeal artery	UBERON:8600078	neuromeningeal trunk	HTTPS:NEUPSYKEYCOMTHEEXTERNALCAROTIDARTERYANDEXTRACRANIALCIRCULATION	
+neuromeningeal trunk			odontoid arcade	HTTPS:NEUPSYKEYCOMTHEEXTERNALCAROTIDARTERYANDEXTRACRANIALCIRCULATION	
+ascending pharyngeal artery	ascending pharyngeal artery	UBERON:8600078	neuromeningeal trunk	HTTP:NEUROANGIOORGANATOMYANDVARIANTSPOSTERIORMENINGEALARTERY	
+ascending pharyngeal artery	ascending pharyngeal artery	UBERON:8600078	pharyngeal trunk	HTTPS:ENWIKIPEDIAORGWIKIASCENDING:PHARYNGEAL_ARTERY	
+ascending pharyngeal artery	ascending pharyngeal artery	UBERON:8600078	pharyngeal trunk	PMID:12169487	
+pharyngeal trunk			eustachian branch of ascending pharyngeal artery	PMID:12169487	
+pharyngeal trunk			inferior pharyngeal artery	PMID:12169487	
+pharyngeal trunk			middle pharyngeal artery	PMID:12169487	
+pharyngeal trunk			superior pharyngeal artery	PMID:12169487	
+superior pharyngeal artery			pterygovaginal artery	PMID:12169487	
+sphenopalatine artery	Sphenopalatine artery	FMA:49804	posterior lateral nasal branch of sphenopalatine artery	ISBN:9780323393225	
+occipital artery	occipital artery	UBERON:0001613	stylomastoid branch of occipital artery	HTTPS:ENWIKIPEDIAORGWIKIOCCIPITAL:ARTERY	
+anterior cerebral artery	anterior cerebral artery	UBERON:0001624	anterior internal frontal artery	HTTPS:DOIORG103171JNS19784920204	
+anterior cerebral artery	anterior cerebral artery	UBERON:0001624	inferior parietal artery	HTTPS:DOIORG103171JNS19784920204	
+anterior cerebral artery	anterior cerebral artery	UBERON:0001624	medial lenticulostriate artery	HTTPS:ENWIKIPEDIAORGWIKIANTERIOR:CEREBRAL_ARTERY	
+anterior cerebral artery	anterior cerebral artery	UBERON:0001624	middle internal frontal artery	HTTPS:DOIORG103171JNS19784920204	
+anterior cerebral artery	anterior cerebral artery	UBERON:0001624	orbitofrontal branch of anterior cerebral artery	HTTP:RADIOPAEDIAORGARTICLESORBITOFRONTALARTERY	
+anterior cerebral artery	anterior cerebral artery	UBERON:0001624	paracentral artery	HTTPS:DOIORG103171JNS19784920204	
+anterior cerebral artery	anterior cerebral artery	UBERON:0001624	posterior internal frontal artery	HTTPS:DOIORG103171JNS19784920204	
+anterior cerebral artery	anterior cerebral artery	UBERON:0001624	superior parietal artery	HTTPS:DOIORG103171JNS19784920204	
+cavernous branch of internal carotid artery	Cavernous branch of internal carotid artery	FMA:49817	meningohypophyseal artery	HTTPS:ENWIKIPEDIAORGWIKIMENINGOHYPOPHYSEAL:ARTERY	
+meningohypophyseal artery			dorsal meningeal artery	HTTPS:ENWIKIPEDIAORGWIKIMENINGOHYPOPHYSEAL:ARTERY	
+meningohypophyseal artery			tentorial artery	HTTPS:ENWIKIPEDIAORGWIKIMENINGOHYPOPHYSEAL:ARTERY	
+inferior hypophyseal artery	inferior hypophysial artery	UBERON:0035492	capillary plexus of posterior pituitary gland	HTTPS:BASICMEDICALKEYCOMENDOCRINESYSTEM3	
+short portal vessel of pituitary gland	Hypophysial short portal vein	FMA:0327576	secondary capillary plexus of anterior pituitary gland #2	HTTPS:BASICMEDICALKEYCOMENDOCRINESYSTEM3	
+middle cerebral artery	middle cerebral artery	UBERON:0001627	orbitofrontal branch of middle cerebral artery	HTTPS:ENWIKIPEDIAORGWIKIMIDDLE:CEREBRAL_ARTERY	
+lacrimal artery	lacrimal artery	UBERON:0001622	zygomaticofacial artery	HTTPS:RANZCRPART1FANDOMCOMWIKIARTERIAL:SUPPLY_TO_BRAIN:OPHTHALMIC_ARTERY_AND_BRANCHES	
+lacrimal artery	lacrimal artery	UBERON:0001622	zygomaticotemporal artery	HTTPS:RANZCRPART1FANDOMCOMWIKIARTERIAL:SUPPLY_TO_BRAIN:OPHTHALMIC_ARTERY_AND_BRANCHES	
+superior hypophyseal artery	superior hypophysial artery	UBERON:0035404	external primary capillary plexus of median eminence	HTTPS:BASICMEDICALKEYCOMENDOCRINESYSTEM3	
+external primary capillary plexus of median eminence			internal primary capillary plexus of median eminence	HTTPS:BASICMEDICALKEYCOMENDOCRINESYSTEM3	
+long portal vessel of pituitary gland	Hypophysial long portal vein	FMA:0327575	secondary capillary plexus of anterior pituitary gland	HTTPS:BASICMEDICALKEYCOMENDOCRINESYSTEM3	
+left hepatic artery	left hepatic artery	UBERON:0015481	left artery of caudate lobe	HTTPS:DOIORG101007S1256501800475X	
+left hepatic artery	left hepatic artery	UBERON:0015481	left lateral hepatic artery	HTTPS:DOIORG101007S1256501800475X	
+left hepatic artery	left hepatic artery	UBERON:0015481	left medial hepatic artery	HTTPS:DOIORG101007S1256501800475X	
+left hepatic artery	left hepatic artery	UBERON:0015481	segmental hepatic artery	HTTPS:DOIORG101007S1256501800475X	
+left hepatic artery	left hepatic artery	UBERON:0015481	segmental hepatic artery	HTTPS:ENWIKIPEDIAORGWIKILIVER:SINUSOID	
+segmental hepatic artery			hepatic arteriole	HTTPS:ENWIKIPEDIAORGWIKILIVER:SINUSOID	
+right hepatic artery	right hepatic artery	UBERON:0015482	right anterior hepatic artery	HTTPS:DOIORG101007S1256501800475X	
+right hepatic artery	right hepatic artery	UBERON:0015482	right artery of caudate lobe	HTTPS:DOIORG101007S1256501800475X	
+right hepatic artery	right hepatic artery	UBERON:0015482	right posterior hepatic artery	HTTPS:DOIORG101007S1256501800475X	
+dorsal pancreatic artery	Dorsal pancreatic artery	FMA:14787	transverse pancreatic artery	HTTPS:RADIOPAEDIAORGARTICLESTRANSVERSEPANCREATICARTERY	
+splenic artery	splenic artery	UBERON:0001194	inferior lobar artery of spleen	HTTPS:IJCRRCOMUPLOADS759:PDFPDF	
+splenic artery	splenic artery	UBERON:0001194	lobar artery of spleen	HTTPS:IJCRRCOMUPLOADS759:PDFPDF	
+lobar artery of spleen			segmental branch of lobar artery of spleen	HTTPS:IJCRRCOMUPLOADS759:PDFPDF	
+splenic artery	splenic artery	UBERON:0001194	lobar artery of spleen	HTTPS:ENWIKIPEDIAORGWIKITRABECULAR:ARTERIES	
+lobar artery of spleen			segmental branch of lobar artery of spleen	HTTPS:ENWIKIPEDIAORGWIKITRABECULAR:ARTERIES	
+splenic artery	splenic artery	UBERON:0001194	lobar artery of spleen		
+lobar artery of spleen			segmental branch of lobar artery of spleen		
+spleen central arteriole	spleen central arteriole	UBERON:0010401	non-penicillar arteriole of spleen		
+non-penicillar arteriole of spleen			sheathed capillary of spleen		
+sheathed capillary of spleen			post-sheath open capillary of spleen		
+sheathed capillary of spleen			superficial white pulp capillary of spleen		
+superficial white pulp capillary of spleen			branch of superficial white pulp capillary of spleen		
+penicillar arteriole of spleen	penicillar arteriole	UBERON:0013132	sheathed capillary of spleen #2		
+spleen central arteriole	spleen central arteriole	UBERON:0010401	secondary follicle arteriole of spleen		
+pancreatic artery	Pancreatic artery	FMA:70471	interlobular artery of pancreas	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+interlobular artery of pancreas			lobular artery of pancreas	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+pancreatic artery	Pancreatic artery	FMA:70471	interlobular artery of pancreas	HTTPS:WWWNCBINLMNIHGOVPMCARTICLESPMC6880211	
+interlobular artery of pancreas			lobular artery of pancreas	HTTPS:WWWNCBINLMNIHGOVPMCARTICLESPMC6880211	
+lobular artery of pancreas			intralobular arteriole of pancreas	HTTPS:WWWNCBINLMNIHGOVPMCARTICLESPMC6880211	
+lobular artery of pancreas			intralobular arteriole of pancreas	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+intralobular arteriole of pancreas			lobular capillary of pancreas	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+intralobular arteriole of pancreas			pancreatic islet afferent arteriole	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+intralobular arteriole of pancreas			periductal capillary of intercalated duct of pancreas	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+intralobular arteriole of pancreas			periductal capillary of intralobular duct of panceas	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+lobular artery of pancreas			periductal branch of lobular artery of pancreas	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+periductal branch of lobular artery of pancreas			periductal arteriole of interlobular duct of pancreas	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+periductal arteriole of interlobular duct of pancreas			periductal capillary of interlobular duct of pancreas	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+interlobular artery of pancreas			periductal branch of interlobular artery of pancreas	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+periductal branch of interlobular artery of pancreas			periductal arteriole of accessory pancreatic duct	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+periductal arteriole of accessory pancreatic duct			periductal capillary of accessory pancreatic duct	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+periductal branch of interlobular artery of pancreas			periductal arteriole of main pancreatic duct	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+periductal arteriole of main pancreatic duct			periductal capillary of main pancreatic duct	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+splenic artery	splenic artery	UBERON:0001194	superior lobar artery of spleen	HTTPS:IJCRRCOMUPLOADS759:PDFPDF	
+anterior lateral malleolar artery	Anterior lateral malleolar artery	FMA:43904	lateral supramalleolar artery	HTTPS:DOIORG1015562BMJV9I21812	
+anterior tibial artery	anterior tibial artery	UBERON:0001537	lateral calcaneal artery	HTTPS:PUBMEDNCBINLMNIHGOV9932327	
+popliteal artery	popliteal artery	UBERON:0002250	lateral sural artery	HTTPS:ENWIKIPEDIAORGWIKISURAL:ARTERIES	
+popliteal artery	popliteal artery	UBERON:0002250	medial sural artery	HTTPS:ENWIKIPEDIAORGWIKISURAL:ARTERIES	
+first plantar metatarsal artery	First plantar metatarsal artery	FMA:43959	first common plantar digital artery	HTTPS:RADIOPAEDIAORGARTICLESARTERIALSUPPLYTOTHEFOOT	
+first common plantar digital artery			lateral proper plantar digital artery of first digit of foot	HTTPS:RADIOPAEDIAORGARTICLESARTERIALSUPPLYTOTHEFOOT	
+first common plantar digital artery			medial proper plantar digital artery of second digit of foot	HTTPS:RADIOPAEDIAORGARTICLESARTERIALSUPPLYTOTHEFOOT	
+first plantar metatarsal artery	First plantar metatarsal artery	FMA:43959	medial proper plantar digital artery of first digit of foot	HTTPS:WWWNCBINLMNIHGOVBOOKSNBK560912	
+plantar arch	Plantar arch	FMA:43942	first posterior perforating branch of plantar arch	HTTPS:WWWIMAIOSCOMENEANATOMYANATOMICALPARTSPERFORATINGBRANCHES3	
+fourth plantar metatarsal artery	Fourth plantar metatarsal artery	FMA:43962	fourth common plantar digital artery	HTTPS:RADIOPAEDIAORGARTICLESARTERIALSUPPLYTOTHEFOOT	
+fourth common plantar digital artery			lateral proper plantar digital artery of fourth digit of foot	HTTPS:RADIOPAEDIAORGARTICLESARTERIALSUPPLYTOTHEFOOT	
+fourth common plantar digital artery			medial proper plantar digital artery of fifth digit of foot	HTTPS:RADIOPAEDIAORGARTICLESARTERIALSUPPLYTOTHEFOOT	
+second plantar metatarsal artery	Second plantar metatarsal artery	FMA:43960	second common plantar digital artery	HTTPS:RADIOPAEDIAORGARTICLESARTERIALSUPPLYTOTHEFOOT	
+second common plantar digital artery			lateral proper plantar digital artery of second digit of foot	HTTPS:RADIOPAEDIAORGARTICLESARTERIALSUPPLYTOTHEFOOT	
+second common plantar digital artery			medial proper plantar digital artery of third digit of foot	HTTPS:RADIOPAEDIAORGARTICLESARTERIALSUPPLYTOTHEFOOT	
+plantar arch	Plantar arch	FMA:43942	second posterior perforating branch of plantar arch	HTTPS:WWWIMAIOSCOMENEANATOMYANATOMICALPARTSPERFORATINGBRANCHES3	
+third plantar metatarsal artery	Third plantar metatarsal artery	FMA:43961	third common plantar digital artery	HTTPS:RADIOPAEDIAORGARTICLESARTERIALSUPPLYTOTHEFOOT	
+third common plantar digital artery			lateral proper plantar digital artery of third digit of foot	HTTPS:RADIOPAEDIAORGARTICLESARTERIALSUPPLYTOTHEFOOT	
+third common plantar digital artery			medial proper plantar digital artery of fourth digit of foot	HTTPS:RADIOPAEDIAORGARTICLESARTERIALSUPPLYTOTHEFOOT	
+plantar arch	Plantar arch	FMA:43942	third posterior perforating branch of plantar arch	HTTPS:WWWIMAIOSCOMENEANATOMYANATOMICALPARTSPERFORATINGBRANCHES3	
+lateral plantar artery	Lateral plantar artery	FMA:43926	superficial branch of lateral plantar artery	HTTPS:WWWNCBINLMNIHGOVBOOKSNBK560912	
+superficial branch of lateral plantar artery			lateral proper plantar digital artery of fifth digit of foot	HTTPS:WWWNCBINLMNIHGOVBOOKSNBK560912	
+posterior tibial artery	posterior tibial artery	UBERON:0001538	medial calcaneal artery	HTTPS:WWWNCBINLMNIHGOVBOOKSNBK560912	
+prostatic artery	Prostatic part of inferior vesical artery	FMA:20966	prostatic arteriole	HTTPS:RADIOPAEDIAORGARTICLESINFERIORVESICALARTERY	
+prostatic artery	Prostatic part of inferior vesical artery	FMA:20966	seminal vesicle arterial branches of prostatic artery	HTTPS:DOIORG101148RG2019180195	
+common penile artery	common penile artery	UBERON:0008320	bulbourethral artery	HTTPS:ENWIKIPEDIAORGWIKIPENILE:ARTERY	
+common penile artery	common penile artery	UBERON:0008320	cavernosal artery	HTTPS:ENWIKIPEDIAORGWIKIPENILE:ARTERY	
+obturator artery	obturator artery	UBERON:0001314	posterior branch of obturator artery	HTTPS:ENWIKIPEDIAORGWIKIOBTURATOR:ARTERY	
+arcuate artery of uterus	helicine branch of uterine artery	UBERON:0015173	radial artery of uterus	HTTPS:ENWIKIPEDIAORGWIKIARCUATE:VESSELS_OF_UTERUS	
+arcuate artery of uterus	helicine branch of uterine artery	UBERON:0015173	radial artery of uterus	HTTPS:ENWIKIPEDIAORGWIKISPIRAL:ARTERY	
+marginal artery of Drummond	Marginal colic artery	FMA:14824	vasa recta of colon	HTTPS:DOIORG101111J14697580200901199X	
+vasa recta of colon			long branch of vasa recta of colon	HTTPS:DOIORG101111J14697580200901199X	
+long branch of vasa recta of colon			submucosal artery of colon	HTTPS:DOIORG101111J14697580200901199X	
+submucosal artery of colon			recurrent muscular branch of submucosal artery of colon	HTTPS:DOIORG101111J14697580200901199X	
+submucosal artery of colon			submucosal arteriole of colon	HTTPS:DOIORG101111J14697580200901199X	
+submucosal arteriole of colon			mucosal arteriole of colon	HTTPS:DOIORG101111J14697580200901199X	
+mucosal arteriole of colon			branch of mucous plexus of colon	HTTPS:DOIORG101111J14697580200901199X	
+long branch of vasa recta of colon			subserous artery of colon	HTTPS:DOIORG101111J14697580200901199X	
+vasa recta of colon			short branch of vasa recta of colon	HTTPS:DOIORG101111J14697580200901199X	
+short branch of vasa recta of colon			subserous artery of colon #2	HTTPS:DOIORG101111J14697580200901199X	
+ascending branch of left colic artery	Ascending branch of left colic artery	FMA:14828	meandering mesenteric artery	HTTPS:WWWKENHUBCOMENLIBRARYANATOMYLEFTCOLICARTERY	
+lumbar artery	lumbar artery	UBERON:0006636	segmental spinal artery #3	HTTPS:ANATOMYZONECOMNEUROANATOMYSPINALCORDBLOODSUPPLYTOTHESPINALCORD	
+ileal artery	ileal artery	UBERON:0005628	vasa recta of ileum	HTTPS:ENWIKIPEDIAORGWIKIVASA:RECTA_INTESTINES	
+jejunal branches	jejunal artery	UBERON:0018255	jejunal arcade	HTTPS:RADIOPAEDIAORGARTICLESJEJUNALANDILEALBRANCHESOFTHESUPERIORMESENTERICARTERY	
+jejunal branches	jejunal artery	UBERON:0018255	jejunal arcade	HTTPS:ENWIKIPEDIAORGWIKIVASA:RECTA_INTESTINES	
+jejunal arcade			vasa recta of jejunum	HTTPS:ENWIKIPEDIAORGWIKIVASA:RECTA_INTESTINES	
+mucous plexus of small intestine	Capillary plexus of mucosa of small intestine	FMA:264945	branch of mucous plexus of small intestine	HTTPS:ENWIKIPEDIAORGWIKIVASA:RECTA_INTESTINES	
+bronchial artery	bronchial artery	UBERON:0002040	bronchial arteriole	HTTPS:ENWIKIPEDIAORGWIKIBRONCHIAL:ARTERY	
+bronchial arteriole			bronchial capillary	HTTPS:ENWIKIPEDIAORGWIKIBRONCHIAL:ARTERY	
+posterior intercostal artery	Posterior intercostal artery	FMA:4176	segmental spinal artery #4	HTTPS:ANATOMYZONECOMNEUROANATOMYSPINALCORDBLOODSUPPLYTOTHESPINALCORD	
+deep palmar arch	Deep palmar arterial arch	FMA:22838	first palmar metacarpal artery	HTTPS:ENWIKIPEDIAORGWIKIPALMAR:METACARPAL_ARTERIES	
+deep palmar arch	Deep palmar arterial arch	FMA:22838	second palmar metacarpal artery	HTTPS:ENWIKIPEDIAORGWIKIPALMAR:METACARPAL_ARTERIES	
+deep palmar arch	Deep palmar arterial arch	FMA:22838	third palmar metacarpal artery	HTTPS:ENWIKIPEDIAORGWIKIPALMAR:METACARPAL_ARTERIES	
+fourth dorsal metacarpal artery	Fourth dorsal metacarpal artery	FMA:0323597	lateral dorsal digital artery of fifth digit of hand	HTTPS:WWWHANDTHECLINICSCOMARTICLES0749071219300873FULLTEXTSECSECTITLE0035	
+fourth dorsal metacarpal artery	Fourth dorsal metacarpal artery	FMA:0323597	medial dorsal digital artery of fourth digit of hand	HTTPS:WWWHANDTHECLINICSCOMARTICLES0749071219300873FULLTEXTSECSECTITLE0035	
+second dorsal metacarpal artery	Second dorsal metacarpal artery	FMA:0323595	lateral dorsal digital artery of third digit of hand	HTTPS:WWWHANDTHECLINICSCOMARTICLES0749071219300873FULLTEXTSECSECTITLE0035	
+second dorsal metacarpal artery	Second dorsal metacarpal artery	FMA:0323595	medial dorsal digital artery of second digit of hand	HTTPS:WWWHANDTHECLINICSCOMARTICLES0749071219300873FULLTEXTSECSECTITLE0035	
+third dorsal metacarpal artery	Third dorsal metacarpal artery	FMA:0323596	lateral dorsal digital artery of fourth digit of hand	HTTPS:WWWHANDTHECLINICSCOMARTICLES0749071219300873FULLTEXTSECSECTITLE0035	
+third dorsal metacarpal artery	Third dorsal metacarpal artery	FMA:0323596	medial dorsal digital artery of third digit of hand	HTTPS:WWWHANDTHECLINICSCOMARTICLES0749071219300873FULLTEXTSECSECTITLE0035	
+first dorsal metacarpal artery	First dorsal metacarpal artery	FMA:22761	dorsal digital artery of first digit of hand	HTTPS:WWWHANDTHECLINICSCOMARTICLES0749071219300873FULLTEXTSECSECTITLE0035	
+first dorsal metacarpal artery	First dorsal metacarpal artery	FMA:22761	lateral dorsal digital artery of second digit of hand	HTTPS:WWWHANDTHECLINICSCOMARTICLES0749071219300873FULLTEXTSECSECTITLE0035	
+palmar carpal branch of radial artery	Palmar carpal branch of radial artery	FMA:22750	palmar carpal arterial arch	HTTPS:ENWIKIPEDIAORGWIKIPALMAR:CARPAL_ARCH	
+princeps pollicis artery	Set of princeps pollicis artery	FMA:71534	lateral proper palmar digital artery of first digit of hand	HTTPS:WWWNCBINLMNIHGOVBOOKSNBK546657	
+princeps pollicis artery	Set of princeps pollicis artery	FMA:71534	medial proper palmar digital artery of first digit of hand	HTTPS:WWWNCBINLMNIHGOVBOOKSNBK546657	
+radialis indicis artery	Arteria radialis indicis	FMA:22763	lateral proper palmar digital artery of second digit of hand	HTTPS:RADIOPAEDIAORGARTICLESRADIALISINDICISARTERY	
+radialis indicis artery	Arteria radialis indicis	FMA:22763	lateral proper palmar digital artery of second digit of hand	HTTPS:ENWIKIPEDIAORGWIKIPROPER:PALMAR_DIGITAL_ARTERIES	
+lateral proper palmar digital artery of second digit of hand			dorsal branch of lateral proper palmar digital artery of second digit of hand	HTTPS:ENWIKIPEDIAORGWIKIPROPER:PALMAR_DIGITAL_ARTERIES	
+dorsal carpal branch of ulnar artery	Dorsal carpal branch of ulnar artery	FMA:22820	medial dorsal digital artery of fifth digit of hand	HTTPS:WWWHANDTHECLINICSCOMARTICLES0749071219300873FULLTEXTSECSECTITLE0035	
+lateral proper palmar digital artery of third digit of hand	Lateral proper palmar digital artery of middle finger	FMA:22857	dorsal branch of lateral proper palmar digital artery of third digit of hand	HTTPS:ENWIKIPEDIAORGWIKIPROPER:PALMAR_DIGITAL_ARTERIES	
+medial proper palmar digital artery of second digit of hand	Medial proper palmar digital artery of index finger	FMA:23047	dorsal branch of medial proper palmar digital artery of second digit of hand	HTTPS:ENWIKIPEDIAORGWIKIPROPER:PALMAR_DIGITAL_ARTERIES	
+medial proper palmar digital artery of fifth digit of hand	Fourth common palmar digital artery	FMA:85108	cutaneous branch of medial proper palmar digital artery of fifth digit of hand	HTTPS:ENWIKIPEDIAORGWIKIPROPER:PALMAR_DIGITAL_ARTERIES	
+cutaneous branch of medial proper palmar digital artery of fifth digit of hand			cutaneous arteriole	HTTPS:ENWIKIPEDIAORGWIKIPROPER:PALMAR_DIGITAL_ARTERIES	
+subpapillary plexus	Capillary network of skin	FMA:280962	branch of subpapillary plexus	HTTPS:ENWIKIPEDIAORGWIKIPROPER:PALMAR_DIGITAL_ARTERIES	
+medial proper palmar digital artery of fifth digit of hand	Fourth common palmar digital artery	FMA:85108	dorsal branch of medial proper palmar digital artery of fifth digit of hand	HTTPS:ENWIKIPEDIAORGWIKIPROPER:PALMAR_DIGITAL_ARTERIES	
+lateral proper palmar digital artery of fourth digit of hand	Lateral proper palmar digital artery of ring finger	FMA:85114	dorsal branch of lateral proper palmar digital artery of fourth digit of hand	HTTPS:ENWIKIPEDIAORGWIKIPROPER:PALMAR_DIGITAL_ARTERIES	
+medial proper palmar digital artery of third digit of hand	Medial proper palmar digital artery of middle finger	FMA:85111	dorsal branch of medial proper palmar digital artery of third digit of hand	HTTPS:ENWIKIPEDIAORGWIKIPROPER:PALMAR_DIGITAL_ARTERIES	
+lateral proper palmar digital artery of fifth digit of hand	Lateral proper palmar digital artery of little finger	FMA:23048	dorsal branch of lateral proper palmar digital artery of fifth digit of hand	HTTPS:ENWIKIPEDIAORGWIKIPROPER:PALMAR_DIGITAL_ARTERIES	
+medial proper palmar digital artery of fourth digit of hand	Medial proper palmar digital artery of ring finger	FMA:23046	dorsal branch of medial proper palmar digital artery of fourth digit of hand	HTTPS:ENWIKIPEDIAORGWIKIPROPER:PALMAR_DIGITAL_ARTERIES	
+deep cervical artery	deep cervical artery	UBERON:0012321	segmental spinal artery #2	HTTPS:ANATOMYZONECOMNEUROANATOMYSPINALCORDBLOODSUPPLYTOTHESPINALCORD	
+thymic artery	thymic artery	UBERON:0018243	thymic arteriole	HTTPS:ENWIKIPEDIAORGWIKITHYMIC:BRANCHES_OF_INTERNAL_THORACIC_ARTERY	
+ascending cervical artery	ascending cervical artery	UBERON:0012322	segmental spinal artery	HTTPS:WWWKENHUBCOMENLIBRARYANATOMYBLOODSUPPLYOFTHESPINALCORD	
+ascending cervical artery	ascending cervical artery	UBERON:0012322	segmental spinal artery	HTTPS:ANATOMYZONECOMNEUROANATOMYSPINALCORDBLOODSUPPLYTOTHESPINALCORD	
+segmental spinal artery			anterior segmental medullary artery	HTTPS:ANATOMYZONECOMNEUROANATOMYSPINALCORDBLOODSUPPLYTOTHESPINALCORD	
+ascending cervical artery	ascending cervical artery	UBERON:0012322	segmental spinal artery	HTTPS:ENWIKIPEDIAORGWIKIARTERY:OF_ADAMKIEWICZ	
+segmental spinal artery			posterior segmental medullary artery	HTTPS:ANATOMYZONECOMNEUROANATOMYSPINALCORDBLOODSUPPLYTOTHESPINALCORD	
+anterior spinal artery	anterior spinal artery	UBERON:0005431	sulcal artery	HTTPS:RADIOPAEDIAORGARTICLESSULCALARTERYLANGUS	
+common cochlear artery	Common cochlear artery	FMA:52242	main cochlear artery	HTTPS:WWWVESTIBCOMARTERIALSUPPLYHTML	
+common cochlear artery	Common cochlear artery	FMA:52242	posterior vestibular artery	HTTPS:WWWVESTIBCOMARTERIALSUPPLYHTML	
+vertebral artery	vertebral artery	UBERON:0001535	segmental spinal artery #5	HTTPS:ANATOMYZONECOMNEUROANATOMYSPINALCORDBLOODSUPPLYTOTHESPINALCORD	
+posterior descending artery	Posterior interventricular branch of right coronary artery	FMA:3840	septal perforating artery #2	HTTPS:DOIORG101067MTC2001113604	
+great saphenous vein	great saphenous vein	UBERON:0001363	anterior accessory saphenous vein	HTTPS:ENWIKIPEDIAORGWIKIANTERIOR:ACCESSORY_SAPHENOUS_VEIN	
+great saphenous vein	great saphenous vein	UBERON:0001363	posterior accessory saphenous vein	HTTPS:ENWIKIPEDIAORGWIKIGREAT:SAPHENOUS_VEIN	
+posterior tibial vein	posterior tibial vein	UBERON:0001546	lateral plantar vein	HTTPS:ENWIKIPEDIAORGWIKIPOSTERIOR:TIBIAL_VEIN	
+posterior tibial vein	posterior tibial vein	UBERON:0001546	lateral plantar vein	HTTPS:ENWIKIPEDIAORGWIKIPLANTAR:VENOUS_ARCH	
+posterior tibial vein	posterior tibial vein	UBERON:0001546	lateral plantar vein	HTTPS:ENWIKIPEDIAORGWIKIPLANTAR:METATARSAL_VEINS	
+posterior tibial vein	posterior tibial vein	UBERON:0001546	lateral plantar vein	HTTPS:ENWIKIPEDIAORGWIKIPLANTAR:DIGITAL_VEINS	
+internal pudendal vein	internal pudendal vein	UBERON:0018252	bulbar vein	HTTPS:DOIORG1012659MSM883201	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:DOIORG101007S1256501800475X	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKICENTRAL:VEINS_OF_LIVER	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKILIVER:SINUSOID	
+anterior inferior segmental hepatic portal vein	Anterior inferior segmental branch of right portal vein	FMA:15421	right anterior hepatic portal vein	HTTPS:DOIORG101007S1256501800475X	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKIPORTAL:VEIN	
+anterior inferior segmental hepatic portal vein	Anterior inferior segmental branch of right portal vein	FMA:15421	right anterior hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKIPORTAL:VEIN	
+anterior superior segmental hepatic portal vein	Anterior superior segmental branch of right portal vein	FMA:15420	right anterior hepatic portal vein #2	HTTPS:DOIORG101007S1256501800475X	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:DOIORG101007S1256501800475X	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKIPORTAL:VEIN	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKICYSTIC:VEIN	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKICYSTIC:VEIN	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:DOIORG102484RCRV5I3394	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:DOIORG102484RCRV5I3394	
+hepatic portal vein	hepatic portal vein	UBERON:0001639	inferior vein of Sappey	HTTPS:DOIORG102484RCRV5I3394	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKILEFT:GASTRIC_VEIN	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKILEFT:GASTRIC_VEIN	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:RADIOPAEDIAORGARTICLESPANCREATICODUODENALVEINS	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:RADIOPAEDIAORGARTICLESPANCREATICODUODENALVEINS	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKIRIGHT:GASTRIC_VEIN	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKIRIGHT:GASTRIC_VEIN	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:EPOMEDICINECOMMEDICALSTUDENTSSURGICALANATOMYSTOMACH	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:EPOMEDICINECOMMEDICALSTUDENTSSURGICALANATOMYSTOMACH	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKISPLENIC:VEIN	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKISPLENIC:VEIN	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKIINFERIOR:MESENTERIC_VEIN	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKIINFERIOR:MESENTERIC_VEIN	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKILEFT:COLIC_VEIN	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKILEFT:COLIC_VEIN	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:DOIORG101111J14697580200901199X	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:DOIORG101111J14697580200901199X	
+left colic vein	left colic vein	UBERON:8410017	vena recta of large intestine #2	HTTPS:DOIORG101111J14697580200901199X	
+inferior mesenteric vein	inferior mesenteric vein	UBERON:0001215	rectosigmoid vein	HTTPS:ENWIKIPEDIAORGWIKIINFERIOR:MESENTERIC_VEIN	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKISUPERIOR:RECTAL_VEIN	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKISUPERIOR:RECTAL_VEIN	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKILEFT:GASTROEPIPLOIC_VEIN	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKILEFT:GASTROEPIPLOIC_VEIN	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+pancreatic vein	Set of pancreatic veins	FMA:70929	interlobular vein of pancreas	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+interlobular vein of pancreas			lobular vein of pancreas	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:WWWNCBINLMNIHGOVPMCARTICLESPMC6880211	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:WWWNCBINLMNIHGOVPMCARTICLESPMC6880211	
+pancreatic vein	Set of pancreatic veins	FMA:70929	interlobular vein of pancreas	HTTPS:WWWNCBINLMNIHGOVPMCARTICLESPMC6880211	
+interlobular vein of pancreas			lobular vein of pancreas	HTTPS:WWWNCBINLMNIHGOVPMCARTICLESPMC6880211	
+lobular vein of pancreas			intralobular venule of pancreas	HTTPS:WWWNCBINLMNIHGOVPMCARTICLESPMC6880211	
+lobular vein of pancreas			periductal branch of lobular vein of pancreas	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+interlobular vein of pancreas			periductal branch of interlobular vein of pancreas	HTTPS:WWWFLANDERSHEALTHUSCHRONICPANCREATITISMICROCIRCULATIONOFTHEPANCREASHTML	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKITRABECULAR:VEINS	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKITRABECULAR:VEINS	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein		
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein		
+spleen trabecular vein	spleen trabecular vein	UBERON:0010400	red pulp venule of spleen		
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKISUPERIOR:MESENTERIC_VEIN	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKISUPERIOR:MESENTERIC_VEIN	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKIILEAL:VEINS	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKIILEAL:VEINS	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKIILEOCOLIC:VEIN	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKIILEOCOLIC:VEIN	
+ileocolic vein	ileocolic vein	UBERON:0001219	vena recta of large intestine	HTTPS:DOIORG101111J14697580200901199X	
+vena recta of large intestine			submucosal vein of colon	HTTPS:DOIORG101111J14697580200901199X	
+submucosal vein of colon			submucosal venule of colon	HTTPS:DOIORG101111J14697580200901199X	
+submucosal venule of colon			mucosal venule of colon	HTTPS:DOIORG101111J14697580200901199X	
+vena recta of large intestine			subserous vein of colon	HTTPS:DOIORG101111J14697580200901199X	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKIJEJUNAL:VEINS	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKIJEJUNAL:VEINS	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKIMIDDLE:COLIC_VEIN	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKIMIDDLE:COLIC_VEIN	
+middle colic vein	middle colic vein	UBERON:0001218	vena recta of large intestine #3	HTTPS:DOIORG101111J14697580200901199X	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKIRIGHT:COLIC_VEIN	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKIRIGHT:COLIC_VEIN	
+right colic vein	right colic vein	UBERON:8410018	vena recta of large intestine #4	HTTPS:DOIORG101111J14697580200901199X	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:ENWIKIPEDIAORGWIKIRIGHT:GASTROEPIPLOIC_VEIN	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:ENWIKIPEDIAORGWIKIRIGHT:GASTROEPIPLOIC_VEIN	
+hepatic portal vein	hepatic portal vein	UBERON:0001639	superior vein of Sappey	HTTPS:DOIORG102484RCRV5I3394	
+left hepatic vein	left hepatic vein	UBERON:0011955	segmental hepatic vein	HTTPS:MEDICALDICTIONARYTHEFREEDICTIONARYCOMBUROWVEIN	
+lateral inferior segmental hepatic portal vein	Lateral inferior segmental branch of left portal vein	FMA:15432	left lateral hepatic portal vein	HTTPS:MEDICALDICTIONARYTHEFREEDICTIONARYCOMBUROWVEIN	
+hepatic portal vein	hepatic portal vein	UBERON:0001639	vein of Burow	HTTPS:MEDICALDICTIONARYTHEFREEDICTIONARYCOMBUROWVEIN	
+lateral superior segmental hepatic portal vein	Lateral superior segmental branch of left portal vein	FMA:15431	left lateral hepatic portal vein #2	HTTPS:DOIORG101007S1256501800475X	
+medial inferior segmental hepatic portal vein	Medial inferior segmental branch of left portal vein	FMA:15429	left medial hepatic portal vein	HTTPS:DOIORG101007S1256501800475X	
+medial superior segmental hepatic portal vein	Medial superior segmental branch of left portal vein	FMA:15428	left medial hepatic portal vein #2	HTTPS:DOIORG101007S1256501800475X	
+posterior inferior segmental hepatic portal vein	Posterior inferior segmental branch of right portal vein	FMA:15424	right posterior hepatic portal vein	HTTPS:DOIORG101007S1256501800475X	
+posterior superior segmental hepatic portal vein	Posterior superior segmental branch of right portal vein	FMA:15423	right posterior hepatic portal vein #2	HTTPS:DOIORG101007S1256501800475X	
+intervertebral vein	intervertebral vein	UBERON:8600104	anterior radicular vein	HTTPS:ENWIKIPEDIAORGWIKIANTERIOR:SPINAL_VEINS	
+anterior spinal vein	Set of anterior spinal veins	FMA:70892	intramedullary radial vein	HTTPS:ENWIKIPEDIAORGWIKIANTERIOR:SPINAL_VEINS	
+intervertebral vein	intervertebral vein	UBERON:8600104	posterior radicular vein	HTTPS:ENWIKIPEDIAORGWIKIANTERIOR:SPINAL_VEINS	
+posterior spinal vein	Set of posterior spinal veins	FMA:70893	intramedullary radial vein #2	HTTPS:ENWIKIPEDIAORGWIKIANTERIOR:SPINAL_VEINS	
+intervertebral vein	intervertebral vein	UBERON:8600104	posterior radicular vein	HTTPS:WWWWIKIWANDCOMENANTERIOR:SPINAL_VEINS	
+posterior radicular vein			posterolateral spinal vein	HTTPS:WWWWIKIWANDCOMENANTERIOR:SPINAL_VEINS	
+posterior radicular vein			posterolateral spinal vein	HTTPS:ENWIKIPEDIAORGWIKIANTERIOR:SPINAL_VEINS	
+posterolateral spinal vein			intramedullary radial vein #3	HTTPS:ENWIKIPEDIAORGWIKIANTERIOR:SPINAL_VEINS	
+renal vein	renal vein	UBERON:0001140	segmental renal vein	HTTPS:ENWIKIPEDIAORGWIKIINTERLOBAR:VEINS	
+renal vein	renal vein	UBERON:0001140	segmental renal vein	HTTPS:ENWIKIPEDIAORGWIKIARCUATE:VEIN	
+renal vein	renal vein	UBERON:0001140	segmental renal vein	HTTPS:ENWIKIPEDIAORGWIKIINTERLOBULAR:VEINS	
+renal vein	renal vein	UBERON:0001140	segmental renal vein	HTTPS:ENWIKIPEDIAORGWIKISTELLATE:VEINS	
+renal vein	renal vein	UBERON:0001140	segmental renal vein	HTTPS:DOIORG101152AJPRENAL000712010	
+right testicular vein	right testicular vein	UBERON:0000442	vein of ductus deferens	HTTPS:WWWKENHUBCOMENLIBRARYANATOMYVASDEFERENS	
+internal jugular vein	internal jugular vein	UBERON:0001586	common facial vein	HTTPS:ENWIKIPEDIAORGWIKICOMMON:FACIAL_VEIN	
+internal jugular vein	internal jugular vein	UBERON:0001586	common facial vein	HTTPS:WWWKENHUBCOMENLIBRARYANATOMYRETROMANDIBULARVEIN	
+common facial vein			anterior branch of retromandibular vein	HTTPS:WWWKENHUBCOMENLIBRARYANATOMYRETROMANDIBULARVEIN	
+internal jugular vein	internal jugular vein	UBERON:0001586	common facial vein	HTTPS:ENWIKIPEDIAORGWIKIRETROMANDIBULAR:VEIN	
+common facial vein			anterior branch of retromandibular vein	HTTPS:ENWIKIPEDIAORGWIKIRETROMANDIBULAR:VEIN	
+internal jugular vein	internal jugular vein	UBERON:0001586	common facial vein	HTTPS:ENWIKIPEDIAORGWIKIMAXILLARY:VEINS	
+common facial vein			anterior branch of retromandibular vein	HTTPS:ENWIKIPEDIAORGWIKIMAXILLARY:VEINS	
+internal jugular vein	internal jugular vein	UBERON:0001586	common facial vein	HTTPS:ENWIKIPEDIAORGWIKIPTERYGOID:PLEXUS	
+common facial vein			anterior branch of retromandibular vein	HTTPS:ENWIKIPEDIAORGWIKIPTERYGOID:PLEXUS	
+internal jugular vein	internal jugular vein	UBERON:0001586	common facial vein	HTTPS:WWWHEALTHLINECOMHUMANBODYMAPSDEEPTEMPORALVEINS1	
+common facial vein			anterior branch of retromandibular vein	HTTPS:WWWHEALTHLINECOMHUMANBODYMAPSDEEPTEMPORALVEINS1	
+internal jugular vein	internal jugular vein	UBERON:0001586	common facial vein	HTTPS:ENWIKIPEDIAORGWIKIINFRAORBITAL:VEIN	
+common facial vein			anterior branch of retromandibular vein	HTTPS:ENWIKIPEDIAORGWIKIINFRAORBITAL:VEIN	
+pterygoid venous plexus	pterygoid plexus	UBERON:0014685	infraorbital vein	HTTPS:ENWIKIPEDIAORGWIKIINFRAORBITAL:VEIN	
+internal jugular vein	internal jugular vein	UBERON:0001586	common facial vein	HTTP:PURLOBOLIBRARYORGOBOUBERON:0001658	
+common facial vein			anterior branch of retromandibular vein	HTTP:PURLOBOLIBRARYORGOBOUBERON:0001658	
+internal jugular vein	internal jugular vein	UBERON:0001586	common facial vein	HTTPS:ENWIKIPEDIAORGWIKISUPERFICIAL:TEMPORAL_VEIN	
+common facial vein			anterior branch of retromandibular vein	HTTPS:ENWIKIPEDIAORGWIKISUPERFICIAL:TEMPORAL_VEIN	
+internal jugular vein	internal jugular vein	UBERON:0001586	common facial vein	HTTPS:MEDICALDICTIONARYTHEFREEDICTIONARYCOMTRANSVERSEFACIALVEIN	
+common facial vein			anterior branch of retromandibular vein	HTTPS:MEDICALDICTIONARYTHEFREEDICTIONARYCOMTRANSVERSEFACIALVEIN	
+internal jugular vein	internal jugular vein	UBERON:0001586	common facial vein	HTTP:PURLOBOLIBRARYORGOBOUBERON:0001659	
+common facial vein			anterior branch of retromandibular vein	HTTP:PURLOBOLIBRARYORGOBOUBERON:0001659	
+superficial middle cerebral vein	superficial middle cerebral vein	UBERON:0035231	sphenopalatine sinus	HTTPS:TEACHMEANATOMYINFONEUROANATOMYVESSELSVENOUSDRAINAGE	
+basal vein	basal vein	UBERON:0035530	inferior striate vein	HTTPS:WWWKENHUBCOMENLIBRARYANATOMYVEINSOFTHEBRAIN	
+superficial palmar venous arch	Superficial palmar venous arch	FMA:22914	medial proper palmar digital vein of fifth digit of hand	HTTPS:ENWIKIPEDIAORGWIKISUPERFICIAL:PALMAR_VENOUS_ARCH	
+medial proper palmar digital vein of fifth digit of hand			cutaneous branch of medial proper palmar digital vein of fifth digit of hand	HTTPS:ENWIKIPEDIAORGWIKISUPERFICIAL:PALMAR_VENOUS_ARCH	
+cutaneous branch of medial proper palmar digital vein of fifth digit of hand			cutaneous venule	HTTPS:ENWIKIPEDIAORGWIKISUPERFICIAL:PALMAR_VENOUS_ARCH	
+anterior jugular vein	anterior jugular vein	UBERON:0001104	small thyroid vein	HTTPS:ENWIKIPEDIAORGWIKIANTERIOR:JUGULAR_VEIN	
+anterior jugular vein	anterior jugular vein	UBERON:0001104	superficial submandibular vein	HTTPS:WWWKENHUBCOMENLIBRARYANATOMYANTERIORJUGULARVEIN	
+external jugular vein	external jugular vein	UBERON:0001101	posterior branch of retromandibular vein	HTTPS:ENWIKIPEDIAORGWIKIRETROMANDIBULAR:VEIN	
+thymic vein	thymic vein	UBERON:0001591	thymic venule	HTTPS:ENWIKIPEDIAORGWIKITHYMIC:VEINS	
+left pulmonary artery	left pulmonary artery	UBERON:0001652	apicoanterior trunk of left pulmonary artery	HTTPS:DOIORG1021037CDT20180104	
+left interlobar pulmonary artery	Interlobar portion of left pulmonary artery	FMA:9284	lingular artery of left lung	HTTPS:DOIORG1021037CDT20180104	
+intra-acinar arteriole	intra-acinar arteriole	UBERON:8600094	pre-alveolar capillary	HTTPS:DOIORG101152JAPPLPHYSIOL011772009	
+pre-alveolar capillary			alveolar capillary	HTTPS:DOIORG101152JAPPLPHYSIOL011772009	
+truncus anterior of right pulmonary artery	Trunk of right upper lobar artery	FMA:8616	high truncus anterior of right pulmonary artery	HTTPS:DOIORG1021037CDT20180104	
