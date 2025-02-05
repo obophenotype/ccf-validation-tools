@@ -1,0 +1,36 @@
+Upper AS	Upper AS/label	Upper AS/ID	AS Name	References/ID	References/DOI
+duodenal ampulla	duodenal ampulla	UBERON:0013644	serosa		
+submucosa	submucosa of duodenum	UBERON:0003332	nerves		
+submucosa	submucosa of duodenum	UBERON:0003332	endoethlial		
+submucosa	submucosa of duodenum	UBERON:0003332	lymphatic		
+descending duodenum	descending part of duodenum	FMA:14928	mucosa		
+descending duodenum	descending part of duodenum	FMA:14928	submucosa		
+descending duodenum	descending part of duodenum	FMA:14928	muscularis propria		
+descending duodenum	descending part of duodenum	FMA:14928	serosa		
+inferior duodenum	horizontal part of duodenum	FMA:14929	mucosa		
+inferior duodenum	horizontal part of duodenum	FMA:14929	submucosa		
+inferior duodenum	horizontal part of duodenum	FMA:14929	muscularis propria		
+inferior duodenum	horizontal part of duodenum	FMA:14929	serosa		
+ascending duodenum	ascending part of duodenum	FMA:14930	mucosa		
+ascending duodenum	ascending part of duodenum	FMA:14930	submucosa		
+ascending duodenum	ascending part of duodenum	FMA:14930	serosa		
+mucosa	jejunal mucosa	UBERON:0000399	Lamina propria/Gut associated lymphoid tissue (GALT)		
+muscularis externa	muscle layer of jejunum	UBERON:0012377	myenteric plexus of Auerbach		
+serosa	serosa of jejunum	UBERON:0003337	connective tissue		
+mucosa	ileal mucosa	UBERON:0000331	Lamina propria/Gut associated lymphoid tissue (GALT)		
+mucosa	ileal mucosa	UBERON:0000331	muscularis mucosa		
+submucosa	submucosa of ileum	UBERON:0004946	submucosa		
+submucosa	submucosa of ileum	UBERON:0004946	submucosal plexus of Meissner		
+ileum	ileum	UBERON:0002116	muscularis externa		
+muscularis externa			circular/longitudinal muscle		
+muscularis externa			myenteric plexus of Auerbach		
+ileum	ileum	UBERON:0002116	serosa		
+serosa			connective tissue		
+terminal ileum	distal part of ileum	FMA:14966	mucosa		
+mucosa			Epithelium		
+mucosa			Lamina propria/Gut associated lymphoid tissue (GALT)		
+mucosa			muscularis mucosa		
+terminal ileum	distal part of ileum	FMA:14966	submucosa		
+submucosa			submucosal plexus of Meissner		
+terminal ileum	distal part of ileum	FMA:14966	muscularis externa		
+terminal ileum	distal part of ileum	FMA:14966	serosa		

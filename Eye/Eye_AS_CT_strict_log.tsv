@@ -1,0 +1,34 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000036	epithelial fate stem cell	epithelial fate stem cell	UBERON:0000482	basal lamina of epithelium	basal epithelium	28
+CL:0000066	epithelial cell	epithelial cell	UBERON:0002506	iris epithelium	iris epithelium	26
+CL:0000125	glial cell	glial cell	UBERON:0018107	foveola of retina	foveola of retina	75
+CL:0000125	glial cell	glial cell	UBERON:0000941	cranial nerve II	optic nerve	20
+CL:0000125	glial cell	glial cell	UBERON:0035966	scleral lamina cribrosa	scleral lamina cribrosa	21
+CL:0000129	microglial cell	microglial cell	UBERON:0000966	retina	retina	68
+CL:0000561	Amacrine Cell	Amacrine cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	48
+CL:0000561	Amacrine Cell	Amacrine cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	47
+CL:0000561	Amacrine Cell	Amacrine cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	46
+CL:0000561	Amacrine Cell	Amacrine cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	45
+CL:0000561	Amacrine Cell	Amacrine cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	43
+CL:0000561	Amacrine Cell	Amacrine cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	42
+CL:0000561	Amacrine Cell	Amacrine Cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	41
+CL:0000561	Amacrine Cell	Amacrine cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	44
+CL:0000573	retinal cone cell	retinal cone cell	UBERON:0001789	outer nuclear layer of retina	outer nuclear layer	62
+CL:0000604	retinal rod cell	retinal rod cell	UBERON:0001789	outer nuclear layer of retina	outer nuclear layer	71
+CL:0000636	Mueller cell	Muller glia	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	69
+CL:0000669	pericyte	Pericyte	UBERON:0004864	vasculature of retina	vasculature	70
+CL:0000740	retinal ganglion cell	Ganglion cell	UBERON:0001792	ganglionic layer of retina	retinal ganglion cell layer	74
+CL:0000740	retinal ganglion cell	Ganglion cell	UBERON:0001792	ganglionic layer of retina	retinal ganglion cell layer	66
+CL:0000745	retina horizontal cell	Horizontal Cell	UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	67
+CL:0002225	secondary lens fiber	mature fiber cell	UBERON:0000390	lens nucleus	Fetal nucleus	34
+CL:0002228	primary lens fiber	primary lens fiber	UBERON:0002444	lens fiber	lens Fibers	29
+CL:0002363	keratocyte	keratocyte	UBERON:0003952	anterior stroma of cornea	anterior stroma of cornea	17
+CL:0002585	retinal blood vessel endothelial cell	Endothelial Cell	UBERON:0004864	vasculature of retina	vasculature	63
+CL:0011004	lens fiber cell	lens fiber cell	UBERON:0000389	lens cortex	cortex	37
+CL:0011004	lens fiber cell	lens fiber cell	UBERON:0002444	lens Fiber	lens Fiber	38
+CL:0011004	lens fiber cell	lens fiber cell	UBERON:0002444	lens fiber	lens Fibers	31
+CL:0011004	lens fiber cell	lens fiber cell	UBERON:0000390	lens nucleus	Adult nucleus	35
+CL:0011004	lens fiber cell	lens fiber cell	UBERON:0000389	lens cortex	cortex	36
+CL:0017004	telocyte	telocyte	UBERON:0003952	anterior stroma of cornea	anterior stroma of cornea	18
+CL:4023188	Midget ganglion cell of retina	Midget cell	UBERON:0001792	ganglionic layer of retina	retinal ganglion cell layer	64
+CL:4023189	Parasol ganglion cell of retina	Parasol cell	UBERON:0001792	ganglionic layer of retina	retinal ganglion cell layer	65

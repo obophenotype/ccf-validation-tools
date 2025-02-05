@@ -1,0 +1,180 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+CL:0000236	B cell	B cell	UBERON:0002337	endometrial stroma	endometrial stroma	33	30.611325426567014
+CL:0000236	B cell	B cell	UBERON:0002337	endometrial stroma	endometrial stroma	111	30.611325426567014
+CL:0000236	B cell	B cell	UBERON:0002337	endometrial stroma	endometrial stroma	61	30.611325426567014
+UBERON:0001295	endometrium	endometrium	UBERON:8600020	placental septum	septum	105	30.587620803624162
+UBERON:0001295	endometrium	endometrium	UBERON:8600020	placental septum	septum	106	30.587620803624162
+UBERON:0001295	endometrium	endometrium	UBERON:8600020	placental septum	septum	107	30.587620803624162
+UBERON:0001295	endometrium	endometrium	UBERON:8600020	placental septum	septum	108	30.587620803624162
+UBERON:0001295	endometrium	endometrium	UBERON:8600020	placental septum	septum	109	30.587620803624162
+UBERON:0001295	endometrium	endometrium	UBERON:8600020	placental septum	septum	114	30.587620803624162
+UBERON:0001295	endometrium	endometrium	UBERON:8600020	placental septum	septum	110	30.587620803624162
+UBERON:0001295	endometrium	endometrium	UBERON:8600020	placental septum	septum	111	30.587620803624162
+UBERON:0001295	endometrium	endometrium	UBERON:8600020	placental septum	septum	112	30.587620803624162
+UBERON:0001295	endometrium	endometrium	UBERON:8600020	placental septum	septum	113	30.587620803624162
+CL:0000669	pericyte	pericyte	UBERON:8600021	chorionic plate blood vessel	chorionic plate vessel	50	29.921809127834337
+CL:0000669	pericyte	pericyte	UBERON:8600041	chorionic terminal villous capillary	villous capillary	104	29.921809127834337
+CL:0000669	pericyte	pericyte	UBERON:8600040	chorionic stem villous blood vessel	stem villous vessel	71	29.921809127834337
+CL:0000669	pericyte	pericyte	UBERON:8600041	chorionic terminal villous capillary	villous capillary	79	29.921809127834337
+CL:0000669	pericyte	pericyte	UBERON:8600040	chorionic stem villous blood vessel	stem villous vessel	89	29.921809127834337
+CL:0000669	pericyte	pericyte	UBERON:8600041	chorionic terminal villous capillary	villous capillary	97	29.921809127834337
+CL:0000669	pericyte	pericyte	UBERON:8600021	chorionic plate blood vessel	chorionic plate vessel	53	29.921809127834337
+CL:0000071	blood vessel endothelial cell	vascular endothelial cell	UBERON:0004027	chorionic plate	chorionic plate	46	26.15934083211736
+UBERON:0001295	endometrium	endometrium	UBERON:8600019	placental basal plate	basal plate	64	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:8600019	placental basal plate	basal plate	63	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:8600019	placental basal plate	basal plate	62	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:8600019	placental basal plate	basal plate	61	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:8600019	placental basal plate	basal plate	60	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:8600019	placental basal plate	basal plate	59	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:8600019	placental basal plate	basal plate	58	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:8600019	placental basal plate	basal plate	57	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:8600019	placental basal plate	basal plate	56	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:8600019	placental basal plate	basal plate	55	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:0005630	fetal membrane	fetal membranes	33	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:0005630	fetal membrane	fetal membranes	27	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:0005630	fetal membrane	fetal membranes	28	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:0005630	fetal membrane	fetal membranes	29	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:0005630	fetal membrane	fetal membranes	30	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:0005630	fetal membrane	fetal membranes	31	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:0005630	fetal membrane	fetal membranes	32	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:0005630	fetal membrane	fetal membranes	36	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:0005630	fetal membrane	fetal membranes	35	26.022603865883525
+UBERON:0001295	endometrium	endometrium	UBERON:0005630	fetal membrane	fetal membranes	34	26.022603865883525
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:8600021	chorionic plate blood vessel	chorionic plate vessel	54	25.21515388606005
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:8600040	chorionic stem villous blood vessel	stem villous vessel	90	25.21515388606005
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:8600021	chorionic plate blood vessel	chorionic plate vessel	51	25.21515388606005
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:8600040	chorionic stem villous blood vessel	stem villous vessel	72	25.21515388606005
+UBERON:0003124	chorion membrane	chorion	UBERON:0005630	fetal membrane	fetal membranes	24	24.922397809516013
+UBERON:0003124	chorion membrane	chorion	UBERON:0005630	fetal membrane	fetal membranes	25	24.922397809516013
+UBERON:0003124	chorion membrane	chorion	UBERON:0005630	fetal membrane	fetal membranes	26	24.922397809516013
+UBERON:0003124	chorion membrane	chorion	UBERON:0005630	fetal membrane	fetal membranes	51	24.922397809516013
+UBERON:0003124	chorion membrane	chorion	UBERON:0005630	fetal membrane	fetal membranes	50	24.922397809516013
+UBERON:0003124	chorion membrane	chorion	UBERON:0005630	fetal membrane	fetal membranes	49	24.922397809516013
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	UBERON:8600042	endometrial lymphatic vessel	endometrial lymphatic vessel	64	23.224354040433894
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	UBERON:8600042	endometrial lymphatic vessel	endometrial lymphatic vessel	36	23.224354040433894
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	UBERON:8600042	endometrial lymphatic vessel	endometrial lymphatic vessel	114	23.224354040433894
+CL:0000669	pericyte	pericyte	UBERON:0022358	placenta blood vessel	placental blood vessel	86	15.451047804882677
+UBERON:0000305	amnion	amnion	UBERON:0005630	fetal membrane	fetal membranes	38	13.695050813221897
+UBERON:0000305	amnion	amnion	UBERON:0005630	fetal membrane	fetal membranes	37	13.695050813221897
+CL:0000815	regulatory T cell	regulatory T cell	UBERON:0002337	endometrial stroma	endometrial stroma	109	12.453003079890138
+CL:0000815	regulatory T cell	regulatory T cell	UBERON:0002337	endometrial stroma	endometrial stroma	59	12.453003079890138
+CL:0000815	regulatory T cell	regulatory T cell	UBERON:0002337	endometrial stroma	endometrial stroma	31	12.453003079890138
+CL:0000669	pericyte	pericyte	UBERON:0001310	umbilical artery	umbilical arteries	16	12.08678738498186
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0022358	placenta blood vessel	placental blood vessel	87	10.744392563108391
+CL:0000525	syncytiotrophoblast cell	syncytiotrophoblast	UBERON:8600031	chorionic mature intermediate villus	mature intermediate villus	92	10.59964108137666
+CL:0000669	pericyte	pericyte	UBERON:0002066	umbilical vein	umbilical vein	13	10.529948078669904
+CL:0008036	extravillous trophoblast	extravillous trophoblast	UBERON:8600031	chorionic mature intermediate villus	mature intermediate villus	93	9.130033875481274
+CL:0008036	extravillous trophoblast	extravillous trophoblast	UBERON:8600020	placental septum	septum	48	9.130033875481274
+CL:0000525	syncytiotrophoblast cell	syncytiotrophoblast	UBERON:8600030	chorionic terminal villus	terminal villus	99	6.034624143636023
+UBERON:0022358	placenta blood vessel	placental blood vessel	UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	87	5.340727447470385
+UBERON:0022358	placenta blood vessel	placental blood vessel	UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	86	5.340727447470385
+UBERON:0022358	placenta blood vessel	placental blood vessel	UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	85	5.340727447470385
+CL:0008036	extravillous trophoblast	extravillous trophoblast	UBERON:8600030	chorionic terminal villus	terminal villus	100	4.565016937740637
+CL:0000910	cytotoxic T cell	cytotoxic T cell	UBERON:0002337	endometrial stroma	endometrial stroma	110	2.0973131208128564
+CL:0000910	cytotoxic T cell	cytotoxic T cell	UBERON:0002337	endometrial stroma	endometrial stroma	32	2.0973131208128564
+CL:0000910	cytotoxic T cell	cytotoxic T cell	UBERON:0002337	endometrial stroma	endometrial stroma	60	2.0973131208128564
+CL:0000525	syncytiotrophoblast cell	syncytiotrophoblast	UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	81	1.469607205895386
+CL:0002343	decidual natural killer cell, human	uterine NK cell	UBERON:0002337	endometrial stroma	endometrial stroma	107	0.7757105097297625
+CL:0002343	decidual natural killer cell, human	uterine NK cell	UBERON:0002337	endometrial stroma	endometrial stroma	57	0.7757105097297625
+CL:0002343	decidual natural killer cell, human	uterine NK cell	UBERON:0002337	endometrial stroma	endometrial stroma	29	0.7757105097297625
+CL:4033062	interstitial extravillous trophoblast cell	interstitial extravillous trophoblast	UBERON:8600019	placental basal plate	basal plate	19	
+UBERON:0000305	amnion	amnion	UBERON:0002331	umbilical cord	umbilical cord	20	
+CL:0002536	epithelial cell of amnion	amnion epithelial cell	UBERON:0003254	amniotic ectoderm	amniotic ectoderm	20	
+UBERON:0000305	amnion	amnion	UBERON:0002331	umbilical cord	umbilical cord	21	
+CL:2000061	placental amniotic mesenchymal stromal cell	amnion mesenchymal stromal cell	UBERON:0003262	amniotic mesoderm	amniotic mesoderm	21	
+UBERON:0003254	amniotic ectoderm	amniotic ectoderm	UBERON:0004027	chorionic plate	chorionic plate	22	
+CL:0002536	epithelial cell of amnion	amnion epithelial cell	UBERON:0003254	amniotic ectoderm	amniotic ectoderm	22	
+UBERON:0003262	amniotic mesoderm	amniotic mesoderm	UBERON:0004027	chorionic plate	chorionic plate	23	
+CL:2000061	placental amniotic mesenchymal stromal cell	amnion mesenchymal stromal cell	UBERON:0003262	amniotic mesoderm	amniotic mesoderm	23	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	24	
+CL:0002558	fibroblast of villous mesenchyme	placental stromal cell	UBERON:0003124	chorion membrane	chorion	24	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	25	
+CL:0000523	mononuclear cytotrophoblast cell	cytotrophoblast	UBERON:0003124	chorion membrane	chorion	25	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	26	
+CL:0008036	extravillous trophoblast	extravillous trophoblast	UBERON:0003124	chorion membrane	chorion	26	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	27	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	28	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	29	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	30	
+CL:4033064	uterine resident macrophage	uterine macrophage	UBERON:0002337	endometrial stroma	endometrial stroma	30	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	31	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	32	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	33	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	34	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	35	
+CL:4033063	endovascular extravillous trophoblast cell	endovascular extravillous trophoblast	UBERON:0015172	endometrial blood vessel	endometrial blood vessel	35	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	36	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	37	
+CL:0002536	epithelial cell of amnion	amnion epithelial cell	UBERON:0003254	amniotic ectoderm	amniotic ectoderm	37	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	38	
+CL:2000061	placental amniotic mesenchymal stromal cell	amnion mesenchymal stromal cell	UBERON:0003262	amniotic mesoderm	amniotic mesoderm	38	
+CL:0002558	fibroblast of villous mesenchyme	placental stromal cell	UBERON:0004027	chorionic plate	chorionic plate	39	
+CL:0000523	mononuclear cytotrophoblast cell	cytotrophoblast	UBERON:0004027	chorionic plate	chorionic plate	40	
+CL:0000525	syncytiotrophoblast cell	syncytiotrophoblast	UBERON:0004027	chorionic plate	chorionic plate	41	
+CL:0008036	extravillous trophoblast	extravillous trophoblast	UBERON:0004027	chorionic plate	chorionic plate	42	
+CL:0008036	extravillous trophoblast	extravillous trophoblast	UBERON:0004027	chorionic plate	chorionic plate	43	
+CL:0000523	mononuclear cytotrophoblast cell	cytotrophoblast	UBERON:0004027	chorionic plate	chorionic plate	44	
+CL:0000525	syncytiotrophoblast cell	syncytiotrophoblast	UBERON:0004027	chorionic plate	chorionic plate	45	
+CL:0002558	fibroblast of villous mesenchyme	placental stromal cell	UBERON:0004027	chorionic plate	chorionic plate	47	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	49	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	50	
+UBERON:0005630	fetal membrane	fetal membranes	UBERON:0001987	placenta	placenta	51	
+CL:4033064	uterine resident macrophage	uterine macrophage	UBERON:0002337	endometrial stroma	endometrial stroma	58	
+CL:4033063	endovascular extravillous trophoblast cell	endovascular extravillous trophoblast	UBERON:0015172	endometrial blood vessel	endometrial blood vessel	63	
+UBERON:8600028	chorionic mesenchymal villus	mesenchymal villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	65	
+CL:0000523	mononuclear cytotrophoblast cell	cytotrophoblast	UBERON:8600028	chorionic mesenchymal villus	mesenchymal villus	65	
+UBERON:8600028	chorionic mesenchymal villus	mesenchymal villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	66	
+CL:0000525	syncytiotrophoblast cell	syncytiotrophoblast	UBERON:8600028	chorionic mesenchymal villus	mesenchymal villus	66	
+UBERON:8600028	chorionic mesenchymal villus	mesenchymal villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	67	
+CL:0008036	extravillous trophoblast	extravillous trophoblast	UBERON:8600028	chorionic mesenchymal villus	mesenchymal villus	67	
+UBERON:8600028	chorionic mesenchymal villus	mesenchymal villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	68	
+UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	UBERON:8600028	chorionic mesenchymal villus	mesenchymal villus	68	
+CL:3000001	Hofbauer cell	Hofbauer cell	UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	68	
+UBERON:8600028	chorionic mesenchymal villus	mesenchymal villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	69	
+UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	UBERON:8600028	chorionic mesenchymal villus	mesenchymal villus	69	
+CL:0002558	fibroblast of villous mesenchyme	placental stromal cell	UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	69	
+CL:0000523	mononuclear cytotrophoblast cell	cytotrophoblast	UBERON:8600027	chorionic stem villus	stem villus	73	
+CL:0000525	syncytiotrophoblast cell	syncytiotrophoblast	UBERON:8600027	chorionic stem villus	stem villus	74	
+CL:0008036	extravillous trophoblast	extravillous trophoblast	UBERON:8600027	chorionic stem villus	stem villus	75	
+UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	UBERON:8600027	chorionic stem villus	stem villus	76	
+CL:3000001	Hofbauer cell	Hofbauer cell	UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	76	
+UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	UBERON:8600027	chorionic stem villus	stem villus	77	
+CL:0002558	fibroblast of villous mesenchyme	placental stromal cell	UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	77	
+UBERON:8600028	chorionic mesenchymal villus	mesenchymal villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	78	
+UBERON:8600041	chorionic terminal villous capillary	villous capillary	UBERON:8600028	chorionic mesenchymal villus	mesenchymal villus	78	
+CL:2000062	placental villus capillary endothelial cell	placental microvascular endothelial cell	UBERON:8600041	chorionic terminal villous capillary	villous capillary	78	
+UBERON:8600028	chorionic mesenchymal villus	mesenchymal villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	79	
+UBERON:8600041	chorionic terminal villous capillary	villous capillary	UBERON:8600028	chorionic mesenchymal villus	mesenchymal villus	79	
+UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	80	
+CL:0000523	mononuclear cytotrophoblast cell	cytotrophoblast	UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	80	
+UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	81	
+UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	82	
+CL:0008036	extravillous trophoblast	extravillous trophoblast	UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	82	
+UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	83	
+UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	83	
+CL:3000001	Hofbauer cell	Hofbauer cell	UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	83	
+UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	84	
+UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	84	
+CL:0002558	fibroblast of villous mesenchyme	placental stromal cell	UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	84	
+UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	85	
+UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	86	
+UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	87	
+UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	88	
+UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	89	
+UBERON:8600029	chorionic immature intermediate villus	immature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	90	
+CL:0000523	mononuclear cytotrophoblast cell	cytotrophoblast	UBERON:8600031	chorionic mature intermediate villus	mature intermediate villus	91	
+UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	UBERON:8600031	chorionic mature intermediate villus	mature intermediate villus	94	
+CL:3000001	Hofbauer cell	Hofbauer cell	UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	94	
+UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	UBERON:8600031	chorionic mature intermediate villus	mature intermediate villus	95	
+CL:0002558	fibroblast of villous mesenchyme	placental stromal cell	UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	95	
+UBERON:8600041	chorionic terminal villous capillary	villous capillary	UBERON:8600031	chorionic mature intermediate villus	mature intermediate villus	96	
+CL:2000062	placental villus capillary endothelial cell	placental microvascular endothelial cell	UBERON:8600041	chorionic terminal villous capillary	villous capillary	96	
+UBERON:8600041	chorionic terminal villous capillary	villous capillary	UBERON:8600031	chorionic mature intermediate villus	mature intermediate villus	97	
+CL:0000523	mononuclear cytotrophoblast cell	cytotrophoblast	UBERON:8600030	chorionic terminal villus	terminal villus	98	
+UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	UBERON:8600030	chorionic terminal villus	terminal villus	101	
+CL:3000001	Hofbauer cell	Hofbauer cell	UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	101	
+UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	UBERON:8600030	chorionic terminal villus	terminal villus	102	
+CL:0002558	fibroblast of villous mesenchyme	placental stromal cell	UBERON:8600039	chorionic villous mesenchyme	villous mesenchyme	102	
+CL:2000062	placental villus capillary endothelial cell	placental microvascular endothelial cell	UBERON:8600041	chorionic terminal villous capillary	villous capillary	103	
+CL:4033064	uterine resident macrophage	uterine macrophage	UBERON:0002337	endometrial stroma	endometrial stroma	108	
+CL:4033063	endovascular extravillous trophoblast cell	endovascular extravillous trophoblast	UBERON:0015172	endometrial blood vessel	endometrial blood vessel	113	

@@ -1,0 +1,49 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000034	stem cell	stem cell	UBERON:0008346	duodenal epithelium	Epithelium	61
+CL:0000036	epithelial fate stem cell	epithelial stem cells	UBERON:0000400	jejunal epithelium	Epithelium	223
+CL:0000057	fibroblast	fibroblasts	UBERON:0012377	muscle layer of jejunum	muscularis externa	256
+CL:0000057	fibroblast	fibroblasts	UBERON:0000399	jejunal mucosa	mucosa	233
+CL:0000057	fibroblast	fibroblasts	UBERON:0003337	serosa of jejunum	serosa	262
+CL:0000057	fibroblast	fibroblasts	UBERON:0003336	serosa of duodenum	serosa	95
+CL:0000057	fibroblast	fibroblast	UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	66
+CL:0000077	mesothelial cell	mesothelial	UBERON:0003336	serosa of duodenum	serosa	94
+CL:0000077	mesothelial cell	mesothelial	UBERON:0003337	serosa of jejunum	serosa	261
+CL:0000097	mast cell	mast cell	UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	76
+CL:0000097	mast cell	mast cells	UBERON:0000399	jejunal mucosa	mucosa	243
+CL:0000115	endothelial cell	endothelial cells	UBERON:0003337	serosa of jejunum	serosa	263
+CL:0000115	endothelial cell	endothelial	UBERON:0000399	jejunal mucosa	mucosa	230
+CL:0000115	endothelial cell	endoethlial	UBERON:0003333	submucosa of jejunum	submucosa	250
+CL:0000115	endothelial cell	endothelial	UBERON:0012377	muscle layer of jejunum	muscularis externa	257
+CL:0000115	endothelial cell	endothelial cells	UBERON:0003336	serosa of duodenum	serosa	96
+CL:0000115	endothelial cell	endothelial	UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	63
+CL:0000163	endocrine cell	endocrine	UBERON:0000400	jejunal epithelium	Epithelium	225
+CL:0000163	endocrine cell	endocrine lineage cell	UBERON:0008346	duodenal epithelium	Epithelium	60
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	65
+CL:0000186	myofibroblast cell	myofibroblasts	UBERON:0000399	jejunal mucosa	mucosa	232
+CL:0000212	absorptive cell	absorptive	UBERON:0000400	jejunal epithelium	Epithelium	226
+CL:0000212	absorptive cell	absorptive	UBERON:0008346	duodenal epithelium	Epithelium	58
+CL:0000235	macrophage	macrophages	UBERON:0000399	jejunal mucosa	mucosa	241
+CL:0000235	macrophage	macrophage	UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	74
+CL:0000236	B cell	B cell	UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	69
+CL:0000236	B cell	B cell	UBERON:0000399	jejunal mucosa	mucosa	236
+CL:0000451	dendritic cell	DCs	UBERON:0000399	jejunal mucosa	mucosa	246
+CL:0000451	dendritic cell	dendritic cell (DC)	UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	79
+CL:0000584	enterocyte	enterocyte	UBERON:0008346	duodenal epithelium	Epithelium	59
+CL:0000584	enterocyte	enterocytes	UBERON:0000400	jejunal epithelium	Epithelium	228
+CL:0000623	natural killer cell	natural killer (NK) cell	UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	78
+CL:0000623	natural killer cell	NK cells	UBERON:0000399	jejunal mucosa	mucosa	245
+CL:0000682	M cell of gut	M cell	UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	68
+CL:0000682	M cell of gut	M cell	UBERON:0000399	jejunal mucosa	mucosa	235
+CL:0000771	eosinophil	eosinophils	UBERON:0000399	jejunal mucosa	mucosa	242
+CL:0000771	eosinophil	eosinophil	UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	75
+CL:0000775	neutrophil	neutrophils	UBERON:0000399	jejunal mucosa	mucosa	244
+CL:0000775	neutrophil	neutrophil	UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	77
+CL:0000786	plasma cell	plasma	UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	70
+CL:0000786	plasma cell	plasma	UBERON:0000399	jejunal mucosa	mucosa	237
+CL:0001065	innate lymphoid cell	innate lyphoid cell (ILC)	UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	80
+CL:0001065	innate lymphoid cell	ILCs	UBERON:0000399	jejunal mucosa	mucosa	247
+CL:0002088	interstitial cell of Cajal	Interstitial cells of Cajal	UBERON:0012377	muscle layer of jejunum	muscularis externa	255
+CL:0009080	tuft cell of small intestine	tuft cell	UBERON:0008346	duodenal epithelium	Epithelium	57
+CL:0009080	tuft cell of small intestine	Tuft cells	UBERON:0000400	jejunal epithelium	Epithelium	229
+CL:1000344	paneth cell of epithelium proper of small intestine	Paneth cell	UBERON:0008346	duodenal epithelium	Epithelium	55
+CL:1000344	paneth cell of epithelium proper of small intestine	Paneth	UBERON:0000400	jejunal epithelium	Epithelium	224

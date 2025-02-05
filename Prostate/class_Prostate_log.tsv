@@ -1,0 +1,19 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+UBERON:0007798	vascular system	vascular system	UBERON:0002367	prostate gland	prostate gland	23	20.261234240154657
+UBERON:0007798	vascular system	vascular system	UBERON:0002367	prostate gland	prostate gland	24	20.261234240154657
+UBERON:0000010	peripheral nervous system	peripheral nervous system	UBERON:0002367	prostate gland	prostate gland	25	20.250954052743772
+UBERON:0000010	peripheral nervous system	peripheral nervous system	UBERON:0002367	prostate gland	prostate gland	26	20.250954052743772
+UBERON:0004537	blood vasculature	vascular system	UBERON:0002367	prostate gland	prostate gland	19	17.811648529007563
+UBERON:0004537	blood vasculature	vascular system	UBERON:0002367	prostate gland	prostate gland	20	17.811648529007563
+UBERON:0004537	blood vasculature	vascular system	UBERON:0002367	prostate gland	prostate gland	21	17.811648529007563
+CL:0005006	ionocyte	ionocyte epithelia	UBERON:0004179	Prostate Glandular Acinus	Prostate Glandular Acinus	15	1.0152251702260315
+CL:0017002	prostate neuroendocrine cell	neuroendocrine epithelia	UBERON:0004179	Prostate Glandular Acinus	Prostate Glandular Acinus	14	
+UBERON:0004243	prostate gland smooth muscle	Prostate Glandular Acinus	UBERON:0004184	prostate gland stroma	prostate stroma	16	
+UBERON:0015131	subepithelial connective tissue of prostatic gland	Prostate Glandular Acinus	UBERON:0004184	prostate gland stroma	prostate stroma	17	
+CL:1000301	fibroblast of subepithelial connective tissue of prostatic gland	periprostatic fibroblast	UBERON:0015131	subepithelial connective tissue of prostatic gland	Prostate Glandular Acinus	17	
+UBERON:0015131	subepithelial connective tissue of prostatic gland	Prostate Glandular Acinus	UBERON:0004184	prostate gland stroma	prostate stroma	18	
+CL:1000299	fibroblast of connective tissue of prostate	interstitial fibroblast	UBERON:0015131	subepithelial connective tissue of prostatic gland	Prostate Glandular Acinus	18	
+UBERON:0004536	lymph vasculature	lymph vasculature	UBERON:0002367	prostate gland	prostate gland	22	
+CL:0009112	centroblast	perictye	UBERON:0001981	blood vessel	blood vessel	24	
+UBERON:0000010	peripheral nervous system	peripheral nervous system	UBERON:0000010	peripheral nervous system	peripheral nervous system	25	
+UBERON:0000010	peripheral nervous system	peripheral nervous system	UBERON:0000010	peripheral nervous system	peripheral nervous system	26	

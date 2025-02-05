@@ -1,0 +1,581 @@
+{
+  "no_valid_id": [
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Adventitial Stromal Cell",
+      "row_number": 19
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Splenic Stromal Cell (non-FRC/non-FDC)",
+      "row_number": 20
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Splenic Smooth Muscle Cell",
+      "row_number": 21
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Arterial Capillary",
+      "row_number": 22
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Sheathed Capillary",
+      "row_number": 23
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Sheathed Capillary",
+      "row_number": 24
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Splenic Pericyte",
+      "row_number": 24
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Sheathed Capillary",
+      "row_number": 25
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Splenic Stromal Sheath Cell",
+      "row_number": 25
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Sheathed Capillary",
+      "row_number": 26
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Sheathed Capillary",
+      "row_number": 27
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Sheathed Capillary",
+      "row_number": 28
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Sheathed Capillary",
+      "row_number": 29
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Ring Fiber",
+      "row_number": 30
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Reticular Cell of splenic sinusoid",
+      "row_number": 30
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Splenic Littoral Cell",
+      "row_number": 31
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Splenic Red Pulp Stroma",
+      "row_number": 32
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Splenic Red Pulp Stromal Cell",
+      "row_number": 32
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Splenic venules",
+      "row_number": 34
+    },
+    {
+      "id": "ADDED",
+      "label": "",
+      "user_label": "Splenic Stromal Cell (non-FRC/non-FDC)",
+      "row_number": 47
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 49
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 50
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 51
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 52
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Splenic perifollicular zone macrophage",
+      "row_number": 52
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 53
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Sheathed Capillary",
+      "row_number": 53
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 54
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 55
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 56
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 57
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 58
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "DEC205+ DC",
+      "row_number": 58
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Central arteries",
+      "row_number": 59
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "White Pulp Lymphatic Vessels",
+      "row_number": 60
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "DEC205+ DC",
+      "row_number": 65
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner Mantle Zone",
+      "row_number": 72
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Mantle Zone B Cell",
+      "row_number": 72
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner Mantle Zone",
+      "row_number": 73
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner Mantle Zone",
+      "row_number": 74
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner Mantle Zone",
+      "row_number": 75
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner Mantle Zone",
+      "row_number": 76
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Splenic Pericyte",
+      "row_number": 76
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Superficial Mantle Zone",
+      "row_number": 77
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Superficial Mantle Zone",
+      "row_number": 78
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Superficial Mantle Zone",
+      "row_number": 79
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Superficial Mantle Zone",
+      "row_number": 80
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Splenic Pericyte",
+      "row_number": 80
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Superficial Mantle Zone",
+      "row_number": 81
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 82
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 83
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 84
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 85
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 86
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 87
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 88
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Splenic Stromal Cell (non-FRC/non-FDC)",
+      "row_number": 88
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 89
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 90
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 91
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 92
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 93
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 94
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Red Pulp-White Pulp Border",
+      "row_number": 95
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 96
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 97
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Adventitial Stromal Cell",
+      "row_number": 97
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 98
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 99
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 100
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 101
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 102
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 103
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 104
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 105
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 106
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Interdigitating Dendritic Cells",
+      "row_number": 106
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 107
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 108
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 109
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Inner PALS",
+      "row_number": 110
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Splenic Smooth Muscle Cell",
+      "row_number": 110
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Outer PALS",
+      "row_number": 111
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Outer PALS",
+      "row_number": 112
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Outer PALS",
+      "row_number": 113
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Outer PALS",
+      "row_number": 114
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Outer PALS",
+      "row_number": 115
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Outer PALS",
+      "row_number": 116
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Outer PALS",
+      "row_number": 117
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Outer PALS",
+      "row_number": 118
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Splenic Stromal Cell (non-FRC/non-FDC)",
+      "row_number": 124
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "DEC205+ DC",
+      "row_number": 127
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Connective tissue",
+      "row_number": 136
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Subcapsule",
+      "row_number": 137
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Subcapsular Dendritic Cell",
+      "row_number": 137
+    }
+  ],
+  "no_found_id": [
+    {
+      "id": "CL:0008034A"
+    }
+  ],
+  "diff_label": [],
+  "no_parent": []
+}

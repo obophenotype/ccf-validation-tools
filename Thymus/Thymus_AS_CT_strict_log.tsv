@@ -1,0 +1,64 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0018243	thymic artery	thymic artery	41
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0018243	thymic artery	thymic artery	35
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0001591	thymic vein	thymic vein	62
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0018243	thymic artery	thymic artery	54
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0018243	thymic artery	thymic artery	23
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0018243	thymic artery	thymic artery	61
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0018243	thymic artery	thymic artery	17
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0001591	thymic vein	thymic vein	88
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0001591	thymic vein	thymic vein	55
+CL:0000097	mast cell	mast cell	UBERON:0004791	thymus trabecula	thymus trabecula	26
+CL:0000576	monocyte	monocyte	UBERON:0003988	thymus corticomedullary boundary	corticomedullary boundary of thymus	49
+CL:0000623	natural killer cell	natural killer cell	UBERON:0002124	medulla of thymus	medulla of thymus	85
+CL:0000764	erythroid lineage cell	erythroid	UBERON:0004791	thymus trabecula	thymus trabecula	25
+CL:0000764	erythroid lineage cell	erythroid	UBERON:0002123	cortex of thymus	cortex of thymus	39
+CL:0000771	eosinophil	eosinophil	UBERON:0004791	thymus trabecula	thymus trabecula	27
+CL:0000771	eosinophil	eosinophil	UBERON:0002124	medulla of thymus	medulla of thymus	86
+CL:0000771	eosinophil	eosinophil	UBERON:0003988	thymus corticomedullary boundary	corticomedullary boundary of thymus	48
+CL:0000786	plasma cell	plasma cell	UBERON:0003988	thymus corticomedullary boundary	corticomedullary boundary of thymus	47
+CL:0000788	naive B cell	naive B cell	UBERON:0002124	medulla of thymus	medulla of thymus	83
+CL:0000798	gamma-delta T cell	gamma-delta T cell	UBERON:0002124	medulla of thymus	medulla of thymus	75
+CL:0000809	double-positive, alpha-beta thymocyte	double positive thymocyte	UBERON:0002123	cortex of thymus	cortex of thymus	37
+CL:0000866	thymic macrophage	macrophage	UBERON:0002122	capsule of thymus	capsule of thymus	13
+CL:0000866	thymic macrophage	macrophage	UBERON:0004791	thymus trabecula	thymus trabecula	20
+CL:0000866	thymic macrophage	macrophage	UBERON:0003988	thymus corticomedullary boundary	corticomedullary boundary of thymus	57
+CL:0000883	thymic cortical macrophage	macrophage	UBERON:0006936	thymus subcapsular epithelium	thymus subcapsular epithelium	33
+CL:0000897	CD4-positive, alpha-beta memory T cell	CD4+ T memory T cell	UBERON:0002124	medulla of thymus	medulla of thymus	68
+CL:0000899	T-helper 17 cell	Th17 cell	UBERON:0002124	medulla of thymus	medulla of thymus	76
+CL:0000909	CD8-positive, alpha-beta memory T cell	CD8+ T memory	UBERON:0002124	medulla of thymus	medulla of thymus	70
+CL:0000914	immature NK T cell	immature NKT cell	UBERON:0002124	medulla of thymus	medulla of thymus	78
+CL:0000934	CD4-positive, alpha-beta cytotoxic T cell	cytotoxic CD4 T cell	UBERON:0002124	medulla of thymus	medulla of thymus	67
+CL:0000940	mucosal invariant T cell	mucosal associated invariant T cell	UBERON:0002124	medulla of thymus	medulla of thymus	77
+CL:0000942	thymic plasmacytoid dendritic cell	plasmacytoid dendritic cell	UBERON:0002124	medulla of thymus	medulla of thymus	81
+CL:0000942	thymic plasmacytoid dendritic cell	plasmacytoid dendritic cell	UBERON:0002123	cortex of thymus	cortex of thymus	38
+CL:0000970	unswitched memory B cell	memory B cell	UBERON:0003988	thymus corticomedullary boundary	corticomedullary boundary of thymus	44
+CL:0000972	class switched memory B cell	memory B cell	UBERON:0003988	thymus corticomedullary boundary	corticomedullary boundary of thymus	45
+CL:0000980	plasmablast	plasmablast	UBERON:0003988	thymus corticomedullary boundary	corticomedullary boundary of thymus	46
+CL:0001070	beige adipocyte	beige adipocyte	UBERON:0003988	thymus corticomedullary boundary	corticomedullary boundary of thymus	52
+CL:0001078	group 3 innate lymphoid cell, human	group 3 innate lymphoid cell	UBERON:0002124	medulla of thymus	medulla of thymus	84
+CL:0002038	T follicular helper cell	T follicular helper cell	UBERON:0002124	medulla of thymus	medulla of thymus	73
+CL:0002059	CD8-alpha-positive thymic conventional dendritic cell	conventional dendritic cell 1	UBERON:0003988	thymus corticomedullary boundary	corticomedullary boundary of thymus	58
+CL:0002059	CD8-alpha-positive thymic conventional dendritic cell	conventional dendritic cell 1	UBERON:0002124	medulla of thymus	medulla of thymus	79
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	UBERON:0010397	efferent lymphatic vessel	efferent lymphatic	64
+CL:0002364	cortical thymic epithelial cell	cortical thymic epithelial cell	UBERON:0003846	thymus epithelium	thymus epithelium	43
+CL:0002425	early T lineage precursor	early thymic progenitor	UBERON:0006936	thymus subcapsular epithelium	thymus subcapsular epithelium	29
+CL:0002436	mature CD4 single-positive thymocyte	CD4+ T single positive thymocyte	UBERON:0002124	medulla of thymus	medulla of thymus	66
+CL:0002436	mature CD4 single-positive thymocyte	CD4+ T single positive thymocyte	UBERON:0003988	thymus corticomedullary boundary	corticomedullary boundary of thymus	50
+CL:0002437	mature CD8 single-positive thymocyte	CD8+ T single positive thymocyte	UBERON:0003988	thymus corticomedullary boundary	corticomedullary boundary of thymus	51
+CL:0002437	mature CD8 single-positive thymocyte	CD8+ T single positive thymocyte	UBERON:0002124	medulla of thymus	medulla of thymus	69
+CL:0002460	CD8-alpha-negative thymic conventional dendritic cell	conventional dendritic cell 2	UBERON:0003988	thymus corticomedullary boundary	corticomedullary boundary of thymus	59
+CL:0002460	CD8-alpha-negative thymic conventional dendritic cell	conventional dendritic cell 2	UBERON:0002124	medulla of thymus	medulla of thymus	80
+CL:0002677	naive regulatory T cell	regulatory T cells	UBERON:0002124	medulla of thymus	medulla of thymus	74
+CL:0009073	medullary thymic epithelial cell type 3	medullary thymic epithelial cell type 3	UBERON:0003987	Hassall's corpuscle	Hassall's corpuscle	93
+CL:0009081	specified double negative thymocyte (Homo sapiens)	double negative thymocyte 2	UBERON:0006936	thymus subcapsular epithelium	thymus subcapsular epithelium	30
+CL:0009082	committed double negative thymocyte (Homo sapiens)	double negative thymocyte 3	UBERON:0006936	thymus subcapsular epithelium	thymus subcapsular epithelium	31
+CL:0009083	rearranging double negative thymocyte (Homo sapiens)	double negative thymocyte 4	UBERON:0006936	thymus subcapsular epithelium	thymus subcapsular epithelium	32
+CL:3000002	sympathetic noradrenergic neuron	sympathetic noradrenergic nerve	UBERON:0001021	nerve	nerve	36
+CL:3000002	sympathetic noradrenergic neuron	sympathetic noradrenergic nerve	UBERON:0003988	thymus corticomedullary boundary	corticomedullary boundary of thymus	63
+CL:3000002	sympathetic noradrenergic neuron	sympathetic noradrenergic nerve	UBERON:0001021	nerve	nerve	89
+CL:3000002	sympathetic noradrenergic neuron	sympathetic noradrenergic nerve	UBERON:0003988	thymus corticomedullary boundary	corticomedullary boundary of thymus	56
+CL:3000002	sympathetic noradrenergic neuron	sympathetic noradrenergic nerve	UBERON:0001021	nerve	nerve	24
+CL:3000002	sympathetic noradrenergic neuron	sympathetic noradrenergic nerve	UBERON:0001021	nerve	nerve	18
+CL:3000002	sympathetic noradrenergic neuron	sympathetic noradrenergic nerve	UBERON:0001021	nerve	nerve	15
+CL:3000002	sympathetic noradrenergic neuron	sympathetic noradrenergic nerve	UBERON:0001021	nerve	nerve	42

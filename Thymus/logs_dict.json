@@ -1,0 +1,35 @@
+{
+  "no_valid_id": [],
+  "no_found_id": [],
+  "diff_label": [
+    {
+      "id": "CL:0002059",
+      "label": "CD8-alpha-positive thymic conventional dendritic cell",
+      "asct_label": "CD8alpha-positive thymic conventional dendritic cell",
+      "user_label": "conventional dendritic cell 1",
+      "row_number": 58
+    },
+    {
+      "id": "CL:0002059",
+      "label": "CD8-alpha-positive thymic conventional dendritic cell",
+      "asct_label": "CD8alpha-positive thymic conventional dendritic cell",
+      "user_label": "conventional dendritic cell 1",
+      "row_number": 79
+    },
+    {
+      "id": "CL:0002460",
+      "label": "CD8-alpha-negative thymic conventional dendritic cell",
+      "asct_label": "CD8alpha-negative thymic conventional dendritic cell",
+      "user_label": "conventional dendritic cell 2",
+      "row_number": 59
+    },
+    {
+      "id": "CL:0002460",
+      "label": "CD8-alpha-negative thymic conventional dendritic cell",
+      "asct_label": "CD8alpha-negative thymic conventional dendritic cell",
+      "user_label": "conventional dendritic cell 2",
+      "row_number": 80
+    }
+  ],
+  "no_parent": []
+}

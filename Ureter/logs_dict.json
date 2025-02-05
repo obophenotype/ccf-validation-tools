@@ -1,0 +1,115 @@
+{
+  "no_valid_id": [
+    {
+      "id": "",
+      "label": "",
+      "user_label": "basal cell of ureter urothelium",
+      "row_number": 12
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "intermediate cell of ureter urothelium",
+      "row_number": 13
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "superficial cell of ureter urothelium",
+      "row_number": 14
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "detrusor smooth muscle cell of ureter",
+      "row_number": 15
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "myofibroblast cell of ureter",
+      "row_number": 16
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "PI16+ fibroblast cell of ureter",
+      "row_number": 17
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "DPT+ fibroblast cell of ureter",
+      "row_number": 18
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "lipofibroblast cell of ureter",
+      "row_number": 19
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "endothelial cell of ureter",
+      "row_number": 20
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "vascular smooth muscle cell of ureter",
+      "row_number": 21
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericyte cell of ureter",
+      "row_number": 22
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ureter vasculature",
+      "row_number": 23
+    }
+  ],
+  "no_found_id": [],
+  "diff_label": [
+    {
+      "id": "CL:1001428",
+      "label": "bladder urothelial cell",
+      "asct_label": "ureter urothelial cell",
+      "user_label": "urothelium",
+      "row_number": 12
+    },
+    {
+      "id": "CL:1001428",
+      "label": "bladder urothelial cell",
+      "asct_label": "ureter urothelial cell",
+      "user_label": "urothelium",
+      "row_number": 13
+    },
+    {
+      "id": "CL:1001428",
+      "label": "bladder urothelial cell",
+      "asct_label": "ureter urothelial cell",
+      "user_label": "urothelium",
+      "row_number": 14
+    },
+    {
+      "id": "UBERON:0009919",
+      "label": "ureter smooth muscle",
+      "asct_label": "ureter detrusor smooth muscle",
+      "user_label": "ureter detrusor smooth muscle",
+      "row_number": 15
+    },
+    {
+      "id": "UBERON:0009919",
+      "label": "ureter smooth muscle",
+      "asct_label": "ureter detrusor smooth muscle",
+      "user_label": "ureter detrusor smooth muscle",
+      "row_number": 15
+    }
+  ],
+  "no_parent": []
+}

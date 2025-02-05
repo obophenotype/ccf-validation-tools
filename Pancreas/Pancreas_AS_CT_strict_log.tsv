@@ -1,0 +1,28 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000075	columnar/cuboidal epithelial cell	columnar/cuboidal epithelial cell	UBERON:0014726	intercalated duct of pancreas	Intercalated duct	19
+CL:0000084	T cell	T lymphocyte	UBERON:0000017	exocrine pancreas	Exocrine pancreas	26
+CL:0000084	T cell	T lymphocyte	UBERON:0000006	islet of Langerhans	Islet of Langerhans	37
+CL:0000136	adipocyte	Adipocyte	UBERON:0018234	stroma of pancreas	Stroma of pancreas	43
+CL:0000146	simple columnar epithelial cell	Simple columnar epithelial cell	UBERON:0012271	major duodenal papilla	Major duodenal papilla	15
+CL:0000146	simple columnar epithelial cell	Simple columnar epithelial cell	UBERON:0012271	major duodenal papilla	Major duodenal papilla	14
+CL:0000146	simple columnar epithelial cell	Simple columnar epithelial cell	UBERON:0001174	common bile duct	Common bile duct	24
+CL:0000192	smooth muscle cell	Smooth muscle cell	UBERON:0004915	sphincter of hepatopancreatic ampulla	Hepatopancreatic sphincter (Sphincter of Oddi)	13
+CL:0000192	smooth muscle cell	Smooth muscle cell	UBERON:0005429	dorsal pancreatic duct	Papilla of Santorini	23
+CL:0000235	macrophage	Macrophage	UBERON:0000006	islet of Langerhans	Islet of Langerhans	39
+CL:0000235	macrophage	Macrophage	UBERON:0000006	islet of Langerhans	Islet of Langerhans	38
+CL:0000235	macrophage	Macrophage	UBERON:0000017	exocrine pancreas	Exocrine pancreas	28
+CL:0000236	B cell	B lymphocyte	UBERON:0000017	exocrine pancreas	Exocrine pancreas	25
+CL:0000236	B cell	B lymphocyte	UBERON:0000006	islet of Langerhans	Islet of Langerhans	36
+CL:0000451	dendritic cell	Dendritic cell	UBERON:0000017	exocrine pancreas	Exocrine pancreas	29
+CL:0000451	dendritic cell	Dendritic cell	UBERON:0000006	islet of Langerhans	Islet of Langerhans	40
+CL:0000509	gastrin secreting cell	Gastrin cell	UBERON:0000006	islet of Langerhans	Islet of Langerhans	35
+CL:0000577	type EC enteroendocrine cell	Enterochromaffin cell	UBERON:0014726	intercalated duct of pancreas	Intercalated duct	22
+CL:0000775	neutrophil	Neutrophil	UBERON:0000017	exocrine pancreas	Exocrine pancreas	27
+CL:0002079	pancreatic ductal cell	Ductal cell	UBERON:0014726	intercalated duct of pancreas	Intercalated duct	21
+CL:0002410	pancreatic stellate cell	Pancreatic stellate cell	UBERON:0018234	stroma of pancreas	Stroma of pancreas	42
+CL:0002410	pancreatic stellate cell	Pancreatic stellate cell	UBERON:0018234	stroma of pancreas	Stroma of pancreas	41
+CL:0005019	pancreatic epsilon cell	Epsilon cell	UBERON:0000006	islet of Langerhans	Islet of Langerhans	34
+CL:1000322	pancreatic goblet cell	Pancreatic goblet cell	UBERON:0014726	intercalated duct of pancreas	Intercalated duct	20
+CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	UBERON:0004913	hepatopancreatic ampulla	Hepatopancreatic ampulla	16
+CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	UBERON:0014726	intercalated duct of pancreas	Intercalated duct	18
+CL:1001433	epithelial cell of exocrine pancreas	Ductal epithelial cell	UBERON:0014726	intercalated duct of pancreas	Intercalated duct	17

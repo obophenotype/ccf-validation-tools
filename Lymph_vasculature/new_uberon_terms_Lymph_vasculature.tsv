@@ -1,0 +1,73 @@
+Upper AS	Upper AS/label	Upper AS/ID	AS Name	References/ID	References/DOI
+right lymphatic duct	Right lymphatic duct	FMA:5832	right anterior mediastinal lymph node		
+right lymphatic duct	Right lymphatic duct	FMA:5832	transverse cervical lymph node #2		
+axillary lymph node	Axillary lymph node	FMA:276805	collecting lymph trunk of lymphatics of soft parts covering posterior thoracic wall		
+axillary lymph node	Axillary lymph node	FMA:276805	medial lymph trunk of principal axillary lymph vessel		
+axillary lymph node	Axillary lymph node	FMA:276805	posterior extrathoracic lymph node		
+posterior extrathoracic lymph node			deep lymph node of neck		
+deep lymph node of neck			supraspinatus fossa lymph node		
+supraspinatus fossa lymph node			supraescapular lymphatic channel		
+subscapular lymph node	Subscapular lymph node	FMA:14187	circumflex lymphatic channel		
+left lumbar lymph trunk	Left lumbar lymphatic trunk	FMA:5841	left lateral aortic lymph node		
+left lumbar lymph trunk	Left lumbar lymphatic trunk	FMA:5841	right lateral aortic lymph node		
+preaortic lymph node	Pre-aortic thoracic lymph node group	FMA:323951	anterior lymph trunk of accompanying suprarenal vein		
+preaortic lymph node	Pre-aortic thoracic lymph node group	FMA:323951	left collecting lymph trunk of lymphatics of ovary		
+preaortic lymph node	Pre-aortic thoracic lymph node group	FMA:323951	medial lymph node of common illiac lymph nodes		
+preaortic lymph node	Pre-aortic thoracic lymph node group	FMA:323951	right collecting lymph trunk of lymphatics of testicle		
+cisterna chyli	upper part of cisterna chyli	UBERON:0005435	lymphatics of great omentum		
+thoracic duct	thoracic duct	UBERON:0001631	efferent lymphatics from fifth or sixth lowermost intercostal spaces		
+thoracic duct	thoracic duct	UBERON:0001631	efferent lymphatics from third, fourth, and fifth intercostal spaces		
+thoracic duct	thoracic duct	UBERON:0001631	left anterior mediastinal lymph node		
+left anterior mediastinal lymph node			left suprabronchial lymph node of superior lymph collecting vessel of superior inferior lobe of left lung		
+left anterior mediastinal lymph node			lymphatics of pleura, pericardium, heart, thymus, and left lung		
+brachial lymph trunk	Brachial lymphatic vessel	FMA:234924	cubital fossa lymph node		
+cubital fossa lymph node			deep radial lymphatic channel		
+deep radial lymphatic channel			index finger lateral lymphatic channel #2		
+deep radial lymphatic channel			index finger medial lymphatic channel #2		
+deep radial lymphatic channel			middle finger lateral lymphatic channel #2		
+deep radial lymphatic channel			middle finger medial lymphatic channel #2		
+deep radial lymphatic channel			palmar arch lymphatic channel #4		
+deep radial lymphatic channel			ring finger lateral lymphatic channel #2		
+deep radial lymphatic channel			thumb lateral lymphatic channel #2		
+deep radial lymphatic channel			thumb medial lymphatic channel #2		
+brachial lymph trunk	Brachial lymphatic vessel	FMA:234924	epitrochlear lymph node #2		
+brachial lymph trunk	Brachial lymphatic vessel	FMA:234924	superior ulnar lymph node		
+superior ulnar lymph node			anterior interosseous lymphatic channel		
+anterior interosseous lymphatic channel			palmar arch lymphatic channel		
+palmar arch lymphatic channel			index finger lateral lymphatic channel #3		
+palmar arch lymphatic channel			index finger medial lymphatic channel #3		
+palmar arch lymphatic channel			little finger lateral lymphatic channel #3		
+palmar arch lymphatic channel			little finger medial lymphatic channel #3		
+palmar arch lymphatic channel			middle finger lateral lymphatic channel #3		
+palmar arch lymphatic channel			middle finger medial lymphatic channel #3		
+palmar arch lymphatic channel			ring finger lateral lymphatic channel #3		
+palmar arch lymphatic channel			ring finger medial lymphatic channel #3		
+palmar arch lymphatic channel			thumb lateral lymphatic channel #3		
+palmar arch lymphatic channel			thumb medial lymphatic channel #3		
+superior ulnar lymph node			deep ulnar lymphatic channel		
+deep ulnar lymphatic channel			little finger lateral lymphatic channel #2		
+deep ulnar lymphatic channel			little finger medial lymphatic channel #2		
+deep ulnar lymphatic channel			palmar arch lymphatic channel #3		
+deep ulnar lymphatic channel			ring finger medial lymphatic channel #2		
+superior ulnar lymph node			posterior interosseous lymphatic channel		
+posterior interosseous lymphatic channel			palmar arch lymphatic channel #2		
+central axillary lymph node	Central axillary lymph node group	FMA:71749	medial lymphatic pathway of upper arm		
+medial lymphatic pathway of upper arm			epitrochlear lymph node		
+epitrochlear lymph node			superficial ulnar lymphatic channel		
+superficial ulnar lymphatic channel			little finger lateral lymphatic channel		
+superficial ulnar lymphatic channel			little finger medial lymphatic channel		
+superficial ulnar lymphatic channel			middle finger medial lymphatic channel		
+superficial ulnar lymphatic channel			ring finger lateral lymphatic channel		
+superficial ulnar lymphatic channel			ring finger medial lymphatic channel		
+subclavian lymph trunk	Subclavian lymphatic trunk	FMA:12252	retropectoral lymph vessel		
+subclavian lymph trunk	Subclavian lymphatic trunk	FMA:12252	subclavicular lymph node		
+subclavicular lymph node			lateral lymphatic pathway of upper arm #2		
+supraclavicular lymph node	supraclavicular lymph node	UBERON:0035279	lateral lymphatic pathway of upper arm		
+lateral lymphatic pathway of upper arm			radial lymphatic channel		
+radial lymphatic channel			index finger lateral lymphatic channel		
+radial lymphatic channel			index finger medial lymphatic channel		
+radial lymphatic channel			middle finger lateral lymphatic channel		
+radial lymphatic channel			thumb lateral lymphatic channel		
+radial lymphatic channel			thumb medial lymphatic channel		
+subclavian lymph trunk	Subclavian lymphatic trunk	FMA:12252	transpectoral lymph vessel		
+thoracic duct	thoracic duct	UBERON:0001631	transverse cervical lymph node		

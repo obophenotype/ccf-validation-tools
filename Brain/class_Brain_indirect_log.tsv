@@ -1,0 +1,1344 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+PCL:0015001	Inh L1 LAMP5 PVRL2 primary motor cortex GABAergic interneuron (Hsap)	Inh L1 LAMP5 PVRL2	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	619
+PCL:0015002	Inh L1 LAMP5 RAB11FIP1 primary motor cortex GABAergic interneuron (Hsap)	Inh L1 LAMP5 RAB11FIP1	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	620
+PCL:0015003	Inh L1-6 LAMP5 AARD primary motor cortex GABAergic interneuron (Hsap)	Inh L1-6 LAMP5 AARD	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	621
+PCL:0015004	Inh L1-6 LAMP5 NES primary motor cortex GABAergic interneuron (Hsap)	Inh L1-6 LAMP5 NES	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	622
+PCL:0015005	Inh L1-6 LAMP5 CA1 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-6 LAMP5 CA1	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	623
+PCL:0015006	Inh L5-6 LAMP5 CRABP1 primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 LAMP5 CRABP1	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	624
+PCL:0015010	Inh L1-6 VIP SLC7A6OS primary motor cortex GABAergic interneuron (Hsap)	Inh L1-6 VIP SLC7A6OS	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	630
+PCL:0015012	Inh L1-2 VIP HTR3A primary motor cortex GABAergic interneuron (Hsap)	Inh L1-2 VIP HTR3A	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	632
+PCL:0015013	Inh L1-2 VIP WNT4 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-2 VIP WNT4	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	633
+PCL:0015014	Inh L1 LAMP5 BMP2 primary motor cortex GABAergic interneuron (Hsap)	Inh L1 LAMP5 BMP2	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	627
+PCL:0015015	Inh L1 LAMP5 NMBR primary motor cortex GABAergic interneuron (Hsap)	Inh L1 LAMP5 NMBR	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	628
+PCL:0015019	Inh L1-3 VIP CBLN1 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-3 VIP CBLN1	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	637
+PCL:0015020	Inh L1-2 VIP EXPH5 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-2 VIP EXPH5	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	638
+PCL:0015021	Inh L1-3 VIP HSPB6 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-3 VIP HSPB6	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	639
+PCL:0015022	Inh L1-2 VIP PTGER3 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-2 VIP PTGER3	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	640
+PCL:0015023	Inh L1-2 VIP SCML4 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-2 VIP SCML4	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	641
+PCL:0015024	Inh L1-3 VIP FNDC1 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-3 VIP FNDC1	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	642
+PCL:0015025	Inh L1-3 VIP CHRNA2 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-3 VIP CHRNA2	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	643
+PCL:0015026	Inh L2 VIP SLC6A16 primary motor cortex GABAergic interneuron (Hsap)	Inh L2 VIP SLC6A16	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	644
+PCL:0015027	Inh L1 VIP KLHDC8B primary motor cortex GABAergic interneuron (Hsap)	Inh L1 VIP KLHDC8B	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	645
+PCL:0015028	Inh L3-5 VIP IGDCC3 primary motor cortex GABAergic interneuron (Hsap)	Inh L3-5 VIP IGDCC3	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	646
+PCL:0015029	Inh L1-5 VIP SMOC1 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-5 VIP SMOC1	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	647
+PCL:0015030	Inh L3-5 VIP HS3ST3A1 primary motor cortex GABAergic interneuron (Hsap)	Inh L3-5 VIP HS3ST3A1	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	648
+PCL:0015031	Inh L5-6 VIP COL4A3 primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 VIP COL4A3	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	649
+PCL:0015032	Inh L1-5 VIP CD27-AS1 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-5 VIP CD27-AS1	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	650
+PCL:0015033	Inh L2-5 VIP BSPRY primary motor cortex GABAergic interneuron (Hsap)	Inh L2-5 VIP BSPRY	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	651
+PCL:0015034	Inh L2-5 VIP SOX11 primary motor cortex GABAergic interneuron (Hsap)	Inh L2-5 VIP SOX11	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	652
+PCL:0015035	Inh L3-6 VIP ZIM2-AS1 primary motor cortex GABAergic interneuron (Hsap)	Inh L3-6 VIP ZIM2-AS1	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	653
+PCL:0015036	Inh L1-5 VIP PHLDB3 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-5 VIP PHLDB3	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	654
+PCL:0015037	Inh L1-5 VIP LINC01013 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-5 VIP LINC01013	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	655
+PCL:0015038	Inh L3-6 VIP UG0898H09 primary motor cortex GABAergic interneuron (Hsap)	Inh L3-6 VIP UG0898H09	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	656
+PCL:0015039	Inh L3-5 VIP TAC3 primary motor cortex GABAergic interneuron (Hsap)	Inh L3-5 VIP TAC3	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	657
+PCL:0015040	Inh L1-6 SST NPY primary motor cortex GABAergic interneuron (Hsap)	Inh L1-6 SST NPY (Sst Chodl)	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	658
+PCL:0015041	Inh L3-5 SST CDH3 primary motor cortex GABAergic interneuron (Hsap)	Inh L3-5 SST CDH3	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	659
+PCL:0015042	Inh L5 SST RPL35AP11 primary motor cortex GABAergic interneuron (Hsap)	Inh L5 SST RPL35AP11	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	660
+PCL:0015043	Inh L5-6 SST ISX primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 SST ISX	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	661
+PCL:0015044	Inh L5-6 PVALB SST CRHR2 primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 PVALB SST CRHR2	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	662
+PCL:0015045	Inh L3-5 SST OR5AH1P primary motor cortex GABAergic interneuron (Hsap)	Inh L3-5 SST OR5AH1P	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	663
+PCL:0015046	Inh L3-5 SST GGTLC3 primary motor cortex GABAergic interneuron (Hsap)	Inh L3-5 SST GGTLC3	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	664
+PCL:0015047	Inh L2-3 SST NMU primary motor cortex GABAergic interneuron (Hsap)	Inh L2-3 SST NMU	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	665
+PCL:0015048	Inh L5-6 SST PAWR primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 SST PAWR	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	666
+PCL:0015049	Inh L5-6 SST PIK3CD primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 SST PIK3CD	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	667
+PCL:0015050	Inh L1-2 SST CCNJL primary motor cortex GABAergic interneuron (Hsap)	Inh L1-2 SST CCNJL	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	668
+PCL:0015051	Inh L1-3 SST FAM20A primary motor cortex GABAergic interneuron (Hsap)	Inh L1-3 SST FAM20A	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	669
+PCL:0015052	Inh L1-2 SST PRRT4 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-2 SST PRRT4	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	670
+PCL:0015053	Inh L5-6 SST BEAN1 primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 SST BEAN1	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	671
+PCL:0015054	Inh L5-6 SST DNAJC14 primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 SST DNAJC14	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	672
+PCL:0015055	Inh L5-6 SST C4orf26 primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 SST C4orf26	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	673
+PCL:0015056	Inh L5-6 SST FBN2 primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 SST FBN2	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	674
+PCL:0015057	Inh L5-6 SST KLHL1 primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 SST KLHL1	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	675
+PCL:0015058	Inh L6 SST TH primary motor cortex GABAergic interneuron (Hsap)	Inh L6 SST TH	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	676
+PCL:0015059	Inh L5-6 PVALB KCNIP2 primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 PVALB KCNIP2	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	677
+PCL:0015060	Inh L5-6 PVALB ZFPM2-AS1 primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 PVALB ZFPM2-AS1	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	678
+PCL:0015061	Inh L3-5 PVALB ISG20 primary motor cortex GABAergic interneuron (Hsap)	Inh L3-5 PVALB ISG20	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	679
+PCL:0015062	Inh L5 PVALB LRIG3 primary motor cortex GABAergic interneuron (Hsap)	Inh L5 PVALB LRIG3	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	680
+PCL:0015063	Inh L2-5 PVALB HHIPL1 primary motor cortex GABAergic interneuron (Hsap)	Inh L2-5 PVALB HHIPL1	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	681
+PCL:0015064	Inh L2-5 PVALB RPH3AL primary motor cortex GABAergic interneuron (Hsap)	Inh L2-5 PVALB RPH3AL	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	682
+PCL:0015065	Inh L3 PVALB SAMD13 primary motor cortex GABAergic interneuron (Hsap)	Inh L3 PVALB SAMD13	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	683
+PCL:0015066	Inh L1-2 PVALB CDK20 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-2 PVALB CDK20	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	684
+PCL:0015067	Inh L2 PVALB FRZB primary motor cortex GABAergic interneuron (Hsap)	Inh L2 PVALB FRZB	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	685
+PCL:0015068	Inh L1-2 SST CLIC6 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-2 SST CLIC6	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	686
+PCL:0015069	Inh L5-6 PVALB GAPDHP60 primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 PVALB GAPDHP60	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	687
+PCL:0015070	Inh L5-6 PVALB FAM150B primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 PVALB FAM150B	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	688
+PCL:0015071	Inh L5-6 PVALB MEPE primary motor cortex GABAergic interneuron (Hsap)	Inh L5-6 PVALB MEPE	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	689
+PCL:0015072	Inh L1-6 PVALB COL15A1 primary motor cortex GABAergic interneuron (Hsap)	Inh L1-6 PVALB COL15A1 (Chandelier)	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	690
+PCL:0015073	Exc L2 LAMP5 KCNG3 primary motor cortex glutamatergic neuron (Hsap)	Exc L2 LAMP5 KCNG3	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	691
+PCL:0015074	Exc L2 LINC00507 ATP7B primary motor cortex glutamatergic neuron (Hsap)	Exc L2 LINC00507 ATP7B	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	692
+PCL:0015075	Exc L2 LINC00507 GLRA3 primary motor cortex glutamatergic neuron (Hsap)	Exc L2 LINC00507 GLRA3	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	693
+PCL:0015076	Exc L2-3 RORB RTKN2 primary motor cortex glutamatergic neuron (Hsap)	Exc L2-3 RORB RTKN2	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	694
+PCL:0015077	Exc L2-3 LINC00507 DSG3 primary motor cortex glutamatergic neuron (Hsap)	Exc L2-3 LINC00507 DSG3	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	695
+PCL:0015078	Exc L3 LAMP5 CARM1P1 primary motor cortex glutamatergic neuron (Hsap)	Exc L3 LAMP5 CARM1P1	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	696
+PCL:0015079	Oligo L2-6 OPALIN MAP6D1 primary motor cortex oligodendrocyte (Hsap)	Oligo L2-6 OPALIN MAP6D1	CL:0000128	oligodendrocyte	oligodendrocyte	736
+PCL:0015080	Exc L2-3 RORB CCDC68 primary motor cortex glutamatergic neuron (Hsap)	Exc L2-3 RORB CCDC68	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	697
+PCL:0015081	Exc L2-3 RORB PTPN3 primary motor cortex glutamatergic neuron (Hsap)	Exc L2-3 RORB PTPN3	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	698
+PCL:0015082	Exc L3 THEMIS ENPEP primary motor cortex glutamatergic neuron (Hsap)	Exc L3 THEMIS ENPEP	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	699
+PCL:0015083	Exc L3-5 RORB TNNT2 primary motor cortex glutamatergic neuron (Hsap)	Exc L3-5 RORB TNNT2	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	700
+PCL:0015084	Exc L3-5 RORB LAMA4 primary motor cortex glutamatergic neuron (Hsap)	Exc L3-5 RORB LAMA4	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	701
+PCL:0015085	Exc L5 THEMIS VILL primary motor cortex glutamatergic neuron (Hsap)	Exc L5 THEMIS VILL	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	702
+PCL:0015086	Exc L3 RORB OTOGL primary motor cortex glutamatergic neuron (Hsap)	Exc L3 RORB OTOGL	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	703
+PCL:0015087	Exc L3-5 RORB LINC01202 primary motor cortex glutamatergic neuron (Hsap)	Exc L3-5 RORB LINC01202	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	704
+PCL:0015088	Exc L5 THEMIS SLC22A18 primary motor cortex glutamatergic neuron (Hsap)	Exc L5 THEMIS SLC22A18	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	705
+PCL:0015089	Exc L5-6 THEMIS TNFAIP6 primary motor cortex glutamatergic neuron (Hsap)	Exc L5-6 THEMIS TNFAIP6	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	706
+PCL:0015090	Exc L3-5 RORB LNX2 primary motor cortex glutamatergic neuron (Hsap)	Exc L3-5 RORB LNX2	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	707
+PCL:0015091	Exc L3-5 RORB RPRM primary motor cortex glutamatergic neuron (Hsap)	Exc L3-5 RORB RPRM	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	708
+PCL:0015092	Exc L5 RORB MED8 primary motor cortex glutamatergic neuron (Hsap)	Exc L5 RORB MED8	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	709
+PCL:0015093	Exc L5 THEMIS FGF10 primary motor cortex glutamatergic neuron (Hsap)	Exc L5 THEMIS FGF10	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	710
+PCL:0015094	Exc L6 THEMIS LINC00343 primary motor cortex glutamatergic neuron (Hsap)	Exc L6 THEMIS LINC00343	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	711
+PCL:0015095	Exc L6 THEMIS SLN primary motor cortex glutamatergic neuron (Hsap)	Exc L6 THEMIS SLN	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	712
+PCL:0015096	Exc L6 THEMIS SNTG2 primary motor cortex glutamatergic neuron (Hsap)	Exc L6 THEMIS SNTG2	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	713
+PCL:0015097	Exc L5-6 THEMIS SMYD1 primary motor cortex glutamatergic neuron (Hsap)	Exc L5-6 THEMIS SMYD1 (L6 IT Car3)	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	714
+PCL:0015098	Exc L5-6 FEZF2 OR1L8 primary motor cortex glutamatergic neuron (Hsap)	Exc L5-6 FEZF2 OR1L8	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron	corticothalamic-projecting glutamatergic cortical neuron	715
+PCL:0015099	Exc L5 THEMIS LINC01116 primary motor cortex glutamatergic neuron (Hsap)	Exc L5 THEMIS LINC01116	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron	corticothalamic-projecting glutamatergic cortical neuron	716
+PCL:0015100	Exc L5 THEMIS RGPD6 primary motor cortex glutamatergic neuron (Hsap)	Exc L5 THEMIS RGPD6	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron	corticothalamic-projecting glutamatergic cortical neuron	717
+PCL:0015101	Exc L5-6 FEZF2 C9orf135-AS1 primary motor cortex glutamatergic neuron (Hsap)	Exc L5-6 FEZF2 C9orf135-AS1	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron	corticothalamic-projecting glutamatergic cortical neuron	718
+PCL:0015102	Exc L5-6 FEZF2 FILIP1L primary motor cortex glutamatergic neuron (Hsap)	Exc L5-6 FEZF2 FILIP1L	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron	corticothalamic-projecting glutamatergic cortical neuron	719
+PCL:0015103	Exc L5-6 FEZF2 SH2D1B primary motor cortex glutamatergic neuron (Hsap)	Exc L5-6 FEZF2 SH2D1B	CL:4023013	corticothalamic-projecting glutamatergic cortical neuron	corticothalamic-projecting glutamatergic cortical neuron	720
+PCL:0015110	Exc L5 FEZF2 CSN1S1 primary motor cortex glutamatergic neuron (Hsap)	Exc L5 FEZF2 CSN1S1	CL:4023009	extratelencephalic-projecting glutamatergic cortical neuron	extratelencephalic-projecting glutamatergic cortical neuron	727
+PCL:0015111	Exc L3-5 FEZF2 ASGR2 primary motor cortex glutamatergic neuron (Hsap)	Exc L3-5 FEZF2 ASGR2	CL:4023009	extratelencephalic-projecting glutamatergic cortical neuron	extratelencephalic-projecting glutamatergic cortical neuron	728
+PCL:0015112	Exc L3-5 FEZF2 LINC01107 primary motor cortex glutamatergic neuron (Hsap)	Exc L3-5 FEZF2 LINC01107	CL:4023009	extratelencephalic-projecting glutamatergic cortical neuron	extratelencephalic-projecting glutamatergic cortical neuron	729
+PCL:0015113	Exc L5 FEZF2 PKD2L1 primary motor cortex glutamatergic neuron (Hsap)	Exc L5 FEZF2 PKD2L1	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	730
+PCL:0015114	Exc L5 FEZF2 NREP-AS1 primary motor cortex glutamatergic neuron (Hsap)	Exc L5 FEZF2 NREP-AS1	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	731
+PCL:0015115	Exc L5 FEZF2 RNF144A-AS1 primary motor cortex glutamatergic neuron (Hsap)	Exc L5 FEZF2 RNF144A-AS1	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	732
+PCL:0015116	Exc L5-6 FEZF2 IFNG-AS1 primary motor cortex glutamatergic neuron (Hsap)	Exc L5-6 FEZF2 IFNG-AS1	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	733
+PCL:0015117	Exc L5-6 FEZF2 LPO primary motor cortex glutamatergic neuron (Hsap)	Exc L5-6 FEZF2 LPO	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	734
+PCL:0015119	Oligo L3-6 OPALIN-like ENPP6 primary motor cortex oligodendrocyte (Hsap)	Oligo L3-6 OPALIN ENPP6	CL:0000128	oligodendrocyte	oligodendrocyte	737
+PCL:0015120	Oligo L2-6 OPALIN FTH1P3 primary motor cortex oligodendrocyte (Hsap)	Oligo L2-6 OPALIN FTH1P3	CL:0000128	oligodendrocyte	oligodendrocyte	738
+PCL:0015121	Oligo L5-6 OPALIN LDLRAP1 primary motor cortex oligodendrocyte (Hsap)	Oligo L5-6 OPALIN LDLRAP1	CL:0000128	oligodendrocyte	oligodendrocyte	739
+PCL:0015122	Astro L1-6 FGFR3 AQP1 primary motor cortex astrocyte (Hsap)	Astro L1-6 FGFR3 AQP1	CL:0002605	astrocyte of the cerebral cortex	astrocyte of the cerebral cortex	740
+PCL:0015123	Astro L1 FGFR3 SERPINI2 primary motor cortex astrocyte (Hsap)	Astro L1 FGFR3 SERPINI2	CL:0002605	astrocyte of the cerebral cortex	astrocyte of the cerebral cortex	741
+PCL:0015124	Astro L1-6 FGFR3 PLCG1 primary motor cortex astrocyte (Hsap)	Astro L1-6 FGFR3 PLCG1	CL:0002605	astrocyte of the cerebral cortex	astrocyte of the cerebral cortex	742
+PCL:0051032	Fbl_31 arachnoid barrier cell (Hsap)	Fbl_31	CL:0000057	fibroblast	fibroblast	189
+PCL:0051084	DLNP_83 near-projecting glutamatergic cortical neuron (Hsap)	DLNP_83	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	241
+PCL:0051085	DLCT6b_84 glutamatergic neuron (Hsap)	DLCT6b_84	CL:0000679	glutamatergic neuron	glutamatergic neuron	242
+PCL:0051086	DLNP_85 near-projecting glutamatergic cortical neuron (Hsap)	DLNP_85	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	243
+PCL:0051087	DLNP_86 near-projecting glutamatergic cortical neuron (Hsap)	DLNP_86	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	244
+PCL:0051088	DLNP_87 near-projecting glutamatergic cortical neuron (Hsap)	DLNP_87	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	245
+PCL:0051089	DLNP_88 near-projecting glutamatergic cortical neuron (Hsap)	DLNP_88	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	246
+PCL:0051090	DLNP_89 near-projecting glutamatergic cortical neuron (Hsap)	DLNP_89	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	247
+PCL:0051091	DLNP_90 near-projecting glutamatergic cortical neuron (Hsap)	DLNP_90	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	248
+PCL:0051092	DLNP_91 near-projecting glutamatergic cortical neuron (Hsap)	DLNP_91	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	249
+PCL:0051093	DLNP_92 near-projecting glutamatergic cortical neuron (Hsap)	DLNP_92	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	250
+PCL:0051094	DLNP_93 near-projecting glutamatergic cortical neuron (Hsap)	DLNP_93	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	251
+PCL:0051095	DLNP_94 near-projecting glutamatergic cortical neuron (Hsap)	DLNP_94	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	252
+PCL:0051096	DLNP_95 near-projecting glutamatergic cortical neuron (Hsap)	DLNP_95	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	253
+PCL:0051097	DLNP_96 near-projecting glutamatergic cortical neuron (Hsap)	DLNP_96	CL:4023012	near-projecting glutamatergic cortical neuron	near-projecting glutamatergic cortical neuron	254
+PCL:0051098	DLCT6b_97 glutamatergic neuron (Hsap)	DLCT6b_97	CL:0000679	glutamatergic neuron	glutamatergic neuron	255
+PCL:0051099	DLCT6b_98 glutamatergic neuron (Hsap)	DLCT6b_98	CL:0000679	glutamatergic neuron	glutamatergic neuron	256
+PCL:0051100	DLCT6b_99 glutamatergic neuron (Hsap)	DLCT6b_99	CL:0000679	glutamatergic neuron	glutamatergic neuron	257
+PCL:0051101	DLCT6b_100 glutamatergic neuron (Hsap)	DLCT6b_100	CL:0000679	glutamatergic neuron	glutamatergic neuron	258
+PCL:0051102	DLCT6b_101 glutamatergic neuron (Hsap)	DLCT6b_101	CL:0000679	glutamatergic neuron	glutamatergic neuron	259
+PCL:0051103	DLCT6b_102 glutamatergic neuron (Hsap)	DLCT6b_102	CL:0000679	glutamatergic neuron	glutamatergic neuron	260
+PCL:0051104	DLCT6b_103 glutamatergic neuron (Hsap)	DLCT6b_103	CL:0000679	glutamatergic neuron	glutamatergic neuron	261
+PCL:0051105	DLCT6b_104 glutamatergic neuron (Hsap)	DLCT6b_104	CL:0000679	glutamatergic neuron	glutamatergic neuron	262
+PCL:0051106	DLCT6b_105 glutamatergic neuron (Hsap)	DLCT6b_105	CL:0000679	glutamatergic neuron	glutamatergic neuron	263
+PCL:0051107	DLCT6b_106 glutamatergic neuron (Hsap)	DLCT6b_106	CL:0000679	glutamatergic neuron	glutamatergic neuron	264
+PCL:0051108	DLCT6b_107 glutamatergic neuron (Hsap)	DLCT6b_107	CL:0000679	glutamatergic neuron	glutamatergic neuron	265
+PCL:0051109	DLCT6b_108 glutamatergic neuron (Hsap)	DLCT6b_108	CL:0000679	glutamatergic neuron	glutamatergic neuron	266
+PCL:0051110	DLCT6b_109 glutamatergic neuron (Hsap)	DLCT6b_109	CL:0000679	glutamatergic neuron	glutamatergic neuron	267
+PCL:0051111	DLCT6b_110 glutamatergic neuron (Hsap)	DLCT6b_110	CL:0000679	glutamatergic neuron	glutamatergic neuron	268
+PCL:0051112	DLCT6b_111 glutamatergic neuron (Hsap)	DLCT6b_111	CL:0000679	glutamatergic neuron	glutamatergic neuron	269
+PCL:0051113	DLCT6b_112 glutamatergic neuron (Hsap)	DLCT6b_112	CL:0000679	glutamatergic neuron	glutamatergic neuron	270
+PCL:0051114	L5ET_113 L5 extratelencephalic projecting glutamatergic cortical neuron (Hsap)	L5ET_113	CL:4023009	extratelencephalic-projecting glutamatergic cortical neuron	extratelencephalic-projecting glutamatergic cortical neuron	271
+PCL:0051115	L5ET_114 L5 extratelencephalic projecting glutamatergic cortical neuron (Hsap)	L5ET_114	CL:4023009	extratelencephalic-projecting glutamatergic cortical neuron	extratelencephalic-projecting glutamatergic cortical neuron	272
+PCL:0051116	L5ET_115 hippocampal CA1-3 neuron (Hsap)	L5ET_115	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	273
+PCL:0051118	L5ET_117 von Economo neuron (Hsap)	L5ET_117	CL:0012001	neuron of the forebrain	neuron of the forebrain	275
+PCL:0051119	L5ET_118 L5 extratelencephalic projecting glutamatergic cortical neuron (Hsap)	L5ET_118	CL:4023009	extratelencephalic-projecting glutamatergic cortical neuron	extratelencephalic-projecting glutamatergic cortical neuron	276
+PCL:0051120	CA13_119 hippocampal CA1-3 neuron (Hsap)	CA13_119	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	277
+PCL:0051121	ULIT_120 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_120	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	278
+PCL:0051122	ULIT_121 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_121	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	279
+PCL:0051123	ULIT_122 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_122	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	280
+PCL:0051124	ULIT_123 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_123	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	281
+PCL:0051125	ULIT_124 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_124	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	282
+PCL:0051126	ULIT_125 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_125	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	283
+PCL:0051127	ULIT_126 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_126	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	284
+PCL:0051128	ULIT_127 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_127	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	285
+PCL:0051129	ULIT_128 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_128	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	286
+PCL:0051130	ULIT_129 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_129	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	287
+PCL:0051131	ULIT_130 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_130	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	288
+PCL:0051132	ULIT_131 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_131	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	289
+PCL:0051134	ULIT_133 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_133	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	291
+PCL:0051135	ULIT_134 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_134	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	292
+PCL:0051136	ULIT_135 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_135	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	293
+PCL:0051137	DLIT_136 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_136	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	294
+PCL:0051138	DLIT_137 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_137	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	295
+PCL:0051139	ULIT_138 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	ULIT_138	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	296
+PCL:0051140	DLIT_139 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_139	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	297
+PCL:0051141	DLIT_140 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_140	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	298
+PCL:0051142	DLIT_141 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_141	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	299
+PCL:0051143	DLIT_142 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_142	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	300
+PCL:0051144	DLIT_143 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_143	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	301
+PCL:0051145	DLIT_144 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_144	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	302
+PCL:0051146	DLIT_145 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_145	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	303
+PCL:0051147	DLIT_146 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_146	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	304
+PCL:0051148	DLIT_147 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_147	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	305
+PCL:0051149	DLIT_148 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_148	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	306
+PCL:0051150	DLIT_149 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_149	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	307
+PCL:0051151	DLIT_150 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_150	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	308
+PCL:0051152	DLIT_151 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_151	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	309
+PCL:0051153	DLIT_152 intratelencephalic-projecting glutamatergic cortical neuron (Hsap)	DLIT_152	CL:4023008	intratelencephalic-projecting glutamatergic cortical neuron	intratelencephalic-projecting glutamatergic cortical neuron	310
+PCL:0051154	Amex_153 amygdala excitatory neuron (Hsap)	Amex_153	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	311
+PCL:0051155	Amex_154 amygdala excitatory neuron (Hsap)	Amex_154	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	312
+PCL:0051156	Amex_155 amygdala excitatory neuron (Hsap)	Amex_155	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	313
+PCL:0051157	Amex_156 amygdala excitatory neuron (Hsap)	Amex_156	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	314
+PCL:0051158	Amex_157 amygdala excitatory neuron (Hsap)	Amex_157	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	315
+PCL:0051159	Amex_158 amygdala excitatory neuron (Hsap)	Amex_158	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	316
+PCL:0051160	Amex_159 amygdala excitatory neuron (Hsap)	Amex_159	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	317
+PCL:0051161	Amex_160 amygdala excitatory neuron (Hsap)	Amex_160	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	318
+PCL:0051162	Amex_161 amygdala excitatory neuron (Hsap)	Amex_161	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	319
+PCL:0051163	Amex_162 amygdala excitatory neuron (Hsap)	Amex_162	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	320
+PCL:0051164	CA13_163 hippocampal CA1-3 neuron (Hsap)	CA13_163	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	321
+PCL:0051170	CA13_169 hippocampal CA1-3 neuron (Hsap)	CA13_169	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	327
+PCL:0051172	Amex_171 amygdala excitatory neuron (Hsap)	Amex_171	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	329
+PCL:0051173	Amex_172 amygdala excitatory neuron (Hsap)	Amex_172	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	330
+PCL:0051174	Amex_173 amygdala excitatory neuron (Hsap)	Amex_173	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	331
+PCL:0051175	Amex_174 amygdala excitatory neuron (Hsap)	Amex_174	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	332
+PCL:0051176	Amex_175 amygdala excitatory neuron (Hsap)	Amex_175	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	333
+PCL:0051180	CA13_179 hippocampal CA1-3 neuron (Hsap)	CA13_179	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	337
+PCL:0051181	CA13_180 hippocampal CA1-3 neuron (Hsap)	CA13_180	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	338
+PCL:0051182	CA13_181 hippocampal CA1-3 neuron (Hsap)	CA13_181	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	339
+PCL:0051183	CA13_182 hippocampal CA1-3 neuron (Hsap)	CA13_182	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	340
+PCL:0051184	CA13_183 hippocampal CA1-3 neuron (Hsap)	CA13_183	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	341
+PCL:0051185	CA13_184 hippocampal CA1-3 neuron (Hsap)	CA13_184	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	342
+PCL:0051186	CA13_185 hippocampal CA1-3 neuron (Hsap)	CA13_185	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	343
+PCL:0051187	CA13_186 hippocampal CA1-3 neuron (Hsap)	CA13_186	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	344
+PCL:0051188	CA13_187 hippocampal CA1-3 neuron (Hsap)	CA13_187	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	345
+PCL:0051189	CA13_188 hippocampal CA1-3 neuron (Hsap)	CA13_188	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	346
+PCL:0051190	CA13_189 hippocampal CA1-3 neuron (Hsap)	CA13_189	CL:4023060	hippocampal CA1-3 neuron	hippocampal CA1-3 neuron	347
+PCL:0051200	DG_199 dentate gyrus granule cell (Hsap)	DG_199	CL:4023062	dentate gyrus neuron	hippocampal dentate gyrus neuron	357
+PCL:0051201	DG_200 dentate gyrus granule cell (Hsap)	DG_200	CL:4023062	dentate gyrus neuron	hippocampal dentate gyrus neuron	358
+PCL:0051202	DG_201 dentate gyrus granule cell (Hsap)	DG_201	CL:4023062	dentate gyrus neuron	hippocampal dentate gyrus neuron	359
+PCL:0051203	DG_202 dentate gyrus granule cell (Hsap)	DG_202	CL:4023062	dentate gyrus neuron	hippocampal dentate gyrus neuron	360
+PCL:0051204	DG_203 dentate gyrus granule cell (Hsap)	DG_203	CL:4023062	dentate gyrus neuron	hippocampal dentate gyrus neuron	361
+PCL:0051205	DG_204 dentate gyrus granule cell (Hsap)	DG_204	CL:4023062	dentate gyrus neuron	hippocampal dentate gyrus neuron	362
+PCL:0051206	DG_205 dentate gyrus granule cell (Hsap)	DG_205	CL:4023062	dentate gyrus neuron	hippocampal dentate gyrus neuron	363
+PCL:0051207	MSN_206 medium spiny neuron (Hsap)	MSN_206	CL:1001474	medium spiny neuron	medium spiny neuron	364
+PCL:0051208	MSN_207 indirect pathway medium spiny neuron (Hsap)	MSN_207	CL:1001474	medium spiny neuron	medium spiny neuron	365
+PCL:0051209	MSN_208 indirect pathway medium spiny neuron (Hsap)	MSN_208	CL:1001474	medium spiny neuron	medium spiny neuron	366
+PCL:0051210	MSN_209 direct pathway medium spiny neuron (Hsap)	MSN_209	CL:1001474	medium spiny neuron	medium spiny neuron	367
+PCL:0051211	MSN_210 direct pathway medium spiny neuron (Hsap)	MSN_210	CL:1001474	medium spiny neuron	medium spiny neuron	368
+PCL:0051212	MSN_211 direct pathway medium spiny neuron (Hsap)	MSN_211	CL:1001474	medium spiny neuron	medium spiny neuron	369
+PCL:0051213	MSN_212 indirect pathway medium spiny neuron (Hsap)	MSN_212	CL:1001474	medium spiny neuron	medium spiny neuron	370
+PCL:0051214	MSN_213 indirect pathway medium spiny neuron (Hsap)	MSN_213	CL:1001474	medium spiny neuron	medium spiny neuron	371
+PCL:0051215	MSN_214 direct pathway medium spiny neuron (Hsap)	MSN_214	CL:1001474	medium spiny neuron	medium spiny neuron	372
+PCL:0051216	MSN_215 direct pathway medium spiny neuron (Hsap)	MSN_215	CL:1001474	medium spiny neuron	medium spiny neuron	373
+PCL:0051217	MSN_216 indirect pathway medium spiny neuron (Hsap)	MSN_216	CL:1001474	medium spiny neuron	medium spiny neuron	374
+PCL:0051218	MSN_217 indirect pathway medium spiny neuron (Hsap)	MSN_217	CL:1001474	medium spiny neuron	medium spiny neuron	375
+PCL:0051219	MSN_218 medium spiny neuron (Hsap)	MSN_218	CL:1001474	medium spiny neuron	medium spiny neuron	376
+PCL:0051220	MSN_219 direct pathway medium spiny neuron (Hsap)	MSN_219	CL:1001474	medium spiny neuron	medium spiny neuron	377
+PCL:0051221	MSN_220 direct pathway medium spiny neuron (Hsap)	MSN_220	CL:1001474	medium spiny neuron	medium spiny neuron	378
+PCL:0051222	MSN_221 indirect pathway medium spiny neuron (Hsap)	MSN_221	CL:1001474	medium spiny neuron	medium spiny neuron	379
+PCL:0051223	EMSN_222 medium spiny neuron (Hsap)	EMSN_222	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	380
+PCL:0051224	EMSN_223 medium spiny neuron (Hsap)	EMSN_223	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	381
+PCL:0051225	EMSN_224 medium spiny neuron (Hsap)	EMSN_224	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	382
+PCL:0051226	EMSN_225 medium spiny neuron (Hsap)	EMSN_225	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	383
+PCL:0051227	EMSN_226 medium spiny neuron (Hsap)	EMSN_226	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	384
+PCL:0051228	EMSN_227 medium spiny neuron (Hsap)	EMSN_227	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	385
+PCL:0051229	EMSN_228 medium spiny neuron (Hsap)	EMSN_228	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	386
+PCL:0051230	EMSN_229 medium spiny neuron (Hsap)	EMSN_229	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	387
+PCL:0051231	EMSN_230 medium spiny neuron (Hsap)	EMSN_230	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	388
+PCL:0051232	EMSN_231 medium spiny neuron (Hsap)	EMSN_231	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	389
+PCL:0051233	EMSN_232 medium spiny neuron (Hsap)	EMSN_232	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	390
+PCL:0051234	EMSN_233 medium spiny neuron (Hsap)	EMSN_233	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	391
+PCL:0051235	EMSN_234 medium spiny neuron (Hsap)	EMSN_234	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	392
+PCL:0051236	Splat_235 long-range projecting sst GABAergic cortical interneuron (Mmus) (Hsap)	Splat_235	CL:0000540	neuron	neuron	393
+PCL:0051237	MGE_236 sst GABAergic cortical interneuron (Hsap)	MGE_236	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	394
+PCL:0051238	Splat_237 sst GABAergic cortical interneuron (Hsap)	Splat_237	CL:0000540	neuron	neuron	395
+PCL:0051240	MGE_239 sst GABAergic cortical interneuron (Hsap)	MGE_239	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	397
+PCL:0051241	MGE_240 sst GABAergic cortical interneuron (Hsap)	MGE_240	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	398
+PCL:0051242	MGE_241 sst GABAergic cortical interneuron (Hsap)	MGE_241	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	399
+PCL:0051243	MGE_242 medial ganglionic eminence derived interneuron (Hsap)	MGE_242	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	400
+PCL:0051244	MGE_243 sst GABAergic cortical interneuron (Hsap)	MGE_243	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	401
+PCL:0051245	MGE_244 medial ganglionic eminence derived interneuron (Hsap)	MGE_244	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	402
+PCL:0051246	MGE_245 medial ganglionic eminence derived interneuron (Hsap)	MGE_245	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	403
+PCL:0051247	MGE_246 sst GABAergic cortical interneuron (Hsap)	MGE_246	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	404
+PCL:0051248	MGE_247 medial ganglionic eminence derived interneuron (Hsap)	MGE_247	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	405
+PCL:0051249	MGE_248 sst GABAergic cortical interneuron (Hsap)	MGE_248	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	406
+PCL:0051250	MGE_249 sst GABAergic cortical interneuron (Hsap)	MGE_249	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	407
+PCL:0051251	MGE_250 medial ganglionic eminence derived interneuron (Hsap)	MGE_250	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	408
+PCL:0051252	MGE_251 medial ganglionic eminence derived interneuron (Hsap)	MGE_251	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	409
+PCL:0051253	MGE_252 sst GABAergic cortical interneuron (Hsap)	MGE_252	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	410
+PCL:0051254	MGE_253 sst GABAergic cortical interneuron (Hsap)	MGE_253	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	411
+PCL:0051255	MGE_254 sst GABAergic cortical interneuron (Hsap)	MGE_254	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	412
+PCL:0051256	MGE_255 medial ganglionic eminence derived interneuron (Hsap)	MGE_255	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	413
+PCL:0051257	MGE_256 pvalb GABAergic cortical interneuron (Hsap)	MGE_256	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	414
+PCL:0051258	MGE_257 pvalb GABAergic cortical interneuron (Hsap)	MGE_257	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	415
+PCL:0051259	MGE_258 sst GABAergic cortical interneuron (Hsap)	MGE_258	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	416
+PCL:0051260	MGE_259 pvalb GABAergic cortical interneuron (Hsap)	MGE_259	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	417
+PCL:0051261	MGE_260 pvalb GABAergic cortical interneuron (Hsap)	MGE_260	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	418
+PCL:0051262	MGE_261 pvalb GABAergic cortical interneuron (Hsap)	MGE_261	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	419
+PCL:0051263	MGE_262 pvalb GABAergic cortical interneuron (Hsap)	MGE_262	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	420
+PCL:0051264	MGE_263 medial ganglionic eminence derived interneuron (Hsap)	MGE_263	CL:4023063	medial ganglionic eminence derived interneuron	MGE derived interneuron	421
+PCL:0051277	CGE_276 vip GABAergic cortical interneuron (Hsap)	CGE_276	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	434
+PCL:0051278	CGE_277 caudal ganglionic eminence derived cortical interneuron (Hsap)	CGE_277	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	435
+PCL:0051279	CGE_278 caudal ganglionic eminence derived cortical interneuron (Hsap)	CGE_278	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	436
+PCL:0051280	CGE_279 vip GABAergic cortical interneuron (Hsap)	CGE_279	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	437
+PCL:0051281	CGE_280 vip GABAergic cortical interneuron (Hsap)	CGE_280	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	438
+PCL:0051282	CGE_281 vip GABAergic cortical interneuron (Hsap)	CGE_281	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	439
+PCL:0051283	CGE_282 caudal ganglionic eminence derived cortical interneuron (Hsap)	CGE_282	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	440
+PCL:0051284	CGE_283 caudal ganglionic eminence derived cortical interneuron (Hsap)	CGE_283	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	441
+PCL:0051285	CGE_284 vip GABAergic cortical interneuron (Hsap)	CGE_284	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	442
+PCL:0051286	CGE_285 vip GABAergic cortical interneuron (Hsap)	CGE_285	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	443
+PCL:0051287	CGE_286 lamp5 GABAergic cortical interneuron (Hsap)	CGE_286	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	444
+PCL:0051288	CGE_287 lamp5 GABAergic cortical interneuron (Hsap)	CGE_287	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	445
+PCL:0051289	CGE_288 lamp5 GABAergic cortical interneuron (Hsap)	CGE_288	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	446
+PCL:0051290	CGE_289 vip GABAergic cortical interneuron (Hsap)	CGE_289	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	447
+PCL:0051291	CGE_290 vip GABAergic cortical interneuron (Hsap)	CGE_290	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	448
+PCL:0051292	CGE_291 vip GABAergic cortical interneuron (Hsap)	CGE_291	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	449
+PCL:0051293	CGE_292 vip GABAergic cortical interneuron (Hsap)	CGE_292	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	450
+PCL:0051294	CGE_293 vip GABAergic cortical interneuron (Hsap)	CGE_293	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	451
+PCL:0051295	CGE_294 vip GABAergic cortical interneuron (Hsap)	CGE_294	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	452
+PCL:0051296	CGE_295 vip GABAergic cortical interneuron (Hsap)	CGE_295	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	453
+PCL:0051297	CGE_296 vip GABAergic cortical interneuron (Hsap)	CGE_296	CL:4023064	caudal ganglionic eminence derived cortical interneuron	CGE interneuron	454
+PCL:0051309	URL_308 unipolar brush cell (Hsap)	URL_308	CL:0000540	neuron	neuron	466
+PCL:0051311	URL_310 cerebellar granule cell (Hsap)	URL_310	CL:0000540	neuron	neuron	468
+PCL:0051312	URL_311 cerebellar granule cell (Hsap)	URL_311	CL:0000540	neuron	neuron	469
+PCL:0051313	URL_312 cerebellar granule cell (Hsap)	URL_312	CL:0000540	neuron	neuron	470
+PCL:0051315	Misc_314 Purkinje cell (Hsap)	Misc_314	CL:0000540	neuron	neuron	472
+PCL:0051406	Amex_405 amygdala excitatory neuron (Hsap)	Amex_405	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	563
+PCL:0051407	Amex_406 amygdala excitatory neuron (Hsap)	Amex_406	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	564
+PCL:0051408	Amex_407 amygdala excitatory neuron (Hsap)	Amex_407	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	565
+PCL:0051409	Amex_408 amygdala excitatory neuron (Hsap)	Amex_408	CL:4023039	amygdala excitatory neuron	amygdala excitatory neuron	566
+PCL:0051420	Amex_419 amygdala excitatory neuron (Hsap)	Amex_419	CL:4023039	amygdala excitatory neuron	Amygdala excitatory neuron	577
+PCL:0051427	EMSN_426 medium spiny neuron (Hsap)	EMSN_426	CL:1001474	medium spiny neuron	eccentric medium spiny neuron	584
+PCL:0051428	MSN_427 direct pathway medium spiny neuron (Hsap)	MSN_427	CL:1001474	medium spiny neuron	medium spiny neuron	585
+PCL:0051431	MSN_430 medium spiny neuron (Hsap)	MSN_430	CL:1001474	medium spiny neuron	medium spiny neuron	588
+UBERON:0000435	lateral tuberal nucleus	tuberal region	UBERON:0001898	hypothalamus	hypothalamus	111
+UBERON:0000935	anterior commissure	anterior commissure	UBERON:0019261	white matter of forebrain	white matter of forebrain	113
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	361
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	360
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	359
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	358
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	357
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	355
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	354
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	353
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	352
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	351
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	350
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	349
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	362
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	348
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	345
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	344
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	343
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	342
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	341
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	340
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	339
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	338
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	337
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	334
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	333
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	330
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	346
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	363
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	364
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	397
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	622
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	621
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	620
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	619
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	562
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	450
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	448
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	441
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	440
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	428
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	426
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	425
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	421
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	420
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	419
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	415
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	414
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	412
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	410
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	409
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	408
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	406
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	405
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	401
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	400
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	399
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	398
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	329
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	623
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	731
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	325
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	271
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	270
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	269
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	267
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	266
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	265
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	264
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	259
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	252
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	251
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	250
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	248
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	272
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	247
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	244
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	242
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	241
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	216
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	211
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	210
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	157
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	156
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	155
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	154
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	153
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	152
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	246
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	273
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	274
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	277
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	324
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	323
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	308
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	307
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	302
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	300
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	299
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	298
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	297
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	296
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	295
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	293
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	292
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	291
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	290
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	289
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	288
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	287
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	286
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	285
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	284
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	283
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	282
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	281
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	280
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	279
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	278
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	326
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	327
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	624
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	626
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	713
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	712
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	711
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	710
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	709
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	708
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	707
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	706
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	705
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	704
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	703
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	702
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	714
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	701
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	699
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	698
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	697
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	696
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	695
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	694
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	693
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	692
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	691
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	690
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	689
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	688
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	700
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	687
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	715
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	717
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	732
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	733
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	734
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	735
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	736
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	737
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	738
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	739
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	740
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	741
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	742
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	743
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	716
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	744
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	729
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	728
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	727
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	726
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	725
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	724
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	723
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	722
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	721
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	720
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	719
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	718
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	730
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	686
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	685
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	684
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	652
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	651
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	650
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	649
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	648
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	647
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	646
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	645
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	644
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	643
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	642
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	641
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	653
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	640
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	638
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	637
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	636
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	635
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	634
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	633
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	632
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	631
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	630
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	629
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	628
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	627
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	639
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	654
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	655
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	656
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	683
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	682
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	681
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	680
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	679
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	678
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	677
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	676
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	675
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	674
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	673
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	672
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	671
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	670
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	669
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	668
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	667
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	666
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	665
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	664
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	663
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	662
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	661
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	660
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	659
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	658
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	657
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	625
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	255
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	745
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	64
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	13
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	41
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	40
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	39
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	38
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	14
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	37
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	36
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	35
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	34
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	15
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	33
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	32
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	31
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	30
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	16
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	29
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	28
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	27
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	26
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	17
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	25
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	24
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	23
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	18
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	22
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	21
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	42
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	20
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	43
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	45
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	65
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	63
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	66
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	62
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	67
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	68
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	61
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	69
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	60
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	59
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	70
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	58
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	44
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	19
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	56
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	55
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	54
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	53
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	52
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	51
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	50
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	49
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	48
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	47
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	46
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	12
+UBERON:0000956	cerebral cortex	cerebral cortex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	57
+UBERON:0001873	caudate nucleus	caudate nucleus	UBERON:0010011	collection of basal ganglia	basal nuclei (basal ganglia)	81
+UBERON:0001874	putamen	putamen	UBERON:0010011	collection of basal ganglia	basal nuclei (basal ganglia)	82
+UBERON:0001876	amygdala	amygdaloid complex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	71
+UBERON:0001876	amygdala	amygdaloid complex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	76
+UBERON:0001876	amygdala	amygdaloid complex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	78
+UBERON:0001876	amygdala	amygdaloid complex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	74
+UBERON:0001876	amygdala	amygdaloid complex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	77
+UBERON:0001876	amygdala	amygdaloid complex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	80
+UBERON:0001876	amygdala	amygdaloid complex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	75
+UBERON:0001876	amygdala	amygdaloid complex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	73
+UBERON:0001876	amygdala	amygdaloid complex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	79
+UBERON:0001876	amygdala	amygdaloid complex	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	72
+UBERON:0001882	nucleus accumbens	nucleus accumbens	UBERON:0010011	collection of basal ganglia	basal nuclei (basal ganglia)	83
+UBERON:0001887	internal capsule of telencephalon	internal capsule	UBERON:0019261	white matter of forebrain	white matter of forebrain	116
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	587
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	589
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	584
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	600
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	582
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	601
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	579
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	603
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	578
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	738
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	588
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	583
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	709
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	576
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	604
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	574
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	572
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	571
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	570
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	569
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	568
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	567
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	566
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	565
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	564
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	563
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	739
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	577
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	575
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	607
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	606
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	735
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	630
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	629
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	54
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	628
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	736
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	627
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	626
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	55
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	625
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	624
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	56
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	623
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	737
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	622
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	57
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	621
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	562
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	608
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	609
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	610
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	612
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	613
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	605
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	614
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	616
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	617
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	618
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	619
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	58
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	620
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	615
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	559
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	543
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	550
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	436
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	435
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	434
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	433
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	432
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	430
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	429
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	61
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	428
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	427
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	741
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	426
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	62
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	742
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	437
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	425
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	423
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	422
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	743
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	421
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	420
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	63
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	419
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	418
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	417
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	416
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	744
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	415
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	64
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	414
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	424
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	438
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	439
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	440
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	549
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	535
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	533
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	521
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	511
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	492
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	491
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	490
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	489
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	488
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	487
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	486
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	485
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	484
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	483
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	482
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	481
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	441
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	60
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	442
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	443
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	444
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	446
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	558
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	447
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	740
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	450
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	59
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	451
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	453
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	454
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	448
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	631
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	53
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	632
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	31
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	682
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	718
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	683
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	30
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	684
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	681
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	717
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	29
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	686
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	716
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	687
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	28
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	688
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	685
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	17
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	16
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	32
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	15
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	673
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	35
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	674
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	721
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	675
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	680
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	34
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	720
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	677
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	33
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	678
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	719
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	679
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	676
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	672
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	689
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	690
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	712
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	701
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	22
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	702
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	703
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	711
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	700
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	704
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	705
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	706
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	19
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	707
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	20
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	708
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	21
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	27
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	23
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	713
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	715
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	691
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	26
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	692
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	693
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	714
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	699
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	694
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	695
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	696
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	18
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	697
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	24
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	698
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	25
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	36
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	671
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	722
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	643
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	48
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	644
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	12
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	645
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	47
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	731
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	646
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	730
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	648
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	413
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	649
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	729
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	650
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	647
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	45
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	642
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	641
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	633
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	52
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	634
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	635
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	734
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	636
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	49
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	51
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	638
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	733
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	639
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	50
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	640
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	732
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	637
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	651
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	728
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	652
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	40
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	664
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	14
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	665
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	39
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	666
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	663
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	724
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	38
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	668
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	723
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	669
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	37
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	670
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	667
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	725
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	662
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	41
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	44
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	653
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	654
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	13
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	655
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	43
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	656
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	657
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	727
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	658
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	42
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	659
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	660
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	726
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	661
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	710
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	46
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	449
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	411
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	94
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	291
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	292
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	293
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	93
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	294
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	295
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	290
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	296
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	92
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	298
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	299
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	300
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	412
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	301
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	302
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	297
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	289
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	288
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	95
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	99
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	274
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	275
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	277
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	278
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	98
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	279
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	280
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	281
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	97
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	282
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	283
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	284
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	96
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	285
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	286
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	287
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	303
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	273
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	304
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	306
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	326
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	327
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	88
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	328
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	329
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	87
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	330
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	89
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	86
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	332
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	333
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	334
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	85
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	337
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	338
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	84
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	331
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	325
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	324
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	323
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	307
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	308
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	90
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	309
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	310
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	311
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	312
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	313
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	314
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	315
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	316
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	317
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	318
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	319
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	320
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	321
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	322
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	305
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	339
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	272
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	100
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	154
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	155
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	156
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	107
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	157
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	193
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	200
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	108
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	206
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	210
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	211
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	106
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	212
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	213
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	215
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	216
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	208
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	153
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	152
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	126
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	110
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	111
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	109
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	112
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	113
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	114
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	115
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	116
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	117
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	118
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	119
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	120
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	121
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	122
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	123
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	124
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	125
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	222
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	271
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	231
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	237
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	257
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	258
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	259
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	102
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	260
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	261
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	262
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	256
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	263
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	265
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	266
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	101
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	267
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	268
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	269
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	270
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	264
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	745
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	255
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	254
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	238
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	241
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	105
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	242
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	243
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	244
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	245
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	246
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	104
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	247
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	248
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	249
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	250
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	103
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	251
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	252
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	253
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	236
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	340
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	91
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	341
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	394
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	396
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	397
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	398
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	362
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	361
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	72
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	360
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	73
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	359
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	358
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	74
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	357
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	373
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	69
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	399
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	400
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	68
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	401
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	355
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	402
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	392
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	75
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	83
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	387
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	372
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	371
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	376
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	378
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	379
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	370
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	369
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	368
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	367
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	366
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	365
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	70
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	364
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	363
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	71
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	380
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	381
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	382
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	383
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	385
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	386
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	389
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	403
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	375
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	349
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	346
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	347
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	410
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	348
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	79
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	76
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	406
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	81
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	353
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	67
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	405
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	80
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	344
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	343
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	78
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	350
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	65
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	82
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	409
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	351
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	352
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	404
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	342
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	77
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	408
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	354
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	66
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	345
+UBERON:0001890	forebrain	forebrain (prosencephalon)	UBERON:0000955	brain	brain	407
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	528
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	455
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	494
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	133
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	135
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	527
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	525
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	522
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	518
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	517
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	516
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	515
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	510
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	127
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	553
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	134
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	529
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	129
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	130
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	131
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	128
+UBERON:0001891	midbrain	midbrain (mesencephalon)	UBERON:0000955	brain	brain	132
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	106
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	100
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	103
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	105
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	108
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	89
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	104
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	102
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	101
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	107
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	99
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	90
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	94
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	92
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	97
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	98
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	95
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	93
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	96
+UBERON:0001897	dorsal plus ventral thalamus	thalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	91
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	570
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	489
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	571
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	484
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	549
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	569
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	111
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	488
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	490
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	485
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	543
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	208
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	109
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	572
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	110
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	589
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	575
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	481
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	222
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	486
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	482
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	576
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	483
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	112
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	487
+UBERON:0001898	hypothalamus	hypothalamus	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	491
+UBERON:0001903	thalamic reticular nucleus	reticular formation of thalamus	UBERON:0001897	dorsal plus ventral thalamus	thalamus	107
+UBERON:0001905	pineal body	pineal body	UBERON:0001899	epithalamus	epithalamus	106
+UBERON:0001906	subthalamic nucleus	subthalamic nucleus (subthalamus)	UBERON:0001897	dorsal plus ventral thalamus	thalamus	108
+UBERON:0001907	zona incerta	zona Incerta	UBERON:0001900	ventral thalamus	ventral thalamus	103
+UBERON:0001908	optic tract	optic tract	UBERON:0019261	white matter of forebrain	white matter of forebrain	120
+UBERON:0001921	reuniens nucleus	reunions nucleus of thalamus	UBERON:0004703	dorsal thalamus	dorsal thalamus	91
+UBERON:0001922	parafascicular nucleus	parafascicular nucleus	UBERON:0004703	dorsal thalamus	dorsal thalamus	100
+UBERON:0001925	ventral lateral nucleus of thalamus	ventral lateral nucleus	UBERON:0004703	dorsal thalamus	dorsal thalamus	95
+UBERON:0001926	lateral geniculate body	lateral geniculate nuclei	UBERON:0004703	dorsal thalamus	dorsal thalamus	98
+UBERON:0001927	medial geniculate body	medial geniculate nuclei	UBERON:0004703	dorsal thalamus	dorsal thalamus	99
+UBERON:0001929	supraoptic nucleus	supraoptic region	UBERON:0001898	hypothalamus	hypothalamus	110
+UBERON:0002023	claustrum of brain	claustrum	UBERON:0019264	gray matter of forebrain	gray matter of forebrain	86
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	145
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	146
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	147
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	144
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	149
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	150
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	151
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	143
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	142
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	141
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	136
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	140
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	139
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	137
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	209
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	148
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	138
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	467
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	497
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	476
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	477
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	504
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	479
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	480
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	552
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	546
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	544
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	538
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	556
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	537
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	493
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	496
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	507
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	499
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	506
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	500
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	501
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	502
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	505
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	508
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	475
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	478
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	473
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	459
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	474
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	458
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	462
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	463
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	457
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	456
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	460
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	464
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	466
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	225
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	468
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	469
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	224
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	557
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	470
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	472
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	465
+UBERON:0002028	hindbrain	hindbrain (rhombencephalon)	UBERON:0000955	brain	brain	461
+UBERON:0002151	pontine nuclear group	basilar part of pons (Pontine nuclei)	UBERON:0000988	pons	pons	143
+UBERON:0002152	middle cerebellar peduncle	middle cerebellar peduncle	UBERON:0019258	white matter of hindbrain	white matter of hindbrain	148
+UBERON:0002163	inferior cerebellar peduncle	inferior cerebellar peduncle	UBERON:0019258	white matter of hindbrain	white matter of hindbrain	149
+UBERON:0002206	mammillary body	mammillary nucleus	UBERON:0001898	hypothalamus	mammillary region	112
+UBERON:0002265	olfactory tract	olfactory tract	UBERON:0019261	white matter of forebrain	white matter of forebrain	118
+UBERON:0002285	telencephalic ventricle	ventricle of forebrain	UBERON:0001890	forebrain	forebrain (prosencephalon)	122
+UBERON:0002285	telencephalic ventricle	ventricle of forebrain	UBERON:0001890	forebrain	forebrain (prosencephalon)	123
+UBERON:0002285	telencephalic ventricle	ventricle of forebrain	UBERON:0001890	forebrain	forebrain (prosencephalon)	121
+UBERON:0002285	telencephalic ventricle	ventricle of forebrain	UBERON:0001890	forebrain	forebrain (prosencephalon)	124
+UBERON:0002285	telencephalic ventricle	ventricle of forebrain	UBERON:0001890	forebrain	forebrain (prosencephalon)	125
+UBERON:0002285	telencephalic ventricle	ventricle of forebrain	UBERON:0001890	forebrain	forebrain (prosencephalon)	126
+UBERON:0002336	corpus callosum	corpus callosum (midline portion)	UBERON:0019261	white matter of forebrain	white matter of forebrain	114
+UBERON:0002476	lateral globus pallidus	globus pallidus, external	UBERON:0010011	collection of basal ganglia	basal nuclei (basal ganglia)	85
+UBERON:0002477	medial globus pallidus	globus pallidus, internal	UBERON:0010011	collection of basal ganglia	basal nuclei (basal ganglia)	84
+UBERON:0002564	lateral orbital gyrus	lateral orbital gyrus	UBERON:0016525	frontal lobe	frontal lobe	21
+UBERON:0002570	medial orbital gyrus	medial orbital gyrus	UBERON:0016525	frontal lobe	frontal lobe	18
+UBERON:0002593	orbital operculum	orbital operculum	UBERON:0016525	frontal lobe	frontal lobe	25
+UBERON:0002603	paraterminal gyrus	paraterminal gyrus	UBERON:0002600	limbic lobe	limbic lobe	62
+UBERON:0002637	ventral anterior nucleus of thalamus	ventral anterior nucleus	UBERON:0004703	dorsal thalamus	dorsal thalamus	94
+UBERON:0002644	intermediate orbital gyrus	anterior intermediate orbital gyrus	UBERON:0016525	frontal lobe	frontal lobe	19
+UBERON:0002644	intermediate orbital gyrus	posterior intermediate orbital gyrus	UBERON:0016525	frontal lobe	frontal lobe	20
+UBERON:0002661	superior frontal gyrus	superior frontal gyrus	UBERON:0016525	frontal lobe	frontal lobe	12
+UBERON:0002702	middle frontal gyrus	middle frontal gyrus	UBERON:0016525	frontal lobe	frontal lobe	13
+UBERON:0002705	midline nuclear group	midline nuclear complex	UBERON:0004703	dorsal thalamus	dorsal thalamus	102
+UBERON:0002739	medial dorsal nucleus of thalamus	mediodorsal nucleus of thalamus	UBERON:0004703	dorsal thalamus	dorsal thalamus	90
+UBERON:0002788	anterior nuclear group	anterior nuclear complex	UBERON:0004703	dorsal thalamus	dorsal thalamus	89
+UBERON:0002886	lateral amygdaloid nucleus	lateral nucleus	UBERON:0001876	amygdala	amygdaloid complex	75
+UBERON:0002889	medial part of basal amygdaloid nucleus	basomedial nucleus	UBERON:0001876	amygdala	amygdaloid complex	77
+UBERON:0002890	anterior amygdaloid area	anterior amygdalar area	UBERON:0001876	amygdala	amygdaloid complex	71
+UBERON:0002891	cortical amygdaloid nucleus	posterior cortical nucleus	UBERON:0001876	amygdala	amygdaloid complex	73
+UBERON:0002892	medial amygdaloid nucleus	medial nucleus	UBERON:0001876	amygdala	amygdaloid complex	74
+UBERON:0002942	ventral posterolateral nucleus	ventral posterior lateral nucleus	UBERON:0004703	dorsal thalamus	dorsal thalamus	97
+UBERON:0002943	lingual gyrus	lingual gyrus	UBERON:0002021	occipital lobe	occipital lobe	51
+UBERON:0002945	ventral posteromedial nucleus of thalamus	ventral posterior medial nucleus	UBERON:0004703	dorsal thalamus	dorsal thalamus	96
+UBERON:0002947	frontal operculum	frontal operculum	UBERON:0016525	frontal lobe	frontal lobe	24
+UBERON:0002948	superior occipital gyrus	superior occipital gyrus	UBERON:0002021	occipital lobe	occipital lobe	54
+UBERON:0002972	centromedian nucleus of thalamus	centromedian nucleus	UBERON:0004703	dorsal thalamus	dorsal thalamus	101
+UBERON:0002981	pulvinar nucleus	pulvinar of thalamus	UBERON:0004703	dorsal thalamus	dorsal thalamus	93
+UBERON:0002983	lateral posterior nucleus of thalamus	lateral posterior nucleus	UBERON:0004703	dorsal thalamus	dorsal thalamus	92
+UBERON:0002998	inferior frontal gyrus	inferior frontal gyrus	UBERON:0016525	frontal lobe	frontal lobe	16
+UBERON:0002998	inferior frontal gyrus	inferior frontal gyrus	UBERON:0016525	frontal lobe	frontal lobe	15
+UBERON:0002998	inferior frontal gyrus	inferior frontal gyrus	UBERON:0016525	frontal lobe	frontal lobe	14
+UBERON:0003017	substantia innominata	substantia Innominata	UBERON:0002743	basal forebrain	basal forebrain	88
+UBERON:0003939	transverse gyrus of Heschl	transverse temporal gyrus (Heschl's gyrus)	UBERON:0001871	temporal lobe	temporal lobe	42
+UBERON:0003939	transverse gyrus of Heschl	transverse temporal gyrus (Heschl's gyrus)	UBERON:0001871	temporal lobe	temporal lobe	43
+UBERON:0004720	cerebellar vermis	cerebellar vermis	UBERON:0002037	cerebellum	cerebellum	139
+UBERON:0006092	cuneus cortex	cuneus	UBERON:0002021	occipital lobe	occipital lobe	50
+UBERON:0007769	medial preoptic region	preoptic region	UBERON:0001898	hypothalamus	hypothalamus	109
+UBERON:0008993	habenular nucleus	habenular nuclei	UBERON:0001899	epithalamus	epithalamus	104
+UBERON:0014608	inferior occipital gyrus	inferior occipital gyrus	UBERON:0002021	occipital lobe	occipital lobe	53
+UBERON:0014644	cerebrocerebellum	lateral hemisphere of cerebellum	UBERON:0002037	cerebellum	cerebellum	138
+UBERON:0022264	optic radiation	optic radiation	UBERON:0019261	white matter of forebrain	white matter of forebrain	119
+UBERON:0022364	occipital fusiform gyrus	occipitotemporal (fusiform) gyrus, temporal part	UBERON:0001871	temporal lobe	temporal lobe	41
+UBERON:0023861	planum polare	planum polare	UBERON:0001871	temporal lobe	temporal lobe	46
+UBERON:0027285	paravermis lobule area	paravermis of cerebellum	UBERON:0002037	cerebellum	cerebellum	137
+UBERON:0034673	amygdalohippocampal area	amygdalohippocampal area	UBERON:0001876	amygdala	amygdaloid complex	79

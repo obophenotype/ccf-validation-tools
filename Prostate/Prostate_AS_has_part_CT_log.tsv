@@ -1,0 +1,5 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000359	vascular associated smooth muscle cell	vascular associated smooth muscle cell	UBERON:0004237	blood vessel smooth muscle	vascular smooth muscle	23
+CL:0002340	luminal cell of prostate epithelium	luminal epithelia	UBERON:0004179	Prostate Glandular Acinus	Prostate Glandular Acinus	12
+CL:0002341	basal cell of prostate epithelium	basal epithelia	UBERON:0004179	Prostate Glandular Acinus	Prostate Glandular Acinus	13
+CL:1000487	smooth muscle cell of prostate	prostate smooth muscle	UBERON:0004243	prostate gland smooth muscle	Prostate Glandular Acinus	16

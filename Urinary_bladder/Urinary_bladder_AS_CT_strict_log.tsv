@@ -1,0 +1,23 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000057	fibroblast	fibroblast	UBERON:0001255	urinary bladder	urinary bladder	39
+CL:0000057	fibroblast	fibroblast	UBERON:0001255	urinary bladder	urinary bladder	38
+CL:0000066	epithelial cell	epithelial cell	UBERON:0011945	luminal layer of epithelium	luminal layer of epithelium	29
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	16
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0001255	urinary bladder	urinary bladder	36
+CL:0000359	vascular associated smooth muscle cell	vascular associated smooth muscle cell	UBERON:0004237	blood vessel smooth muscle	vascular smooth muscle	40
+CL:0000646	basal cell	basal cell	UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	30
+CL:0000669	pericyte	pericyte	UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	41
+CL:0000669	pericyte	pericyte	UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	22
+CL:0002138	endothelial cell of lymphatic vessel	endothelial cell of lymphatic vessel	UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	45
+CL:0002144	capillary endothelial cell	capillary endothelial cell	UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	43
+CL:0002543	vein endothelial cell	vein endothelial cell	UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	44
+CL:0002597	smooth muscle cell of bladder	smooth muscle cell of bladder	UBERON:0012378	muscle layer of urinary bladder	muscle layer of urinary bladder	32
+CL:0002597	smooth muscle cell of bladder	smooth muscle	UBERON:0000381	urinary bladder detrusor smooth muscle	urinary bladder detrusor smooth muscle	15
+CL:0002597	smooth muscle cell of bladder	smooth muscle cell of bladder	UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	21
+CL:1000413	endothelial cell of artery	endothelial cell of artery	UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	42
+CL:1000486	basal cell of urothelium	basal cell of urothelium	UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	12
+CL:1001319	bladder cell	bladder cell	UBERON:0001261	lamina propria of urinary bladder	lamina propria of urinary bladder	19
+CL:2000040	bladder microvascular endothelial cell	bladder microvascular endothelial cell	UBERON:0012239	urinary bladder vasculature	urinary bladder vasculature	20
+CL:4030055	intermediate cell of urothelium	intermediate cell of urothelium	UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	31
+CL:4030055	intermediate cell of urothelium	intermediate cell of urothelium	UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	13
+CL:4030056	umbrella cell of urothelium	umbrella cell of urothelium	UBERON:0004645	urinary bladder urothelium	urinary bladder urothelium	14

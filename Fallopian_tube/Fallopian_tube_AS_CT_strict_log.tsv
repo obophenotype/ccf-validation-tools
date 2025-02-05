@@ -1,0 +1,62 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000057	fibroblast	Fibroblast	UBERON:0016632	isthmus of fallopian tube	isthmus of Fallopian tube	29
+CL:0000057	fibroblast	Fibroblast	UBERON:8410010	fimbria of fallopian tube	fimbria of Fallopian tube	84
+CL:0000057	fibroblast	Fibroblast	UBERON:0003984	uterine tube infundibulum	infundibulum of Fallopian tube	61
+CL:0000057	fibroblast	Fibroblast	UBERON:0012648	ampulla of fallopian tube	ampulla of Fallopian tube	45
+CL:0000066	epithelial cell	epithelial cell	UBERON:0012331	mesosalpinx	mesosalpinx	76
+CL:0000097	mast cell	mast cell	UBERON:8410010	fimbria of fallopian tube	fimbria of Fallopian tube	93
+CL:0000097	mast cell	mast cell	UBERON:0003984	uterine tube infundibulum	infundibulum of Fallopian tube	70
+CL:0000097	mast cell	mast cell	UBERON:0016632	isthmus of fallopian tube	isthmus of Fallopian tube	38
+CL:0000097	mast cell	mast cell	UBERON:0012648	ampulla of fallopian tube	ampulla of Fallopian tube	54
+CL:0000115	endothelial cell	Endothelial cell	UBERON:8410010	fimbria of fallopian tube	fimbria of Fallopian tube	98
+CL:0000115	endothelial cell	Endothelial cell	UBERON:0003984	uterine tube infundibulum	infundibulum of Fallopian tube	75
+CL:0000115	endothelial cell	Endothelial cell	UBERON:0012648	ampulla of fallopian tube	ampulla of Fallopian tube	59
+CL:0000115	endothelial cell	Endothelial cell	UBERON:0016632	isthmus of fallopian tube	isthmus of Fallopian tube	43
+CL:0000235	macrophage	macrophage	UBERON:8410010	fimbria of fallopian tube	fimbria of Fallopian tube	86
+CL:0000235	macrophage	macrophage	UBERON:0012648	ampulla of fallopian tube	ampulla of Fallopian tube	47
+CL:0000235	macrophage	macrophage	UBERON:0003984	uterine tube infundibulum	infundibulum of Fallopian tube	63
+CL:0000235	macrophage	macrophage	UBERON:0016632	isthmus of fallopian tube	isthmus of Fallopian tube	31
+CL:0000236	B cell	B cell	UBERON:0003984	uterine tube infundibulum	infundibulum of Fallopian tube	71
+CL:0000236	B cell	B cell	UBERON:0012648	ampulla of fallopian tube	ampulla of Fallopian tube	55
+CL:0000236	B cell	B cell	UBERON:8410010	fimbria of fallopian tube	fimbria of Fallopian tube	94
+CL:0000236	B cell	B cell	UBERON:0016632	isthmus of fallopian tube	isthmus of Fallopian tube	39
+CL:0000451	dendritic cell	dendritic cell	UBERON:0003984	uterine tube infundibulum	infundibulum of Fallopian tube	69
+CL:0000451	dendritic cell	dendritic cell	UBERON:0012648	ampulla of fallopian tube	ampulla of Fallopian tube	53
+CL:0000451	dendritic cell	dendritic cell	UBERON:0016632	isthmus of fallopian tube	isthmus of Fallopian tube	37
+CL:0000451	dendritic cell	dendritic cell	UBERON:8410010	fimbria of fallopian tube	fimbria of Fallopian tube	92
+CL:0000453	Langerhans cell	Langerhans cell	UBERON:0016632	isthmus of fallopian tube	isthmus of Fallopian tube	35
+CL:0000453	Langerhans cell	Langerhans cell	UBERON:8410010	fimbria of fallopian tube	fimbria of Fallopian tube	90
+CL:0000453	Langerhans cell	Langerhans cell	UBERON:0012648	ampulla of fallopian tube	ampulla of Fallopian tube	51
+CL:0000453	Langerhans cell	Langerhans cell	UBERON:0003984	uterine tube infundibulum	infundibulum of Fallopian tube	67
+CL:0000576	monocyte	monocyte	UBERON:0016632	isthmus of fallopian tube	isthmus of Fallopian tube	36
+CL:0000576	monocyte	monocyte	UBERON:0003984	uterine tube infundibulum	infundibulum of Fallopian tube	68
+CL:0000576	monocyte	monocyte	UBERON:8410010	fimbria of fallopian tube	fimbria of Fallopian tube	91
+CL:0000576	monocyte	monocyte	UBERON:0012648	ampulla of fallopian tube	ampulla of Fallopian tube	52
+CL:0000623	natural killer cell	Natural killer cell	UBERON:0003984	uterine tube infundibulum	infundibulum of Fallopian tube	65
+CL:0000623	natural killer cell	Natural killer cell	UBERON:0012648	ampulla of fallopian tube	ampulla of Fallopian tube	49
+CL:0000623	natural killer cell	Natural killer cell	UBERON:8410010	fimbria of fallopian tube	fimbria of Fallopian tube	88
+CL:0000623	natural killer cell	Natural killer cell	UBERON:0016632	isthmus of fallopian tube	isthmus of Fallopian tube	33
+CL:0000624	CD4-positive, alpha-beta T cell	CD4+ T-cell	UBERON:0003984	uterine tube infundibulum	infundibulum of Fallopian tube	66
+CL:0000624	CD4-positive, alpha-beta T cell	CD4+ T-cell	UBERON:0012648	ampulla of fallopian tube	ampulla of Fallopian tube	50
+CL:0000624	CD4-positive, alpha-beta T cell	CD4+ T-cell	UBERON:8410010	fimbria of fallopian tube	fimbria of Fallopian tube	89
+CL:0000624	CD4-positive, alpha-beta T cell	CD4+ T-cell	UBERON:0016632	isthmus of fallopian tube	isthmus of Fallopian tube	34
+CL:0000625	CD8-positive, alpha-beta T cell	CD8+ T-cells	UBERON:0016632	isthmus of fallopian tube	isthmus of Fallopian tube	32
+CL:0000625	CD8-positive, alpha-beta T cell	CD8+ T-cells	UBERON:0012648	ampulla of fallopian tube	ampulla of Fallopian tube	48
+CL:0000625	CD8-positive, alpha-beta T cell	CD8+ T-cells	UBERON:0003984	uterine tube infundibulum	infundibulum of Fallopian tube	64
+CL:0000625	CD8-positive, alpha-beta T cell	CD8+ T-cells	UBERON:8410010	fimbria of fallopian tube	fimbria of Fallopian tube	87
+CL:0000775	neutrophil	neutrophil	UBERON:8410010	fimbria of fallopian tube	fimbria of Fallopian tube	96
+CL:0000775	neutrophil	neutrophil	UBERON:0016632	isthmus of fallopian tube	isthmus of Fallopian tube	41
+CL:0000775	neutrophil	neutrophil	UBERON:0012648	ampulla of fallopian tube	ampulla of Fallopian tube	57
+CL:0000775	neutrophil	neutrophil	UBERON:0003984	uterine tube infundibulum	infundibulum of Fallopian tube	73
+CL:0000786	plasma cell	plasma cell	UBERON:0003984	uterine tube infundibulum	infundibulum of Fallopian tube	72
+CL:0000786	plasma cell	plasma cell	UBERON:0012648	ampulla of fallopian tube	ampulla of Fallopian tube	56
+CL:0000786	plasma cell	plasma cell	UBERON:8410010	fimbria of fallopian tube	fimbria of Fallopian tube	95
+CL:0000786	plasma cell	plasma cell	UBERON:0016632	isthmus of fallopian tube	isthmus of Fallopian tube	40
+CL:0008019	mesenchymal cell	mesenchymal cell	UBERON:0012648	ampulla of fallopian tube	ampulla of Fallopian tube	46
+CL:0008019	mesenchymal cell	mesenchymal cell	UBERON:0003984	uterine tube infundibulum	infundibulum of Fallopian tube	62
+CL:0008019	mesenchymal cell	mesenchymal cell	UBERON:0016632	isthmus of fallopian tube	isthmus of Fallopian tube	30
+CL:4030006	fallopian tube secretory epithelial cell	fallopian tube secretory epithelial cell	UBERON:0007590	cuboidal oviduct epithelium	cuboidal oviduct epithelium	128
+CL:4030006	fallopian tube secretory epithelial cell	fallopian tube secretory epithelial cell	UBERON:0007590	cuboidal oviduct epithelium	cuboidal oviduct epithelium	122
+CL:4030006	fallopian tube secretory epithelial cell	fallopian tube secretory epithelial cell	UBERON:0007590	cuboidal oviduct epithelium	cuboidal oviduct epithelium	124
+CL:4030006	fallopian tube secretory epithelial cell	fallopian tube secretory epithelial cell	UBERON:0007590	cuboidal oviduct epithelium	cuboidal oviduct epithelium	126
+CL:4030006	fallopian tube secretory epithelial cell	fallopian tube secretory epithelial cell	UBERON:0007590	cuboidal oviduct epithelium	cuboidal oviduct epithelium	130

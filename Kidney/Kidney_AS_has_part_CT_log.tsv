@@ -1,0 +1,8 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000113	mononuclear phagocyte	mononuclear phagocyte	UBERON:0005215	kidney interstitium	Interstitium	81
+CL:0000115	endothelial cell	Endothelial Cell	UBERON:0001986	endothelium	Endothelium (non glomerular)	59
+CL:0000738	Leukocyte	Leukocyte	UBERON:0005215	kidney interstitium	Interstitium	72
+CL:0000990	conventional dendritic cell	Dendritic Cell (classical)	UBERON:0005215	kidney interstitium	Interstitium	78
+CL:0002138	endothelial cell of lymphatic vessel	Lymphatic Endothelial Cell	UBERON:0002042	lymphatic vessel endothelium	Endothelium (non glomerular)	65
+CL:0002201	renal beta-intercalated cell	Intercalated Cell Type B	UBERON:0001232	collecting duct of renal tubule	Collecting Duct	57
+CL:0019018	blood vessel smooth muscle cell	Vascular Smooth Muscle Cell	UBERON:0003517	kidney blood vessel	Kidney Blood Vessel	67

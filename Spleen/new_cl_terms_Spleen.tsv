@@ -1,0 +1,21 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	CL Name	References/ID	References/DOI
+UBERON:0013132	Penicillar Arteriole	Penicillar Arteriole	Adventitial Stromal Cell	HTTPS:DOIORG101111IMM12469	
+UBERON:0013132	Penicillar Arteriole	Penicillar Arteriole	Splenic Stromal Cell (non-FRC/non-FDC)	HTTPS:DOIORG101111IMM12469	
+UBERON:0013132	Penicillar Arteriole	Penicillar Arteriole	Splenic Smooth Muscle Cell	HTTPS:DOIORG101111IMM12469	
+UBERON:0001250	red pulp of spleen	Red Pulp	Splenic Pericyte	HTTPS:DOIORG101371JOURNALPONE0191019 ; HTTPS:DOIORG101007S00418020019243	
+UBERON:0001250	red pulp of spleen	Red Pulp	Splenic Stromal Sheath Cell	HTTPS:DOIORG101111IMM12469	
+UBERON:0003910	splenic sinusoid	Splenic Sinusoid	Reticular Cell of splenic sinusoid	HTTPS:DOIORG102478S1175600901935 ; HTTPS:DOIORG101111J136525591986TB02483X	
+UBERON:0003910	splenic sinusoid	Splenic Sinusoid	Splenic Littoral Cell	HTTPS:DOIORG101182BLOODV1262335943594 ; HTTPS:DOIORG104049JIMMUNOL1103086 ; HTTPS:DOIORG101182BLOODADVANCES2017015073	
+UBERON:0003910	splenic sinusoid	Splenic Sinusoid	Splenic Red Pulp Stromal Cell	HTTPS:DOIORG101002EJI200425442	
+UBERON:0005353	spleen perifollicular zone	Perifollicular Zone	Splenic perifollicular zone macrophage	HTTPS:DOIORG10554189781933477060 ; HTTPS:DOIORG101046J13652567199700328X ; HTTPS:DOIORG101111J13652567200702710X ; HTTPS:DOIORG101186S130590191906X	
+UBERON:0005353	spleen perifollicular zone	Perifollicular Zone	DEC205+ DC	HTTPS:DOIORG101111J13652567200702710X	
+UBERON:0004041	spleen primary B follicle	Primary Follicle	DEC205+ DC	HTTPS:DOIORG101111J13652567200702710X	
+UBERON:0010421	spleen B cell corona	Mantle Zone	Mantle Zone B Cell	HTTPS:DOIORG101111IMM12325 ; HTTPS:DOIORG101111IMM12469 ; HTTPS:DOIORG101186S130590191906X	
+UBERON:0010421	spleen B cell corona	Mantle Zone	Splenic Pericyte	HTTPS:DOIORG101371JOURNALPONE0191019 ; HTTPS:DOIORG101007S00418020019243	
+UBERON:0001251	Marginal Zone of Spleen	Superficial Zone	Splenic Stromal Cell (non-FRC/non-FDC)	HTTPS:DOIORG101111IMM12469	
+UBERON:0010401	spleen central arteriole	Periarteriolar Lymphoid Sheath (PALS)	Adventitial Stromal Cell	HTTPS:DOIORG101111IMM12469	
+UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	Interdigitating Dendritic Cells	HTTPS:DOIORG101309M95G7DQ2TLQL7Q11	
+UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	Splenic Smooth Muscle Cell	HTTPS:DOIORG101111IMM12469	
+UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	Splenic Stromal Cell (non-FRC/non-FDC)	HTTPS:DOIORG101111IMM12469	
+UBERON:0001960	periarterial lymphatic sheath	Periarteriolar Lymphoid Sheath (PALS)	DEC205+ DC	HTTPS:DOIORG101111J13652567200702710X	
+UBERON:0004641	spleen capsule	Capsule	Subcapsular Dendritic Cell	HTTPS:DOIORG101111J13652249200803734X	

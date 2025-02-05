@@ -1,0 +1,580 @@
+{
+  "no_valid_id": [
+    {
+      "id": "FMA:55221",
+      "label": "diffuse lymphoid tissue",
+      "user_label": "diffuse lymphoid tissue",
+      "row_number": 16
+    },
+    {
+      "id": "FMA:55221",
+      "label": "diffuse lymphoid tissue",
+      "user_label": "diffuse lymphoid tissue",
+      "row_number": 17
+    },
+    {
+      "id": "FMA:55221",
+      "label": "diffuse lymphoid tissue",
+      "user_label": "diffuse lymphoid tissue",
+      "row_number": 18
+    },
+    {
+      "id": "FMA:55221",
+      "label": "diffuse lymphoid tissue",
+      "user_label": "diffuse lymphoid tissue",
+      "row_number": 19
+    },
+    {
+      "id": "FMA:55221",
+      "label": "diffuse lymphoid tissue",
+      "user_label": "diffuse lymphoid tissue",
+      "row_number": 20
+    },
+    {
+      "id": "FMA:55221",
+      "label": "diffuse lymphoid tissue",
+      "user_label": "diffuse lymphoid tissue",
+      "row_number": 21
+    },
+    {
+      "id": "FMA:55221",
+      "label": "diffuse lymphoid tissue",
+      "user_label": "diffuse lymphoid tissue",
+      "row_number": 22
+    },
+    {
+      "id": "FMA:55221",
+      "label": "diffuse lymphoid tissue",
+      "user_label": "diffuse lymphoid tissue",
+      "row_number": 23
+    },
+    {
+      "id": "FMA:55221",
+      "label": "diffuse lymphoid tissue",
+      "user_label": "diffuse lymphoid tissue",
+      "row_number": 24
+    },
+    {
+      "id": "FMA:55221",
+      "label": "diffuse lymphoid tissue",
+      "user_label": "diffuse lymphoid tissue",
+      "row_number": 25
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "plasma cell CD21",
+      "row_number": 25
+    },
+    {
+      "id": "FMA:49555",
+      "label": "Ascending palatine artery",
+      "user_label": "ascending palatine artery",
+      "row_number": 27
+    },
+    {
+      "id": "FMA:49497",
+      "label": "Ascending pharyngeal artery",
+      "user_label": "ascending pharyngeal artery",
+      "row_number": 29
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "peritonsillar plexus of veins",
+      "row_number": 31
+    },
+    {
+      "id": "FMA:55221",
+      "label": "diffuse lymphoid tissue",
+      "user_label": "diffuse lymphoid tissue",
+      "row_number": 32
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil T cell zone",
+      "row_number": 32
+    },
+    {
+      "id": "FMA:55221",
+      "label": "diffuse lymphoid tissue",
+      "user_label": "diffuse lymphoid tissue",
+      "row_number": 33
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil T cell zone",
+      "row_number": 33
+    },
+    {
+      "id": "FMA:55221",
+      "label": "diffuse lymphoid tissue",
+      "user_label": "diffuse lymphoid tissue",
+      "row_number": 34
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil T cell zone",
+      "row_number": 34
+    },
+    {
+      "id": "FMA:55221",
+      "label": "diffuse lymphoid tissue",
+      "user_label": "diffuse lymphoid tissue",
+      "row_number": 35
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil T cell zone",
+      "row_number": 35
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 36
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 36
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Cycling B",
+      "row_number": 36
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 37
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 37
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 38
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 38
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 39
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 39
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 40
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 40
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 41
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 41
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 42
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 42
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Cycling B",
+      "row_number": 42
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 43
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 43
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 44
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 44
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 45
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 45
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 46
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 46
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 47
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 47
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 48
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 48
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 49
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 49
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 50
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 50
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "germinal center B cell CD21",
+      "row_number": 50
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 51
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 51
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil germinal center mantle zone",
+      "row_number": 51
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 52
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 52
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil germinal center mantle zone",
+      "row_number": 52
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 53
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 53
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil germinal center mantle zone",
+      "row_number": 53
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 54
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 54
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Centroblast",
+      "row_number": 54
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 55
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 55
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "Cycling B",
+      "row_number": 55
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 56
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 56
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 57
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 57
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 58
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 58
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 59
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 59
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 60
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 60
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 61
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 61
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 62
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 62
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 63
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 63
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "germinal center B cell CD21",
+      "row_number": 63
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 64
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 64
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil germinal center light zone",
+      "row_number": 64
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil follicle",
+      "row_number": 65
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil secondary follicle",
+      "row_number": 65
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "tonsil germinal center dark zone",
+      "row_number": 65
+    }
+  ],
+  "no_found_id": [],
+  "diff_label": [
+    {
+      "id": "CL:0000624",
+      "label": "CD4-positive, alpha-beta T cell",
+      "asct_label": "CD4-positive alpha-beta T cells",
+      "user_label": "CD4 T cell",
+      "row_number": 43
+    },
+    {
+      "id": "CL:0000624",
+      "label": "CD4-positive, alpha-beta T cell",
+      "asct_label": "CD4-positive alpha-beta T cells",
+      "user_label": "CD4 T cell",
+      "row_number": 56
+    }
+  ],
+  "no_parent": []
+}

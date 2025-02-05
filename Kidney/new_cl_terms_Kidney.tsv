@@ -1,0 +1,4 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	CL Name	References/ID	References/DOI
+UBERON:0002015	kidney capsule	kidney capsule	capsule mesenchymal stromal cell	HTTPS:DOIORG101371JOURNALPONE0187118	
+UBERON:0001232	collecting duct of renal tubule	Collecting Duct	Transitional principal-intercalated cell	HTTPS:DOIORG101038S41467019108612 ; HTTPS:DOIORG101172JCIINSIGHT133267	
+UBERON:0005215	kidney interstitium	Interstitium	Monocyte Derived Cell		

@@ -1,0 +1,33 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	CL Name	References/ID	References/DOI
+UBERON:0008346	duodenal epithelium	Epithelium	BCHE (butyrylcholinesterase) cell		DOI: 10.1016/j.celrep.2021.108819
+UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	lymphatic		
+UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	nerve		
+UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	CD4+ T		
+UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	regulatory CD4+ T		
+UBERON:0015834	duodenum lamina propria	Lamina propria/Gut associated lymphoid tissue (GALT)	CD8+ T		
+UBERON:8410064	submucous nerve plexus of small intestine	submucosal plexus of Meissner submucosal plexus (Meissners plexus, plexus of the submucosa, plexus submucosus)	nerve		
+UBERON:8410064	submucous nerve plexus of small intestine	submucosal plexus of Meissner	muscle		
+UBERON:0000399	jejunal mucosa	mucosa	lymphatics		
+UBERON:0000399	jejunal mucosa	mucosa	nerves		
+UBERON:0000399	jejunal mucosa	mucosa	CD4+ T		
+UBERON:0000399	jejunal mucosa	mucosa	regulatory CD4+ T		
+UBERON:0000399	jejunal mucosa	mucosa	CD8+ T		
+UBERON:0016519	muscularis mucosae of jejunum	muscularis mucosa	muscle		
+UBERON:0003333	submucosa of jejunum	submucosa	nerves		
+UBERON:0003333	submucosa of jejunum	submucosa	lymphatic		
+UBERON:0003333	submucosa of jejunum	submucosa	muscle		
+UBERON:0012377	muscle layer of jejunum	muscularis externa	muscle		
+UBERON:0012377	muscle layer of jejunum	muscularis externa	nerves		
+		mucosa	epithelial stem cells		
+		mucosa	lymphatics		
+		mucosa	nerves		
+		mucosa	CD4+ T		
+		mucosa	regulatory CD4+ T		
+		mucosa	CD8+ T		
+		mucosa	muscle		
+FMA:14966	distal part of ileum	terminal ileum	nerves		
+FMA:14966	distal part of ileum	terminal ileum	lymphatic		
+		submucosa	nerves		
+		submucosa	muscle		
+		muscularis externa	muscle		
+		muscularis externa	nerves		

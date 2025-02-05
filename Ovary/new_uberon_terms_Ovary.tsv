@@ -1,0 +1,333 @@
+Upper AS	Upper AS/label	Upper AS/ID	AS Name	References/ID	References/DOI
+ovary	ovary	UBERON:0000992	central ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+central ovary			central inferior ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+central inferior ovary			central inferior antimesenteric ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+ovary	ovary	UBERON:0000992	central ovary		
+central ovary			central inferior ovary		
+central inferior ovary			central inferior antimesenteric ovary		
+central inferior antimesenteric ovary			ovarian corticomedullary junction		
+central inferior ovary			central inferior mesenteric ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+central inferior ovary			central inferior mesenteric ovary		
+central inferior mesenteric ovary			ovarian corticomedullary junction		
+central ovary			central superior ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+central superior ovary			central superior antimesenteric ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+central ovary			central superior ovary		
+central superior ovary			central superior antimesenteric ovary		
+central superior antimesenteric ovary			ovarian corticomedullary junction		
+central superior ovary			central superior mesenteric ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+central superior ovary			central superior mesenteric ovary		
+central superior mesenteric ovary			ovarian corticomedullary junction		
+ovary	ovary	UBERON:0000992	lateral ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+lateral ovary			lateral inferior ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+lateral inferior ovary			lateral inferior antimesenteric ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+ovary	ovary	UBERON:0000992	lateral ovary		
+lateral ovary			lateral inferior ovary		
+lateral inferior ovary			lateral inferior antimesenteric ovary		
+lateral inferior antimesenteric ovary			ovarian corticomedullary junction		
+lateral inferior ovary			lateral inferior mesenteric ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+lateral inferior ovary			lateral inferior mesenteric ovary		
+lateral inferior mesenteric ovary			ovarian corticomedullary junction		
+lateral ovary			lateral superior ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+lateral superior ovary			lateral superior antimesenteric ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+lateral ovary			lateral superior ovary		
+lateral superior ovary			lateral superior antimesenteric ovary		
+lateral superior antimesenteric ovary			ovarian corticomedullary junction		
+lateral superior ovary			lateral superior mesenteric ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+lateral superior ovary			lateral superior mesenteric ovary		
+lateral superior mesenteric ovary			ovarian corticomedullary junction		
+ovary	ovary	UBERON:0000992	medial ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+medial ovary			medial inferior ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+medial inferior ovary			medial inferior antimesenteric ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+ovary	ovary	UBERON:0000992	medial ovary		
+medial ovary			medial inferior ovary		
+medial inferior ovary			medial inferior antimesenteric ovary		
+medial inferior antimesenteric ovary			ovarian corticomedullary junction		
+medial inferior ovary			medial inferior mesenteric ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+medial inferior ovary			medial inferior mesenteric ovary		
+medial inferior mesenteric ovary			ovarian corticomedullary junction		
+medial ovary			medial superior ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+medial superior ovary			medial superior antimesenteric ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+medial ovary			medial superior ovary		
+medial superior ovary			medial superior antimesenteric ovary		
+medial superior antimesenteric ovary			ovarian corticomedullary junction		
+medial superior ovary			medial superior mesenteric ovary	ISBN:9781496398949 ; PMID:4143757 ; HTTPS:DOIORG101371JOURNALPONE0055578 ; HTTPS:DOIORG1010160090825879900052 ; PMID:13774016	
+medial superior ovary			medial superior mesenteric ovary		
+medial superior mesenteric ovary			ovarian corticomedullary junction		
+ovary	ovary	UBERON:0000992	central ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+central ovary			central inferior ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+central inferior ovary			central inferior antimesenteric ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+ovarian cortex	ovarian cortex	UBERON:0013191	cortical blood vessels	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+ovary	ovary	UBERON:0000992	central ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+central ovary			central inferior ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+central inferior ovary			central inferior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+ovary	ovary	UBERON:0000992	central ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+central ovary			central inferior ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+central inferior ovary			central inferior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+ovarian medulla	ovarian medulla	UBERON:0013192	matrisome	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+ovarian medulla	ovarian medulla	UBERON:0013192	ovarian medullary vasculature		
+ovarian medulla	ovarian medulla	UBERON:0013192	lymphatic vessel		
+ovarian medulla	ovarian medulla	UBERON:0013192	nerve		
+central inferior ovary			central inferior mesenteric ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+central inferior ovary			central inferior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+central inferior ovary			central inferior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+mesenchyme of ovary	mesenchyme of ovary	UBERON:0003315	matrisome	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+central ovary			central superior ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+central superior ovary			central superior antimesenteric ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+central ovary			central superior ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+central superior ovary			central superior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+central ovary			central superior ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+central superior ovary			central superior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+central superior ovary			central superior mesenteric ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+central superior ovary			central superior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+central superior ovary			central superior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+ovary	ovary	UBERON:0000992	lateral ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+lateral ovary			lateral inferior ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+lateral inferior ovary			lateral inferior antimesenteric ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+ovary	ovary	UBERON:0000992	lateral ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+lateral ovary			lateral inferior ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+lateral inferior ovary			lateral inferior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+ovary	ovary	UBERON:0000992	lateral ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+lateral ovary			lateral inferior ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+lateral inferior ovary			lateral inferior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+lateral inferior ovary			lateral inferior mesenteric ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+lateral inferior ovary			lateral inferior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+lateral inferior ovary			lateral inferior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+lateral ovary			lateral superior ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+lateral superior ovary			lateral superior antimesenteric ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+lateral ovary			lateral superior ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+lateral superior ovary			lateral superior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+lateral ovary			lateral superior ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+lateral superior ovary			lateral superior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+lateral superior ovary			lateral superior mesenteric ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+lateral superior ovary			lateral superior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+lateral superior ovary			lateral superior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+ovary	ovary	UBERON:0000992	medial ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+medial ovary			medial inferior ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+medial inferior ovary			medial inferior antimesenteric ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+ovary	ovary	UBERON:0000992	medial ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+medial ovary			medial inferior ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+medial inferior ovary			medial inferior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+ovary	ovary	UBERON:0000992	medial ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+medial ovary			medial inferior ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+medial inferior ovary			medial inferior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+medial inferior ovary			medial inferior mesenteric ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+medial inferior ovary			medial inferior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+medial inferior ovary			medial inferior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+medial ovary			medial superior ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+medial superior ovary			medial superior antimesenteric ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+medial ovary			medial superior ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+medial superior ovary			medial superior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+medial ovary			medial superior ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+medial superior ovary			medial superior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+medial superior ovary			medial superior mesenteric ovary	HTTP:WEBMITEDUHYNESLABMATRISOME ; HTTPS:DOIORG101074MCPM111014647	
+medial superior ovary			medial superior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMW039	
+medial superior ovary			medial superior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMG016	
+ovary	ovary	UBERON:0000992	central ovary	HTTPS:DOIORG101002RMB212371	
+central ovary			central inferior ovary	HTTPS:DOIORG101002RMB212371	
+central inferior ovary			central inferior antimesenteric ovary	HTTPS:DOIORG101002RMB212371	
+ovarian follicle	ovarian follicle	UBERON:0001305	preantral follicle	HTTPS:DOIORG101002RMB212371	
+ovary	ovary	UBERON:0000992	central ovary	HTTPS:DOIORG103390CELLS9061418	
+central ovary			central inferior ovary	HTTPS:DOIORG103390CELLS9061418	
+central inferior ovary			central inferior antimesenteric ovary	HTTPS:DOIORG103390CELLS9061418	
+ovarian follicle	ovarian follicle	UBERON:0001305	antral follicle	HTTPS:DOIORG103390CELLS9061418	
+ovary	ovary	UBERON:0000992	central ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+central ovary			central inferior ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+central inferior ovary			central inferior antimesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+ovary	ovary	UBERON:0000992	central ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+central ovary			central inferior ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+central inferior ovary			central inferior antimesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+ovarian follicle	ovarian follicle	UBERON:0001305	hemorrhagic anovulatory follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+ovarian follicle	ovarian follicle	UBERON:0001305	hemorrhagic anovulatory follicle		
+ovarian follicle	ovarian follicle	UBERON:0001305	luteinized unruptured follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+ovarian follicle	ovarian follicle	UBERON:0001305	luteinized unruptured follicle		
+corpus luteum	corpus luteum	UBERON:0002512	corpus luteum granulosa lutein layer		
+corpus luteum	corpus luteum	UBERON:0002512	corpus luteum granulosa theca layer		
+central inferior ovary			central inferior mesenteric ovary	HTTPS:DOIORG101002RMB212371	
+central inferior ovary			central inferior mesenteric ovary	HTTPS:DOIORG103390CELLS9061418	
+central inferior ovary			central inferior mesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+central inferior ovary			central inferior mesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+central ovary			central superior ovary	HTTPS:DOIORG101002RMB212371	
+central superior ovary			central superior antimesenteric ovary	HTTPS:DOIORG101002RMB212371	
+central ovary			central superior ovary	HTTPS:DOIORG103390CELLS9061418	
+central superior ovary			central superior antimesenteric ovary	HTTPS:DOIORG103390CELLS9061418	
+central ovary			central superior ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+central superior ovary			central superior antimesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+central ovary			central superior ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+central superior ovary			central superior antimesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+central superior ovary			central superior mesenteric ovary	HTTPS:DOIORG101002RMB212371	
+central superior ovary			central superior mesenteric ovary	HTTPS:DOIORG103390CELLS9061418	
+central superior ovary			central superior mesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+central superior ovary			central superior mesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+ovary	ovary	UBERON:0000992	lateral ovary	HTTPS:DOIORG101002RMB212371	
+lateral ovary			lateral inferior ovary	HTTPS:DOIORG101002RMB212371	
+lateral inferior ovary			lateral inferior antimesenteric ovary	HTTPS:DOIORG101002RMB212371	
+ovary	ovary	UBERON:0000992	lateral ovary	HTTPS:DOIORG103390CELLS9061418	
+lateral ovary			lateral inferior ovary	HTTPS:DOIORG103390CELLS9061418	
+lateral inferior ovary			lateral inferior antimesenteric ovary	HTTPS:DOIORG103390CELLS9061418	
+ovary	ovary	UBERON:0000992	lateral ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+lateral ovary			lateral inferior ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+lateral inferior ovary			lateral inferior antimesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+ovary	ovary	UBERON:0000992	lateral ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+lateral ovary			lateral inferior ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+lateral inferior ovary			lateral inferior antimesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+lateral inferior ovary			lateral inferior mesenteric ovary	HTTPS:DOIORG101002RMB212371	
+lateral inferior ovary			lateral inferior mesenteric ovary	HTTPS:DOIORG103390CELLS9061418	
+lateral inferior ovary			lateral inferior mesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+lateral inferior ovary			lateral inferior mesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+lateral ovary			lateral superior ovary	HTTPS:DOIORG101002RMB212371	
+lateral superior ovary			lateral superior antimesenteric ovary	HTTPS:DOIORG101002RMB212371	
+lateral ovary			lateral superior ovary	HTTPS:DOIORG103390CELLS9061418	
+lateral superior ovary			lateral superior antimesenteric ovary	HTTPS:DOIORG103390CELLS9061418	
+lateral ovary			lateral superior ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+lateral superior ovary			lateral superior antimesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+lateral ovary			lateral superior ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+lateral superior ovary			lateral superior antimesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+lateral superior ovary			lateral superior mesenteric ovary	HTTPS:DOIORG101002RMB212371	
+lateral superior ovary			lateral superior mesenteric ovary	HTTPS:DOIORG103390CELLS9061418	
+lateral superior ovary			lateral superior mesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+lateral superior ovary			lateral superior mesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+ovary	ovary	UBERON:0000992	medial ovary	HTTPS:DOIORG101002RMB212371	
+medial ovary			medial inferior ovary	HTTPS:DOIORG101002RMB212371	
+medial inferior ovary			medial inferior antimesenteric ovary	HTTPS:DOIORG101002RMB212371	
+ovary	ovary	UBERON:0000992	medial ovary	HTTPS:DOIORG103390CELLS9061418	
+medial ovary			medial inferior ovary	HTTPS:DOIORG103390CELLS9061418	
+medial inferior ovary			medial inferior antimesenteric ovary	HTTPS:DOIORG103390CELLS9061418	
+ovary	ovary	UBERON:0000992	medial ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+medial ovary			medial inferior ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+medial inferior ovary			medial inferior antimesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+ovary	ovary	UBERON:0000992	medial ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+medial ovary			medial inferior ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+medial inferior ovary			medial inferior antimesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+medial inferior ovary			medial inferior mesenteric ovary	HTTPS:DOIORG101002RMB212371	
+medial inferior ovary			medial inferior mesenteric ovary	HTTPS:DOIORG103390CELLS9061418	
+medial inferior ovary			medial inferior mesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+medial inferior ovary			medial inferior mesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+medial ovary			medial superior ovary	HTTPS:DOIORG101002RMB212371	
+medial superior ovary			medial superior antimesenteric ovary	HTTPS:DOIORG101002RMB212371	
+medial ovary			medial superior ovary	HTTPS:DOIORG103390CELLS9061418	
+medial superior ovary			medial superior antimesenteric ovary	HTTPS:DOIORG103390CELLS9061418	
+medial ovary			medial superior ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+medial superior ovary			medial superior antimesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+medial ovary			medial superior ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+medial superior ovary			medial superior antimesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+medial superior ovary			medial superior mesenteric ovary	HTTPS:DOIORG101002RMB212371	
+medial superior ovary			medial superior mesenteric ovary	HTTPS:DOIORG103390CELLS9061418	
+medial superior ovary			medial superior mesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+medial superior ovary			medial superior mesenteric ovary	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+ovary	ovary	UBERON:0000992	central ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+central ovary			central inferior ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+central inferior ovary			central inferior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+ovarian follicle	ovarian follicle	UBERON:0001305	preantral follicle	HTTPS:DOIORG101093HUMUPDDMH061	
+ovarian follicle	ovarian follicle	UBERON:0001305	preantral follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+ovarian follicle	ovarian follicle	UBERON:0001305	preantral follicle		
+preantral follicle			transitional primordial ovarian follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+preantral follicle			transitional primordial ovarian follicle		
+ovary	ovary	UBERON:0000992	central ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+central ovary			central inferior ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+central inferior ovary			central inferior antimesenteric ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+ovarian follicle	ovarian follicle	UBERON:0001305	preantral follicle	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+preantral follicle			transitional primary ovarian follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+preantral follicle			transitional primary ovarian follicle		
+preantral follicle			multilayer ovarian follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+preantral follicle			multilayer ovarian follicle		
+ovarian follicle	ovarian follicle	UBERON:0001305	antral follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+antral follicle			early antral follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+antral follicle			pre-selection antral follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+antral follicle			selection antral follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+antral follicle			dominance antral follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+central inferior ovary			central inferior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+central inferior ovary			central inferior mesenteric ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+central ovary			central superior ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+central superior ovary			central superior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+central ovary			central superior ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+central superior ovary			central superior antimesenteric ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+central superior ovary			central superior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+central superior ovary			central superior mesenteric ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+ovary	ovary	UBERON:0000992	lateral ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+lateral ovary			lateral inferior ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+lateral inferior ovary			lateral inferior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+ovary	ovary	UBERON:0000992	lateral ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+lateral ovary			lateral inferior ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+lateral inferior ovary			lateral inferior antimesenteric ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+lateral inferior ovary			lateral inferior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+lateral inferior ovary			lateral inferior mesenteric ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+lateral ovary			lateral superior ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+lateral superior ovary			lateral superior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+lateral ovary			lateral superior ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+lateral superior ovary			lateral superior antimesenteric ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+lateral superior ovary			lateral superior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+lateral superior ovary			lateral superior mesenteric ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+ovary	ovary	UBERON:0000992	medial ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+medial ovary			medial inferior ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+medial inferior ovary			medial inferior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+ovary	ovary	UBERON:0000992	medial ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+medial ovary			medial inferior ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+medial inferior ovary			medial inferior antimesenteric ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+medial inferior ovary			medial inferior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+medial inferior ovary			medial inferior mesenteric ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+medial ovary			medial superior ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+medial superior ovary			medial superior antimesenteric ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+medial ovary			medial superior ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+medial superior ovary			medial superior antimesenteric ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+medial superior ovary			medial superior mesenteric ovary	HTTPS:DOIORG101093HUMUPDDMH061	
+medial superior ovary			medial superior mesenteric ovary	HTTPS:DOIORG1018632AGING103237 ; HTTPS:DOIORG103390IJMS21124565	
+ovarian follicle	ovarian follicle	UBERON:0001305	antral follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+antral follicle			early antral follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+early antral follicle			cumulus oophorus oocyte complex	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+antral follicle			pre-selection antral follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+pre-selection antral follicle			cumulus oophorus oocyte complex	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+antral follicle			selection antral follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+selection antral follicle			cumulus oophorus oocyte complex	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+antral follicle			dominance antral follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+dominance antral follicle			cumulus oophorus oocyte complex	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+ovulatory antral follicle	mature ovarian follicle	UBERON:0003982	cumulus oophorus oocyte complex	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365 ; HTTPS:DOIORG101210ER201800085	
+ovarian follicle	ovarian follicle	UBERON:0001305	hemorrhagic anovulatory follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+ovarian follicle	ovarian follicle	UBERON:0001305	luteinized unruptured follicle	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+ovarian follicle	ovarian follicle	UBERON:0001305	antral follicle		
+antral follicle			early antral follicle		
+antral follicle			pre-selection antral follicle		
+antral follicle			selection antral follicle		
+antral follicle			dominance antral follicle		
+ovary	ovary	UBERON:0000992	central ovary	HTTPS:DOIORG103390IJMS21124565	
+central ovary			central inferior ovary	HTTPS:DOIORG103390IJMS21124565	
+central inferior ovary			central inferior antimesenteric ovary	HTTPS:DOIORG103390IJMS21124565	
+ovarian follicle	ovarian follicle	UBERON:0001305	antral follicle	HTTPS:DOIORG103390IJMS21124565	
+antral follicle			early antral follicle	HTTPS:DOIORG103390IJMS21124565	
+early antral follicle			cumulus oophorus oocyte complex	HTTPS:DOIORG103390IJMS21124565	
+early antral follicle			cumulus oophorus oocyte complex		
+antral follicle			pre-selection antral follicle	HTTPS:DOIORG103390IJMS21124565	
+pre-selection antral follicle			cumulus oophorus oocyte complex	HTTPS:DOIORG103390IJMS21124565	
+pre-selection antral follicle			cumulus oophorus oocyte complex		
+antral follicle			selection antral follicle	HTTPS:DOIORG103390IJMS21124565	
+selection antral follicle			cumulus oophorus oocyte complex	HTTPS:DOIORG103390IJMS21124565	
+selection antral follicle			cumulus oophorus oocyte complex		
+antral follicle			dominance antral follicle	HTTPS:DOIORG103390IJMS21124565	
+dominance antral follicle			cumulus oophorus oocyte complex	HTTPS:DOIORG103390IJMS21124565	
+dominance antral follicle			cumulus oophorus oocyte complex		
+ovulatory antral follicle	mature ovarian follicle	UBERON:0003982	cumulus oophorus oocyte complex	HTTPS:DOIORG103390IJMS21124565	
+ovulatory antral follicle	mature ovarian follicle	UBERON:0003982	cumulus oophorus oocyte complex		
+central inferior ovary			central inferior mesenteric ovary	HTTPS:DOIORG103390IJMS21124565	
+central ovary			central superior ovary	HTTPS:DOIORG103390IJMS21124565	
+central superior ovary			central superior antimesenteric ovary	HTTPS:DOIORG103390IJMS21124565	
+central superior ovary			central superior mesenteric ovary	HTTPS:DOIORG103390IJMS21124565	
+ovary	ovary	UBERON:0000992	lateral ovary	HTTPS:DOIORG103390IJMS21124565	
+lateral ovary			lateral inferior ovary	HTTPS:DOIORG103390IJMS21124565	
+lateral inferior ovary			lateral inferior antimesenteric ovary	HTTPS:DOIORG103390IJMS21124565	
+lateral inferior ovary			lateral inferior mesenteric ovary	HTTPS:DOIORG103390IJMS21124565	
+lateral ovary			lateral superior ovary	HTTPS:DOIORG103390IJMS21124565	
+lateral superior ovary			lateral superior antimesenteric ovary	HTTPS:DOIORG103390IJMS21124565	
+lateral superior ovary			lateral superior mesenteric ovary	HTTPS:DOIORG103390IJMS21124565	
+ovary	ovary	UBERON:0000992	medial ovary	HTTPS:DOIORG103390IJMS21124565	
+medial ovary			medial inferior ovary	HTTPS:DOIORG103390IJMS21124565	
+medial inferior ovary			medial inferior antimesenteric ovary	HTTPS:DOIORG103390IJMS21124565	
+medial inferior ovary			medial inferior mesenteric ovary	HTTPS:DOIORG103390IJMS21124565	
+medial ovary			medial superior ovary	HTTPS:DOIORG103390IJMS21124565	
+medial superior ovary			medial superior antimesenteric ovary	HTTPS:DOIORG103390IJMS21124565	
+medial superior ovary			medial superior mesenteric ovary	HTTPS:DOIORG103390IJMS21124565	
+early antral follicle			cumulus oophorus oocyte complex	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+granulosa cell layer	granulosa cell layer	UBERON:0005170	corona radiata	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+granulosa cell layer	granulosa cell layer	UBERON:0005170	corona radiata		
+pre-selection antral follicle			cumulus oophorus oocyte complex	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+selection antral follicle			cumulus oophorus oocyte complex	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+dominance antral follicle			cumulus oophorus oocyte complex	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	
+ovulatory antral follicle	mature ovarian follicle	UBERON:0003982	cumulus oophorus oocyte complex	HTTPS:DOIORG101093OXFORDJOURNALSHUMREPA136365	

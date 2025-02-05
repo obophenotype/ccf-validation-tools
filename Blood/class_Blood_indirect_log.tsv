@@ -1,0 +1,16 @@
+row_number	s	slabel	user_slabel	o	olabel	user_olabel
+13	CL:0000787	memory B cell	memory B cell	CL:0000945	lymphocyte of B lineage	B lineage
+14	CL:0000788	naive B cell	naive B cell	CL:0000945	lymphocyte of B lineage	B lineage
+37	CL:0000815	regulatory T cell	T regulatory	CL:0000084	T cell	T lymphocytes
+12	CL:0000816	immature B cell	immature B cell	CL:0000945	lymphocyte of B lineage	B lineage
+15	CL:0000818	transitional stage B cell	transitional B cell	CL:0000945	lymphocyte of B lineage	B lineage
+26	CL:0000895	naive thymus-derived CD4-positive, alpha-beta T cell	CD4 naive	CL:0000084	T cell	T lymphocytes
+27	CL:0000897	CD4-positive, alpha-beta memory T cell	CD4 T cell memory	CL:0000084	T cell	T lymphocytes
+28	CL:0000897	CD4-positive, alpha-beta memory T cell	CD4 T cell memory	CL:0000084	T cell	T lymphocytes
+31	CL:0000897	CD4-positive, alpha-beta memory T cell	CD4 T cell memory	CL:0000084	T cell	T lymphocytes
+30	CL:0000900	naive thymus-derived CD8-positive, alpha-beta T cell	CD8 naive	CL:0000084	T cell	T lymphocytes
+32	CL:0001050	effector CD8-positive, alpha-beta T cell	CD8 T cell effector memory	CL:0000084	T cell	T lymphocytes
+33	CL:0001062	effector memory CD8-positive, alpha-beta T cell, terminally differentiated	CD8 T cell effector memory CD45RA	CL:0000084	T cell	T lymphocytes
+29	CL:0001087	effector memory CD4-positive, alpha-beta T cell, terminally differentiated	CD4 T cell effector memory CD45RA	CL:0000084	T cell	T lymphocytes
+22	CL:0002396	CD14-low, CD16-positive monocyte	CD16 monocyte	CL:0000576	monocyte	monocyte
+34	CL:0002437	mature CD8 single-positive thymocyte	mature CD8 T cell	CL:0000084	T cell	T lymphocytes

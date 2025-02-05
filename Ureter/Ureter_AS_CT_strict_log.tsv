@@ -1,0 +1,12 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:1000308	fibrocyte of adventitia of ureter	fibroblast	UBERON:0001253	lamina propria of ureter	lamina propria of ureter	17
+CL:1000308	fibrocyte of adventitia of ureter	fibroblast	UBERON:0001253	lamina propria of ureter	lamina propria of ureter	18
+CL:1000708	ureter adventitial cell	myofibroblast	UBERON:0001253	lamina propria of ureter	lamina propria of ureter	16
+CL:1000708	ureter adventitial cell	fibroblast	UBERON:0001253	lamina propria of ureter	lamina propria of ureter	19
+CL:1000708	ureter adventitial cell	endothelium	UBERON:0001253	lamina propria of ureter	lamina propria of ureter	20
+CL:1000708	ureter adventitial cell	smooth muscle	UBERON:0001253	lamina propria of ureter	lamina propria of ureter	21
+CL:1000708	ureter adventitial cell	smooth muscle	UBERON:0001253	lamina propria of ureter	lamina propria of ureter	22
+CL:1000979	ureter smooth muscle cell	ureter smooth muscle cell	UBERON:0009919	ureter smooth muscle	ureter detrusor smooth muscle	15
+CL:1001428	bladder urothelial cell	urothelium	UBERON:0001254	urothelium of ureter	urothelium of ureter	12
+CL:1001428	bladder urothelial cell	urothelium	UBERON:0001254	urothelium of ureter	urothelium of ureter	13
+CL:1001428	bladder urothelial cell	urothelium	UBERON:0001254	urothelium of ureter	urothelium of ureter	14

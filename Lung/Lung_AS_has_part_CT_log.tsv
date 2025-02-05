@@ -1,0 +1,62 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000158	club cell	club cell	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	61
+CL:0000158	club cell	club cell	UBERON:0001955	epithelium of respiratory bronchiole	epithelium of respiratory bronchiole	77
+CL:0000158	club cell	club cell	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	40
+CL:0000158	club cell	club cell	UBERON:0002051	epithelium of bronchiole	epithelium of bronchiole	69
+CL:0000158	club cell	club cell	UBERON:0001958	terminal bronchiole epithelium	terminal bronchiole epithelium	74
+CL:0002062	pulmonary alveolar type 1 cell	alveolar type I cell	UBERON:0008870	pulmonary alveolar parenchyma	pulmonary alveolar parenchyma	97
+CL:0002063	pulmonary alveolar type 2 cell	alveolar type II cell	UBERON:0008870	pulmonary alveolar parenchyma	pulmonary alveolar parenchyma	96
+CL:0002208	brush cell of bronchus	tuft cell	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	62
+CL:0002208	brush cell of bronchus	tuft cell	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	42
+CL:0002329	basal epithelial cell of tracheobronchial tree	basal epithelial cell of tracheobronchial tree	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	46
+CL:0002329	basal epithelial cell of tracheobronchial tree	basal epithelial cell of tracheobronchial tree	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	66
+CL:0002329	basal epithelial cell of tracheobronchial tree	basal epithelial cell of tracheobronchial tree	UBERON:0002339	epithelium of lobar bronchus	lobar bronchial epithelium	27
+CL:0002332	multiciliated epithelial cell of the bronchus	ciliated cell of the bronchus	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	59
+CL:0002332	multiciliated epithelial cell of the bronchus	ciliated cell of the bronchus	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	47
+CL:0002332	multiciliated epithelial cell of the bronchus	ciliated cell of the bronchus	UBERON:0002339	epithelium of lobar bronchus	lobar bronchial epithelium	25
+CL:0002598	bronchial smooth muscle cell	bronchial smooth muscle cell	UBERON:0004242	bronchus smooth muscle	bronchial smooth muscle	37
+CL:0002598	bronchial smooth muscle cell	bronchial smooth muscle cell	UBERON:0004242	bronchus smooth muscle	bronchial smooth muscle	20
+CL:0002598	bronchial smooth muscle cell	bronchial smooth muscle cell	UBERON:0004242	bronchus smooth muscle	bronchial smooth muscle	49
+CL:0009089	lung pericyte	lung pericyte	UBERON:0008870	pulmonary alveolar parenchyma	pulmonary alveolar parenchyma	98
+CL:0011103	sympathetic neuron	sympathetic neuron	UBERON:0002009	pulmonary nerve plexus	pulmonary nerve plexus	12
+CL:0017000	pulmonary ionocyte	pulmonary ionocyte	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	45
+CL:0017000	pulmonary ionocyte	pulmonary ionocyte	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	58
+CL:0017000	pulmonary ionocyte	pulmonary ionocyte	UBERON:0002339	epithelium of lobar bronchus	lobar bronchial epithelium	23
+CL:0019002	tracheobronchial chondrocyte	tracheobronchial chondrocyte	UBERON:0001956	cartilage of bronchus	cartilage of bronchus	38
+CL:0019002	tracheobronchial chondrocyte	tracheobronchial chondrocyte	UBERON:0001956	cartilage of bronchus	cartilage of bronchus	50
+CL:0019019	tracheobronchial smooth muscle cell	tracheobronchial smooth muscle	UBERON:0004884	lobar bronchus mesenchyme	bronchial mesenchyme	48
+CL:0019019	tracheobronchial smooth muscle cell	tracheobronchial smooth muscle	UBERON:0004884	lobar bronchus mesenchyme	bronchial mesenchyme	67
+CL:1000223	pulmonary neuroendocrine cell	lung neuroendocrine cell	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	41
+CL:1000223	pulmonary neuroendocrine cell	lung neuroendocrine cell	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	65
+CL:1000271	lung multiciliated epithelial cell	lung ciliated cell	UBERON:0002051	epithelium of bronchiole	epithelium of bronchiole	68
+CL:1000271	lung multiciliated epithelial cell	lung ciliated cell	UBERON:0001958	terminal bronchiole epithelium	terminal bronchiole epithelium	73
+CL:1000271	lung multiciliated epithelial cell	lung ciliated cell	UBERON:0001955	epithelium of respiratory bronchiole	epithelium of respiratory bronchiole	79
+CL:4033017	bronchiolar smooth muscle cell	bronchiolar smooth muscle cell	UBERON:0004516	smooth muscle tissue of terminal bronchiole	smooth muscle tissue of terminal bronchiole	72
+CL:4033017	bronchiolar smooth muscle cell	bronchiolar smooth muscle cell	UBERON:0004517	smooth muscle tissue of respiratory bronchiole	smooth muscle tissue of respiratory bronchiole	76
+UBERON:0001956	cartilage of bronchus	cartilage of bronchus	UBERON:0002183	lobar bronchus	secondary bronchus	21
+UBERON:0001956	cartilage of bronchus	cartilage of bronchus	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	50
+UBERON:0001956	cartilage of bronchus	cartilage of bronchus	UBERON:0002184	segmental bronchus	tertiary bronchus	38
+UBERON:0003529	respiratory system lymphatic vessel endothelium	respiratory system lymphatic vessel endothelium	UBERON:0018227	pulmonary lymphatic vessel	pulmonary lymphatic vessel	103
+UBERON:0004242	bronchus smooth muscle	bronchial smooth muscle	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	49
+UBERON:0004242	bronchus smooth muscle	bronchial smooth muscle	UBERON:0002184	segmental bronchus	tertiary bronchus	37
+UBERON:0004242	bronchus smooth muscle	bronchial smooth muscle	UBERON:0002183	lobar bronchus	secondary bronchus	20
+UBERON:0004848	respiratory system arterial endothelium	respiratory system arterial endothelium	UBERON:0002040	bronchial artery	bronchial artery	114
+UBERON:0012416	respiratory system arterial smooth muscle	arterial system smooth muscle	UBERON:0002040	bronchial artery	bronchial artery	115
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:0002183	lobar bronchus	secondary bronchus	13
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:0002183	lobar bronchus	secondary bronchus	14
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:0002183	lobar bronchus	secondary bronchus	15
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:0002183	lobar bronchus	secondary bronchus	16
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:0002183	lobar bronchus	secondary bronchus	17
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:0002183	lobar bronchus	secondary bronchus	18
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:0002184	segmental bronchus	tertiary bronchus	31
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	56
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	55
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:0002184	segmental bronchus	tertiary bronchus	34
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:0002184	segmental bronchus	tertiary bronchus	35
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:0002184	segmental bronchus	tertiary bronchus	36
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	51
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	52
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	53
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:8600009	subsegmental bronchus	subsegmental bronchus	54
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:0002184	segmental bronchus	tertiary bronchus	32
+UBERON:8410043	bronchus submucosal gland	bronchial submucosal gland	UBERON:0002184	segmental bronchus	tertiary bronchus	33

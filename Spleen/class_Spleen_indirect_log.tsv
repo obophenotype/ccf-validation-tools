@@ -1,0 +1,150 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+UBERON:0004041	spleen primary B follicle	Primary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	61
+UBERON:0004041	spleen primary B follicle	Primary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	62
+UBERON:0004041	spleen primary B follicle	Primary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	63
+UBERON:0004041	spleen primary B follicle	Primary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	64
+UBERON:0004041	spleen primary B follicle	Primary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	65
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	69
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	80
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	79
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	66
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	78
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	67
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	68
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	77
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	76
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	70
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	71
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	75
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	72
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	81
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	73
+UBERON:0004042	spleen secondary B follicle	Secondary Follicle	UBERON:0001959	white pulp of spleen	White Pulp	74
+UBERON:0010401	Spleen central arteriole	Spleen central arteriole	UBERON:1000023	spleen pulp	Splenic Pulp	18
+UBERON:0010401	Spleen central arteriole	Spleen central arteriole	UBERON:1000023	spleen pulp	Splenic Pulp	17
+UBERON:0010401	Spleen central arteriole	Spleen central arteriole	UBERON:1000023	spleen pulp	Splenic Pulp	14
+UBERON:0010401	Spleen central arteriole	Spleen central arteriole	UBERON:1000023	spleen pulp	Splenic Pulp	20
+UBERON:0010401	Spleen central arteriole	Spleen central arteriole	UBERON:1000023	spleen pulp	Splenic Pulp	21
+UBERON:0010401	Spleen central arteriole	Spleen central arteriole	UBERON:1000023	spleen pulp	Splenic Pulp	15
+UBERON:0010401	Spleen central arteriole	Spleen central arteriole	UBERON:1000023	spleen pulp	Splenic Pulp	19
+UBERON:0010401	Spleen central arteriole	Spleen central arteriole	UBERON:1000023	spleen pulp	Splenic Pulp	16
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	80
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	122
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	117
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	120
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	82
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	83
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	84
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	121
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	81
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	79
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	85
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	124
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	125
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	78
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	126
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	77
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	127
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	76
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	128
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	129
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	75
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	123
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	118
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	86
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	88
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	116
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	115
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	114
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	113
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	112
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	111
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	110
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	109
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	108
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	107
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	106
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	105
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	104
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	87
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	103
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	101
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	100
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	99
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	98
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	119
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	96
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	95
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	94
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	93
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	92
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	91
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	90
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	89
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	102
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	97
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	12
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	73
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	40
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	39
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	38
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	37
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	36
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	35
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	34
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	33
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	32
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	31
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	30
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	29
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	28
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	41
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	27
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	25
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	24
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	23
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	22
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	21
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	20
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	19
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	18
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	17
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	16
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	15
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	14
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	13
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	26
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	42
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	43
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	44
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	72
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	71
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	70
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	130
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	69
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	68
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	67
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	66
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	65
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	64
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	63
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	62
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	61
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	60
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	59
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	58
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	57
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	56
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	55
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	54
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	53
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	52
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	51
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	50
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	49
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	48
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	47
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	46
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	45
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	74
+UBERON:1000023	spleen pulp	Splenic Pulp	UBERON:0002106	spleen	spleen	131

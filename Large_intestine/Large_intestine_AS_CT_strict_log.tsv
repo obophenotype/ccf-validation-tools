@@ -1,0 +1,1221 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000033	apocrine cell	apocrine	UBERON:0008974	apocrine gland	apocrine gland	1325
+CL:0000041	mature eosinophil	eosinophil	UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	1335
+CL:0000041	mature eosinophil	eosinophil	UBERON:0013485	crypt of Lieberkuhn of colon	crypt	1202
+CL:0000041	mature eosinophil	eosinophil	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1131
+CL:0000041	mature eosinophil	eosinophil	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	52
+CL:0000041	mature eosinophil	eosinophil	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	371
+CL:0000041	mature eosinophil	eosinophil	UBERON:0013485	crypt of Lieberkuhn of colon	crypt	1105
+CL:0000041	mature eosinophil	eosinophil	UBERON:0013485	crypt of Lieberkuhn of colon	crypt	781
+CL:0000041	mature eosinophil	eosinophil	UBERON:0013485	crypt of Lieberkuhn of colon	crypt	133
+CL:0000041	mature eosinophil	eosinophil	UBERON:0013485	crypt of Lieberkuhn of colon	crypt	345
+CL:0000041	mature eosinophil	eosinophil	UBERON:0013485	crypt of Lieberkuhn of colon	crypt	672
+CL:0000041	mature eosinophil	eosinophil	UBERON:0013485	crypt of Lieberkuhn of colon	crypt	239
+CL:0000041	mature eosinophil	eosinophil	UBERON:0013485	crypt of Lieberkuhn of colon	crypt	454
+CL:0000041	mature eosinophil	eosinophil	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	698
+CL:0000041	mature eosinophil	eosinophil	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	916
+CL:0000041	mature eosinophil	eosinophil	UBERON:0013485	crypt of Lieberkuhn of colon	crypt	890
+CL:0000041	mature eosinophil	eosinophil	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1025
+CL:0000041	mature eosinophil	eosinophil	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	480
+CL:0000041	mature eosinophil	eosinophil	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	589
+CL:0000041	mature eosinophil	eosinophil	UBERON:0013485	crypt of Lieberkuhn of colon	crypt	563
+CL:0000041	mature eosinophil	eosinophil	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	265
+CL:0000041	mature eosinophil	eosinophil	UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	1353
+CL:0000041	mature eosinophil	eosinophil	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	159
+CL:0000041	mature eosinophil	eosinophil	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	807
+CL:0000041	mature eosinophil	eosinophil	UBERON:0013485	crypt of Lieberkuhn of colon	crypt	998
+CL:0000041	mature eosinophil	eosinophil	UBERON:0013485	crypt of Lieberkuhn of colon	crypt	26
+CL:0000057	fibroblast	fibroblast	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1229
+CL:0000057	fibroblast	fibroblast	UBERON:0004927	submucosa of cecum	submucosa	171
+CL:0000057	fibroblast	fibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	897
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	111
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	756
+CL:0000057	fibroblast	fibroblast	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	750
+CL:0000057	fibroblast	fibroblast	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1238
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	217
+CL:0000057	fibroblast	fibroblast	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1244
+CL:0000057	fibroblast	fibroblast	UBERON:0003331	submucosa of colon	submucosa	383
+CL:0000057	fibroblast	fibroblast	UBERON:0003331	submucosa of colon	submucosa	1215
+CL:0000057	fibroblast	fibroblast	UBERON:0003331	submucosa of colon	submucosa	819
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	1083
+CL:0000057	fibroblast	fibroblast	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	744
+CL:0000057	fibroblast	fibroblast	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	105
+CL:0000057	fibroblast	fibroblast	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	735
+CL:0000057	fibroblast	fibroblast	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1077
+CL:0000057	fibroblast	fibroblast	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1071
+CL:0000057	fibroblast	fibroblast	UBERON:0003331	submucosa of colon	submucosa	710
+CL:0000057	fibroblast	fibroblast	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	99
+CL:0000057	fibroblast	fibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	461
+CL:0000057	fibroblast	fibroblast	UBERON:0005742	adventitia	adventitia	1250
+CL:0000057	fibroblast	fibroblast	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	211
+CL:0000057	fibroblast	fibroblast	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1183
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	1189
+CL:0000057	fibroblast	fibroblast	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	1137
+CL:0000057	fibroblast	fibroblast	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	859
+CL:0000057	fibroblast	fibroblast	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	417
+CL:0000057	fibroblast	fibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	788
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	865
+CL:0000057	fibroblast	fibroblast	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	423
+CL:0000057	fibroblast	fibroblast	UBERON:0003331	submucosa of colon	submucosa	277
+CL:0000057	fibroblast	fibroblast	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	408
+CL:0000057	fibroblast	fibroblast	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	377
+CL:0000057	fibroblast	fibroblast	UBERON:0011189	lamina propria of large intestine	lamina propria	140
+CL:0000057	fibroblast	fibroblast	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1177
+CL:0000057	fibroblast	fibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1208
+CL:0000057	fibroblast	fibroblast	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1062
+CL:0000057	fibroblast	fibroblast	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	196
+CL:0000057	fibroblast	fibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1112
+CL:0000057	fibroblast	fibroblast	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	165
+CL:0000057	fibroblast	fibroblast	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	205
+CL:0000057	fibroblast	fibroblast	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1168
+CL:0000057	fibroblast	fibroblast	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	813
+CL:0000057	fibroblast	fibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	352
+CL:0000057	fibroblast	fibroblast	UBERON:0003329	submucosa of anal canal	submucosa	1143
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	429
+CL:0000057	fibroblast	fibroblast	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	844
+CL:0000057	fibroblast	fibroblast	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	517
+CL:0000057	fibroblast	fibroblast	UBERON:0003331	submucosa of colon	submucosa	64
+CL:0000057	fibroblast	fibroblast	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	311
+CL:0000057	fibroblast	fibroblast	UBERON:0003331	submucosa of colon	submucosa	601
+CL:0000057	fibroblast	fibroblast	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	953
+CL:0000057	fibroblast	fibroblast	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	58
+CL:0000057	fibroblast	fibroblast	UBERON:0003331	submucosa of colon	submucosa	1037
+CL:0000057	fibroblast	fibroblast	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	595
+CL:0000057	fibroblast	fibroblast	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	962
+CL:0000057	fibroblast	fibroblast	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	853
+CL:0000057	fibroblast	fibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	246
+CL:0000057	fibroblast	fibroblast	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	526
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	647
+CL:0000057	fibroblast	fibroblast	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	641
+CL:0000057	fibroblast	fibroblast	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	532
+CL:0000057	fibroblast	fibroblast	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	635
+CL:0000057	fibroblast	fibroblast	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	626
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	538
+CL:0000057	fibroblast	fibroblast	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	968
+CL:0000057	fibroblast	fibroblast	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	302
+CL:0000057	fibroblast	fibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	33
+CL:0000057	fibroblast	fibroblast	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	1031
+CL:0000057	fibroblast	fibroblast	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	317
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	974
+CL:0000057	fibroblast	fibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	679
+CL:0000057	fibroblast	fibroblast	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1289
+CL:0000057	fibroblast	fibroblast	UBERON:0003331	submucosa of colon	submucosa	928
+CL:0000057	fibroblast	fibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	570
+CL:0000057	fibroblast	fibroblast	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	271
+CL:0000057	fibroblast	fibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1271
+CL:0000057	fibroblast	fibroblast	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	90
+CL:0000057	fibroblast	fibroblast	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	486
+CL:0000057	fibroblast	fibroblast	UBERON:0003331	submucosa of colon	submucosa	1275
+CL:0000057	fibroblast	fibroblast	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	704
+CL:0000057	fibroblast	fibroblast	UBERON:0003331	submucosa of colon	submucosa	492
+CL:0000057	fibroblast	fibroblast	UBERON:0012375	subserosa	subserosa	323
+CL:0000057	fibroblast	fibroblast	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	922
+CL:0000057	fibroblast	fibroblast	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1304
+CL:0000057	fibroblast	fibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1006
+CL:0000057	fibroblast	fibroblast	UBERON:0005742	adventitia	adventitia	1310
+CL:0000057	fibroblast	fibroblast	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1298
+CL:0000096	mature neutrophil	neutrophil (normally intravascular only)	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1027
+CL:0000096	mature neutrophil	neutrophil (normally intravascular only)	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1133
+CL:0000096	mature neutrophil	neutrophil (normally intravascular only)	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	482
+CL:0000096	mature neutrophil	neutrophil (normally intravascular only)	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/ lamina propria	161
+CL:0000096	mature neutrophil	neutrophil (normally intravascular only)	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	267
+CL:0000096	mature neutrophil	neutrophil (normally intravascular only)	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	373
+CL:0000096	mature neutrophil	neutrophil (normally intravascular only)	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	918
+CL:0000096	mature neutrophil	neutrophil (normally intravascular only)	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	54
+CL:0000096	mature neutrophil	neutrophil (normally intravascular only)	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	591
+CL:0000096	mature neutrophil	neutrophil (normally intravascular only)	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	809
+CL:0000096	mature neutrophil	neutrophil (normally intravascular only)	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	700
+CL:0000097	mast cell	mast cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	808
+CL:0000097	mast cell	mast cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	590
+CL:0000097	mast cell	mast cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	160
+CL:0000097	mast cell	mast cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	266
+CL:0000097	mast cell	mast cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	53
+CL:0000097	mast cell	mast cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	481
+CL:0000097	mast cell	mast cell	UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	1346
+CL:0000097	mast cell	mast cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1132
+CL:0000097	mast cell	mast cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	372
+CL:0000097	mast cell	mast cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	917
+CL:0000097	mast cell	mast cell	UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	1328
+CL:0000097	mast cell	mast cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1026
+CL:0000097	mast cell	mast cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	699
+CL:0000136	adipocyte	adipocyte	UBERON:0012375	subserosa	subserosa	328
+CL:0000136	adipocyte	adipocyte	UBERON:0012375	subserosa	subserosa	222
+CL:0000136	adipocyte	adipocyte	UBERON:0003329	submucosa of anal canal	submucosa	1142
+CL:0000136	adipocyte	adipocyte	UBERON:0003331	submucosa of colon	submucosa	382
+CL:0000136	adipocyte	adipocyte	UBERON:0003331	submucosa of colon	submucosa	1036
+CL:0000136	adipocyte	adipocyte	UBERON:0012375	subserosa	subserosa	870
+CL:0000136	adipocyte	adipocyte	UBERON:0012375	subserosa	subserosa	979
+CL:0000136	adipocyte	adipocyte	UBERON:0012375	subserosa	subserosa	1088
+CL:0000136	adipocyte	adipocyte	UBERON:0003331	submucosa of colon	submucosa	927
+CL:0000136	adipocyte	adipocyte	UBERON:0003331	submucosa of colon	submucosa	276
+CL:0000136	adipocyte	adipocyte	UBERON:0012375	subserosa	subserosa	652
+CL:0000136	adipocyte	adipocyte	UBERON:0003331	submucosa of colon	submucosa	1214
+CL:0000136	adipocyte	adipocyte	UBERON:0012375	subserosa	subserosa	116
+CL:0000136	adipocyte	adipocyte	UBERON:0005742	adventitia	adventitia	1255
+CL:0000136	adipocyte	adipocyte	UBERON:0003331	submucosa of colon	submucosa	491
+CL:0000136	adipocyte	adipocyte	UBERON:0012375	subserosa	subserosa	543
+CL:0000136	adipocyte	adipocyte	UBERON:0003331	submucosa of colon	submucosa	63
+CL:0000136	adipocyte	adipocyte	UBERON:0012375	subserosa	subserosa	434
+CL:0000136	adipocyte	adipocyte	UBERON:0012375	subserosa	subserosa	761
+CL:0000136	adipocyte	adipocyte	UBERON:0003331	submucosa of colon	submucosa	600
+CL:0000136	adipocyte	adipocyte	UBERON:0003331	submucosa of colon	submucosa	709
+CL:0000136	adipocyte	adipocyte	UBERON:0012375	subserosa	subserosa	1194
+CL:0000136	adipocyte	adipocyte	UBERON:0005742	adventitia	adventitia	1315
+CL:0000136	adipocyte	adipocyte	UBERON:0003331	submucosa of colon	submucosa	1274
+CL:0000136	adipocyte	adipocyte	UBERON:0003331	submucosa of colon	submucosa	818
+CL:0000136	adipocyte	adipocyte	UBERON:0004927	submucosa of cecum	submucosa	170
+CL:0000146	simple columnar epithelial cell	columnar	UBERON:0004760	gland of anal canal	anal gland	1211
+CL:0000148	melanocyte	melanocyte	UBERON:0001003	skin epidermis	epidermis	1320
+CL:0000148	melanocyte	melanocyte	UBERON:0015716	anal canal epithelium	epithelium	1259
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	444
+CL:0000165	neuroendocrine cell	neuroendocrine cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	900
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	1095
+CL:0000165	neuroendocrine cell	neuroendocrine cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	464
+CL:0000165	neuroendocrine cell	neuroendocrine cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	249
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	335
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	229
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0022281	epithelium of crypt of Lieberkuhn of large intestine	epithelium	123
+CL:0000165	neuroendocrine cell	neuroendocrine cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	355
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	880
+CL:0000165	neuroendocrine cell	neuroendocrine cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	36
+CL:0000165	neuroendocrine cell	neuroendocrine cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	573
+CL:0000165	neuroendocrine cell	neuroendocrine cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	791
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	771
+CL:0000165	neuroendocrine cell	neuroendocrine cell	UBERON:0011189	lamina propria of large intestine	lamina propria	143
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	662
+CL:0000165	neuroendocrine cell	neuroendocrine cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1009
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	989
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	16
+CL:0000165	neuroendocrine cell	neuroendocrine	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	553
+CL:0000165	neuroendocrine cell	neuroendocrine cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1115
+CL:0000165	neuroendocrine cell	neuroendocrine cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	682
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	569
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1207
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	896
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0011189	lamina propria of large intestine	lamina propria	139
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	351
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	245
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	678
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	787
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1111
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	32
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1270
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1005
+CL:0000186	myofibroblast cell	myofibroblast	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	460
+CL:0000188	cell of skeletal muscle	skeletal muscle	UBERON:0001367	external anal sphincter	external anal sphincter	1362
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	546
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	872
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	873
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	547
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	983
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	545
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	763
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	764
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	874
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	654
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	981
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	655
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	765
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	438
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	437
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	436
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	656
+CL:0000192	smooth muscle cell	smooth muscle	UBERON:0012419	taenia coli	tenia coli 	982
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	370
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	286
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	797
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	806
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	588
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	697
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	610
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	361
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	470
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	719
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	906
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	392
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	937
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	915
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	501
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	479
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	688
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	828
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	579
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1130
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	255
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1121
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	149
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1024
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	158
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1015
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	42
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1046
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	51
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	264
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	74
+CL:0000235	macrophage	macrophage	UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	1348
+CL:0000235	macrophage	macrophage	UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	1330
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	180
+CL:0000235	macrophage	macrophage	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1152
+CL:0000236	B cell	B cell	UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	1352
+CL:0000236	B cell	B cell	UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	1334
+CL:0000240	stratified squamous epithelial cell	squamous	UBERON:0015716	anal canal epithelium	epithelium	1257
+CL:0000240	stratified squamous epithelial cell	squamous	UBERON:0004760	gland of anal canal	anal gland	1213
+CL:0000242	Merkel cell	Merkel	UBERON:0015716	anal canal epithelium	epithelium	1260
+CL:0000244	transitional epithelial cell	transitional	UBERON:0004760	gland of anal canal	anal gland	1212
+CL:0000312	keratinocyte	keratinocyte	UBERON:0002073	hair follicle	hair follicle	1321
+CL:0000359	vascular associated smooth muscle cell	perivascular smooth muscle cell	UBERON:0000055	vessel	vessel	1339
+CL:0000359	vascular associated smooth muscle cell	perivascular smooth muscle cell	UBERON:0000055	vessel	vessel	1357
+CL:0000434	eccrine cell	eccrine	UBERON:0000423	eccrine sweat gland	eccrine sweat gland	1323
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1029
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	830
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	394
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	593
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	1329
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	56
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	920
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	811
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	503
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	1347
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	269
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	288
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1048
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	76
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	163
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	721
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	612
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	939
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	182
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1135
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	375
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	702
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	484
+CL:0000451	dendritic cell	dendritic cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1154
+CL:0000453	Langerhans cell	langerhans	UBERON:0001003	skin epidermis	epidermis	1318
+CL:0000453	Langerhans cell	langerhans cells	UBERON:0015716	anal canal epithelium	epithelium	1258
+CL:0000545	T-helper 1 cell	T helper	UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	1349
+CL:0000545	T-helper 1 cell	T helper	UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	1331
+CL:0000669	pericyte	pericyte	UBERON:0012375	subserosa	subserosa	117
+CL:0000669	pericyte	pericyte	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	631
+CL:0000669	pericyte	pericyte	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	95
+CL:0000669	pericyte	pericyte	UBERON:0012375	subserosa	subserosa	1195
+CL:0000669	pericyte	pericyte	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	677
+CL:0000669	pericyte	pericyte	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	413
+CL:0000669	pericyte	pericyte	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1269
+CL:0000669	pericyte	pericyte	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1188
+CL:0000669	pericyte	pericyte	UBERON:0003331	submucosa of colon	submucosa	1280
+CL:0000669	pericyte	pericyte	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	79
+CL:0000669	pericyte	pericyte	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1181
+CL:0000669	pericyte	pericyte	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	490
+CL:0000669	pericyte	pericyte	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1294
+CL:0000669	pericyte	pericyte	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1302
+CL:0000669	pericyte	pericyte	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1173
+CL:0000669	pericyte	pericyte	UBERON:0003331	submucosa of colon	submucosa	497
+CL:0000669	pericyte	pericyte	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	817
+CL:0000669	pericyte	pericyte	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	169
+CL:0000669	pericyte	pericyte	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	397
+CL:0000669	pericyte	pericyte	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1157
+CL:0000669	pericyte	pericyte	UBERON:0003331	submucosa of colon	submucosa	824
+CL:0000669	pericyte	pericyte	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1309
+CL:0000669	pericyte	pericyte	UBERON:0003331	submucosa of colon	submucosa	70
+CL:0000669	pericyte	pericyte	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	506
+CL:0000669	pericyte	pericyte	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	708
+CL:0000669	pericyte	pericyte	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	786
+CL:0000669	pericyte	pericyte	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	62
+CL:0000669	pericyte	pericyte	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	755
+CL:0000669	pericyte	pericyte	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1234
+CL:0000669	pericyte	pericyte	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	459
+CL:0000669	pericyte	pericyte	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1242
+CL:0000669	pericyte	pericyte	UBERON:0012375	subserosa	subserosa	762
+CL:0000669	pericyte	pericyte	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	110
+CL:0000669	pericyte	pericyte	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	748
+CL:0000669	pericyte	pericyte	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	522
+CL:0000669	pericyte	pericyte	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1249
+CL:0000669	pericyte	pericyte	UBERON:0011189	lamina propria of large intestine	lamina propria	138
+CL:0000669	pericyte	pericyte	UBERON:0012375	subserosa	subserosa	435
+CL:0000669	pericyte	pericyte	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1206
+CL:0000669	pericyte	pericyte	UBERON:0005742	adventitia	adventitia	1256
+CL:0000669	pericyte	pericyte	UBERON:0012375	subserosa	subserosa	653
+CL:0000669	pericyte	pericyte	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	740
+CL:0000669	pericyte	pericyte	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	103
+CL:0000669	pericyte	pericyte	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	646
+CL:0000669	pericyte	pericyte	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	724
+CL:0000669	pericyte	pericyte	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	428
+CL:0000669	pericyte	pericyte	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	530
+CL:0000669	pericyte	pericyte	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	275
+CL:0000669	pericyte	pericyte	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	639
+CL:0000669	pericyte	pericyte	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	421
+CL:0000669	pericyte	pericyte	UBERON:0003331	submucosa of colon	submucosa	715
+CL:0000669	pericyte	pericyte	UBERON:0003331	submucosa of colon	submucosa	1220
+CL:0000669	pericyte	pericyte	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	833
+CL:0000669	pericyte	pericyte	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1075
+CL:0000669	pericyte	pericyte	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	615
+CL:0000669	pericyte	pericyte	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	307
+CL:0000669	pericyte	pericyte	UBERON:0012375	subserosa	subserosa	544
+CL:0000669	pericyte	pericyte	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	209
+CL:0000669	pericyte	pericyte	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	350
+CL:0000669	pericyte	pericyte	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	895
+CL:0000669	pericyte	pericyte	UBERON:0003331	submucosa of colon	submucosa	606
+CL:0000669	pericyte	pericyte	UBERON:0003331	submucosa of colon	submucosa	1042
+CL:0000669	pericyte	pericyte	UBERON:0012375	subserosa	subserosa	1089
+CL:0000669	pericyte	pericyte	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	942
+CL:0000669	pericyte	pericyte	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	31
+CL:0000669	pericyte	pericyte	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	599
+CL:0000669	pericyte	pericyte	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	216
+CL:0000669	pericyte	pericyte	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1082
+CL:0000669	pericyte	pericyte	UBERON:0012375	subserosa	subserosa	223
+CL:0000669	pericyte	pericyte	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	244
+CL:0000669	pericyte	pericyte	UBERON:0005742	adventitia	adventitia	1316
+CL:0000669	pericyte	pericyte	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	315
+CL:0000669	pericyte	pericyte	UBERON:0003331	submucosa of colon	submucosa	933
+CL:0000669	pericyte	pericyte	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	926
+CL:0000669	pericyte	pericyte	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1067
+CL:0000669	pericyte	pericyte	UBERON:0012375	subserosa	subserosa	329
+CL:0000669	pericyte	pericyte	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	322
+CL:0000669	pericyte	pericyte	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1051
+CL:0000669	pericyte	pericyte	UBERON:0000055	vessel	vessel	1341
+CL:0000669	pericyte	pericyte	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	958
+CL:0000669	pericyte	pericyte	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	966
+CL:0000669	pericyte	pericyte	UBERON:0003331	submucosa of colon	submucosa	388
+CL:0000669	pericyte	pericyte	UBERON:0003329	submucosa of anal canal	submucosa	1148
+CL:0000669	pericyte	pericyte	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1004
+CL:0000669	pericyte	pericyte	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	849
+CL:0000669	pericyte	pericyte	UBERON:0004927	submucosa of cecum	submucosa	176
+CL:0000669	pericyte	pericyte	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	857
+CL:0000669	pericyte	pericyte	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	1141
+CL:0000669	pericyte	pericyte	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	381
+CL:0000669	pericyte	pericyte	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	864
+CL:0000669	pericyte	pericyte	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	185
+CL:0000669	pericyte	pericyte	UBERON:0000055	vessel	vessel	1359
+CL:0000669	pericyte	pericyte	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	1035
+CL:0000669	pericyte	pericyte	UBERON:0003331	submucosa of colon	submucosa	282
+CL:0000669	pericyte	pericyte	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	973
+CL:0000669	pericyte	pericyte	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	568
+CL:0000669	pericyte	pericyte	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	291
+CL:0000669	pericyte	pericyte	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1110
+CL:0000669	pericyte	pericyte	UBERON:0012375	subserosa	subserosa	980
+CL:0000669	pericyte	pericyte	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	201
+CL:0000669	pericyte	pericyte	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	537
+CL:0000669	pericyte	pericyte	UBERON:0012375	subserosa	subserosa	871
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	574
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	80
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	683
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	250
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	943
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	507
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1010
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	725
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	465
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	834
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	292
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	398
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1052
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1158
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	186
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1116
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	901
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	616
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	792
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	37
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	144
+CL:0000682	M cell of gut	M cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	356
+CL:0000786	plasma cell	plasma cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1020
+CL:0000786	plasma cell	plasma cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	47
+CL:0000786	plasma cell	plasma cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	584
+CL:0000786	plasma cell	plasma cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1126
+CL:0000786	plasma cell	plasma cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	475
+CL:0000786	plasma cell	plasma cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	693
+CL:0000786	plasma cell	plasma cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	154
+CL:0000786	plasma cell	plasma cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	802
+CL:0000786	plasma cell	plasma cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	911
+CL:0000786	plasma cell	plasma cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	260
+CL:0000786	plasma cell	plasma cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	366
+CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	UBERON:0000397	colonic epithelium	lymphcyte	997
+CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	UBERON:0000397	colonic epithelium	lymphcyte	24
+CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	UBERON:0000397	colonic epithelium	lymphcyte	1200
+CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	UBERON:0000397	colonic epithelium	lymphcyte	561
+CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	UBERON:0000397	colonic epithelium	lymphcyte	1264
+CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	UBERON:0000397	colonic epithelium	lymphcyte	888
+CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	UBERON:0000397	colonic epithelium	epithelium	131
+CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	UBERON:0000397	colonic epithelium	lymphcyte	343
+CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	UBERON:0000397	colonic epithelium	lymphcyte	452
+CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	UBERON:0000397	colonic epithelium	lymphcyte	670
+CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	UBERON:0000397	colonic epithelium	lymphcyte	237
+CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	UBERON:0000397	colonic epithelium	lymphcyte	1103
+CL:0000793	CD4-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD4+ lymphocyte	UBERON:0000397	colonic epithelium	lymphcyte	779
+CL:0000796	CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	669
+CL:0000796	CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	23
+CL:0000796	CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	560
+CL:0000796	CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	778
+CL:0000796	CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	342
+CL:0000796	CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	236
+CL:0000796	CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alpha beta positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	epithelium	130
+CL:0000796	CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	1102
+CL:0000796	CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	887
+CL:0000796	CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	451
+CL:0000796	CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	1199
+CL:0000796	CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	996
+CL:0000796	CD8-alpha-beta-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph beta positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	1263
+CL:0000802	CD8-alpha alpha positive, gamma-delta intraepithelial T cell	surface intraepithelial CD8+ lymphocyte gamma/delta	UBERON:0000397	colonic epithelium	lymphocyte	668
+CL:0000802	CD8-alpha alpha positive, gamma-delta intraepithelial T cell	surface intraepithelial CD8+ lymphocyte gamma/delta	UBERON:0000397	colonic epithelium	lymphocyte	777
+CL:0000802	CD8-alpha alpha positive, gamma-delta intraepithelial T cell	surface intraepithelial CD8+ lymphocyte gamma/delta	UBERON:0000397	colonic epithelium	lymphocyte	1198
+CL:0000802	CD8-alpha alpha positive, gamma-delta intraepithelial T cell	surface intraepithelial CD8+ lymphocyte gamma/delta	UBERON:0000397	colonic epithelium	lymphocyte	341
+CL:0000802	CD8-alpha alpha positive, gamma-delta intraepithelial T cell	surface intraepithelial CD8+ lymphocyte gamma/delta	UBERON:0000397	colonic epithelium	lymphocyte	235
+CL:0000802	CD8-alpha alpha positive, gamma-delta intraepithelial T cell	surface intraepithelial CD8+ lymphocyte gamma/delta	UBERON:0000397	colonic epithelium	lymphocyte	559
+CL:0000802	CD8-alpha alpha positive, gamma-delta intraepithelial T cell	surface intraepithelial CD8+ lymphocyte gamma/delta	UBERON:0000397	colonic epithelium	lymphocyte	22
+CL:0000802	CD8-alpha alpha positive, gamma-delta intraepithelial T cell	surface intraepithelial CD8+ lymphocyte gamma/delta	UBERON:0000397	colonic epithelium	lymphocyte	1262
+CL:0000802	CD8-alpha alpha positive, gamma-delta intraepithelial T cell	surface intraepithelial CD8+ lymphocyte gamma/delta	UBERON:0000397	colonic epithelium	epithelium	129
+CL:0000802	CD8-alpha alpha positive, gamma-delta intraepithelial T cell	surface intraepithelial CD8+ lymphocyte gamma/delta	UBERON:0000397	colonic epithelium	lymphocyte	450
+CL:0000802	CD8-alpha alpha positive, gamma-delta intraepithelial T cell	surface intraepithelial CD8+ lymphocyte gamma/delta	UBERON:0000397	colonic epithelium	lymphocyte	1101
+CL:0000802	CD8-alpha alpha positive, gamma-delta intraepithelial T cell	surface intraepithelial CD8+ lymphocyte gamma/delta	UBERON:0000397	colonic epithelium	lymphocyte	995
+CL:0000802	CD8-alpha alpha positive, gamma-delta intraepithelial T cell	surface intraepithelial CD8+ lymphocyte gamma/delta	UBERON:0000397	colonic epithelium	lymphocyte	886
+CL:0000815	regulatory T cell	T reg	UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	1333
+CL:0000815	regulatory T cell	T reg	UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	1351
+CL:0000910	cytotoxic T cell	T killer	UBERON:0001961	mucosa-associated lymphoid tissue	subcutaneous skin-associated lymphoid tissue	1350
+CL:0000910	cytotoxic T cell	T killer	UBERON:0001961	mucosa-associated lymphoid tissue	dermal skin-associated lymphoid tissue	1332
+CL:0000915	CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	1197
+CL:0000915	CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	776
+CL:0000915	CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	234
+CL:0000915	CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	558
+CL:0000915	CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alpha alpha positive alpha/beta lymphocyte	UBERON:0005636	caecum epithelium	epithelium	128
+CL:0000915	CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	21
+CL:0000915	CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	449
+CL:0000915	CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	340
+CL:0000915	CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	994
+CL:0000915	CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	667
+CL:0000915	CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	1100
+CL:0000915	CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	1261
+CL:0000915	CD8-alpha-alpha-positive, alpha-beta intraepithelial T cell	surface intraepithelial CD8+ alph alpha positive alpha/beta lymphocyte	UBERON:0000397	colonic epithelium	lymphocyte	885
+CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	UBERON:0000397	colonic epithelium	lymphocyte	25
+CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	UBERON:0000397	colonic epithelium	lymphocyte	238
+CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	UBERON:0000397	colonic epithelium	lymphocyte	562
+CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	UBERON:0000397	colonic epithelium	lymphocyte	1265
+CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	UBERON:0000397	colonic epithelium	lymphocyte	999
+CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	UBERON:0000397	colonic epithelium	lymphocyte	671
+CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	UBERON:0000397	colonic epithelium	lymphocyte	889
+CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	UBERON:0000397	colonic epithelium	lymphocyte	453
+CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	UBERON:0000397	colonic epithelium	lymphocyte	1104
+CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	UBERON:0000397	colonic epithelium	lymphocyte	780
+CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	UBERON:0000397	colonic epithelium	lymphocyte	1201
+CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	UBERON:0000397	colonic epithelium	lymphocyte	344
+CL:0000935	CD4-negative, CD8-negative, alpha-beta intraepithelial T cell	surface intraepithelial CD4-CD8- lymphocyte alpha/beta	UBERON:0000397	colonic epithelium	epithelium	132
+CL:0002042	immature NK T cell stage IV	lymphatic endothelium	UBERON:0000055	vessel	vessel	1342
+CL:0002042	immature NK T cell stage IV	lymphatic endothelium	UBERON:0000055	vessel	vessel	1360
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	663
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	990
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	658
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	1091
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	767
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	876
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	881
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	1096
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	985
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	772
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	12
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	331
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0022281	epithelium of crypt of Lieberkuhn of large intestine	epithelium	119
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	549
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0022281	epithelium of crypt of Lieberkuhn of large intestine	epithelium	124
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	445
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	17
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	440
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	336
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	230
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	554
+CL:0002071	enterocyte of epithelium of large intestine	absorptive	UBERON:0000397	colonic epithelium	epithelium	225
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	741
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0003331	submucosa of colon	submucosa	515
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1295
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0003331	submucosa of colon	submucosa	300
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	202
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0003331	submucosa of colon	submucosa	194
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	96
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0003331	submucosa of colon	submucosa	624
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	523
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	632
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1235
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0003331	submucosa of colon	submucosa	733
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	850
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	414
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0003331	submucosa of colon	submucosa	951
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	959
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0003331	submucosa of colon	submucosa	1060
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0003331	submucosa of colon	submucosa	1166
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1174
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0003331	submucosa of colon	submucosa	406
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0003331	submucosa of colon	submucosa	1287
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0003331	submucosa of colon	submucosa	88
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0003331	submucosa of colon	submucosa	1227
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0003331	submucosa of colon	submucosa	842
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	308
+CL:0002088	interstitial cell of Cajal	interstitial cell of Cajal	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1068
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1233
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	690
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012375	subserosa	subserosa	115
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	972
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	183
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1123
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012375	subserosa	subserosa	978
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1241
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	102
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1049
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0005742	adventitia	adventitia	1254
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	722
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1268
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	94
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	472
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	363
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1248
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	109
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	894
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0003331	submucosa of colon	submucosa	714
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	489
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	349
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	707
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1205
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012375	subserosa	subserosa	869
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	243
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	151
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0003331	submucosa of colon	submucosa	387
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1155
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012375	subserosa	subserosa	1193
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	412
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0003331	submucosa of colon	submucosa	281
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	420
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	799
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1187
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	168
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1180
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	831
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	816
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	395
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0003331	submucosa of colon	submucosa	823
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0003331	submucosa of colon	submucosa	1041
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	739
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	785
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	289
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	1140
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	747
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0003331	submucosa of colon	submucosa	1219
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	458
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	863
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	754
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0003331	submucosa of colon	submucosa	1279
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	848
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012375	subserosa	subserosa	760
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0011189	lamina propria of large intestine	lamina propria	137
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012375	subserosa	subserosa	433
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0003329	submucosa of anal canal	submucosa	1147
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0004927	submucosa of cecum	submucosa	175
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	274
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	427
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1003
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	856
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	380
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1172
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0003331	submucosa of colon	submucosa	496
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	44
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1301
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012375	subserosa	subserosa	542
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	630
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	1034
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	321
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	521
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	613
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1074
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	77
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012375	subserosa	subserosa	651
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	925
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	208
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	940
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0003331	submucosa of colon	submucosa	68
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012375	subserosa	subserosa	221
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	529
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	645
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	314
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1081
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1308
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0005742	adventitia	adventitia	1314
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0003331	submucosa of colon	submucosa	605
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	598
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	908
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	581
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	965
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	61
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0003331	submucosa of colon	submucosa	932
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1293
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012375	subserosa	subserosa	1087
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	504
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	30
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1017
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	676
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	638
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	306
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	957
+CL:0002138	endothelial cell of lymphatic vessel	ILF lymphatic endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	257
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1066
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	200
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012375	subserosa	subserosa	327
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	215
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1109
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	567
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	536
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	1033
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1002
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1204
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	457
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	784
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	597
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	566
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	29
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	167
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	815
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0011189	lamina propria of large intestine	lamina propria	136
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	242
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	488
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	675
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	60
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	706
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	893
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1267
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	924
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	348
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	1139
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1108
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	379
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0003331	submucosa of colon	submucosa	69
+CL:0002144	capillary endothelial cell	capillary endothelium	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	273
+CL:0002292	type I cell of carotid body	glomus cell	UBERON:0000055	vessel	vessel	1340
+CL:0002292	type I cell of carotid body	glomus cell	UBERON:0000055	vessel	vessel	1358
+CL:0002573	Schwann cell	nerve	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	961
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Henle	192
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Henle	840
+CL:0002573	Schwann cell	nerve/schwann cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	353
+CL:0002573	Schwann cell	nerve	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	969
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	intermediate layer	838
+CL:0002573	Schwann cell	nerve/schwann cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1113
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	836
+CL:0002573	Schwann cell	nerve/schwann cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	898
+CL:0002573	Schwann cell	nerve	UBERON:0004927	submucosa of cecum	submucosa	172
+CL:0002573	Schwann cell	nerve	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	197
+CL:0002573	Schwann cell	nerve	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	954
+CL:0002573	Schwann cell	nerve	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1169
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	1160
+CL:0002573	Schwann cell	nerve	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	303
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	intermediate layer	1162
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Henle	1164
+CL:0002573	Schwann cell	nerve	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1063
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	1054
+CL:0002573	Schwann cell	nerve	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	845
+CL:0002573	Schwann cell	nerve	UBERON:0012375	subserosa	subserosa	324
+CL:0002573	Schwann cell	nerve	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	860
+CL:0002573	Schwann cell	nerve	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	378
+CL:0002573	Schwann cell	nerve	UBERON:0012375	subserosa	subserosa	866
+CL:0002573	Schwann cell	nerve	UBERON:0003329	submucosa of anal canal	submucosa	1144
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	294
+CL:0002573	Schwann cell	nerve	UBERON:0003331	submucosa of colon	submucosa	384
+CL:0002573	Schwann cell	nerve	UBERON:0012375	subserosa	subserosa	1084
+CL:0002573	Schwann cell	nerve	UBERON:0003331	submucosa of colon	submucosa	929
+CL:0002573	Schwann cell	nerve	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	318
+CL:0002573	Schwann cell	nerve	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	1138
+CL:0002573	Schwann cell	nerve	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1078
+CL:0002573	Schwann cell	nerve	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1070
+CL:0002573	Schwann cell	nerve	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	212
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	intermediate layer	296
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Henle	298
+CL:0002573	Schwann cell	nerve	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	310
+CL:0002573	Schwann cell	nerve	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	923
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	188
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	945
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	intermediate layer	947
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	intermediate layer	190
+CL:0002573	Schwann cell	nerve	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	204
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Henle	949
+CL:0002573	Schwann cell	nerve	UBERON:0012375	subserosa	subserosa	975
+CL:0002573	Schwann cell	nerve	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	852
+CL:0002573	Schwann cell	nerve	UBERON:0012375	subserosa	subserosa	218
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	intermediate layer	1056
+CL:0002573	Schwann cell	nerve	UBERON:0003331	submucosa of colon	submucosa	493
+CL:0002573	Schwann cell	nerve	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	487
+CL:0002573	Schwann cell	nerve	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	91
+CL:0002573	Schwann cell	nerve	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	705
+CL:0002573	Schwann cell	nerve	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	98
+CL:0002573	Schwann cell	nerve	UBERON:0003331	submucosa of colon	submucosa	711
+CL:0002573	Schwann cell	nerve	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	106
+CL:0002573	Schwann cell	nerve	UBERON:0005742	adventitia	adventitia	1251
+CL:0002573	Schwann cell	nerve	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	634
+CL:0002573	Schwann cell	nerve	UBERON:0003331	submucosa of colon	submucosa	820
+CL:0002573	Schwann cell	nerve	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1245
+CL:0002573	Schwann cell	nerve	UBERON:0012375	subserosa	subserosa	112
+CL:0002573	Schwann cell	nerve	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	627
+CL:0002573	Schwann cell	nerve	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	1032
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Henle	622
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	intermediate layer	620
+CL:0002573	Schwann cell	nerve	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1237
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	727
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	intermediate layer	729
+CL:0002573	Schwann cell	nerve	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	59
+CL:0002573	Schwann cell	nerve/schwann cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1272
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Henle	86
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	intermediate layer	84
+CL:0002573	Schwann cell	nerve	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	518
+CL:0002573	Schwann cell	nerve	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1297
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Henle	513
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	intermediate layer	511
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	509
+CL:0002573	Schwann cell	nerve	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	525
+CL:0002573	Schwann cell	nerve	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1305
+CL:0002573	Schwann cell	nerve	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1290
+CL:0002573	Schwann cell	nerve/schwann cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	680
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Henle	1285
+CL:0002573	Schwann cell	nerve	UBERON:0012375	subserosa	subserosa	648
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	intermediate layer	1283
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	1281
+CL:0002573	Schwann cell	nerve	UBERON:0005742	adventitia	adventitia	1311
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	82
+CL:0002573	Schwann cell	nerve	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	642
+CL:0002573	Schwann cell	nerve	UBERON:0003331	submucosa of colon	submucosa	1276
+CL:0002573	Schwann cell	nerve	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	533
+CL:0002573	Schwann cell	nerve	UBERON:0003331	submucosa of colon	submucosa	65
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Henle	731
+CL:0002573	Schwann cell	nerve	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	736
+CL:0002573	Schwann cell	nerve	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1230
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Henle	1225
+CL:0002573	Schwann cell	nerve/schwann cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	789
+CL:0002573	Schwann cell	nerve	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	416
+CL:0002573	Schwann cell	nerve	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	596
+CL:0002573	Schwann cell	nerve	UBERON:0003331	submucosa of colon	submucosa	1038
+CL:0002573	Schwann cell	nerve	UBERON:0012375	subserosa	subserosa	1190
+CL:0002573	Schwann cell	nerve	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1184
+CL:0002573	Schwann cell	nerve/schwann cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	34
+CL:0002573	Schwann cell	nerve/schwann cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	247
+CL:0002573	Schwann cell	nerve/schwann cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	571
+CL:0002573	Schwann cell	schwann cell	UBERON:0006134	nerve fiber	nerve	1354
+CL:0002573	Schwann cell	nerve	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	409
+CL:0002573	Schwann cell	nerve	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1176
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Henle	404
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	intermediate layer	402
+CL:0002573	Schwann cell	nerve	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	814
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	400
+CL:0002573	Schwann cell	nerve	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	166
+CL:0002573	Schwann cell	nerve/schwann cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1007
+CL:0002573	Schwann cell	nerve	UBERON:0003331	submucosa of colon	submucosa	278
+CL:0002573	Schwann cell	nerve	UBERON:0003331	submucosa of colon	submucosa	602
+CL:0002573	Schwann cell	nerve	UBERON:0012375	subserosa	subserosa	539
+CL:0002573	Schwann cell	nerve	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	743
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	intermediate layer	1223
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	1221
+CL:0002573	Schwann cell	nerve/schwann cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	462
+CL:0002573	Schwann cell	nerve	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	751
+CL:0002573	Schwann cell	nerve	UBERON:0003331	submucosa of colon	submucosa	1216
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	618
+CL:0002573	Schwann cell	nerve	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	424
+CL:0002573	Schwann cell	nerve	UBERON:0012375	subserosa	subserosa	757
+CL:0002573	Schwann cell	nerve	UBERON:0007178	muscularis mucosae of colon	muscularis mucosa	272
+CL:0002573	Schwann cell	nerve/schwann cell	UBERON:0007177	lamina propria of mucosa of colon	lamina propria	1209
+CL:0002573	Schwann cell	nerve/schwann cell	UBERON:0011189	lamina propria of large intestine	lamina propria	141
+CL:0002573	Schwann cell	schwann cell	UBERON:0006134	nerve fiber	nerve	1336
+CL:0002573	Schwann cell	nerve	UBERON:0005304	submucous nerve plexus	submucosal plexus of Henle	1058
+CL:0002573	Schwann cell	nerve	UBERON:0012375	subserosa	subserosa	430
+CL:0002576	perineurial cell	perineurial cell	UBERON:0006134	nerve fiber	nerve	1355
+CL:0002576	perineurial cell	perineurial cell	UBERON:0006134	nerve fiber	nerve	1337
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	45
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	941
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	258
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	582
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	614
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1018
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	396
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	78
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	800
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1156
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	832
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	290
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	723
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	364
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	473
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1050
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	184
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1124
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	505
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	909
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	152
+CL:0002652	endothelial cell of high endothelial venule	ILV high endothelial venule endothelium	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	691
+CL:0009009	paneth cell of colon	Paneth	UBERON:0022281	epithelium of crypt of Lieberkuhn of large intestine	epithelium	122
+CL:0009011	transit amplifying cell of colon	transient amplifying cell	UBERON:0022281	epithelium of crypt of Lieberkuhn of large intestine	epithelium	126
+CL:0009016	intestinal crypt stem cell of large intestine	epithelial stem cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	1093
+CL:0009016	intestinal crypt stem cell of large intestine	epithelial stem cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	987
+CL:0009016	intestinal crypt stem cell of large intestine	epithelial stem cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	769
+CL:0009016	intestinal crypt stem cell of large intestine	epithelial stem cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	442
+CL:0009016	intestinal crypt stem cell of large intestine	epithelial stem cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	878
+CL:0009016	intestinal crypt stem cell of large intestine	epithelial stem cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	227
+CL:0009016	intestinal crypt stem cell of large intestine	epithelial stem cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	14
+CL:0009016	intestinal crypt stem cell of large intestine	epithelial stem cell	UBERON:0022281	epithelium of crypt of Lieberkuhn of large intestine	epithelium	121
+CL:0009016	intestinal crypt stem cell of large intestine	epithelial stem cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	551
+CL:0009016	intestinal crypt stem cell of large intestine	epithelial stem cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	333
+CL:0009016	intestinal crypt stem cell of large intestine	epithelial stem cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	660
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1045
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1043
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1044
+CL:0009018	lymphocyte of large intestine lamina propria	innate lymphoid cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1030
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	251
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1047
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	256
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	254
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1053
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	253
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	252
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1028
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	577
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	156
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1118
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	150
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	148
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	147
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	146
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	145
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	81
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	75
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	73
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	72
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	71
+CL:0009018	lymphocyte of large intestine lamina propria	innate lymphoid cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	57
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	55
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	50
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	49
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	48
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	46
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	43
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	41
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	40
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	39
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	38
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	153
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1117
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	155
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	157
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1119
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1120
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1122
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1125
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1127
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1128
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1129
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	187
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1134
+CL:0009018	lymphocyte of large intestine lamina propria	innate lymphoid cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1136
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	181
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	179
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	178
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	177
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1149
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1150
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1151
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1153
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1159
+CL:0009018	lymphocyte of large intestine lamina propria	innate lymphoid cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	164
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT) /lamina propria	162
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	259
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	261
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	686
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1022
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	826
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	825
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	399
+CL:0009018	lymphocyte of large intestine lamina propria	innate lymphoid cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	812
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	810
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	805
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	804
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	803
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	801
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1023
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	796
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	795
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	794
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	793
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	466
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	467
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	468
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	827
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	726
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	393
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	391
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	904
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	903
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	902
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	357
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	358
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	359
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	360
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	362
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	365
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	367
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	368
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	369
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	374
+CL:0009018	lymphocyte of large intestine lamina propria	innate lymphoid cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	376
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	835
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	389
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	390
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	829
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	905
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	469
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	720
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	500
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	502
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	508
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	617
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	611
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	609
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	608
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	607
+CL:0009018	lymphocyte of large intestine lamina propria	innate lymphoid cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	594
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	592
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	575
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	587
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	586
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	585
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	576
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	583
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	580
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	499
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	471
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	498
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	685
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	718
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	717
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	716
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	474
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	476
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	477
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	478
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	483
+CL:0009018	lymphocyte of large intestine lamina propria	innate lymphoid cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	703
+CL:0009018	lymphocyte of large intestine lamina propria	innate lymphoid cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	485
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	701
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	696
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	695
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	694
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	692
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	689
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	687
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	684
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	907
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	798
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	912
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1012
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1011
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	268
+CL:0009018	lymphocyte of large intestine lamina propria	innate lymphoid cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	270
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	934
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	283
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1013
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	936
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	285
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	287
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	938
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	293
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	578
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	910
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	284
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1014
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	935
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	263
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	913
+CL:0009018	lymphocyte of large intestine lamina propria	CD8+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	914
+CL:0009018	lymphocyte of large intestine lamina propria	regulatory CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	262
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1019
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	1016
+CL:0009018	lymphocyte of large intestine lamina propria	NK cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	919
+CL:0009018	lymphocyte of large intestine lamina propria	CD4+ T cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	1021
+CL:0009018	lymphocyte of large intestine lamina propria	B cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/Isolated lymphoid follicles (ILF)	944
+CL:0009018	lymphocyte of large intestine lamina propria	innate lymphoid cell	UBERON:0001962	gut-associated lymphoid tissue	gut associated lymphoid tissue (GALT)/lamina propria	921
+CL:0019032	intestinal tuft cell	tuft cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	233
+CL:0019032	intestinal tuft cell	tuft cell	UBERON:0022281	epithelium of crypt of Lieberkuhn of large intestine	epithelium	127
+CL:0019032	intestinal tuft cell	tuft cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	666
+CL:0019032	intestinal tuft cell	tuft cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	1099
+CL:0019032	intestinal tuft cell	tuft cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	557
+CL:0019032	intestinal tuft cell	tuft cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	448
+CL:0019032	intestinal tuft cell	tuft cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	993
+CL:0019032	intestinal tuft cell	tuft cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	339
+CL:0019032	intestinal tuft cell	tuft cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	884
+CL:0019032	intestinal tuft cell	tuft cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	20
+CL:0019032	intestinal tuft cell	tuft cell	UBERON:0011184	epithelium of crypt of Lieberkuhn	epithelium	775
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1076
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1182
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1288
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	516
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	858
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	407
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	734
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	422
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	301
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1303
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	967
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	104
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	952
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1228
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1243
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	625
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	749
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	89
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	843
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	210
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	640
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	531
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	195
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	316
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1167
+CL:1000279	smooth muscle cell of large intestine	muscle	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1061
+CL:1000321	large intestine crypt goblet cell	goblet	UBERON:0000397	colonic epithelium	epithelium	441
+CL:1000321	large intestine crypt goblet cell	goblet	UBERON:0000397	colonic epithelium	epithelium	226
+CL:1000321	large intestine crypt goblet cell	goblet	UBERON:0000397	colonic epithelium	epithelium	332
+CL:1000321	large intestine crypt goblet cell	goblet	UBERON:0000397	colonic epithelium	epithelium	768
+CL:1000321	large intestine crypt goblet cell	goblet	UBERON:0000397	colonic epithelium	epithelium	13
+CL:1000321	large intestine crypt goblet cell	goblet	UBERON:0000397	colonic epithelium	epithelium	550
+CL:1000321	large intestine crypt goblet cell	goblet	UBERON:0000397	colonic epithelium	epithelium	659
+CL:1000321	large intestine crypt goblet cell	goblet	UBERON:0000397	colonic epithelium	epithelium	1092
+CL:1000321	large intestine crypt goblet cell	goblet	UBERON:0000397	colonic epithelium	epithelium	986
+CL:1000321	large intestine crypt goblet cell	goblet	UBERON:0000397	colonic epithelium	epithelium	877
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0003331	submucosa of colon	submucosa	1277
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0003331	submucosa of colon	submucosa	712
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	107
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	628
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0005742	adventitia	adventitia	1252
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1064
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0003331	submucosa of colon	submucosa	1039
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012375	subserosa	subserosa	540
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0003331	submucosa of colon	submucosa	279
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012375	subserosa	subserosa	113
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	955
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1239
+CL:1000412	endothelial cell of arteriole	arteriole endothelial cell	UBERON:0006134	nerve fiber	vessel	1338
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1246
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	534
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	636
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	100
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0003331	submucosa of colon	submucosa	66
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	643
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0005742	adventitia	adventitia	1312
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	92
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012375	subserosa	subserosa	649
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	970
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1306
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	527
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	519
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1299
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012375	subserosa	subserosa	976
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0003331	submucosa of colon	submucosa	494
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1291
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	963
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0003331	submucosa of colon	submucosa	603
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	304
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1178
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0003331	submucosa of colon	submucosa	385
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	846
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	425
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	418
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0004927	submucosa of cecum	submucosa	173
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	319
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	213
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	854
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0003331	submucosa of colon	submucosa	930
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1079
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1185
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012375	subserosa	subserosa	219
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	410
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1072
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012375	subserosa	subserosa	1085
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1170
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012375	subserosa	subserosa	1191
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012375	subserosa	subserosa	758
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012375	subserosa	subserosa	431
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0003331	submucosa of colon	submucosa	821
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	752
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	745
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012375	subserosa	subserosa	325
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012375	subserosa	subserosa	867
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	206
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	861
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	198
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0003329	submucosa of anal canal	submucosa	1145
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0003331	submucosa of colon	submucosa	1217
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1231
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	737
+CL:1000412	endothelial cell of arteriole	arteriole endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	312
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012375	subserosa	subserosa	650
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	199
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0003331	submucosa of colon	submucosa	822
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012375	subserosa	subserosa	326
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	528
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	644
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1307
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0003331	submucosa of colon	submucosa	931
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0005742	adventitia	adventitia	1313
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	214
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0003329	submucosa of anal canal	submucosa	1146
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0003331	submucosa of colon	submucosa	67
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	637
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012375	subserosa	subserosa	868
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	535
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	629
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	862
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0004927	submucosa of cecum	submucosa	174
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1171
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	847
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0003331	submucosa of colon	submucosa	386
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012375	subserosa	subserosa	541
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0003331	submucosa of colon	submucosa	280
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0003331	submucosa of colon	submucosa	604
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	855
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	207
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	320
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1232
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012375	subserosa	subserosa	114
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	971
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012375	subserosa	subserosa	432
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	520
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	93
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	738
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	964
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012375	subserosa	subserosa	759
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	101
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	753
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1073
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0003331	submucosa of colon	submucosa	1218
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0003331	submucosa of colon	submucosa	713
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0005742	adventitia	adventitia	1253
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	746
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	305
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	108
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1065
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	426
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1247
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	419
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1240
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012375	subserosa	subserosa	1086
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1300
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	1179
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0003331	submucosa of colon	submucosa	1040
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	1292
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012375	subserosa	subserosa	220
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1186
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	411
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012398	large intestine smooth muscle circular layer	circular muscle layer	956
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012399	large intestine smooth muscle longitudinal layer	longitudinal muscle layer	1080
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0003331	submucosa of colon	submucosa	495
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012375	subserosa	subserosa	1192
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0003331	submucosa of colon	submucosa	1278
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	313
+CL:1000414	endothelial cell of venule	venule endothelium	UBERON:0012375	subserosa	subserosa	977
+CL:1000417	myoepithelial cell of sweat gland	myoepithelial	UBERON:0000423	eccrine sweat gland	eccrine sweat gland	1324
+CL:1000417	myoepithelial cell of sweat gland	myoepithelial	UBERON:0008974	apocrine gland	apocrine gland	1326
+CL:1000457	mesothelial cell of visceral peritoneum	mesothelial cell	UBERON:0003335	serosa of colon	serosa	118
+CL:1000457	mesothelial cell of visceral peritoneum	mesothelial cell	UBERON:0003335	serosa of colon	serosa	330
+CL:1000457	mesothelial cell of visceral peritoneum	mesothelial cell	UBERON:0003335	serosa of colon	serosa	657
+CL:1000457	mesothelial cell of visceral peritoneum	mesothelial cell	UBERON:0003335	serosa of colon	serosa	548
+CL:1000457	mesothelial cell of visceral peritoneum	mesothelial cell	UBERON:0003335	serosa of colon	serosa	439
+CL:1000457	mesothelial cell of visceral peritoneum	mesothelial cell	UBERON:0003335	serosa of colon	serosa	224
+CL:1000457	mesothelial cell of visceral peritoneum	mesothelial cell	UBERON:0003335	serosa of colon	serosa	984
+CL:1000457	mesothelial cell of visceral peritoneum	mesothelial cell	UBERON:0003335	serosa of colon	serosa	1090
+CL:1000457	mesothelial cell of visceral peritoneum	mesothelial cell	UBERON:0003335	serosa of colon	serosa	875
+CL:1000457	mesothelial cell of visceral peritoneum	mesothelial cell	UBERON:0003335	serosa of colon	serosa	766

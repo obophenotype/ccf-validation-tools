@@ -1,0 +1,526 @@
+{
+  "no_valid_id": [
+    {
+      "id": "",
+      "label": "",
+      "user_label": "frontomarginal gyrus",
+      "row_number": 29
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "occipitoparietal transition region",
+      "row_number": 48
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "occipitotemporal transition region",
+      "row_number": 49
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "occipitotemporal (fusiform) gyrus, occipital part",
+      "row_number": 52
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "cingulate gyrus, retrospleninal part",
+      "row_number": 59
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "head of hippocampus",
+      "row_number": 66
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "body of hippocampus",
+      "row_number": 67
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "septal nuclei",
+      "row_number": 87
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "atrium of lateral ventricle",
+      "row_number": 123
+    },
+    {
+      "id": "",
+      "label": "ifs1",
+      "user_label": "ifs1",
+      "row_number": 152
+    },
+    {
+      "id": "",
+      "label": "ifs2",
+      "user_label": "ifs2",
+      "row_number": 153
+    },
+    {
+      "id": "",
+      "label": "ifs3",
+      "user_label": "ifs3",
+      "row_number": 154
+    },
+    {
+      "id": "",
+      "label": "ifs4",
+      "user_label": "ifs4",
+      "row_number": 155
+    },
+    {
+      "id": "",
+      "label": "inferior frontal junction",
+      "user_label": "inferior frontal junction",
+      "row_number": 156
+    },
+    {
+      "id": "",
+      "label": "ifj1",
+      "user_label": "ifj1",
+      "row_number": 156
+    },
+    {
+      "id": "",
+      "label": "inferior frontal junction",
+      "user_label": "inferior frontal junction",
+      "row_number": 157
+    },
+    {
+      "id": "",
+      "label": "ifj2",
+      "user_label": "ifj2",
+      "row_number": 157
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 200
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "amygdaloid complex",
+      "row_number": 311
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "amygdaloid complex",
+      "row_number": 313
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "amygdaloid complex",
+      "row_number": 318
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "amygdaloid complex",
+      "row_number": 321
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "amygdaloid complex",
+      "row_number": 378
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 492
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 511
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 533
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 600
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 601
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 603
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 604
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 605
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 606
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 607
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 608
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 609
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 610
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 612
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 613
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 614
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 615
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 616
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "thalamus",
+      "row_number": 618
+    }
+  ],
+  "no_found_id": [],
+  "diff_label": [
+    {
+      "id": "PCL:0051270",
+      "label": "LLC_269 interneuron (Hsap)",
+      "asct_label": "LLC_269 CNS interneuron (Hsap)",
+      "user_label": "LLC_269",
+      "row_number": 427
+    },
+    {
+      "id": "PCL:0051270",
+      "label": "LLC_269 interneuron (Hsap)",
+      "asct_label": "LLC_269 CNS interneuron (Hsap)",
+      "user_label": "LLC_269",
+      "row_number": 427
+    },
+    {
+      "id": "PCL:0051276",
+      "label": "LLC_275 interneuron (Hsap)",
+      "asct_label": "LLC_275 CNS interneuron (Hsap)",
+      "user_label": "LLC_275",
+      "row_number": 433
+    },
+    {
+      "id": "PCL:0051276",
+      "label": "LLC_275 interneuron (Hsap)",
+      "asct_label": "LLC_275 CNS interneuron (Hsap)",
+      "user_label": "LLC_275",
+      "row_number": 433
+    },
+    {
+      "id": "PCL:0051279",
+      "label": "CGE_278 caudal ganglionic eminence derived cortical interneuron (Hsap)",
+      "asct_label": "CGE_278 caudal ganglionic eminence derived interneuron (Hsap)",
+      "user_label": "CGE_278",
+      "row_number": 436
+    },
+    {
+      "id": "PCL:0051279",
+      "label": "CGE_278 caudal ganglionic eminence derived cortical interneuron (Hsap)",
+      "asct_label": "CGE_278 caudal ganglionic eminence derived interneuron (Hsap)",
+      "user_label": "CGE_278",
+      "row_number": 436
+    },
+    {
+      "id": "CL:0000402",
+      "label": "obsolete CNS interneuron",
+      "asct_label": "CNS interneuron",
+      "user_label": "CNS interneuron",
+      "row_number": 422
+    },
+    {
+      "id": "CL:0000402",
+      "label": "obsolete CNS interneuron",
+      "asct_label": "CNS interneuron",
+      "user_label": "CNS interneuron",
+      "row_number": 423
+    },
+    {
+      "id": "CL:0000402",
+      "label": "obsolete CNS interneuron",
+      "asct_label": "CNS interneuron",
+      "user_label": "CNS interneuron",
+      "row_number": 424
+    },
+    {
+      "id": "CL:0000402",
+      "label": "obsolete CNS interneuron",
+      "asct_label": "CNS interneuron",
+      "user_label": "CNS interneuron",
+      "row_number": 425
+    },
+    {
+      "id": "CL:0000402",
+      "label": "obsolete CNS interneuron",
+      "asct_label": "CNS interneuron",
+      "user_label": "CNS interneuron",
+      "row_number": 426
+    },
+    {
+      "id": "CL:0000402",
+      "label": "obsolete CNS interneuron",
+      "asct_label": "CNS interneuron",
+      "user_label": "CNS interneuron",
+      "row_number": 427
+    },
+    {
+      "id": "CL:0000402",
+      "label": "obsolete CNS interneuron",
+      "asct_label": "CNS interneuron",
+      "user_label": "CNS interneuron",
+      "row_number": 428
+    },
+    {
+      "id": "CL:0000402",
+      "label": "obsolete CNS interneuron",
+      "asct_label": "CNS interneuron",
+      "user_label": "CNS interneuron",
+      "row_number": 429
+    },
+    {
+      "id": "CL:0000402",
+      "label": "obsolete CNS interneuron",
+      "asct_label": "CNS interneuron",
+      "user_label": "CNS interneuron",
+      "row_number": 430
+    },
+    {
+      "id": "CL:0000402",
+      "label": "obsolete CNS interneuron",
+      "asct_label": "CNS interneuron",
+      "user_label": "CNS interneuron",
+      "row_number": 431
+    },
+    {
+      "id": "CL:0000402",
+      "label": "obsolete CNS interneuron",
+      "asct_label": "CNS interneuron",
+      "user_label": "CNS interneuron",
+      "row_number": 432
+    },
+    {
+      "id": "CL:0000402",
+      "label": "obsolete CNS interneuron",
+      "asct_label": "CNS interneuron",
+      "user_label": "CNS interneuron",
+      "row_number": 433
+    },
+    {
+      "id": "PCL:0051274",
+      "label": "LLC_273 interneuron (Hsap)",
+      "asct_label": "LLC_273 CNS interneuron (Hsap)",
+      "user_label": "LLC_273",
+      "row_number": 431
+    },
+    {
+      "id": "PCL:0051274",
+      "label": "LLC_273 interneuron (Hsap)",
+      "asct_label": "LLC_273 CNS interneuron (Hsap)",
+      "user_label": "LLC_273",
+      "row_number": 431
+    },
+    {
+      "id": "PCL:0051278",
+      "label": "CGE_277 caudal ganglionic eminence derived cortical interneuron (Hsap)",
+      "asct_label": "CGE_277 caudal ganglionic eminence derived interneuron (Hsap)",
+      "user_label": "CGE_277",
+      "row_number": 435
+    },
+    {
+      "id": "PCL:0051278",
+      "label": "CGE_277 caudal ganglionic eminence derived cortical interneuron (Hsap)",
+      "asct_label": "CGE_277 caudal ganglionic eminence derived interneuron (Hsap)",
+      "user_label": "CGE_277",
+      "row_number": 435
+    },
+    {
+      "id": "PCL:0051275",
+      "label": "LLC_274 interneuron (Hsap)",
+      "asct_label": "LLC_274 CNS interneuron (Hsap)",
+      "user_label": "LLC_274",
+      "row_number": 432
+    },
+    {
+      "id": "PCL:0051275",
+      "label": "LLC_274 interneuron (Hsap)",
+      "asct_label": "LLC_274 CNS interneuron (Hsap)",
+      "user_label": "LLC_274",
+      "row_number": 432
+    },
+    {
+      "id": "PCL:0051283",
+      "label": "CGE_282 caudal ganglionic eminence derived cortical interneuron (Hsap)",
+      "asct_label": "CGE_282 caudal ganglionic eminence derived interneuron (Hsap)",
+      "user_label": "CGE_282",
+      "row_number": 440
+    },
+    {
+      "id": "PCL:0051283",
+      "label": "CGE_282 caudal ganglionic eminence derived cortical interneuron (Hsap)",
+      "asct_label": "CGE_282 caudal ganglionic eminence derived interneuron (Hsap)",
+      "user_label": "CGE_282",
+      "row_number": 440
+    },
+    {
+      "id": "PCL:0051284",
+      "label": "CGE_283 caudal ganglionic eminence derived cortical interneuron (Hsap)",
+      "asct_label": "CGE_283 caudal ganglionic eminence derived interneuron (Hsap)",
+      "user_label": "CGE_283",
+      "row_number": 441
+    },
+    {
+      "id": "PCL:0051284",
+      "label": "CGE_283 caudal ganglionic eminence derived cortical interneuron (Hsap)",
+      "asct_label": "CGE_283 caudal ganglionic eminence derived interneuron (Hsap)",
+      "user_label": "CGE_283",
+      "row_number": 441
+    },
+    {
+      "id": "PCL:0051272",
+      "label": "LLC_271 interneuron (Hsap)",
+      "asct_label": "LLC_271 CNS interneuron (Hsap)",
+      "user_label": "LLC_271",
+      "row_number": 429
+    },
+    {
+      "id": "PCL:0051272",
+      "label": "LLC_271 interneuron (Hsap)",
+      "asct_label": "LLC_271 CNS interneuron (Hsap)",
+      "user_label": "LLC_271",
+      "row_number": 429
+    },
+    {
+      "id": "PCL:0051269",
+      "label": "LLC_268 interneuron (Hsap)",
+      "asct_label": "LLC_268 CNS interneuron (Hsap)",
+      "user_label": "LLC_268",
+      "row_number": 426
+    },
+    {
+      "id": "PCL:0051269",
+      "label": "LLC_268 interneuron (Hsap)",
+      "asct_label": "LLC_268 CNS interneuron (Hsap)",
+      "user_label": "LLC_268",
+      "row_number": 426
+    },
+    {
+      "id": "PCL:0051273",
+      "label": "LLC_272 interneuron (Hsap)",
+      "asct_label": "LLC_272 CNS interneuron (Hsap)",
+      "user_label": "LLC_272",
+      "row_number": 430
+    },
+    {
+      "id": "PCL:0051273",
+      "label": "LLC_272 interneuron (Hsap)",
+      "asct_label": "LLC_272 CNS interneuron (Hsap)",
+      "user_label": "LLC_272",
+      "row_number": 430
+    },
+    {
+      "id": "PCL:0051268",
+      "label": "LLC_267 interneuron (Hsap)",
+      "asct_label": "LLC_267 CNS interneuron (Hsap)",
+      "user_label": "LLC_267",
+      "row_number": 425
+    },
+    {
+      "id": "PCL:0051268",
+      "label": "LLC_267 interneuron (Hsap)",
+      "asct_label": "LLC_267 CNS interneuron (Hsap)",
+      "user_label": "LLC_267",
+      "row_number": 425
+    },
+    {
+      "id": "PCL:0051271",
+      "label": "LLC_270 interneuron (Hsap)",
+      "asct_label": "LLC_270 CNS interneuron (Hsap)",
+      "user_label": "LLC_270",
+      "row_number": 428
+    },
+    {
+      "id": "PCL:0051271",
+      "label": "LLC_270 interneuron (Hsap)",
+      "asct_label": "LLC_270 CNS interneuron (Hsap)",
+      "user_label": "LLC_270",
+      "row_number": 428
+    }
+  ],
+  "no_parent": []
+}

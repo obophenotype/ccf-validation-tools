@@ -1,0 +1,15 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+UBERON:0004188	glomerular epithelium	Glomerular Epithelium	UBERON:0002189	outer cortex of kidney	outer cortex of kidney	13	25.224547898606616
+UBERON:0004188	glomerular epithelium	Glomerular Epithelium	UBERON:0005271	juxtamedullary cortex	juxtamedullary cortex	14	25.224547898606616
+UBERON:0004188	glomerular epithelium	Glomerular Epithelium	UBERON:0001284	renal column	renal column	20	25.224547898606616
+UBERON:0001986	endothelium	Endothelium (non glomerular)	UBERON:0006544	kidney vasculature	Vessels	59	13.3541783923771
+UBERON:0003918	kidney mesenchyme	Stroma (non glomerular)	UBERON:0005215	kidney interstitium	Interstitium	66	12.209391200961157
+UBERON:0003918	kidney mesenchyme	Stroma (non glomerular)	UBERON:0005215	kidney interstitium	Interstitium	67	12.209391200961157
+UBERON:0003918	kidney mesenchyme	Stroma (non glomerular)	UBERON:0005215	kidney interstitium	Interstitium	68	12.209391200961157
+UBERON:0003918	kidney mesenchyme	Stroma (non glomerular)	UBERON:0005215	kidney interstitium	Interstitium	69	12.209391200961157
+UBERON:0003918	kidney mesenchyme	Stroma (non glomerular)	UBERON:0005215	kidney interstitium	Interstitium	70	12.209391200961157
+UBERON:0003918	kidney mesenchyme	Stroma (non glomerular)	UBERON:0005215	kidney interstitium	Interstitium	71	12.209391200961157
+UBERON:0001289	descending limb of loop of Henle	Loop of Henle (Thin Limb)	UBERON:0004201	kidney outer medulla inner stripe	kidney outer medulla inner stripe	17	7.588128639656659
+UBERON:0004203	cortical collecting duct	Collecting Duct (Cortex)	UBERON:0009883	medullary ray	medullary ray	15	4.593084967160678
+UBERON:0002335	macula densa	Macula Densa	UBERON:0001291	thick ascending limb of loop of Henle	Loop of Henle (Thick Limb/ Cortex)	38	1.021467287250914
+UBERON:0001291	thick ascending limb of loop of Henle	Loop of Henle (Thick Limb/Medulla)	UBERON:0004202	kidney outer medulla outer stripe	kidney outer medulla outer stripe	16	0.5765740074137824

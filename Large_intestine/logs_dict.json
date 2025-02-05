@@ -1,0 +1,4440 @@
+{
+  "no_valid_id": [
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 27
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 28
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 35
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 83
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 85
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 87
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 97
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 134
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 135
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 142
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 189
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 191
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 193
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 203
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 240
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 241
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 248
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 295
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 297
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 299
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 309
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 346
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 347
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 354
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 401
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 403
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 405
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 415
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "mesocolic coli",
+      "row_number": 436
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "free coli",
+      "row_number": 437
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "omental coli",
+      "row_number": 438
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 455
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 456
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 463
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 510
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 512
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 514
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 524
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "mesocolic coli",
+      "row_number": 545
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "free coli",
+      "row_number": 546
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "omental coli",
+      "row_number": 547
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 564
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 565
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 572
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 619
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 621
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 623
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 633
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "mesocolic coli",
+      "row_number": 654
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "free coli",
+      "row_number": 655
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "omental coli",
+      "row_number": 656
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 673
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 674
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 681
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 728
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 730
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 732
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 742
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "mesocolic coli",
+      "row_number": 763
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "free coli",
+      "row_number": 764
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "omental coli",
+      "row_number": 765
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 782
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 783
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 790
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 837
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 839
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 841
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 851
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "mesocolic coli",
+      "row_number": 872
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "free coli",
+      "row_number": 873
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "omental coli",
+      "row_number": 874
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 891
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 892
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 899
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 946
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 948
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 950
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 960
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "mesocolic coli",
+      "row_number": 981
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "free coli",
+      "row_number": 982
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "omental coli",
+      "row_number": 983
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 1000
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 1001
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1008
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1055
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1057
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1059
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1069
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 1106
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 1107
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1114
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1161
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1163
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1165
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1175
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 1203
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1210
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1222
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1224
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1226
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1236
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 1266
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1273
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1282
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1284
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1286
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1296
+    }
+  ],
+  "no_found_id": [],
+  "diff_label": [
+    {
+      "id": "CL:0009018",
+      "label": "lymphocyte of large intestine lamina propria",
+      "asct_label": "macrophage",
+      "user_label": "CD8+ T cell",
+      "row_number": 41
+    },
+    {
+      "id": "CL:0009018",
+      "label": "lymphocyte of large intestine lamina propria",
+      "asct_label": "",
+      "user_label": "NK cell",
+      "row_number": 268
+    },
+    {
+      "id": "CL:0009018",
+      "label": "lymphocyte of large intestine lamina propria",
+      "asct_label": "",
+      "user_label": "B cell",
+      "row_number": 293
+    },
+    {
+      "id": "CL:0009018",
+      "label": "lymphocyte of large intestine lamina propria",
+      "asct_label": "",
+      "user_label": "B cell",
+      "row_number": 466
+    },
+    {
+      "id": "CL:0009018",
+      "label": "lymphocyte of large intestine lamina propria",
+      "asct_label": "",
+      "user_label": "B cell",
+      "row_number": 944
+    },
+    {
+      "id": "CL:0009018",
+      "label": "lymphocyte of large intestine lamina propria",
+      "asct_label": "",
+      "user_label": "B cell",
+      "row_number": 1053
+    },
+    {
+      "id": "UBERON:0003342",
+      "label": "mucosa of anal canal",
+      "asct_label": "mucosa",
+      "user_label": "mucosa",
+      "row_number": 1196
+    },
+    {
+      "id": "UBERON:0003342",
+      "label": "mucosa of anal canal",
+      "asct_label": "mucosa",
+      "user_label": "mucosa",
+      "row_number": 1196
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 195
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 195
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 196
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 196
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 197
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 197
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 198
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 198
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 199
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 199
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 200
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 200
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 201
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 201
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 407
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 407
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 408
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 408
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 409
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 409
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 410
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 410
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 411
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 411
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 412
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 412
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 413
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 413
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 516
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 516
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 517
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 517
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 518
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 518
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 519
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 519
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 520
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 520
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 521
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 521
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 522
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 522
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 625
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 625
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 626
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 626
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 627
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 627
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 628
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 628
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 629
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 629
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 630
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 630
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 631
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 631
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 843
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 843
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 844
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 844
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 845
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 845
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 846
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 846
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 847
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 847
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 848
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 848
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 849
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 849
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 952
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 952
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 953
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 953
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 954
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 954
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 955
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 955
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 956
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 956
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 957
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 957
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 958
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 958
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1061
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1061
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1062
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1062
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1063
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1063
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1064
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1064
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1065
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1065
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1066
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1066
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1067
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1067
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1167
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1167
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1168
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1168
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1169
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1169
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1170
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1170
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1171
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1171
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1172
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1172
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1173
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1173
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1228
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1228
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1229
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1229
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1230
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1230
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1231
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1231
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1232
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1232
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1233
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1233
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1234
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1234
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1288
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1288
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1289
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1289
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1290
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1290
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1291
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1291
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1292
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1292
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1293
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1293
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1294
+    },
+    {
+      "id": "UBERON:0012398",
+      "label": "large intestine smooth muscle circular layer",
+      "asct_label": "circular muscle layer",
+      "user_label": "circular muscle layer",
+      "row_number": 1294
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine",
+      "row_number": 123
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine cell",
+      "row_number": 143
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine",
+      "row_number": 229
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine cell",
+      "row_number": 249
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine",
+      "row_number": 335
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine cell",
+      "row_number": 355
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine",
+      "row_number": 444
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine cell",
+      "row_number": 464
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine",
+      "row_number": 553
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine cell",
+      "row_number": 573
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine",
+      "row_number": 662
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine cell",
+      "row_number": 682
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine",
+      "row_number": 771
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine cell",
+      "row_number": 791
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine",
+      "row_number": 880
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine cell",
+      "row_number": 900
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine",
+      "row_number": 989
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine cell",
+      "row_number": 1009
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine",
+      "row_number": 1095
+    },
+    {
+      "id": "CL:0000165",
+      "label": "neuroendocrine cell",
+      "asct_label": "",
+      "user_label": "neuroendocrine cell",
+      "row_number": 1115
+    },
+    {
+      "id": "UBERON:0003331",
+      "label": "submucosa of colon",
+      "asct_label": "submucosa",
+      "user_label": "submucosa",
+      "row_number": 194
+    },
+    {
+      "id": "UBERON:0003331",
+      "label": "submucosa of colon",
+      "asct_label": "submucosa",
+      "user_label": "submucosa",
+      "row_number": 194
+    },
+    {
+      "id": "UBERON:0003331",
+      "label": "submucosa of colon",
+      "asct_label": "submucosa",
+      "user_label": "submucosa",
+      "row_number": 300
+    },
+    {
+      "id": "UBERON:0003331",
+      "label": "submucosa of colon",
+      "asct_label": "submucosa",
+      "user_label": "submucosa",
+      "row_number": 300
+    },
+    {
+      "id": "CL:0000244",
+      "label": "transitional epithelial cell",
+      "asct_label": "",
+      "user_label": "transitional",
+      "row_number": 1212
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 224
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 224
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 330
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 330
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 439
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 439
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 439
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 439
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 548
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 548
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 548
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 548
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 657
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 657
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 657
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 657
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 766
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 766
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 766
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 766
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 875
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 875
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 875
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 875
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 984
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 984
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 984
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 984
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 1090
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 1090
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 1090
+    },
+    {
+      "id": "UBERON:0003335",
+      "label": "serosa of colon",
+      "asct_label": "serosa",
+      "user_label": "serosa",
+      "row_number": 1090
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 240
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 241
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 242
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 242
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 243
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 243
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 244
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 244
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 245
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 245
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 246
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 246
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 247
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 247
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 248
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 249
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 249
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 346
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 347
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 348
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 348
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 349
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 349
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 350
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 350
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 351
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 351
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 352
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 352
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 353
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 353
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 354
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 355
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 355
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 455
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 456
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 457
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 457
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 458
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 458
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 459
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 459
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 460
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 460
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 461
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 461
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 462
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 462
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 463
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 464
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 464
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 564
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 565
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 566
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 566
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 567
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 567
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 568
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 568
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 569
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 569
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 570
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 570
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 571
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 571
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 572
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 573
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 573
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 673
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 674
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 675
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 675
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 676
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 676
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 677
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 677
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 678
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 678
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 679
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 679
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 680
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 680
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 681
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 682
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 682
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 782
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 783
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 784
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 784
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 785
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 785
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 786
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 786
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 787
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 787
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 788
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 788
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 789
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 789
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 790
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 791
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 791
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 891
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 892
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 893
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 893
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 894
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 894
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 895
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 895
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 896
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 896
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 897
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 897
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 898
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 898
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 899
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 900
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 900
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1000
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1001
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1002
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1002
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1003
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1003
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1004
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1004
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1005
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1005
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1006
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1006
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1007
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1007
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1008
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1009
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1009
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1106
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1107
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1108
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1108
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1109
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1109
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1110
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1110
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1111
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1111
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1112
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1112
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1113
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1113
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1114
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1115
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1115
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1203
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1203
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1203
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1204
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1204
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1204
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1204
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1205
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1205
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1205
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1205
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1206
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1206
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1206
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1206
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1207
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1207
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1207
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1207
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1208
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1208
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1208
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1208
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1209
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1209
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1209
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1209
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1210
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1210
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1210
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1266
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1266
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1266
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1267
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1267
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1267
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1267
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1268
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1268
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1268
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1268
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1269
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1269
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1269
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1269
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1270
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1270
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1270
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1270
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1271
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1271
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1271
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1271
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1272
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1272
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1272
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1272
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1273
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1273
+    },
+    {
+      "id": "UBERON:0007177",
+      "label": "lamina propria of mucosa of colon",
+      "asct_label": "lamina propria",
+      "user_label": "lamina propria",
+      "row_number": 1273
+    },
+    {
+      "id": "CL:0019032",
+      "label": "intestinal tuft cell",
+      "asct_label": "",
+      "user_label": "tuft cell",
+      "row_number": 233
+    },
+    {
+      "id": "CL:0019032",
+      "label": "intestinal tuft cell",
+      "asct_label": "",
+      "user_label": "tuft cell",
+      "row_number": 339
+    },
+    {
+      "id": "CL:0019032",
+      "label": "intestinal tuft cell",
+      "asct_label": "",
+      "user_label": "tuft cell",
+      "row_number": 448
+    },
+    {
+      "id": "CL:0019032",
+      "label": "intestinal tuft cell",
+      "asct_label": "",
+      "user_label": "tuft cell",
+      "row_number": 557
+    },
+    {
+      "id": "CL:0019032",
+      "label": "intestinal tuft cell",
+      "asct_label": "",
+      "user_label": "tuft cell",
+      "row_number": 666
+    },
+    {
+      "id": "CL:0019032",
+      "label": "intestinal tuft cell",
+      "asct_label": "",
+      "user_label": "tuft cell",
+      "row_number": 775
+    },
+    {
+      "id": "CL:0019032",
+      "label": "intestinal tuft cell",
+      "asct_label": "",
+      "user_label": "tuft cell",
+      "row_number": 884
+    },
+    {
+      "id": "CL:0019032",
+      "label": "intestinal tuft cell",
+      "asct_label": "",
+      "user_label": "tuft cell",
+      "row_number": 993
+    },
+    {
+      "id": "CL:0019032",
+      "label": "intestinal tuft cell",
+      "asct_label": "",
+      "user_label": "tuft cell",
+      "row_number": 1099
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 63
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 116
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 170
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 222
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 276
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 328
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 382
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 434
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 491
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 543
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 600
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 652
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 709
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 761
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 818
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 870
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 927
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 979
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 1036
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 1088
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 1142
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 1194
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 1214
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 1255
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 1274
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 1315
+    },
+    {
+      "id": "CL:0000136",
+      "label": "adipocyte",
+      "asct_label": "fat cell",
+      "user_label": "adipocyte",
+      "row_number": 1344
+    },
+    {
+      "id": "CL:0009009",
+      "label": "paneth cell of colon",
+      "asct_label": "paneth cell of epithelium of large intestine",
+      "user_label": "Paneth",
+      "row_number": 15
+    },
+    {
+      "id": "CL:0009009",
+      "label": "paneth cell of colon",
+      "asct_label": "",
+      "user_label": "Paneth",
+      "row_number": 228
+    },
+    {
+      "id": "CL:0009009",
+      "label": "paneth cell of colon",
+      "asct_label": "",
+      "user_label": "Paneth",
+      "row_number": 334
+    },
+    {
+      "id": "CL:0009009",
+      "label": "paneth cell of colon",
+      "asct_label": "",
+      "user_label": "Paneth",
+      "row_number": 443
+    },
+    {
+      "id": "CL:0009009",
+      "label": "paneth cell of colon",
+      "asct_label": "",
+      "user_label": "Paneth",
+      "row_number": 552
+    },
+    {
+      "id": "CL:0009009",
+      "label": "paneth cell of colon",
+      "asct_label": "",
+      "user_label": "Paneth",
+      "row_number": 661
+    },
+    {
+      "id": "CL:0009009",
+      "label": "paneth cell of colon",
+      "asct_label": "",
+      "user_label": "Paneth",
+      "row_number": 770
+    },
+    {
+      "id": "CL:0009009",
+      "label": "paneth cell of colon",
+      "asct_label": "",
+      "user_label": "Paneth",
+      "row_number": 879
+    },
+    {
+      "id": "CL:0009009",
+      "label": "paneth cell of colon",
+      "asct_label": "",
+      "user_label": "Paneth",
+      "row_number": 988
+    },
+    {
+      "id": "CL:0009009",
+      "label": "paneth cell of colon",
+      "asct_label": "",
+      "user_label": "Paneth",
+      "row_number": 1094
+    },
+    {
+      "id": "CL:0000317",
+      "label": "sebocyte",
+      "asct_label": "sebum secreting cell",
+      "user_label": "sebocyte",
+      "row_number": 1322
+    }
+  ],
+  "no_parent": [
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 27
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 28
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 35
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 83
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 85
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 87
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 97
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 134
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 135
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 142
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 189
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 191
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 193
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 203
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 240
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 241
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 248
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 295
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 297
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 299
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 309
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 346
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 347
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 354
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 401
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 403
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 405
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 415
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 455
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 456
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 463
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 510
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 512
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 514
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 524
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 564
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 565
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 572
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 619
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 621
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 623
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 633
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 673
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 674
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 681
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 728
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 730
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 732
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 742
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 782
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 783
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 790
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 837
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 839
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 841
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 851
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 891
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 892
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 899
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 946
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 948
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 950
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 960
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 1000
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 1001
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1008
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1055
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1057
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1059
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1069
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 1106
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "pericryptal fibroblastic sheath",
+      "row_number": 1107
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1114
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1161
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1163
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1165
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1175
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 1203
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1210
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1222
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1224
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1226
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1236
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "subepithelial membrane",
+      "row_number": 1266
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1273
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1282
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1284
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1286
+    },
+    {
+      "id": "",
+      "label": "",
+      "user_label": "ganglion",
+      "row_number": 1296
+    }
+  ]
+}

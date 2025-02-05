@@ -1,0 +1,84 @@
+{
+  "no_valid_id": [],
+  "no_found_id": [],
+  "diff_label": [
+    {
+      "id": "UBERON:8600011",
+      "label": "tracheal submucosal gland ciliated duct",
+      "asct_label": "terminal ciliated ducts for tracheal submucosal gland",
+      "user_label": "terminal ciliated ducts for tracheal submucosal gland",
+      "row_number": 20
+    },
+    {
+      "id": "UBERON:8600011",
+      "label": "tracheal submucosal gland ciliated duct",
+      "asct_label": "terminal ciliated ducts for tracheal submucosal gland",
+      "user_label": "terminal ciliated ducts for tracheal submucosal gland",
+      "row_number": 20
+    },
+    {
+      "id": "CL:0002145",
+      "label": "multiciliated columnar cell of tracheobronchial tree",
+      "asct_label": "ciliated columnar cell of tracheobronchial tree",
+      "user_label": "ciliated columnar cell of tracheobronchial tree",
+      "row_number": 12
+    },
+    {
+      "id": "CL:4033055",
+      "label": "airway submucosal gland duct multiciliated cell",
+      "asct_label": "airway submucosal gland duct ciliated cell ",
+      "user_label": "airway submucosal gland duct ciliated cell ",
+      "row_number": 20
+    },
+    {
+      "id": "UBERON:8600012",
+      "label": "submucosal gland acinus",
+      "asct_label": "submucosal gland acini",
+      "user_label": "submucosal gland acini",
+      "row_number": 18
+    },
+    {
+      "id": "UBERON:8600012",
+      "label": "submucosal gland acinus",
+      "asct_label": "submucosal gland acini",
+      "user_label": "submucosal gland acini",
+      "row_number": 18
+    },
+    {
+      "id": "UBERON:8600012",
+      "label": "submucosal gland acinus",
+      "asct_label": "submucosal gland acini",
+      "user_label": "submucosal gland acini",
+      "row_number": 22
+    },
+    {
+      "id": "UBERON:8600012",
+      "label": "submucosal gland acinus",
+      "asct_label": "submucosal gland acini",
+      "user_label": "submucosal gland acini",
+      "row_number": 22
+    },
+    {
+      "id": "UBERON:8600012",
+      "label": "submucosal gland acinus",
+      "asct_label": "submucosal gland acini",
+      "user_label": "submucosal gland acini",
+      "row_number": 23
+    },
+    {
+      "id": "UBERON:8600012",
+      "label": "submucosal gland acinus",
+      "asct_label": "submucosal gland acini",
+      "user_label": "submucosal gland acini",
+      "row_number": 23
+    },
+    {
+      "id": "CL:1000223",
+      "label": "pulmonary neuroendocrine cell",
+      "asct_label": "lung neuroendocrine cell",
+      "user_label": "lung neuroendocrine cell",
+      "row_number": 13
+    }
+  ],
+  "no_parent": []
+}

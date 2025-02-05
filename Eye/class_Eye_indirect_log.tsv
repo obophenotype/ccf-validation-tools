@@ -1,0 +1,116 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000099	Interneuron	Interneuron	CL:0000540	Neuron	Neuron	41
+CL:0000099	Interneuron	Interneuron	CL:0000540	Neuron	Neuron	42
+CL:0000099	Interneuron	Interneuron	CL:0000540	Neuron	Neuron	43
+CL:0000099	Interneuron	Interneuron	CL:0000540	Neuron	Neuron	44
+CL:0000099	Interneuron	Interneuron	CL:0000540	Neuron	Neuron	45
+CL:0000099	Interneuron	Interneuron	CL:0000540	Neuron	Neuron	46
+CL:0000099	Interneuron	Interneuron	CL:0000540	Neuron	Neuron	47
+CL:0000099	Interneuron	Interneuron	CL:0000540	Neuron	Neuron	48
+CL:0000287	eye photoreceptor cell	Photoreceptor	CL:0000540	neuron	Neuron	71
+CL:0000287	eye photoreceptor cell	photoreceptor	CL:0000540	Neuron	Neuron	62
+CL:0000573	retinal cone cell	retinal cone cell	CL:0000287	eye photoreceptor cell	photoreceptor	62
+CL:0000604	retinal rod cell	retinal rod cell	CL:0000287	eye photoreceptor cell	Photoreceptor	71
+CL:0000745	retina horizontal cell	Horizontal Cell	CL:0000540	neuron	Neuron	67
+CL:0000748	retinal bipolar neuron	Bipolar cell	CL:0000540	Neuron	Neuron	60
+CL:0000748	retinal bipolar neuron	Bipolar cell	CL:0000540	Neuron	Neuron	59
+CL:0000748	retinal bipolar neuron	Bipolar cell	CL:0000540	Neuron	Neuron	58
+CL:0000748	retinal bipolar neuron	Bipolar cell	CL:0000540	Neuron	Neuron	54
+CL:0000748	retinal bipolar neuron	Bipolar cell	CL:0000540	Neuron	Neuron	56
+CL:0000748	retinal bipolar neuron	Bipolar cell	CL:0000540	Neuron	Neuron	55
+CL:0000748	retinal bipolar neuron	Bipolar cell	CL:0000540	Neuron	Neuron	53
+CL:0000748	retinal bipolar neuron	Bipolar cell	CL:0000540	Neuron	Neuron	52
+CL:0000748	retinal bipolar neuron	Bipolar cell	CL:0000540	Neuron	Neuron	51
+CL:0000748	retinal bipolar neuron	Bipolar cell	CL:0000540	Neuron	Neuron	50
+CL:0000748	retinal bipolar neuron	Bipolar Cell	CL:0000540	Neuron	Neuron	49
+CL:0000748	retinal bipolar neuron	Bipolar cell	CL:0000540	Neuron	Neuron	57
+UBERON:0000964	Cornea	Cornea	UBERON:0000970	eye	eye	17
+UBERON:0000964	Cornea	Cornea	UBERON:0000970	eye	eye	19
+UBERON:0000964	Cornea	Cornea	UBERON:0000970	eye	eye	16
+UBERON:0000964	Cornea	Cornea	UBERON:0000970	eye	eye	18
+UBERON:0000965	lens of camera-type eye	lens	UBERON:0000970	eye	eye	38
+UBERON:0000965	lens of camera-type eye	lens	UBERON:0000970	eye	eye	39
+UBERON:0000965	lens of camera-type eye	lens	UBERON:0000970	eye	eye	37
+UBERON:0000965	lens of camera-type eye	lens	UBERON:0000970	eye	eye	36
+UBERON:0000965	lens of camera-type eye	lens	UBERON:0000970	eye	eye	35
+UBERON:0000965	lens of camera-type eye	lens	UBERON:0000970	eye	eye	34
+UBERON:0000965	lens of camera-type eye	lens	UBERON:0000970	eye	eye	33
+UBERON:0000965	lens of camera-type eye	lens	UBERON:0000970	eye	eye	32
+UBERON:0000965	lens of camera-type eye	lens	UBERON:0000970	eye	eye	30
+UBERON:0000965	lens of camera-type eye	lens	UBERON:0000970	eye	eye	31
+UBERON:0000965	lens of camera-type eye	lens	UBERON:0000970	eye	eye	29
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	58
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	61
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	57
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	56
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	55
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	54
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	53
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	52
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	59
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	51
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	60
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	62
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	72
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	64
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	65
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	71
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	66
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	67
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	68
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	74
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	69
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	50
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	70
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	73
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	63
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	49
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	75
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	46
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	48
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	47
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	41
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	42
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	44
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	43
+UBERON:0000966	retina	retina	UBERON:0000970	eye	eye	45
+UBERON:0001769	iris	iris	UBERON:0000970	eye	eye	26
+UBERON:0001769	iris	iris	UBERON:0000970	eye	eye	27
+UBERON:0001772	corneal epithelium	corneal epithelium	UBERON:0000964	Cornea	Cornea	19
+UBERON:0001775	ciliary body	ciliary body	UBERON:0000970	eye	eye	12
+UBERON:0001775	ciliary body	ciliary body	UBERON:0000970	eye	eye	13
+UBERON:0001775	ciliary body	ciliary body	UBERON:0000970	eye	eye	14
+UBERON:0001782	pigmented layer of retina	retinal pigmented epithelium	UBERON:0000966	retina	retina	72
+UBERON:0001783	optic disc	optic nerve head	UBERON:0000970	eye	eye	40
+UBERON:0001789	outer nuclear layer of retina	outer nuclear layer	UBERON:0000966	retina	retina	62
+UBERON:0001789	outer nuclear layer of retina	outer nuclear layer	UBERON:0000966	retina	retina	71
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	49
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	67
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	69
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	41
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	48
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	42
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	45
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	50
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	47
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	51
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	52
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	46
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	53
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	54
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	60
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	55
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	44
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	56
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	57
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	58
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	43
+UBERON:0001791	inner nuclear layer of retina	inner nuclear layer	UBERON:0000966	retina	retina	59
+UBERON:0001792	ganglionic layer of retina	retinal ganglion cell layer	UBERON:0000966	retina	retina	65
+UBERON:0001792	ganglionic layer of retina	retinal ganglion cell layer	UBERON:0000966	retina	retina	74
+UBERON:0001792	ganglionic layer of retina	retinal ganglion cell layer	UBERON:0000966	retina	retina	64
+UBERON:0001792	ganglionic layer of retina	retinal ganglion cell layer	UBERON:0000966	retina	retina	66
+UBERON:0001811	conjunctiva	conjunctiva	UBERON:0000970	eye	eye	15
+UBERON:0003952	anterior stroma of cornea	anterior stroma of cornea	UBERON:0000964	Cornea	Cornea	18
+UBERON:0003952	anterior stroma of cornea	anterior stroma of cornea	UBERON:0000964	Cornea	Cornea	17
+UBERON:0005336	capillary layer of choroid	Choriocapillaris	UBERON:0001776	optic choroid	optic choroid	61

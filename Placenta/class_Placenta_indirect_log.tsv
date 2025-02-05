@@ -1,0 +1,32 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+UBERON:0001310	umbilical artery	umbilical arteries	UBERON:0002331	umbilical cord	umbilical cord	17
+UBERON:0001310	umbilical artery	umbilical arteries	UBERON:0002331	umbilical cord	umbilical cord	15
+UBERON:0001310	umbilical artery	umbilical arteries	UBERON:0002331	umbilical cord	umbilical cord	16
+UBERON:0002066	umbilical vein	umbilical vein	UBERON:0002331	umbilical cord	umbilical cord	14
+UBERON:0002066	umbilical vein	umbilical vein	UBERON:0002331	umbilical cord	umbilical cord	13
+UBERON:0002066	umbilical vein	umbilical vein	UBERON:0002331	umbilical cord	umbilical cord	12
+UBERON:0002451	endometrial gland	endometrial gland	UBERON:0001295	endometrium	endometrium	105
+UBERON:0002451	endometrial gland	endometrial gland	UBERON:0001295	endometrium	endometrium	27
+UBERON:0002451	endometrial gland	endometrial gland	UBERON:0001295	endometrium	endometrium	55
+UBERON:8600027	chorionic stem villus	stem villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	76
+UBERON:8600027	chorionic stem villus	stem villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	77
+UBERON:8600027	chorionic stem villus	stem villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	70
+UBERON:8600027	chorionic stem villus	stem villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	71
+UBERON:8600027	chorionic stem villus	stem villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	72
+UBERON:8600027	chorionic stem villus	stem villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	73
+UBERON:8600027	chorionic stem villus	stem villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	74
+UBERON:8600027	chorionic stem villus	stem villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	75
+UBERON:8600030	chorionic terminal villus	terminal villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	104
+UBERON:8600030	chorionic terminal villus	terminal villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	103
+UBERON:8600030	chorionic terminal villus	terminal villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	102
+UBERON:8600030	chorionic terminal villus	terminal villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	100
+UBERON:8600030	chorionic terminal villus	terminal villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	99
+UBERON:8600030	chorionic terminal villus	terminal villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	98
+UBERON:8600030	chorionic terminal villus	terminal villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	101
+UBERON:8600031	chorionic mature intermediate villus	mature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	97
+UBERON:8600031	chorionic mature intermediate villus	mature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	95
+UBERON:8600031	chorionic mature intermediate villus	mature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	94
+UBERON:8600031	chorionic mature intermediate villus	mature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	93
+UBERON:8600031	chorionic mature intermediate villus	mature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	92
+UBERON:8600031	chorionic mature intermediate villus	mature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	91
+UBERON:8600031	chorionic mature intermediate villus	mature intermediate villus	UBERON:8600026	chorionic villous tree	chorionic villous tree	96

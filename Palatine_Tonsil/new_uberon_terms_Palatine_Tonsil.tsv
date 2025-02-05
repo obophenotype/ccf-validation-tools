@@ -1,0 +1,10 @@
+Upper AS	Upper AS/label	Upper AS/ID	AS Name	References/ID	References/DOI
+blood vessel	blood vessel	UBERON:0001981	peritonsillar plexus of veins		
+diffuse lymphoid tissue	diffuse lymphoid tissue	FMA:55221	tonsil T cell zone		
+palatine tonsil	palatine tonsil	UBERON:0002373	tonsil follicle	HTTPS:DOIORG101126SCIIMMUNOLABH3768 ; HTTPS:DOIORG10110120220624497299	
+tonsil follicle			tonsil secondary follicle	HTTPS:DOIORG101126SCIIMMUNOLABH3768 ; HTTPS:DOIORG10110120220624497299	
+palatine tonsil	palatine tonsil	UBERON:0002373	tonsil follicle		
+tonsil follicle			tonsil secondary follicle		
+tonsil secondary follicle			tonsil germinal center mantle zone		
+tonsil germinal center	tonsil germinal center	UBERON:0013688	tonsil germinal center light zone		
+tonsil germinal center	tonsil germinal center	UBERON:0013688	tonsil germinal center dark zone		

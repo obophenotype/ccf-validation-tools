@@ -1,0 +1,106 @@
+Upper AS	Upper AS/label	Upper AS/ID	AS Name	References/ID	References/DOI
+Fallopian tube	fallopian tube	UBERON:0003889	intramural segment of Fallopian tube		
+intramural segment of Fallopian tube			fluid of Fallopian tube intramural segment		
+Fallopian tube	fallopian tube	UBERON:0003889	intramural segment of Fallopian tube	HTTPS:DOIORG101016JCELREP2021108978	
+intramural segment of Fallopian tube			lamina propria of Fallopian tube intramural segment	HTTPS:DOIORG101016JCELREP2021108978	
+Fallopian tube	fallopian tube	UBERON:0003889	intramural segment of Fallopian tube	PMID:25994820	
+intramural segment of Fallopian tube			lamina propria of Fallopian tube intramural segment	PMID:25994820	
+intramural segment of Fallopian tube			lamina propria of Fallopian tube intramural segment		
+Fallopian tube	fallopian tube	UBERON:0003889	intramural segment of Fallopian tube	PMID:16938110	
+intramural segment of Fallopian tube			lamina propria of Fallopian tube intramural segment	PMID:16938110	
+intramural segment of Fallopian tube			nerve of Fallopian tube intramural segment		
+intramural segment of Fallopian tube			vasculature of Fallopian tube intramural segment	HTTPS:DOIORG101016JCELREP2021108978	
+isthmus of Fallopian tube	isthmus of fallopian tube	UBERON:0016632	fluid of Fallopian tube isthmus		
+isthmus of Fallopian tube	isthmus of fallopian tube	UBERON:0016632	lamina propria of Fallopian tube isthmus	HTTPS:DOIORG101016JCELREP2021108978	
+isthmus of Fallopian tube	isthmus of fallopian tube	UBERON:0016632	lamina propria of Fallopian tube isthmus	PMID:25994820	
+isthmus of Fallopian tube	isthmus of fallopian tube	UBERON:0016632	lamina propria of Fallopian tube isthmus		
+isthmus of Fallopian tube	isthmus of fallopian tube	UBERON:0016632	lamina propria of Fallopian tube isthmus	PMID:16938110	
+isthmus of Fallopian tube	isthmus of fallopian tube	UBERON:0016632	nerve of Fallopian tube isthmus		
+isthmus of Fallopian tube	isthmus of fallopian tube	UBERON:0016632	vasculature of Fallopian tube isthmus	HTTPS:DOIORG101016JCELREP2021108978	
+ampulla of Fallopian tube	ampulla of fallopian tube	UBERON:0012648	fluid of Fallopian tube ampulla		
+ampulla of Fallopian tube	ampulla of fallopian tube	UBERON:0012648	lamina propria Fallopian tube ampulla	HTTPS:DOIORG101016JCELREP2021108978	
+ampulla of Fallopian tube	ampulla of fallopian tube	UBERON:0012648	lamina propria Fallopian tube ampulla	PMID:25994820	
+ampulla of Fallopian tube	ampulla of fallopian tube	UBERON:0012648	lamina propria Fallopian tube ampulla		
+ampulla of Fallopian tube	ampulla of fallopian tube	UBERON:0012648	lamina propria Fallopian tube ampulla	PMID:16938110	
+ampulla of Fallopian tube	ampulla of fallopian tube	UBERON:0012648	nerve of Fallopian tube ampulla	HTTPS:DOIORG101016B978012801238364401X	
+ampulla of Fallopian tube	ampulla of fallopian tube	UBERON:0012648	vasculature of Fallopian tube ampulla	HTTPS:DOIORG101016JCELREP2021108978	
+infundibulum of Fallopian tube	uterine tube infundibulum	UBERON:0003984	fluid of Fallopian tube infundibulum		
+infundibulum of Fallopian tube	uterine tube infundibulum	UBERON:0003984	lamina propria of Fallopian tube infundibulum	HTTPS:DOIORG101016JCELREP2021108978	
+infundibulum of Fallopian tube	uterine tube infundibulum	UBERON:0003984	lamina propria of Fallopian tube infundibulum	PMID:25994820	
+infundibulum of Fallopian tube	uterine tube infundibulum	UBERON:0003984	lamina propria of Fallopian tube infundibulum		
+infundibulum of Fallopian tube	uterine tube infundibulum	UBERON:0003984	lamina propria of Fallopian tube infundibulum	PMID:16938110	
+infundibulum of Fallopian tube	uterine tube infundibulum	UBERON:0003984	nerve of Fallopian tube infundibulum		
+infundibulum of Fallopian tube	uterine tube infundibulum	UBERON:0003984	vasculature of Fallopian tube infundibulum	HTTPS:DOIORG101016JCELREP2021108978	
+mesosalpinx	mesosalpinx	UBERON:0012331	mesothelium of mesosalpinx	HTTPS:DOIORG101016B978012801238364401X	
+Fallopian tube	fallopian tube	UBERON:0003889	intramural segment of Fallopian tube	PMID:12171494	
+intramural segment of Fallopian tube			wall of Fallopian tube intramural segment	PMID:12171494	
+wall of Fallopian tube intramural segment			serosa of Fallopian tube intramural segment	PMID:12171494	
+intramural segment of Fallopian tube			wall of Fallopian tube intramural segment		
+wall of Fallopian tube intramural segment			basement membrane of Fallopian tube intramural segment		
+isthmus of Fallopian tube	isthmus of fallopian tube	UBERON:0016632	wall of Fallopian tube isthmus	PMID:12171494	
+wall of Fallopian tube isthmus			serosa of Fallopian tube isthmus	PMID:12171494	
+isthmus of Fallopian tube	isthmus of fallopian tube	UBERON:0016632	wall of Fallopian tube isthmus		
+wall of Fallopian tube isthmus			basement membrane of Fallopian tube isthmus		
+ampulla of Fallopian tube	ampulla of fallopian tube	UBERON:0012648	wall of Fallopian tube ampulla	PMID:12171494	
+wall of Fallopian tube ampulla			serosa of Fallopian tube ampulla	PMID:12171494	
+ampulla of Fallopian tube	ampulla of fallopian tube	UBERON:0012648	wall of Fallopian tube ampulla		
+wall of Fallopian tube ampulla			basement membrane of Fallopian tube ampulla		
+fimbria of Fallopian tube	fimbria of fallopian tube	UBERON:8410010	fluid of Fallopian tube fimbria		
+fimbria of Fallopian tube	fimbria of fallopian tube	UBERON:8410010	lamina propria of Fallopian tube fimbria	HTTPS:DOIORG101016JCELREP2021108978	
+fimbria of Fallopian tube	fimbria of fallopian tube	UBERON:8410010	lamina propria of Fallopian tube fimbria	PMID:25994820	
+fimbria of Fallopian tube	fimbria of fallopian tube	UBERON:8410010	lamina propria of Fallopian tube fimbria		
+fimbria of Fallopian tube	fimbria of fallopian tube	UBERON:8410010	lamina propria of Fallopian tube fimbria	PMID:16938110	
+fimbria of Fallopian tube	fimbria of fallopian tube	UBERON:8410010	nerve of Fallopian tube fimbria		
+fimbria of Fallopian tube	fimbria of fallopian tube	UBERON:8410010	vasculature of Fallopian tube fimbria	HTTPS:DOIORG101016JCELREP2021108978	
+infundibulum of Fallopian tube	uterine tube infundibulum	UBERON:0003984	wall of Fallopian tube infundibulum	PMID:12171494	
+wall of Fallopian tube infundibulum			serosa of Fallopian tube infundibulum	PMID:12171494	
+infundibulum of Fallopian tube	uterine tube infundibulum	UBERON:0003984	wall of Fallopian tube infundibulum		
+wall of Fallopian tube infundibulum			basement membrane of Fallopian tube infundibulum		
+mesosalpinx	mesosalpinx	UBERON:0012331	serous membrane lining of mesosalpinx	HTTPS:DOIORG101016B978012801238364401X	
+serous membrane lining of mesosalpinx			lymphatic of mesosalpinx	HTTPS:DOIORG101016B978012801238364401X	
+serous membrane lining of mesosalpinx			nerve of mesosalpinx	HTTPS:DOIORG101016B978012801238364401X	
+serous membrane lining of mesosalpinx			vasculature of mesosalpinx	HTTPS:DOIORG101016B978012801238364401X	
+Fallopian tube	fallopian tube	UBERON:0003889	intramural segment of Fallopian tube	PMID:22911892	
+intramural segment of Fallopian tube			plica of Fallopian tube intramural segment	PMID:22911892	
+plica of Fallopian tube intramural segment			mucosa of Fallopian tube intramural segment	PMID:22911892	
+wall of Fallopian tube intramural segment			muscle layer of oviduct intramural segment		
+muscle layer of oviduct intramural segment			Inner muscle layer of Fallopian tube intramural segment		
+muscle layer of oviduct intramural segment			Middle muscle layer of Fallopian tube intramural segment		
+muscle layer of oviduct intramural segment			Outer muscle layer of Fallopian tube intramural segment		
+isthmus of Fallopian tube	isthmus of fallopian tube	UBERON:0016632	plica of Fallopian tube isthmus	PMID:22911892	
+plica of Fallopian tube isthmus			mucosa of Fallopian tube isthmus	PMID:22911892	
+wall of Fallopian tube isthmus			muscle layer of oviduct isthmus		
+muscle layer of oviduct isthmus			Inner muscle layer of Fallopian tube isthmus		
+muscle layer of oviduct isthmus			Middle muscle layer of Fallopian tube isthmus		
+muscle layer of oviduct isthmus			Outer muscle layer of Fallopian tube isthmus		
+ampulla of Fallopian tube	ampulla of fallopian tube	UBERON:0012648	plica of Fallopian tube ampulla	PMID:22911892	
+plica of Fallopian tube ampulla			mucosa of Fallopian tube ampulla	PMID:22911892	
+wall of Fallopian tube ampulla			muscle layer of oviduct ampulla		
+muscle layer of oviduct ampulla			Inner muscle layer of Fallopian tube ampulla		
+muscle layer of oviduct ampulla			Middle muscle layer of Fallopian tube ampulla		
+muscle layer of oviduct ampulla			Outer muscle layer of Fallopian tube ampulla		
+fimbria of Fallopian tube	fimbria of fallopian tube	UBERON:8410010	mucosa of Fallopian tube fimbria	PMID:22911892	
+infundibulum of Fallopian tube	uterine tube infundibulum	UBERON:0003984	plica of Fallopian tube infundibulum	PMID:22911892	
+plica of Fallopian tube infundibulum			mucosa of Fallopian tube infundibulum	PMID:22911892	
+wall of Fallopian tube infundibulum			muscle layer of oviduct infundibulum		
+muscle layer of oviduct infundibulum			Inner muscle layer of Fallopian tube infundibulum		
+muscle layer of oviduct infundibulum			Middle muscle layer of Fallopian tube infundibulum		
+muscle layer of oviduct infundibulum			Outer muscle layer of Fallopian tube infundibulum		
+intramural segment of Fallopian tube			plica of Fallopian tube intramural segment		
+plica of Fallopian tube intramural segment			mucosa of Fallopian tube intramural segment		
+intramural segment of Fallopian tube			plica of Fallopian tube intramural segment	HTTPS:DOIORG101016JCELREP2021108978	
+plica of Fallopian tube intramural segment			mucosa of Fallopian tube intramural segment	HTTPS:DOIORG101016JCELREP2021108978	
+isthmus of Fallopian tube	isthmus of fallopian tube	UBERON:0016632	plica of Fallopian tube isthmus		
+plica of Fallopian tube isthmus			mucosa of Fallopian tube isthmus		
+isthmus of Fallopian tube	isthmus of fallopian tube	UBERON:0016632	plica of Fallopian tube isthmus	HTTPS:DOIORG101016JCELREP2021108978	
+plica of Fallopian tube isthmus			mucosa of Fallopian tube isthmus	HTTPS:DOIORG101016JCELREP2021108978	
+ampulla of Fallopian tube	ampulla of fallopian tube	UBERON:0012648	plica of Fallopian tube ampulla		
+plica of Fallopian tube ampulla			mucosa of Fallopian tube ampulla		
+ampulla of Fallopian tube	ampulla of fallopian tube	UBERON:0012648	plica of Fallopian tube ampulla	HTTPS:DOIORG101016JCELREP2021108978	
+plica of Fallopian tube ampulla			mucosa of Fallopian tube ampulla	HTTPS:DOIORG101016JCELREP2021108978	
+fimbria of Fallopian tube	fimbria of fallopian tube	UBERON:8410010	mucosa of Fallopian tube fimbria		
+fimbria of Fallopian tube	fimbria of fallopian tube	UBERON:8410010	mucosa of Fallopian tube fimbria	HTTPS:DOIORG101016JCELREP2021108978	
+infundibulum of Fallopian tube	uterine tube infundibulum	UBERON:0003984	plica of Fallopian tube infundibulum		
+plica of Fallopian tube infundibulum			mucosa of Fallopian tube infundibulum		
+infundibulum of Fallopian tube	uterine tube infundibulum	UBERON:0003984	plica of Fallopian tube infundibulum	HTTPS:DOIORG101016JCELREP2021108978	
+plica of Fallopian tube infundibulum			mucosa of Fallopian tube infundibulum	HTTPS:DOIORG101016JCELREP2021108978	

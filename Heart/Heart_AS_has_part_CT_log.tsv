@@ -1,0 +1,16 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000057	fibroblast	fibroblast	UBERON:0002049	vasculature	vasculature	179
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:8600102	left anterior descending artery	left anterior descending artery	126
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:8600063	septal perforating artery	septal perforating arteries	132
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:0006958	great vein of heart	great cardiac vein	135
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:0009687	middle cardiac vein	middle cardiac vein	138
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:0039232	conus artery	conus artery	169
+CL:0000077	mesothelial cell	mesothelial cell	UBERON:0002348	epicardium	Epicardium	205
+CL:0000746	cardiac muscle cell	cardiomyocyte	UBERON:0003379	cardiac muscle of right atrium	myocardium	16
+CL:0000746	cardiac muscle cell	cardiomyocyte	UBERON:0003380	cardiac muscle of left atrium	myocardium	55
+CL:0000746	cardiac muscle cell	cardiomyocyte	UBERON:0006566	left ventricle myocardium	myocardium	91
+CL:0000746	cardiac muscle cell	cardiomyocyte	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	144
+CL:0000746	cardiac muscle cell	cardiomyocyte	UBERON:0006567	right ventricle myocardium	myocardium	164
+CL:0002068	Purkinje myocyte	Purkinje fiber cell	UBERON:0006566	left ventricle myocardium	myocardium	92
+CL:0002068	Purkinje myocyte	Purkinje fiber cell	UBERON:0006567	right ventricle myocardium	myocardium	165
+CL:0010008	cardiac endothelial cell	endothelial cell	UBERON:0002049	vasculature	vasculature	26

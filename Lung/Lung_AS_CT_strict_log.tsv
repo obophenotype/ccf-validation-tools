@@ -1,0 +1,81 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000158	club cell	club cell	UBERON:0001958	terminal bronchiole epithelium	terminal bronchiole epithelium	74
+CL:0000158	club cell	club cell	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	61
+CL:0000158	club cell	club cell	UBERON:0002051	epithelium of bronchiole	epithelium of bronchiole	69
+CL:0000158	club cell	club cell	UBERON:0001955	epithelium of respiratory bronchiole	epithelium of respiratory bronchiole	77
+CL:0000158	club cell	club cell	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	40
+CL:0002062	pulmonary alveolar type 1 cell	alveolar type I cell	UBERON:0008870	pulmonary alveolar parenchyma	pulmonary alveolar parenchyma	97
+CL:0002062	pulmonary alveolar type 1 cell	alveolar type I cell	UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	90
+CL:0002063	pulmonary alveolar type 2 cell	alveolar type II cell	UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	89
+CL:0002063	pulmonary alveolar type 2 cell	alveolar type II cell	UBERON:0008870	pulmonary alveolar parenchyma	pulmonary alveolar parenchyma	96
+CL:0002208	brush cell of bronchus	tuft cell	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	42
+CL:0002208	brush cell of bronchus	tuft cell	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	62
+CL:0002329	basal epithelial cell of tracheobronchial tree	basal epithelial cell of tracheobronchial tree	UBERON:0002339	epithelium of lobar bronchus	lobar bronchial epithelium	27
+CL:0002329	basal epithelial cell of tracheobronchial tree	basal epithelial cell of tracheobronchial tree	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	46
+CL:0002329	basal epithelial cell of tracheobronchial tree	basal epithelial cell of tracheobronchial tree	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	66
+CL:0002332	multiciliated epithelial cell of the bronchus	ciliated cell of the bronchus	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	59
+CL:0002332	multiciliated epithelial cell of the bronchus	ciliated cell of the bronchus	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	47
+CL:0002332	multiciliated epithelial cell of the bronchus	ciliated cell of the bronchus	UBERON:0002339	epithelium of lobar bronchus	lobar bronchial epithelium	25
+CL:0002591	smooth muscle cell of the pulmonary artery	smooth muscle cell of the pulmonary artery	UBERON:0012416	respiratory system arterial smooth muscle	arterial system smooth muscle	110
+CL:0002598	bronchial smooth muscle cell	bronchial smooth muscle cell	UBERON:0004242	bronchus smooth muscle	bronchial smooth muscle	20
+CL:0002598	bronchial smooth muscle cell	bronchial smooth muscle cell	UBERON:0004242	bronchus smooth muscle	bronchial smooth muscle	37
+CL:0002598	bronchial smooth muscle cell	bronchial smooth muscle cell	UBERON:0004242	bronchus smooth muscle	bronchial smooth muscle	49
+CL:0002619	adult endothelial progenitor cell	adult endothelial progenitor cell	UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	101
+CL:0009089	lung pericyte	lung pericyte	UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	91
+CL:0009089	lung pericyte	lung pericyte	UBERON:0008870	pulmonary alveolar parenchyma	pulmonary alveolar parenchyma	98
+CL:0009089	lung pericyte	lung pericyte	UBERON:0002299	alveolus of lung	alveolus of lung on respiratory bronchiole	84
+CL:0011103	sympathetic neuron	sympathetic neuron	UBERON:0002009	pulmonary nerve plexus	pulmonary nerve plexus	12
+CL:0017000	pulmonary ionocyte	pulmonary ionocyte	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	45
+CL:0017000	pulmonary ionocyte	pulmonary ionocyte	UBERON:0002339	epithelium of lobar bronchus	lobar bronchial epithelium	23
+CL:0017000	pulmonary ionocyte	pulmonary ionocyte	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	58
+CL:0019002	tracheobronchial chondrocyte	tracheobronchial chondrocyte	UBERON:0001956	cartilage of bronchus	cartilage of bronchus	38
+CL:0019002	tracheobronchial chondrocyte	tracheobronchial chondrocyte	UBERON:0001956	cartilage of bronchus	cartilage of bronchus	50
+CL:0019003	tracheobronchial goblet cell	tracheobronchial goblet cell	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	43
+CL:0019003	tracheobronchial goblet cell	tracheobronchial goblet cell	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	63
+CL:0019018	blood vessel smooth muscle cell	blood vessel smooth muscle cell	UBERON:0012418	respiratory system venous smooth muscle	venous system smooth muscle	113
+CL:0019018	blood vessel smooth muscle cell	blood vessel smooth muscle cell	UBERON:0012416	respiratory system arterial smooth muscle	arterial system smooth muscle	115
+CL:0019018	blood vessel smooth muscle cell	blood vessel smooth muscle cell	UBERON:0012418	respiratory system venous smooth muscle	venous system smooth muscle	117
+CL:0019019	tracheobronchial smooth muscle cell	tracheobronchial smooth muscle	UBERON:0004884	lobar bronchus mesenchyme	bronchial mesenchyme	48
+CL:0019019	tracheobronchial smooth muscle cell	tracheobronchial smooth muscle	UBERON:0004884	lobar bronchus mesenchyme	bronchial mesenchyme	67
+CL:1000223	pulmonary neuroendocrine cell	lung neuroendocrine cell	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	41
+CL:1000223	pulmonary neuroendocrine cell	lung neuroendocrine cell	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	65
+CL:1000271	lung multiciliated epithelial cell	lung ciliated cell	UBERON:0001955	epithelium of respiratory bronchiole	epithelium of respiratory bronchiole	79
+CL:1000271	lung multiciliated epithelial cell	lung ciliated cell	UBERON:0001958	terminal bronchiole epithelium	terminal bronchiole epithelium	73
+CL:1000271	lung multiciliated epithelial cell	lung ciliated cell	UBERON:0002051	epithelium of bronchiole	epithelium of bronchiole	68
+CL:1000413	endothelial cell of artery	endothelial cell of artery	UBERON:0004848	respiratory system arterial endothelium	respiratory system arterial endothelium	114
+CL:1001568	pulmonary artery endothelial cell	pulmonary artery endothelial cell	UBERON:0004848	respiratory system arterial endothelium	respiratory system arterial endothelium	109
+CL:4028004	alveolar type 1 fibroblast cell	alveolar type 1 fibroblast cell	UBERON:0008870	pulmonary alveolar parenchyma	pulmonary alveolar parenchyma	100
+CL:4028004	alveolar type 1 fibroblast cell	alveolar type 1 fibroblast cell	UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	93
+CL:4028006	alveolar adventitial fibroblast	adventitial fibroblast	UBERON:0002173	pulmonary alveolar duct	pulmonary alveolar duct	92
+CL:4028006	alveolar adventitial fibroblast	adventitial fibroblast	UBERON:0008870	pulmonary alveolar parenchyma	pulmonary alveolar parenchyma	99
+CL:4033003	myoepithelial cell of bronchus submucosal gland	myoepithelial cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	18
+CL:4033003	myoepithelial cell of bronchus submucosal gland	myoepithelial cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	56
+CL:4033003	myoepithelial cell of bronchus submucosal gland	myoepithelial cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	36
+CL:4033005	serous secreting cell of bronchus submucosal gland	serous secreting cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	34
+CL:4033005	serous secreting cell of bronchus submucosal gland	serous secreting cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	54
+CL:4033005	serous secreting cell of bronchus submucosal gland	serous secreting cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	16
+CL:4033008	vein endothelial cell of respiratory system	vein endothelial cell of respiratory system	UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	102
+CL:4033008	vein endothelial cell of respiratory system	vein endothelial cell of respiratory system	UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	112
+CL:4033008	vein endothelial cell of respiratory system	vein endothelial cell of respiratory system	UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	116
+CL:4033017	bronchiolar smooth muscle cell	bronchiolar smooth muscle cell	UBERON:0004516	smooth muscle tissue of terminal bronchiole	smooth muscle tissue of terminal bronchiole	72
+CL:4033017	bronchiolar smooth muscle cell	bronchiolar smooth muscle cell	UBERON:0004517	smooth muscle tissue of respiratory bronchiole	smooth muscle tissue of respiratory bronchiole	76
+CL:4033022	mucus secreting cell of bronchus submucosal gland	mucus secreting cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	35
+CL:4033022	mucus secreting cell of bronchus submucosal gland	mucus secreting cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	55
+CL:4033022	mucus secreting cell of bronchus submucosal gland	mucus secreting cell of bronchus submucosal gland	UBERON:8600012	submucosal gland acinus	submucosal gland acinus	17
+CL:4033023	airway submucosal gland collecting duct epithelial cell	airway submucosal gland collecting duct epithelial cell	UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	15
+CL:4033023	airway submucosal gland collecting duct epithelial cell	airway submucosal gland collecting duct epithelial cell	UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	53
+CL:4033023	airway submucosal gland collecting duct epithelial cell	airway submucosal gland collecting duct epithelial cell	UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	33
+CL:4033024	airway submucosal gland duct basal cell	airway submucosal gland duct basal cell	UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	32
+CL:4033024	airway submucosal gland duct basal cell	airway submucosal gland duct basal cell	UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	52
+CL:4033024	airway submucosal gland duct basal cell	airway submucosal gland duct basal cell	UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	14
+CL:4033026	lung perichondrial fibroblast	lung perichondrial fibroblast	UBERON:0001956	cartilage of bronchus	cartilage of bronchus	21
+CL:4033044	deuterosomal cell	airway deuterosomal cell	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	64
+CL:4033044	deuterosomal cell	airway deuterosomal cell	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	44
+CL:4033044	deuterosomal cell	airway deuterosomal cell	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	57
+CL:4033044	deuterosomal cell	airway deuterosomal cell	UBERON:0002339	epithelium of lobar bronchus	lobar bronchial epithelium	22
+CL:4033048	respiratory tract suprabasal cell	respiratory suprabasal cell	UBERON:0002339	epithelium of lobar bronchus	lobar bronchial epithelium	24
+CL:4033048	respiratory tract suprabasal cell	respiratory suprabasal cell	UBERON:0002341	epithelium of segmental bronchus	segmental bronchial epithelium	39
+CL:4033048	respiratory tract suprabasal cell	respiratory suprabasal cell	UBERON:0002341	epithelium of segmental bronchus	subsegmental bronchial epithelium	60
+CL:4033055	airway submucosal gland duct multiciliated cell	airway submucosal gland ciliated duct cells	UBERON:8600010	bronchial submucosal gland ciliated duct	ciliated ducts of bronchial submucosal gland	31
+CL:4033055	airway submucosal gland duct multiciliated cell	airway submucosal gland ciliated duct cells	UBERON:8600010	bronchial submucosal gland ciliated duct	ciliated ducts of bronchial submucosal gland	51
+CL:4033055	airway submucosal gland duct multiciliated cell	airway submucosal gland ciliated duct cell	UBERON:8600010	bronchial submucosal gland ciliated duct	ciliated ducts of bronchial submucosal gland	13

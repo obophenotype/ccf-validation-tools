@@ -1,0 +1,45 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009984	medial condyle of femur	Medial Condyle	12	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009984	medial condyle of femur	Medial Condyle	13	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009985	lateral condyle of femur	Lateral Condyle	30	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009985	lateral condyle of femur	Lateral Condyle	29	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009985	lateral condyle of femur	Lateral Condyle	28	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009985	lateral condyle of femur	Lateral Condyle	27	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009985	lateral condyle of femur	Lateral Condyle	26	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009985	lateral condyle of femur	Lateral Condyle	25	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009985	lateral condyle of femur	Lateral Condyle	24	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009985	lateral condyle of femur	Lateral Condyle	23	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009985	lateral condyle of femur	Lateral Condyle	22	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009984	medial condyle of femur	Medial Condyle	21	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009984	medial condyle of femur	Medial Condyle	20	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009984	medial condyle of femur	Medial Condyle	19	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009984	medial condyle of femur	Medial Condyle	18	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009984	medial condyle of femur	Medial Condyle	17	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009984	medial condyle of femur	Medial Condyle	16	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009984	medial condyle of femur	Medial Condyle	15	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009984	medial condyle of femur	Medial Condyle	14	9.13003387548126
+UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	UBERON:0009985	lateral condyle of femur	Lateral Condyle	31	9.13003387548126
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	12	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	13	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	14	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	15	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	16	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	17	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	18	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	19	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	20	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	21	
+CL:0000743	hypertrophic chondrocyte	Hypertrophic Chondrocyte	CL:1001607	articular chondrocyte	articular chondrocyte of the femur	21	
+CL:0000743	hypertrophic chondrocyte	Hypertrophic Chondrocyte	UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	21	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	22	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	23	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	24	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	25	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	26	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	27	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	28	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	29	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	30	
+UBERON:0009980	condyle of femur	Distal Femur	UBERON:0001485	Knee Joint	knee joint	31	
+CL:0000743	hypertrophic chondrocyte	Hypertrophic Chondrocyte	CL:1001607	articular chondrocyte	articular chondrocyte of the femur	31	
+CL:0000743	hypertrophic chondrocyte	Hypertrophic Chondrocyte	UBERON:0010996	articular cartilage of joint	Articular Cartilage of femur	31	

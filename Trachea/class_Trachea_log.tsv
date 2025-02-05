@@ -1,0 +1,30 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+CL:0019019	tracheobronchial smooth muscle cell	tracheobronchial smooth muscle cell	UBERON:0006680	trachealis	trachealis	17	22.176765525979462
+CL:0019018	blood vessel smooth muscle cell	blood vessel smooth muscle cell	UBERON:0012418	respiratory system venous smooth muscle	venous system smooth muscle	30	20.650136948319414
+CL:0019002	tracheobronchial chondrocyte	tracheobronchial chondrocyte	UBERON:0006679	carina of trachea	carina of trachea	24	19.391861049164433
+CL:0019018	blood vessel smooth muscle cell	blood vessel smooth muscle cell	UBERON:0012416	respiratory system arterial smooth muscle	arterial system smooth muscle	32	16.085120010578777
+CL:1000413	endothelial cell of artery	endothelial cell of artery	UBERON:0004848	respiratory system arterial endothelium	respiratory system arterial endothelium	31	11.800397599216467
+UBERON:0005203	trachea gland	tracheal submucosal gland	UBERON:0002202	submucosa of trachea	submucosa of trachea	18	1.6551385535091612
+UBERON:0005203	trachea gland	tracheal submucosal gland	UBERON:0002202	submucosa of trachea	submucosa of trachea	19	1.6551385535091612
+UBERON:0005203	trachea gland	tracheal submucosal gland	UBERON:0002202	submucosa of trachea	submucosa of trachea	20	1.6551385535091612
+UBERON:0005203	trachea gland	tracheal submucosal gland	UBERON:0002202	submucosa of trachea	submucosa of trachea	21	1.6551385535091612
+UBERON:0005203	trachea gland	tracheal submucosal gland	UBERON:0002202	submucosa of trachea	submucosa of trachea	22	1.6551385535091612
+UBERON:0005203	trachea gland	tracheal submucosal gland	UBERON:0002202	submucosa of trachea	submucosa of trachea	23	1.6551385535091612
+CL:0019002	tracheobronchial chondrocyte	tracheobronchial chondrocyte	UBERON:0003604	trachea cartilage	trachea cartilage	25	1.1317932982018988
+CL:0002145	multiciliated columnar cell of tracheobronchial tree	ciliated columnar cell of tracheobronchial tree	UBERON:0001901	epithelium of trachea	tracheal epithelium	12	
+CL:1000223	pulmonary neuroendocrine cell	lung neuroendocrine cell	UBERON:0001901	epithelium of trachea	tracheal epithelium	13	
+UBERON:8600012	submucosal gland acinus	submucosal gland acini	UBERON:0005203	trachea gland	tracheal submucosal gland	18	
+CL:1000330	serous cell of epithelium of trachea	serous cell of epithelium of trachea	UBERON:8600012	submucosal gland acinus	submucosal gland acini	18	
+UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	UBERON:0005203	trachea gland	tracheal submucosal gland	19	
+CL:4033023	airway submucosal gland collecting duct epithelial cell	airway submucosal gland collecting duct epithelial cell	UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	19	
+CL:4033055	airway submucosal gland duct multiciliated cell	airway submucosal gland duct ciliated cell 	UBERON:8600011	tracheal submucosal gland ciliated duct	terminal ciliated ducts for tracheal submucosal gland	20	
+UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	UBERON:0005203	trachea gland	tracheal submucosal gland	21	
+CL:4033024	airway submucosal gland duct basal cell	airway submucosal gland duct basal cell	UBERON:8600013	submucosal gland collecting duct	submucosal gland collecting duct	21	
+UBERON:8600012	submucosal gland acinus	submucosal gland acini	UBERON:0005203	trachea gland	tracheal submucosal gland	22	
+CL:4033020	mucus secreting cell of trachea gland	mucus secreting cell of trachea gland	UBERON:8600012	submucosal gland acinus	submucosal gland acini	22	
+UBERON:8600012	submucosal gland acinus	submucosal gland acini	UBERON:0005203	trachea gland	tracheal submucosal gland	23	
+CL:4033021	myoepithelial cell of trachea gland	myoepithelial cell of trachea gland	UBERON:8600012	submucosal gland acinus	submucosal gland acini	23	
+CL:4033025	perichondrial fibroblast	perichondrial fibroblast	UBERON:0003571	trachea connective tissue	trachea connective tissue	28	
+UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	UBERON:0001592	bronchial vein	bronchial vein	29	
+CL:4033008	vein endothelial cell of respiratory system	vein endothelial cell of respiratory system	UBERON:0004849	respiratory system venous endothelium	respiratory system venous endothelium	29	
+UBERON:0012418	respiratory system venous smooth muscle	venous system smooth muscle	UBERON:0001592	bronchial vein	bronchial vein	30	

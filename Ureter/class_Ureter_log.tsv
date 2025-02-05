@@ -1,0 +1,23 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+UBERON:0001254	urothelium of ureter	urothelium of ureter	UBERON:0005005	mucosa of left ureter	mucosa of left ureter	12	15.164658019117283
+UBERON:0001254	urothelium of ureter	urothelium of ureter	UBERON:0005005	mucosa of left ureter	mucosa of left ureter	13	15.164658019117283
+UBERON:0001254	urothelium of ureter	urothelium of ureter	UBERON:0005005	mucosa of left ureter	mucosa of left ureter	14	15.164658019117283
+UBERON:0009919	ureter smooth muscle	ureter detrusor smooth muscle	UBERON:0036376	wall of left ureter	wall of left ureter	15	10.59964108137666
+CL:1000708	ureter adventitial cell	myofibroblast	UBERON:0001253	lamina propria of ureter	lamina propria of ureter	16	4.565016937740637
+CL:1000708	ureter adventitial cell	fibroblast	UBERON:0001253	lamina propria of ureter	lamina propria of ureter	19	4.565016937740637
+CL:1000708	ureter adventitial cell	endothelium	UBERON:0001253	lamina propria of ureter	lamina propria of ureter	20	4.565016937740637
+CL:1000708	ureter adventitial cell	smooth muscle	UBERON:0001253	lamina propria of ureter	lamina propria of ureter	21	4.565016937740637
+CL:1000708	ureter adventitial cell	smooth muscle	UBERON:0001253	lamina propria of ureter	lamina propria of ureter	22	4.565016937740637
+CL:1001428	bladder urothelial cell	urothelium	UBERON:0001254	urothelium of ureter	urothelium of ureter	12	3.4946790835759742
+CL:1001428	bladder urothelial cell	urothelium	UBERON:0001254	urothelium of ureter	urothelium of ureter	13	3.4946790835759742
+CL:1001428	bladder urothelial cell	urothelium	UBERON:0001254	urothelium of ureter	urothelium of ureter	14	3.4946790835759742
+CL:1000979	ureter smooth muscle cell	ureter smooth muscle cell	UBERON:0009919	ureter smooth muscle	ureter detrusor smooth muscle	15	
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	UBERON:0036376	wall of left ureter	wall of left ureter	16	
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	UBERON:0036376	wall of left ureter	wall of left ureter	17	
+CL:1000308	fibrocyte of adventitia of ureter	fibroblast	UBERON:0001253	lamina propria of ureter	lamina propria of ureter	17	
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	UBERON:0036376	wall of left ureter	wall of left ureter	18	
+CL:1000308	fibrocyte of adventitia of ureter	fibroblast	UBERON:0001253	lamina propria of ureter	lamina propria of ureter	18	
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	UBERON:0036376	wall of left ureter	wall of left ureter	19	
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	UBERON:0036376	wall of left ureter	wall of left ureter	20	
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	UBERON:0036376	wall of left ureter	wall of left ureter	21	
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	UBERON:0036376	wall of left ureter	wall of left ureter	22	

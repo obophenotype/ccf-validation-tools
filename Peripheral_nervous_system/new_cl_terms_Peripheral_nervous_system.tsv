@@ -1,0 +1,121 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	CL Name	References/ID	References/DOI
+UBERON:0014463	cardiac ganglion	cardiac ganglion	intrinsic cardiac ganglion TH neuron	HTTP:DXDOIORG101007S003800300005	
+UBERON:0001989	superior cervical ganglion	superior cervical ganglion	superior cervical ganglion TH/DBH neuron	HTTPS:DOIORG101016000689939290591V ; HTTPS:DOIORG1010160006899395002996	
+UBERON:0001989	superior cervical ganglion	superior cervical ganglion	superior cervical ganglion TH neuron	HTTP:DXDOIORG101016JTICE201904006	
+UBERON:0001989	superior cervical ganglion	superior cervical ganglion	superior cervical ganglion NPY neuron	HTTPS:DOIORG101016000689939290591V	
+UBERON:0001989	superior cervical ganglion	superior cervical ganglion	superior cervical ganglion TH/NPY neuron	HTTPS:DOIORG101016000689939290591V ; HTTP:DXDOIORG101016JTICE201904006 ; HTTPS:DOIORG101016S0304394099001159	
+UBERON:0001989	superior cervical ganglion	superior cervical ganglion	superior cervical ganglion SST neuron	HTTPS:DOIORG101016000689939290591V	
+UBERON:0001989	superior cervical ganglion	superior cervical ganglion	superior cervical ganglion VIP neuron	HTTPS:DOIORG101016000689939290591V ; HTTP:DXDOIORG101016JTICE201904006	
+UBERON:0001989	superior cervical ganglion	superior cervical ganglion	superior cervical ganglion CGRP neuron	HTTPS:DOIORG101016000689939290591V	
+UBERON:0001990	middle cervical ganglion	middle cervical ganglion	middle cervical ganglion DBH neuron	HTTP:DXDOIORG101016JTICE201904006	
+UBERON:0001990	middle cervical ganglion	middle cervical ganglion	middle cervical ganglion TH neuron	HTTP:DXDOIORG101016JTICE201904006	
+UBERON:0001990	middle cervical ganglion	middle cervical ganglion	middle cervical ganglion TH/NPY neuron	HTTP:DXDOIORG101016JTICE201904006	
+UBERON:0001990	middle cervical ganglion	middle cervical ganglion	middle cervical ganglion NPY neuron	HTTP:DXDOIORG101016JTICE201904006	
+UBERON:0001990	middle cervical ganglion	middle cervical ganglion	middle cervical ganglion VIP neuron	HTTP:DXDOIORG101016JTICE201904006	
+UBERON:0002441	cervicothoracic ganglion	cervicothoracic ganglion	cervicothoracic ganglion enkephalin neuron	HTTPS:DOIORG1010160306452281901263	
+UBERON:0002441	cervicothoracic ganglion	cervicothoracic ganglion	cervicothoracic ganglion TH neuron	HTTP:DXDOIORG101016JTICE201904006	
+UBERON:0002441	cervicothoracic ganglion	cervicothoracic ganglion	cervicothoracic ganglion TH/NPY neuron	HTTP:DXDOIORG101016JTICE201904006	
+UBERON:0002441	cervicothoracic ganglion	cervicothoracic ganglion	cervicothoracic ganglion VIP neuron	HTTP:DXDOIORG101016JTICE201904006	
+UBERON:0002441	cervicothoracic ganglion	cervicothoracic ganglion	cervicothoracic ganglion VAChT neuron	HTTP:DXDOIORG101172JCIINSIGHT94715	
+UBERON:0000961	thoracic ganglion	thoracic ganglion	thoracic ganglion enkephalin neuron	HTTPS:DOIORG1010160306452281901263	
+UBERON:0000961	thoracic ganglion	thoracic ganglion	thoracic ganglion TH neuron	HTTP:DXDOIORG101073PNAS86114302	
+UBERON:0000961	thoracic ganglion	thoracic ganglion	thoracic ganglion TH/NPY neuron	HTTP:DXDOIORG101073PNAS86114302	
+UBERON:0001807	paravertebral ganglion	paravertebral ganglion	lumbar ganglion VIP neuron	DOI:101007BF00508311	
+UBERON:0001807	paravertebral ganglion	paravertebral ganglion	lumbar ganglion SST/TH neuron	101007BF00215411	
+UBERON:0001807	paravertebral ganglion	paravertebral ganglion	lumbar ganglion TH/NPY neuron	HTTP:DXDOIORG101007BF01885786	
+UBERON:0001807	paravertebral ganglion	paravertebral ganglion	lumbar ganglion TH neuron	HTTP:DXDOIORG101007BF01885786	
+UBERON:0001807	paravertebral ganglion	paravertebral ganglion	lumbar ganglion NPY neuron	HTTP:DXDOIORG101007BF01885786	
+UBERON:0001807	paravertebral ganglion	paravertebral ganglion	sacral ganglion TH neuron	HTTP:DXDOIORG101016JEURURO200502010	
+UBERON:0001808	parasympathetic ganglion	parasympathetic ganglion	lower airway ganglion ChAT/VIP neuron	HTTPS:DOIORG101111J174966321996TB17547X	
+UBERON:0002262	celiac ganglion	celiac ganglion	celiac ganglion VIP neuron	HTTPS:DOIORG1010160891061893900308 ; HTTPS:DOIORG1010160167011593900519	
+UBERON:0002262	celiac ganglion	celiac ganglion	celiac ganglion PHI neuron	HTTPS:DOIORG1010160891061893900308 ; HTTPS:DOIORG1010160167011593900519	
+UBERON:0002262	celiac ganglion	celiac ganglion	celiac ganglion CGRP neuron	HTTPS:DOIORG1010160891061893900308 ; HTTPS:DOIORG1010160167011593900519 ; HTTPS:DOIORG101111J174966321992TB22804X	
+UBERON:0002262	celiac ganglion	celiac ganglion	celiac ganglion SP neuron	HTTPS:DOIORG1010160891061893900308 ; HTTPS:DOIORG1010160167011593900519 ; PMID:2455503	
+UBERON:0002262	celiac ganglion	celiac ganglion	celiac ganglion SOM neuron	HTTPS:DOIORG1010160891061893900308 ; HTTPS:DOIORG1010160167011593900519	
+UBERON:0002262	celiac ganglion	celiac ganglion	celiac ganglion SOM/CGRP neuron	HTTPS:DOIORG1010160891061893900308 ; HTTPS:DOIORG1010160167011593900519	
+UBERON:0005479	superior mesenteric ganglion	superior mesenteric ganglion	superior mesenteric ganglion SP neuron	PMID:2455503	
+UBERON:0005453	inferior mesenteric ganglion	inferior mesenteric ganglion	inferior mesenteric ganglion TH neuron	HTTPS:DOIORG101111JOA12436	
+UBERON:0005453	inferior mesenteric ganglion	inferior mesenteric ganglion	inferior mesenteric ganglion SP neuron	PMID:2455503	
+UBERON:0003963	otic ganglion	otic ganglion	otic ganglion nNOS neuron	HTTPS:DOIORG101002AR21516 ; HTTPS:DOIORG101016S0006899399012603	
+UBERON:0003963	otic ganglion	otic ganglion	otic ganglion VIP neuron	HTTPS:DOIORG101016S0006899399012603	
+UBERON:0002058	main ciliary ganglion	main ciliary ganglion	ciliary ganglion VIP-PHI neuron	HTTPS:DOIORG101002AR21516	
+UBERON:0002058	main ciliary ganglion	main ciliary ganglion	ciliary ganglion TH neuron	HTTPS:DOIORG101002AR21516 ; HTTPS:DOIORG1010160006899395002996	
+UBERON:0002059	submandibular ganglion	submandibular ganglion	submandibular ganglion TH cholinergic neuron	HTTPS:DOIORG101002AR21516	
+UBERON:0002059	submandibular ganglion	submandibular ganglion	submandibular ganglion VIP/PHI neuron	HTTPS:DOIORG101002AR21516	
+UBERON:0002059	submandibular ganglion	submandibular ganglion	submandibular ganglion nNOS neuron	HTTPS:DOIORG101002AR21516	
+UBERON:0003962	pterygopalatine ganglion	pterygopalatine ganglion	pterygopalatine ganglion VIP/PHI neuron	HTTPS:DOIORG101002AR21516	
+UBERON:0003962	pterygopalatine ganglion	pterygopalatine ganglion	pterygopalatine ganglion VIP neuron	HTTPS:DOIORG101016S0006899399012603	
+UBERON:0003962	pterygopalatine ganglion	pterygopalatine ganglion	pterygopalatine ganglion nNOS neuron	HTTPS:DOIORG101002AR21516 ; HTTPS:DOIORG101016S0006899399012603	
+UBERON:0001805	autonomic ganglion	autonomic ganglion	ovarian nerve plexus ganglion TH neuron	HTTPS:DOIORG101111JOA12436	
+UBERON:0002834	Cervical dorsal root ganglion	Cervical dorsal root ganglion	cervical dorsal root ganglion Nav1.7 neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG101523JNEUROSCI0899172017 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002834	Cervical dorsal root ganglion	Cervical dorsal root ganglion	cervical dorsal root ganglion Nav1.9 neuron	HTTP:DXDOIORG101016S0166223602021501 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002834	Cervical dorsal root ganglion	Cervical dorsal root ganglion	cervical dorsal root ganglion TRPV1 neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG101523JNEUROSCI0899172017 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002834	Cervical dorsal root ganglion	Cervical dorsal root ganglion	cervical dorsal root ganglion SP neuron	HTTPS:DOIORG101016S0304394000007722 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002834	Cervical dorsal root ganglion	Cervical dorsal root ganglion	cervical dorsal root ganglion Peripherin neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002834	Cervical dorsal root ganglion	Cervical dorsal root ganglion	cervical dorsal root ganglion NF200 neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002834	Cervical dorsal root ganglion	Cervical dorsal root ganglion	cervical dorsal root ganglion RET neuron	HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002834	Cervical dorsal root ganglion	Cervical dorsal root ganglion	cervical dorsal root ganglion BRN3A neuron	HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG101210EN20111545 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002834	Cervical dorsal root ganglion	Cervical dorsal root ganglion	cervical dorsal root ganglion Piezo2 neuron	HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002834	Cervical dorsal root ganglion	Cervical dorsal root ganglion	cervical dorsal root ganglion CGRP neuron	HTTPS:DOIORG101523JNEUROSCI0899172017 ; HTTPS:DOIORG101016S0304394000007722 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002834	Cervical dorsal root ganglion	Cervical dorsal root ganglion	cervical dorsal root ganglion Endothelin 1 neuron	HTTPS:DOIORG101073PNAS86197634 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002835	Thoracic dorsal root ganglion	Thoracic dorsal root ganglion	thoracic dorsal root ganglion Nav1.7 neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG101523JNEUROSCI0899172017 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002835	Thoracic dorsal root ganglion	Thoracic dorsal root ganglion	thoracic dorsal root ganglion Nav1.9 neuron	HTTP:DXDOIORG101016S0166223602021501 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002835	Thoracic dorsal root ganglion	Thoracic dorsal root ganglion	thoracic dorsal root ganglion TRPV1 neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG101523JNEUROSCI0899172017 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002835	Thoracic dorsal root ganglion	Thoracic dorsal root ganglion	thoracic dorsal root ganglion SP neuron	HTTPS:DOIORG101016S0304394000007722 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002835	Thoracic dorsal root ganglion	Thoracic dorsal root ganglion	thoracic dorsal root ganglion Peripherin neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002835	Thoracic dorsal root ganglion	Thoracic dorsal root ganglion	thoracic dorsal root ganglion NF200 neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002835	Thoracic dorsal root ganglion	Thoracic dorsal root ganglion	thoracic dorsal root ganglion RET neuron	HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002835	Thoracic dorsal root ganglion	Thoracic dorsal root ganglion	thoracic dorsal root ganglion BRN3A neuron	HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG101210EN20111545 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002835	Thoracic dorsal root ganglion	Thoracic dorsal root ganglion	thoracic dorsal root ganglion Piezo2 neuron	HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002835	Thoracic dorsal root ganglion	Thoracic dorsal root ganglion	thoracic dorsal root ganglion CGRP neuron	HTTPS:DOIORG101523JNEUROSCI0899172017 ; HTTPS:DOIORG101016S0304394000007722 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002835	Thoracic dorsal root ganglion	Thoracic dorsal root ganglion	thoracic dorsal root ganglion Endothelin 1 neuron	HTTPS:DOIORG101073PNAS86197634 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002836	Lumbar dorsal root ganglion	Lumbar dorsal root ganglion	lumbar dorsal root ganglion Nav1.7 neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG101523JNEUROSCI0899172017 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002836	Lumbar dorsal root ganglion	Lumbar dorsal root ganglion	lumbar dorsal root ganglion Nav1.9 neuron	HTTP:DXDOIORG101016S0166223602021501 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002836	Lumbar dorsal root ganglion	Lumbar dorsal root ganglion	lumbar dorsal root ganglion TRPV1 neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG101523JNEUROSCI0899172017 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002836	Lumbar dorsal root ganglion	Lumbar dorsal root ganglion	lumbar dorsal root ganglion SP neuron	HTTPS:DOIORG101016S0304394000007722 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002836	Lumbar dorsal root ganglion	Lumbar dorsal root ganglion	lumbar dorsal root ganglion Peripherin neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002836	Lumbar dorsal root ganglion	Lumbar dorsal root ganglion	lumbar dorsal root ganglion NF200 neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002836	Lumbar dorsal root ganglion	Lumbar dorsal root ganglion	lumbar dorsal root ganglion RET neuron	HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002836	Lumbar dorsal root ganglion	Lumbar dorsal root ganglion	lumbar dorsal root ganglion BRN3A neuron	HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG101210EN20111545 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002836	Lumbar dorsal root ganglion	Lumbar dorsal root ganglion	lumbar dorsal root ganglion Piezo2 neuron	HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002836	Lumbar dorsal root ganglion	Lumbar dorsal root ganglion	lumbar dorsal root ganglion CGRP neuron	HTTPS:DOIORG101523JNEUROSCI0899172017 ; HTTPS:DOIORG101016S0304394000007722 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002836	Lumbar dorsal root ganglion	Lumbar dorsal root ganglion	lumbar dorsal root ganglion Endothelin 1 neuron	HTTPS:DOIORG101073PNAS86197634 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002837	Sacral dorsal root ganglion	Sacral dorsal root ganglion	sacral dorsal root ganglion Nav1.7 neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG101523JNEUROSCI0899172017 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002837	Sacral dorsal root ganglion	Sacral dorsal root ganglion	sacral dorsal root ganglion Nav1.9 neuron	HTTP:DXDOIORG101016S0166223602021501 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002837	Sacral dorsal root ganglion	Sacral dorsal root ganglion	sacral dorsal root ganglion TRPV1 neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG101523JNEUROSCI0899172017 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002837	Sacral dorsal root ganglion	Sacral dorsal root ganglion	sacral dorsal root ganglion SP neuron	HTTPS:DOIORG101016S0304394000007722 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002837	Sacral dorsal root ganglion	Sacral dorsal root ganglion	sacral dorsal root ganglion Peripherin neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002837	Sacral dorsal root ganglion	Sacral dorsal root ganglion	sacral dorsal root ganglion NF200 neuron	HTTP:DXDOIORG101007S1226401701323 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002837	Sacral dorsal root ganglion	Sacral dorsal root ganglion	sacral dorsal root ganglion RET neuron	HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002837	Sacral dorsal root ganglion	Sacral dorsal root ganglion	sacral dorsal root ganglion BRN3A neuron	HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG101210EN20111545 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002837	Sacral dorsal root ganglion	Sacral dorsal root ganglion	sacral dorsal root ganglion Piezo2 neuron	HTTPS:DOIORG101016JNEUROSCIENCE201711047 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002837	Sacral dorsal root ganglion	Sacral dorsal root ganglion	sacral dorsal root ganglion CGRP neuron	HTTPS:DOIORG101523JNEUROSCI0899172017 ; HTTPS:DOIORG101016S0304394000007722 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002837	Sacral dorsal root ganglion	Sacral dorsal root ganglion	sacral dorsal root ganglion Endothelin 1 neuron	HTTPS:DOIORG101073PNAS86197634 ; HTTPS:DOIORG103389FNCEL2019002711	
+UBERON:0002824	vestibular ganglion	vestibular ganglion	vestibular ganglion SP neuron	HTTP:DXDOIORG10310900016489609137839	
+UBERON:0005363	inferior vagus X ganglion	inferior vagus X ganglion (nodose ganglion)	nodose ganglion TRPV1 neuron	HTTP:DXDOIORG101007S1057101400629	
+UBERON:0005363	inferior vagus X ganglion	inferior vagus X ganglion (nodose ganglion)	nodose ganglion P2X3 neuron	HTTP:DXDOIORG101007S1057101400629	
+UBERON:0005363	inferior vagus X ganglion	inferior vagus X ganglion (nodose ganglion)	nodose ganglion TRPV2 neuron	HTTP:DXDOIORG101007S1057101400629	
+UBERON:0005363	inferior vagus X ganglion	inferior vagus X ganglion (nodose ganglion)	nodose ganglion PVALB neuron	HTTP:DXDOIORG101007S1057101400629	
+UBERON:0005364	superior vagus X ganglion	superior vagus X ganglion (jugular ganglion)	jugular ganglion TRPV1 neuron	HTTPS:DOIORG101016JTICE2020101344	
+UBERON:0005364	superior vagus X ganglion	superior vagus X ganglion (jugular ganglion)	jugular ganglion TRPV2 neuron	HTTPS:DOIORG101016JTICE2020101344	
+UBERON:0005364	superior vagus X ganglion	superior vagus X ganglion (jugular ganglion)	jugular ganglion SP neuron	HTTPS:DOIORG101016JTICE2020101344	
+UBERON:0005364	superior vagus X ganglion	superior vagus X ganglion (jugular ganglion)	jugular ganglion CGRP neuron	HTTPS:DOIORG101016JTICE2020101344	
+UBERON:0005364	superior vagus X ganglion	superior vagus X ganglion (jugular ganglion)	jugular ganglion SPARCL1 neuron	HTTPS:DOIORG101016JTICE2020101344	
+UBERON:0001700	geniculate ganglion	geniculate ganglion	geniculate ganglion TRPV1 neuron	HTTPS:DOIORG101159000470835	
+UBERON:0001700	geniculate ganglion	geniculate ganglion	geniculate ganglion SPARCL1 neuron	HTTPS:DOIORG101159000470835	
+UBERON:0001700	geniculate ganglion	geniculate ganglion	geniculate ganglion VGLUT2 neuron	HTTPS:DOIORG101159000470835	
+UBERON:8410063	myenteric nerve plexus of small intestine	myenteric nerve plexus of small intestine	myenteric ganglion ChAT neuron	HTTPS:DOIORG101016JJCMGH202306010 ; HTTP:DXDOIORG101007S0041802102002Y	
+UBERON:8410063	myenteric nerve plexus of small intestine	myenteric nerve plexus of small intestine	myenteric ganglion nNOS neuron	HTTPS:DOIORG101016JJCMGH202306010 ; HTTP:DXDOIORG101007S0041802102002Y ; HTTP:DXDOIORG101159000320542	
+UBERON:8410063	myenteric nerve plexus of small intestine	myenteric nerve plexus of small intestine	myenteric ganglion NF200 neuron	HTTPS:DOIORG101016JJCMGH202306010	
+UBERON:8410063	myenteric nerve plexus of small intestine	myenteric nerve plexus of small intestine	myenteric ganglion VIP neuron	HTTPS:DOIORG101016JJCMGH202306010	
+UBERON:8410063	myenteric nerve plexus of small intestine	myenteric nerve plexus of small intestine	myenteric ganglion nNOS/VIP neuron	HTTP:DXDOIORG101007S0041802102002Y ; 101007S0041800501078 ; HTTP:DXDOIORG101159000320542	
+UBERON:8410063	myenteric nerve plexus of small intestine	myenteric nerve plexus of small intestine	myenteric ganglion nNOS/ChAT neuron	HTTPS:DOIORG101007S0044100908524 ; HTTP:DXDOIORG101007S0041802102002Y	
+UBERON:8410063	myenteric nerve plexus of small intestine	myenteric nerve plexus of small intestine	myenteric ganglion ChAT/CALR/SOM/SP neuron	HTTP:DXDOIORG101007S0041800703351 ; HTTP:DXDOIORG101007S0041802102002Y	
+UBERON:8410063	myenteric nerve plexus of small intestine	myenteric nerve plexus of small intestine	myenteric ganglion VIP/GAL neuron	HTTP:DXDOIORG101159000320542	
+UBERON:0016508	pelvic ganglion	pelvic ganglion	pelvic ganglion TH neuron	HTTP:DXDOIORG101016JEURURO200502010 ; HTTP:DXDOIORG101186S1289401803699 ; HTTP:DXDOIORG101111J14697580200901071X	
+UBERON:0016508	pelvic ganglion	pelvic ganglion	pelvic ganglion TH/DBH neuron	HTTP:DXDOIORG101007S00441020032796	
+UBERON:0016508	pelvic ganglion	pelvic ganglion	pelvic ganglion VAChT neuron	HTTP:DXDOIORG101111J14697580200901071X	
+UBERON:0016508	pelvic ganglion	pelvic ganglion	pelvic ganglion nNOS neuron	HTTP:DXDOIORG101186S1289401803699 ; HTTP:DXDOIORG101002SICI15206777200019:23C185:AIDNAU93E30CO22	
+UBERON:0016508	pelvic ganglion	pelvic ganglion	pelvic ganglion nNOS/VIP neuron	HTTP:DXDOIORG101186S1289401803699	
+UBERON:0016508	pelvic ganglion	pelvic ganglion	pelvic ganglion NPY/VAChT neuron	HTTP:DXDOIORG101002SICI15206777200019:23C185:AIDNAU93E30CO22	
+UBERON:0016508	pelvic ganglion	pelvic ganglion	pelvic ganglion nNOS/VAChT neuron	HTTP:DXDOIORG101002SICI15206777200019:23C185:AIDNAU93E30CO22	

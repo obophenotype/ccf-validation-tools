@@ -1,0 +1,15 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410042	arteriole of lymph node	Arteriole	13
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410041	venule of lymph node	Venule	14
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410042	arteriole of lymph node	Arteriole	16
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410041	venule of lymph node	Venule	25
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410042	arteriole of lymph node	Arteriole	26
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410042	arteriole of lymph node	Arteriole	58
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410038	high endothelial venule of lymph node	High Endothelial Venule	60
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410035	medullary arteriole of lymph node	Arteriole	90
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410036	medullary venule of lymph node	Venule	91
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410034	lymph node artery	Lymphatic Artery	97
+CL:0000071	blood vessel endothelial cell	Blood Vessel Endothelial Cell	UBERON:8410033	lymph node vein	Hilar Vein	98
+CL:0000235	macrophage	Macrophage	UBERON:0009744	lymph node medullary sinus	Medullary Sinus	79
+CL:0000788	naive B cell	Naive B Cell	UBERON:0010395	lymph node primary follicle	Primary Follicle	28
+CL:0002138	endothelial cell of lymphatic vessel	Lymphatic Endothelial Cell	UBERON:0010397	efferent lymphatic vessel	Efferent Lymphatics	94

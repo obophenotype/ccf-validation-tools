@@ -1,0 +1,133 @@
+row_number	s	slabel	user_slabel	o	olabel	user_olabel	deltaIC
+223	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0010995	deep part of masseter muscle	deep part of masseter muscle	44.32999584895825
+355	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0001108	omohyoid muscle	omohyoid muscle	44.32999584895825
+202	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0010379	superior tarsal muscle	superior tarsal muscle	44.32999584895825
+276	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0001373	sartorius muscle	sartorius muscle	44.32999584895825
+311	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0011908	gastrocnemius lateralis	lateral head of gastrocnemius muscle	44.32999584895825
+312	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0011907	gastrocnemius medialis	medial head of gastrocnemius muscle	44.32999584895825
+343	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0010928	cricopharyngeus muscle	cricopharyngeal part of inferior pharyngeal constrictor muscle	44.32999584895825
+180	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0005441	external intercostal muscle	external intercostal muscle	44.32999584895825
+354	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0001108	omohyoid muscle	omohyoid muscle	44.32999584895825
+356	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0001108	omohyoid muscle	omohyoid muscle	44.32999584895825
+357	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0001107	sternohyoid muscle	sternohyoid muscle	44.32999584895825
+358	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0001109	sternothyroid muscle	sternothyroid muscle	44.32999584895825
+359	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0001110	thyrohyoid muscle	thyrohyoid muscle	44.32999584895825
+380	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0010937	salpingopharyngeus muscle	salpingopharyngeus muscle	44.32999584895825
+181	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0008617	innermost intercostal muscle	innermost intercostal muscle	44.32999584895825
+224	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0011140	superficial part of masseter muscle	superficial part of masseter muscle	39.76497891121761
+381	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0008804	stylopharyngeus muscle	stylopharyngeus muscle	39.76497891121761
+182	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0002403	internal intercostal muscle	internal intercostal muscle	39.76497891121761
+399	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0008712	stylohyoid muscle	stylohyoid muscle	39.76497891121761
+49	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0008488	cremaster muscle	cremaster muscle	37.094615187482404
+397	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0001565	geniohyoid muscle	geniohyoid muscle	37.094615187482404
+211	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0001608	dilatator pupillae	dilator pupillae muscle	37.094615187482404
+398	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0001564	mylohyoid muscle	mylohyoid muscle	32.52959824974178
+248	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0001578	orbicularis oculi muscle	orbicularis oculi muscle	31.51437307951575
+249	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0001578	orbicularis oculi muscle	orbicularis oculi muscle	31.51437307951575
+250	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0001578	orbicularis oculi muscle	orbicularis oculi muscle	31.51437307951575
+210	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0001605	ciliary muscle	ciliary muscle	30.63494503573635
+353	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0008523	infrahyoid muscle	infrahyoid muscle	30.63494503573635
+245	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0010946	occipitofrontalis muscle	occipitofrontalis muscle	28.537631914923494
+246	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0010946	occipitofrontalis muscle	occipitofrontalis muscle	28.537631914923494
+247	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0010946	occipitofrontalis muscle	occipitofrontalis muscle	28.537631914923494
+394	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0008571	suprahyoid muscle	suprahyoid muscle	22.872408920815346
+393	CL:0000188	cell of skeletal muscle	skeletal muscle cell	UBERON:0008571	suprahyoid muscle	suprahyoid muscle	22.872408920815346
+170	UBERON:0001495	pectoral muscle	pectoral muscle	UBERON:0002426	chest muscle	chest muscle	18.659337102693243
+171	UBERON:0001495	pectoral muscle	pectoral muscle	UBERON:0002426	chest muscle	chest muscle	18.659337102693243
+172	UBERON:0001495	pectoral muscle	pectoral muscle	UBERON:0002426	chest muscle	chest muscle	18.659337102693243
+173	UBERON:0001495	pectoral muscle	pectoral muscle	UBERON:0002426	chest muscle	chest muscle	18.659337102693243
+175	UBERON:0001495	pectoral muscle	pectoral muscle	UBERON:0002426	chest muscle	chest muscle	18.659337102693243
+174	UBERON:0001495	pectoral muscle	pectoral muscle	UBERON:0002426	chest muscle	chest muscle	18.659337102693243
+177	UBERON:0001482	muscle of shoulder	shoulder muscle	UBERON:0002426	chest muscle	chest muscle	15.691813472562444
+176	UBERON:0001482	muscle of shoulder	shoulder muscle	UBERON:0002426	chest muscle	chest muscle	15.691813472562444
+178	UBERON:0001482	muscle of shoulder	shoulder muscle	UBERON:0002426	chest muscle	chest muscle	15.691813472562444
+108	UBERON:0001482	muscle of shoulder	shoulder muscle	UBERON:0001499	muscle of arm	arm muscle	1.860965532893914
+109	UBERON:0001482	muscle of shoulder	shoulder muscle	UBERON:0001499	muscle of arm	arm muscle	1.860965532893914
+106	UBERON:0001482	muscle of shoulder	shoulder muscle	UBERON:0001499	muscle of arm	arm muscle	1.860965532893914
+105	UBERON:0001482	muscle of shoulder	shoulder muscle	UBERON:0001499	muscle of arm	arm muscle	1.860965532893914
+104	UBERON:0001482	muscle of shoulder	shoulder muscle	UBERON:0001499	muscle of arm	arm muscle	1.860965532893914
+103	UBERON:0001482	muscle of shoulder	shoulder muscle	UBERON:0001499	muscle of arm	arm muscle	1.860965532893914
+110	UBERON:0001482	muscle of shoulder	shoulder muscle	UBERON:0001499	muscle of arm	arm muscle	1.860965532893914
+111	UBERON:0001482	muscle of shoulder	shoulder muscle	UBERON:0001499	muscle of arm	arm muscle	1.860965532893914
+112	UBERON:0001482	muscle of shoulder	shoulder muscle	UBERON:0001499	muscle of arm	arm muscle	1.860965532893914
+107	UBERON:0001482	muscle of shoulder	shoulder muscle	UBERON:0001499	muscle of arm	arm muscle	1.860965532893914
+29	UBERON:0002379	perineal muscle	perineal muscle	UBERON:0002378	muscle of abdomen	abdomen muscle	
+30	UBERON:0002379	perineal muscle	perineal muscle	UBERON:0002378	muscle of abdomen	abdomen muscle	
+31	UBERON:0002379	perineal muscle	perineal muscle	UBERON:0002378	muscle of abdomen	abdomen muscle	
+32	UBERON:0002379	perineal muscle	perineal muscle	UBERON:0002378	muscle of abdomen	abdomen muscle	
+33	UBERON:0002379	perineal muscle	perineal muscle	UBERON:0002378	muscle of abdomen	abdomen muscle	
+34	UBERON:0002379	perineal muscle	perineal muscle	UBERON:0002378	muscle of abdomen	abdomen muscle	
+35	UBERON:0002379	perineal muscle	perineal muscle	UBERON:0002378	muscle of abdomen	abdomen muscle	
+36	UBERON:0002379	perineal muscle	perineal muscle	UBERON:0002378	muscle of abdomen	abdomen muscle	
+37	UBERON:0002379	perineal muscle	perineal muscle	UBERON:0002378	muscle of abdomen	abdomen muscle	
+38	UBERON:0002379	perineal muscle	perineal muscle	UBERON:0002378	muscle of abdomen	abdomen muscle	
+39	UBERON:0002379	perineal muscle	perineal muscle	UBERON:0002378	muscle of abdomen	abdomen muscle	
+40	UBERON:0002379	perineal muscle	perineal muscle	UBERON:0002378	muscle of abdomen	abdomen muscle	
+73	UBERON:0001500	muscle of manus	hand muscle	UBERON:0001499	muscle of arm	arm muscle	
+74	UBERON:0001500	muscle of manus	hand muscle	UBERON:0001499	muscle of arm	arm muscle	
+75	UBERON:0001500	muscle of manus	hand muscle	UBERON:0001499	muscle of arm	arm muscle	
+76	UBERON:0001500	muscle of manus	hand muscle	UBERON:0001499	muscle of arm	arm muscle	
+160	UBERON:0010990	transversospinales muscle	transversospinales muscle	UBERON:0002324	muscle of back	back muscle	
+161	UBERON:0010990	transversospinales muscle	transversospinales muscle	UBERON:0002324	muscle of back	back muscle	
+162	UBERON:0010990	transversospinales muscle	transversospinales muscle	UBERON:0002324	muscle of back	back muscle	
+163	UBERON:0010990	transversospinales muscle	transversospinales muscle	UBERON:0002324	muscle of back	back muscle	
+164	UBERON:0010990	transversospinales muscle	transversospinales muscle	UBERON:0002324	muscle of back	back muscle	
+165	UBERON:0010990	transversospinales muscle	transversospinales muscle	UBERON:0002324	muscle of back	back muscle	
+166	UBERON:0010990	transversospinales muscle	transversospinales muscle	UBERON:0002324	muscle of back	back muscle	
+167	UBERON:0010990	transversospinales muscle	transversospinales muscle	UBERON:0002324	muscle of back	back muscle	
+168	UBERON:0010990	transversospinales muscle	transversospinales muscle	UBERON:0002324	muscle of back	back muscle	
+194	UBERON:0001601	extra-ocular muscle	extra-ocular muscle	UBERON:0002376	cranial muscle	cranial muscle	
+195	UBERON:0001601	extra-ocular muscle	extra-ocular muscle	UBERON:0002376	cranial muscle	cranial muscle	
+196	UBERON:0001601	extra-ocular muscle	extra-ocular muscle	UBERON:0002376	cranial muscle	cranial muscle	
+197	UBERON:0001601	extra-ocular muscle	extra-ocular muscle	UBERON:0002376	cranial muscle	cranial muscle	
+198	UBERON:0001601	extra-ocular muscle	extra-ocular muscle	UBERON:0002376	cranial muscle	cranial muscle	
+199	UBERON:0001601	extra-ocular muscle	extra-ocular muscle	UBERON:0002376	cranial muscle	cranial muscle	
+200	UBERON:0001601	extra-ocular muscle	extra-ocular muscle	UBERON:0002376	cranial muscle	cranial muscle	
+201	UBERON:0001601	extra-ocular muscle	extra-ocular muscle	UBERON:0002376	cranial muscle	cranial muscle	
+202	UBERON:0001601	extra-ocular muscle	extra-ocular muscle	UBERON:0002376	cranial muscle	cranial muscle	
+203	UBERON:0001575	extrinsic muscle of tongue	extrinsic tongue muscle	UBERON:0002376	cranial muscle	cranial muscle	
+204	UBERON:0001575	extrinsic muscle of tongue	extrinsic tongue muscle	UBERON:0002376	cranial muscle	cranial muscle	
+205	UBERON:0001575	extrinsic muscle of tongue	extrinsic tongue muscle	UBERON:0002376	cranial muscle	cranial muscle	
+206	UBERON:0001575	extrinsic muscle of tongue	extrinsic tongue muscle	UBERON:0002376	cranial muscle	cranial muscle	
+207	UBERON:0001575	extrinsic muscle of tongue	extrinsic tongue muscle	UBERON:0002376	cranial muscle	cranial muscle	
+208	UBERON:0001575	extrinsic muscle of tongue	extrinsic tongue muscle	UBERON:0002376	cranial muscle	cranial muscle	
+213	UBERON:0001576	intrinsic muscle of tongue	intrinsic tongue muscle	UBERON:0002376	cranial muscle	cranial muscle	
+214	UBERON:0001576	intrinsic muscle of tongue	intrinsic tongue muscle	UBERON:0002376	cranial muscle	cranial muscle	
+215	UBERON:0001576	intrinsic muscle of tongue	intrinsic tongue muscle	UBERON:0002376	cranial muscle	cranial muscle	
+216	UBERON:0001576	intrinsic muscle of tongue	intrinsic tongue muscle	UBERON:0002376	cranial muscle	cranial muscle	
+217	UBERON:0001576	intrinsic muscle of tongue	intrinsic tongue muscle	UBERON:0002376	cranial muscle	cranial muscle	
+259	UBERON:0003682	palatal muscle	palatal muscle	UBERON:0002376	cranial muscle	cranial muscle	
+260	UBERON:0003682	palatal muscle	palatal muscle	UBERON:0002376	cranial muscle	cranial muscle	
+261	UBERON:0003682	palatal muscle	palatal muscle	UBERON:0002376	cranial muscle	cranial muscle	
+262	UBERON:0003682	palatal muscle	palatal muscle	UBERON:0002376	cranial muscle	cranial muscle	
+263	UBERON:0003682	palatal muscle	palatal muscle	UBERON:0002376	cranial muscle	cranial muscle	
+283	UBERON:0002000	gluteal muscle	gluteal muscle	UBERON:0001383	muscle of leg	leg muscle	
+284	UBERON:0002000	gluteal muscle	gluteal muscle	UBERON:0001383	muscle of leg	leg muscle	
+285	UBERON:0002000	gluteal muscle	gluteal muscle	UBERON:0001383	muscle of leg	leg muscle	
+286	UBERON:0002000	gluteal muscle	gluteal muscle	UBERON:0001383	muscle of leg	leg muscle	
+287	UBERON:0002000	gluteal muscle	gluteal muscle	UBERON:0001383	muscle of leg	leg muscle	
+287	UBERON:0019202	inferior gemellus muscle	inferior gemellus muscle	UBERON:0002000	gluteal muscle	gluteal muscle	
+288	UBERON:0002000	gluteal muscle	gluteal muscle	UBERON:0001383	muscle of leg	leg muscle	
+289	UBERON:0002000	gluteal muscle	gluteal muscle	UBERON:0001383	muscle of leg	leg muscle	
+290	UBERON:0002000	gluteal muscle	gluteal muscle	UBERON:0001383	muscle of leg	leg muscle	
+291	UBERON:0002000	gluteal muscle	gluteal muscle	UBERON:0001383	muscle of leg	leg muscle	
+291	UBERON:0019203	superior gemellus muscle	superior gemellus muscle	UBERON:0002000	gluteal muscle	gluteal muscle	
+292	UBERON:0002000	gluteal muscle	gluteal muscle	UBERON:0001383	muscle of leg	leg muscle	
+353	UBERON:0008523	infrahyoid muscle	infrahyoid muscle	UBERON:0002377	muscle of neck	neck muscle	
+354	UBERON:0008523	infrahyoid muscle	infrahyoid muscle	UBERON:0002377	muscle of neck	neck muscle	
+355	UBERON:0008523	infrahyoid muscle	infrahyoid muscle	UBERON:0002377	muscle of neck	neck muscle	
+356	UBERON:0008523	infrahyoid muscle	infrahyoid muscle	UBERON:0002377	muscle of neck	neck muscle	
+357	UBERON:0008523	infrahyoid muscle	infrahyoid muscle	UBERON:0002377	muscle of neck	neck muscle	
+358	UBERON:0008523	infrahyoid muscle	infrahyoid muscle	UBERON:0002377	muscle of neck	neck muscle	
+359	UBERON:0008523	infrahyoid muscle	infrahyoid muscle	UBERON:0002377	muscle of neck	neck muscle	
+384	UBERON:0002377	muscle of neck	neck muscle	UBERON:0002377	muscle of neck	neck muscle	
+385	UBERON:0002377	muscle of neck	neck muscle	UBERON:0002377	muscle of neck	neck muscle	
+386	UBERON:0002377	muscle of neck	neck muscle	UBERON:0002377	muscle of neck	neck muscle	
+387	UBERON:0002377	muscle of neck	neck muscle	UBERON:0002377	muscle of neck	neck muscle	
+393	UBERON:0008571	suprahyoid muscle	suprahyoid muscle	UBERON:0002377	muscle of neck	neck muscle	
+394	UBERON:0008571	suprahyoid muscle	suprahyoid muscle	UBERON:0002377	muscle of neck	neck muscle	
+395	UBERON:0008571	suprahyoid muscle	suprahyoid muscle	UBERON:0002377	muscle of neck	neck muscle	
+396	UBERON:0008571	suprahyoid muscle	suprahyoid muscle	UBERON:0002377	muscle of neck	neck muscle	
+397	UBERON:0008571	suprahyoid muscle	suprahyoid muscle	UBERON:0002377	muscle of neck	neck muscle	
+398	UBERON:0008571	suprahyoid muscle	suprahyoid muscle	UBERON:0002377	muscle of neck	neck muscle	
+399	UBERON:0008571	suprahyoid muscle	suprahyoid muscle	UBERON:0002377	muscle of neck	neck muscle	

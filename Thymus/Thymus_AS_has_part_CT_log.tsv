@@ -1,0 +1,13 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0018243	thymic artery	thymic artery	17
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0018243	thymic artery	thymic artery	23
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0018243	thymic artery	thymic artery	35
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0018243	thymic artery	thymic artery	41
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0018243	thymic artery	thymic artery	54
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0001591	thymic vein	thymic vein	55
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0018243	thymic artery	thymic artery	61
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0001591	thymic vein	thymic vein	62
+CL:0000071	blood vessel endothelial cell	blood endothelial cell	UBERON:0001591	thymic vein	thymic vein	88
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	UBERON:0010397	efferent lymphatic vessel	efferent lymphatic	64
+CL:0002364	cortical thymic epithelial cell	cortical thymic epithelial cell	UBERON:0003846	thymus epithelium	thymus epithelium	43
+UBERON:0002384	connective tissue	connective tissue	UBERON:0004791	thymus trabecula	thymus trabecula	21

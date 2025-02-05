@@ -1,0 +1,59 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+UBERON:0002194	capsule of lymph node	Capsule	UBERON:0000029	lymph node	lymph node	12
+UBERON:0002194	capsule of lymph node	Capsule	UBERON:0000029	lymph node	lymph node	13
+UBERON:0002194	capsule of lymph node	Capsule	UBERON:0000029	lymph node	lymph node	14
+UBERON:0002194	capsule of lymph node	Capsule	UBERON:0000029	lymph node	lymph node	15
+UBERON:0002194	capsule of lymph node	Capsule	UBERON:0000029	lymph node	lymph node	16
+UBERON:0002194	capsule of lymph node	Capsule	UBERON:0000029	lymph node	lymph node	17
+UBERON:0010395	lymph node primary follicle	Primary Follicle	UBERON:0002006	cortex of lymph node	Cortex	27
+UBERON:0010395	lymph node primary follicle	Primary Follicle	UBERON:0002006	cortex of lymph node	Cortex	28
+UBERON:0010395	lymph node primary follicle	Primary Follicle	UBERON:0002006	cortex of lymph node	Cortex	29
+UBERON:0010395	lymph node primary follicle	Primary Follicle	UBERON:0002006	cortex of lymph node	Cortex	30
+UBERON:0010753	lymph node secondary follicle	Secondary Follicle	UBERON:0002006	cortex of lymph node	Cortex	40
+UBERON:0010753	lymph node secondary follicle	Secondary Follicle	UBERON:0002006	cortex of lymph node	Cortex	38
+UBERON:0010753	lymph node secondary follicle	Secondary Follicle	UBERON:0002006	cortex of lymph node	Cortex	37
+UBERON:0010753	lymph node secondary follicle	Secondary Follicle	UBERON:0002006	cortex of lymph node	Cortex	36
+UBERON:0010753	lymph node secondary follicle	Secondary Follicle	UBERON:0002006	cortex of lymph node	Cortex	39
+UBERON:0010753	lymph node secondary follicle	Secondary Follicle	UBERON:0002006	cortex of lymph node	Cortex	34
+UBERON:0010753	lymph node secondary follicle	Secondary Follicle	UBERON:0002006	cortex of lymph node	Cortex	33
+UBERON:0010753	lymph node secondary follicle	Secondary Follicle	UBERON:0002006	cortex of lymph node	Cortex	32
+UBERON:0010753	lymph node secondary follicle	Secondary Follicle	UBERON:0002006	cortex of lymph node	Cortex	31
+UBERON:0010753	lymph node secondary follicle	Secondary Follicle	UBERON:0002006	cortex of lymph node	Cortex	35
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	61
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	62
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	63
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	64
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	65
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	66
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	67
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	68
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	70
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	71
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	72
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	73
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	74
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	75
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	76
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	60
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	69
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	59
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	78
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	57
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	56
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	55
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	77
+UBERON:8410066	lymph node paracortex	Paracortex	UBERON:0002006	cortex of lymph node	Cortex	58
+UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	UBERON:0002006	cortex of lymph node	Cortex	41
+UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	UBERON:0002006	cortex of lymph node	Cortex	42
+UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	UBERON:0002006	cortex of lymph node	Cortex	43
+UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	UBERON:0002006	cortex of lymph node	Cortex	44
+UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	UBERON:0002006	cortex of lymph node	Cortex	45
+UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	UBERON:0002006	cortex of lymph node	Cortex	46
+UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	UBERON:0002006	cortex of lymph node	Cortex	48
+UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	UBERON:0002006	cortex of lymph node	Cortex	50
+UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	UBERON:0002006	cortex of lymph node	Cortex	51
+UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	UBERON:0002006	cortex of lymph node	Cortex	52
+UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	UBERON:0002006	cortex of lymph node	Cortex	53
+UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	UBERON:0002006	cortex of lymph node	Cortex	54
+UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	UBERON:0002006	cortex of lymph node	Cortex	47
+UBERON:8410067	lymph node interfollicular cortex	Interfollicular Cortex	UBERON:0002006	cortex of lymph node	Cortex	49

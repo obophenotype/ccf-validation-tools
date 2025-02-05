@@ -1,0 +1,21 @@
+{
+  "no_valid_id": [
+    {
+      "id": "",
+      "label": "",
+      "user_label": "connective tissue sheath",
+      "row_number": 32
+    }
+  ],
+  "no_found_id": [],
+  "diff_label": [
+    {
+      "id": "CL:0000317",
+      "label": "sebocyte",
+      "asct_label": "sebum secreting cell",
+      "user_label": "Germinative (epithelial) cell, Sebocyte",
+      "row_number": 35
+    }
+  ],
+  "no_parent": []
+}

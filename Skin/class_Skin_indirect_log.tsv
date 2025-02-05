@@ -1,0 +1,22 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+UBERON:0001820	sweat gland	sweat gland	UBERON:0002097	skin of body	skin	37
+UBERON:0001820	sweat gland	sweat gland	UBERON:0002097	skin of body	skin	36
+UBERON:0002073	hair follicle	Hair follicles	UBERON:0002097	skin of body	skin	35
+UBERON:0002073	hair follicle	Hair follicles	UBERON:0002097	skin of body	skin	34
+UBERON:0002073	hair follicle	Hair follicles	UBERON:0002097	skin of body	skin	33
+UBERON:0002073	hair follicle	Hair follicles	UBERON:0002097	skin of body	skin	32
+UBERON:0002073	hair follicle	Hair follicles	UBERON:0002097	skin of body	skin	31
+UBERON:0002073	hair follicle	Hair follicles	UBERON:0002097	skin of body	skin	30
+UBERON:0002073	hair follicle	Hair follicles	UBERON:0002067	dermis	Dermis	38
+UBERON:0002073	hair follicle	Hair follicles	UBERON:0002097	skin of body	skin	29
+UBERON:0002073	hair follicle	Hair follicles	UBERON:0002097	skin of body	skin	27
+UBERON:0002073	hair follicle	Hair follicles	UBERON:0002097	skin of body	skin	26
+UBERON:0002073	hair follicle	Hair follicles	UBERON:0002097	skin of body	skin	25
+UBERON:0002073	hair follicle	Hair follicles	UBERON:0002097	skin of body	skin	24
+UBERON:0002073	hair follicle	Hair follicles	UBERON:0002097	skin of body	skin	23
+UBERON:0002073	hair follicle	Hair follicles	UBERON:0002097	skin of body	skin	28
+UBERON:0002076	cuticle of hair	Cuticle	UBERON:0002074	hair shaft	Hair shaft	28
+UBERON:0005941	hair inner root sheath	Inner root sheath	UBERON:0002073	hair follicle	Hair follicles	27
+UBERON:0005942	hair outer root sheath	Outer root sheath	UBERON:0002073	hair follicle	Hair follicles	26
+UBERON:0007121	skin nerve field	nerve	UBERON:0002067	dermis	Dermis	59
+UBERON:0008198	Nail plate	Nail plate	UBERON:0001003	skin epidermis	Epidermis	22

@@ -1,0 +1,16 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	CL Name	References/ID	References/DOI
+UBERON:0007177	lamina propria of mucosa of colon	lamina propria	subepithelial membrane	HTTPS:DOIORG101111J144018271989TB02421X ; HTTPS:DOIORG101034J1600065X200300072X	
+UBERON:0007177	lamina propria of mucosa of colon	lamina propria	pericryptal fibroblastic sheath	HTTPS:DOIORG101111J144018271989TB02421X ; HTTPS:DOIORG101034J1600065X200300072X	
+UBERON:0007177	lamina propria of mucosa of colon	lamina propria	ganglion	HTTPS:DOIORG101111J144018271989TB02421X ; HTTPS:DOIORG101034J1600065X200300072X	
+UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	ganglion	PMCID:PMC1256735	
+UBERON:0005304	submucous nerve plexus	intermediate layer	ganglion	PMCID:PMC1256735	
+UBERON:0005304	submucous nerve plexus	submucosal plexus of Henle	ganglion	PMCID:PMC1256735	
+UBERON:0002439	myenteric nerve plexus	myenteric plexus of Auerbach	ganglion	HTTPS:DOIORG1010079781493908974:3	
+UBERON:0011189	lamina propria of large intestine	lamina propria	subepithelial membrane	HTTPS:DOIORG101111J144018271989TB02421X ; HTTPS:DOIORG101034J1600065X200300072X	
+UBERON:0011189	lamina propria of large intestine	lamina propria	pericryptal fibroblastic sheath	HTTPS:DOIORG101111J144018271989TB02421X ; HTTPS:DOIORG101034J1600065X200300072X	
+UBERON:0011189	lamina propria of large intestine	lamina propria	ganglion	HTTPS:DOIORG101111J144018271989TB02421X ; HTTPS:DOIORG101034J1600065X200300072X	
+UBERON:0007177	lamina propria	lamina propria	subepithelial membrane	HTTPS:DOIORG101111J144018271989TB02421X ; HTTPS:DOIORG101034J1600065X200300072X	
+UBERON:0007177	lamina propria	lamina propria	pericryptal fibroblastic sheath	HTTPS:DOIORG101111J144018271989TB02421X ; HTTPS:DOIORG101034J1600065X200300072X	
+UBERON:0007177	lamina propria	lamina propria	ganglion	HTTPS:DOIORG101111J144018271989TB02421X ; HTTPS:DOIORG101034J1600065X200300072X	
+UBERON:0005304	submucous nerve plexus	submucosal plexus of Meissner	ganglion	ISBN:9781496398949	
+UBERON:0007177	lamina propria	lamina propria	subepithelial membrane	ISBN:9781496398949	

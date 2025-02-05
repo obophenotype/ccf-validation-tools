@@ -1,0 +1,43 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number	deltaIC
+CL:0000738	leukocyte	leukocyte	UBERON:0006729	liver perisinusoidal space	Disse's space	15	40.25801883689428
+CL:0000075	columnar/cuboidal epithelial cell	columnar cell (larger cholangiocytes are more columnar) has ciliae	UBERON:0004058	biliary ductule	bile duct/ule	22	37.403582050495466
+UBERON:0001021	nerve	nerve	UBERON:0001279	portal triad	portal triad/tract	24	36.55566051804575
+UBERON:0005169	interstitial tissue	interstitial	UBERON:0001279	portal triad	portal triad/tract	27	14.124053521539665
+UBERON:0001473	lymphatic vessel	lymphatic vessel	UBERON:0004647	liver lobule	hepatic Lobule	30	10.920969555437061
+CL:0019018	blood vessel smooth muscle cell	smooth muscle cell	UBERON:0001193	hepatic artery	hepatic artery	26	8.849739349102947
+CL:0000624	CD4-positive, alpha-beta T cell	CD4+T cell	UBERON:0004647	liver lobule	hepatic Lobule	37	6.337478756220975
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0001193	hepatic artery	hepatic artery	25	4.565016937740637
+CL:0000990	conventional dendritic cell	Conventional DC 1	UBERON:0004647	liver lobule	hepatic Lobule	33	4.267857031345031
+CL:0000623	natural killer cell	natural killer cell	UBERON:0004647	liver lobule	hepatic Lobule	41	3.1676509749775192
+CL:0000623	natural killer cell	natural killer cell	UBERON:0004647	liver lobule	hepatic Lobule	42	3.1676509749775192
+CL:0000623	Natural killer Cell	NK	UBERON:0004647	liver lobule	hepatic Lobule	43	3.1676509749775192
+CL:0000798	gamma-delta T cell	gamma delta T cell	UBERON:0004647	liver lobule	hepatic Lobule	38	1.6980437690821333
+CL:0000632	hepatic stellate cell	quiescent hepatic stellate cell	UBERON:0006729	liver perisinusoidal space	Disse's space	14	0.8794280437793986
+UBERON:0005452	hepatic cord	hepatic plate	UBERON:0004647	liver lobule	hepatic Lobule	16	
+UBERON:0005452	hepatic cord	hepatic plate	UBERON:0004647	liver lobule	hepatic Lobule	17	
+CL:0019026	periportal region hepatocyte	periportal hepatocyte	UBERON:0005452	hepatic cord	hepatic plate	17	
+UBERON:0005452	hepatic cord	hepatic plate	UBERON:0004647	liver lobule	hepatic Lobule	18	
+CL:0019029	centrilobular region hepatocyte	pericentral hepatocyte	UBERON:0005452	hepatic cord	hepatic plate	18	
+UBERON:0005452	hepatic cord	hepatic plate	UBERON:0004647	liver lobule	hepatic Lobule	19	
+CL:0019028	midzonal region hepatocyte	mid zone hepatocyte	UBERON:0005452	hepatic cord	hepatic plate	19	
+UBERON:0001279	portal triad	portal triad/tract	UBERON:0004647	liver lobule	hepatic Lobule	21	
+UBERON:0004058	biliary ductule	bile duct/ule	UBERON:0001279	portal triad	portal triad/tract	21	
+CL:0000241	stratified cuboidal epithelial cell	cuboidal cell (Small cholangiocytes are cuboidal)	UBERON:0004058	biliary ductule	bile duct/ule	21	
+UBERON:0001279	portal triad	portal triad/tract	UBERON:0004647	liver lobule	hepatic Lobule	22	
+UBERON:0004058	biliary ductule	bile duct/ule	UBERON:0001279	portal triad	portal triad/tract	22	
+UBERON:0001279	portal triad	portal triad/tract	UBERON:0004647	liver lobule	hepatic Lobule	23	
+UBERON:0001279	portal triad	portal triad/tract	UBERON:0004647	liver lobule	hepatic Lobule	24	
+CL:0000526	afferent neuron	neuron cell	UBERON:0001021	nerve	nerve	24	
+UBERON:0001279	portal triad	portal triad/tract	UBERON:0004647	liver lobule	hepatic Lobule	25	
+UBERON:0001279	portal triad	portal triad/tract	UBERON:0004647	liver lobule	hepatic Lobule	26	
+UBERON:0001279	portal triad	portal triad/tract	UBERON:0004647	liver lobule	hepatic Lobule	27	
+CL:0009100	hepatic portal fibroblast	portal fibroblast	UBERON:0005169	interstitial tissue	interstitial	27	
+CL:0002196	Hepatic oval stem cell	hepatic oval cell 	UBERON:0001282	intralobular bile duct	Canals of Hering	28	
+CL:0002196	Hepatic oval stem cell	hepatic progenitor cell	UBERON:0001282	intralobular bile duct	Canals of Hering	29	
+UBERON:0016478	liver stroma	stroma	UBERON:0004647	liver lobule	hepatic Lobule	31	
+CL:0001056	dendritic cell, human	conventional Dendritic cell	UBERON:0004647	liver lobule	hepatic Lobule	32	
+CL:0002399	CD1c-positive myeloid dendritic cell	Conventional DC 2	UBERON:0004647	liver lobule	hepatic Lobule	34	
+CL:0000784	plasmacytoid dendritic cell	plasmacytoid Dendritic cell	UBERON:0004647	liver lobule	hepatic Lobule	35	
+CL:0000909	CD8-positive, alpha-beta memory T cell	CD8-positive, alpha-beta memory T cell 	UBERON:0004647	liver lobule	hepatic Lobule	36	
+CL:0001203	CD8-positive, alpha-beta memory T cell, CD45RO-positive	CD8+ Liver-Resident Memory T cell	UBERON:0004647	liver lobule	hepatic Lobule	39	
+CL:0000921	Type I NK T cell	iNKT	UBERON:0004647	liver lobule	hepatic Lobule	40	

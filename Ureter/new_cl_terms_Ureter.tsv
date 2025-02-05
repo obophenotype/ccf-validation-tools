@@ -1,0 +1,12 @@
+Terminal AS/ID	Terminal AS/label	Terminal AS/user_label	CL Name	References/ID	References/DOI
+UBERON:0001254	urothelium of ureter	urothelium of ureter	basal cell of ureter urothelium		
+UBERON:0001254	urothelium of ureter	urothelium of ureter	intermediate cell of ureter urothelium		
+UBERON:0001254	urothelium of ureter	urothelium of ureter	superficial cell of ureter urothelium		
+UBERON:0009919	ureter detrusor smooth muscle	ureter detrusor smooth muscle	detrusor smooth muscle cell of ureter		
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	myofibroblast cell of ureter		
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	PI16+ fibroblast cell of ureter		
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	DPT+ fibroblast cell of ureter		
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	lipofibroblast cell of ureter		
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	endothelial cell of ureter		
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	vascular smooth muscle cell of ureter		
+UBERON:0001253	lamina propria of ureter	lamina propria of ureter	pericyte cell of ureter		

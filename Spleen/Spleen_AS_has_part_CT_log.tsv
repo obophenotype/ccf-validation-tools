@@ -1,0 +1,7 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000499	stromal cell	stromal cell	UBERON:0001250	red pulp of spleen	Red Pulp	25
+CL:0000499	stromal cell	stromal cell	UBERON:0001266	splenic cord	Splenic Cord	47
+CL:0000788	naive B cell	Naive B Cell	UBERON:0004041	spleen primary B follicle	Primary Follicle	62
+CL:2000053	splenic endothelial cell	Splenic endothelial cell	UBERON:0001250	red pulp of spleen	Red Pulp	22
+CL:2000053	splenic endothelial cell	Splenic endothelial cell	UBERON:0001250	red pulp of spleen	Red Pulp	23
+CL:2000053	splenic endothelial cell	Splenic endothelial cell	UBERON:0001250	red pulp of spleen	Red Pulp	34

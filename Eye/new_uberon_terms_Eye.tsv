@@ -1,0 +1,4 @@
+Upper AS	Upper AS/label	Upper AS/ID	AS Name	References/ID	References/DOI
+cortex	lens cortex	UBERON:0000389	Inner cortex		
+cortex	lens cortex	UBERON:0000389	Outer cortex		
+lens Cortex	lens Cortex	UBERON:0000389	Outer cortex	HTTPS:DOIORG101167IOVS1518117	

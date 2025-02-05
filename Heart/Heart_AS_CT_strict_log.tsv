@@ -1,0 +1,192 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000057	fibroblast	fibroblast	UBERON:0002084	heart left ventricle	left ventricle	115
+CL:0000057	fibroblast	fibroblast	UBERON:0001625	right coronary artery	right coronary artery	51
+CL:0000057	fibroblast	fibroblast	UBERON:0039232	conus artery	conus artery	170
+CL:0000057	fibroblast	fibroblast	UBERON:0002080	heart right ventricle	right ventricle	176
+CL:0000057	fibroblast	fibroblast	UBERON:0002049	vasculature	vasculature	179
+CL:0000057	fibroblast	fibroblast	UBERON:0005438	coronary sinus	coronary sinus	46
+CL:0000057	fibroblast	fibroblast	UBERON:0002084	heart left ventricle	left ventricle	121
+CL:0000057	fibroblast	fibroblast	UBERON:0011820	atrioventricular region	atrioventricular junction	43
+CL:0000057	fibroblast	fibroblast	UBERON:0035422	circumflex branch of left coronary artery	left circumflex artery	40
+CL:0000057	fibroblast	fibroblast	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	146
+CL:0000057	fibroblast	fibroblast	UBERON:8470002	moderator band	Moderator band	189
+CL:0000057	fibroblast	fibroblast	UBERON:0009687	middle cardiac vein	middle cardiac vein	139
+CL:0000057	fibroblast	fibroblast	UBERON:0002080	heart right ventricle	right ventricle	173
+CL:0000057	fibroblast	fibroblast	UBERON:0006958	great vein of heart	great cardiac vein	136
+CL:0000057	fibroblast	fibroblast	UBERON:8600063	septal perforating artery	septal perforating arteries	133
+CL:0000057	fibroblast	fibroblast	UBERON:0002078	right cardiac atrium	right atrium	33
+CL:0000057	fibroblast	fibroblast	UBERON:8470002	moderator band	Moderator band	193
+CL:0000057	fibroblast	fibroblast	UBERON:0002078	right cardiac atrium	right atrium	15
+CL:0000057	fibroblast	fibroblast	UBERON:0002084	heart left ventricle	left ventricle	124
+CL:0000057	fibroblast	fibroblast	UBERON:0002084	heart left ventricle	left ventricle	118
+CL:0000057	fibroblast	fibroblast	UBERON:0002348	epicardium	Epicardium	209
+CL:0000057	fibroblast	fibroblast	UBERON:8600102	left anterior descending artery	left anterior descending artery	127
+CL:0000057	fibroblast	fibroblast	UBERON:0035374	small cardiac vein	small cardiac vein	54
+CL:0000057	fibroblast	fibroblast	UBERON:0002094	interventricular septum	septum	130
+CL:0000057	fibroblast	fibroblast	UBERON:0002084	heart left ventricle	left ventricle	112
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:0002084	heart left ventricle	left ventricle	111
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:0002084	heart left ventricle	left ventricle	120
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:0006958	great vein of heart	great cardiac vein	135
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:0039232	conus artery	conus artery	169
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:0002094	interventricular septum	septum	129
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:0002084	heart left ventricle	left ventricle	117
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:8600102	left anterior descending artery	left anterior descending artery	126
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:0002084	heart left ventricle	left ventricle	114
+CL:0000071	blood vessel endothelial cell	endothelial cell	UBERON:0002079	left cardiac atrium	left atrium	75
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:8600063	septal perforating artery	septal perforating arteries	132
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:0009687	middle cardiac vein	middle cardiac vein	138
+CL:0000071	blood vessel endothelial cell	endothelial cell	UBERON:0002079	left cardiac atrium	left atrium	81
+CL:0000071	blood vessel endothelial cell	endothelial cell	UBERON:0002079	left cardiac atrium	left atrium	84
+CL:0000071	blood vessel endothelial cell	endothelial cell	UBERON:0002079	left cardiac atrium	left atrium	72
+CL:0000071	blood vessel endothelial cell	endothelial cell	UBERON:0002079	left cardiac atrium	left atrium	78
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:0002084	heart left ventricle	left ventricle	123
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:0002080	heart right ventricle	right ventricle	175
+CL:0000071	blood vessel endothelial cell	smooth muscle cell	UBERON:0002080	heart right ventricle	right ventricle	172
+CL:0000071	blood vessel endothelial cell	endothelial cell	UBERON:0002137	Aortic valve	Aortic valve	204
+CL:0000071	blood vessel endothelial cell	endothelial cell	UBERON:8470002	moderator band	Moderator band	191
+CL:0000071	blood vessel endothelial cell	endothelial cell	UBERON:0002348	epicardium	Epicardium	210
+CL:0000077	mesothelial cell	mesothelial cell	UBERON:0002348	epicardium	Epicardium	205
+CL:0000097	mast cell	mast cell	UBERON:0006567	right ventricle myocardium	myocardium	158
+CL:0000097	mast cell	mast cell	UBERON:0006566	left ventricle myocardium	myocardium	104
+CL:0000097	mast cell	mast cell	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	20
+CL:0000097	mast cell	mast cell	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	152
+CL:0000097	mast cell	mast cell	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	60
+CL:0000097	mast cell	mast cell	UBERON:0003383	cardiac muscle tissue of interventricular septum	cardiac muscle tissue of interventricular septum	212
+CL:0000136	adipocyte	adipocyte	UBERON:0002352	atrioventricular node	atrioventricular node	48
+CL:0000136	adipocyte	adipocyte	UBERON:0003379	cardiac muscle of right atrium	myocardium	37
+CL:0000136	adipocyte	adipocyte	UBERON:0006567	right ventricle myocardium	myocardium	186
+CL:0000136	adipocyte	adipocyte	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	151
+CL:0000136	adipocyte	adipocyte	UBERON:0003380	cardiac muscle of left atrium	myocardium	90
+CL:0000136	adipocyte	adipocyte	UBERON:0006566	left ventricle myocardium	myocardium	103
+CL:0000235	macrophage	macrophage	UBERON:0006566	left ventricle myocardium	myocardium	94
+CL:0000235	macrophage	macrophage	UBERON:0003380	cardiac muscle of left atrium	myocardium	58
+CL:0000235	macrophage	macrophage	UBERON:0002348	epicardium	Epicardium	211
+CL:0000235	macrophage	macrophage	UBERON:0006567	right ventricle myocardium	myocardium	167
+CL:0000235	macrophage	macrophage	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	147
+CL:0000235	macrophage	macrophage	UBERON:0003379	cardiac muscle of right atrium	myocardium	18
+CL:0000235	macrophage	macrophage	UBERON:8470002	moderator band	Moderator band	190
+CL:0000236	B cell	B lymphocyte	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	22
+CL:0000236	B cell	B lymphocyte	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	62
+CL:0000236	B cell	B lymphocyte	UBERON:0003383	cardiac muscle tissue of interventricular septum	cardiac muscle tissue of interventricular septum	214
+CL:0000236	B cell	B lymphocyte	UBERON:0006567	right ventricle myocardium	myocardium	160
+CL:0000236	B cell	B lymphocyte	UBERON:0006566	left ventricle myocardium	myocardium	106
+CL:0000236	B cell	B lymphocyte	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	154
+CL:0000359	vascular associated smooth muscle cell	smooth muscle cell	UBERON:8470002	moderator band	Moderator band	192
+CL:0000359	vascular associated smooth muscle cell	smooth muscle cell	UBERON:0005438	coronary sinus	coronary sinus	45
+CL:0000359	vascular associated smooth muscle cell	smooth muscle cell	UBERON:0002079	left cardiac atrium	left atrium	85
+CL:0000359	vascular associated smooth muscle cell	smooth muscle cell	UBERON:0002079	left cardiac atrium	left atrium	79
+CL:0000359	vascular associated smooth muscle cell	smooth muscle cell	UBERON:0002348	epicardium	Epicardium	208
+CL:0000359	vascular associated smooth muscle cell	smooth muscle cell	UBERON:0002079	left cardiac atrium	left atrium	76
+CL:0000359	vascular associated smooth muscle cell	smooth muscle cell	UBERON:0002079	left cardiac atrium	left atrium	73
+CL:0000359	vascular associated smooth muscle cell	smooth muscle cell	UBERON:0002079	left cardiac atrium	left atrium	82
+CL:0000542	lymphocyte	lymphocyte	UBERON:8470002	moderator band	Moderator band	195
+CL:0000542	lymphocyte	lymphocyte	UBERON:0003380	cardiac muscle of left atrium	myocardium	88
+CL:0000542	lymphocyte	lymphocyte	UBERON:0006567	right ventricle myocardium	myocardium	184
+CL:0000542	lymphocyte	lymphocyte	UBERON:0003379	cardiac muscle of right atrium	myocardium	35
+CL:0000542	lymphocyte	lymphocyte	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	149
+CL:0000669	pericyte	pericyte	UBERON:0001982	capillary	vasculature	69
+CL:0000669	pericyte	pericyte	UBERON:0001979	venule	vasculature	71
+CL:0000669	pericyte	pericyte	UBERON:0001982	capillary	vasculature	180
+CL:0000669	pericyte	pericyte	UBERON:0001979	venule	vasculature	182
+CL:0000669	pericyte	pericyte	UBERON:0001979	venule	vasculature	100
+CL:0000669	pericyte	pericyte	UBERON:0001982	capillary	vasculature	99
+CL:0000669	pericyte	pericyte	UBERON:0001982	capillary	capillary	29
+CL:0000669	pericyte	pericyte	UBERON:0001979	venule	venule	30
+CL:0000669	pericyte	pericyte	UBERON:0001979	venule	vasculature	142
+CL:0000669	pericyte	pericyte	UBERON:0001982	capillary	vasculature	140
+CL:0000746	cardiac muscle cell	cardiomyocyte	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	144
+CL:0000746	cardiac muscle cell	cardiomyocyte	UBERON:0006566	left ventricle myocardium	myocardium	91
+CL:0000746	cardiac muscle cell	cardiomyocyte	UBERON:0003379	cardiac muscle of right atrium	myocardium	16
+CL:0000746	cardiac muscle cell	cardiomyocyte	UBERON:0006567	right ventricle myocardium	myocardium	164
+CL:0000746	cardiac muscle cell	cardiomyocyte	UBERON:8470002	moderator band	Moderator band	187
+CL:0000746	cardiac muscle cell	cardiomyocyte	UBERON:0003380	cardiac muscle of left atrium	myocardium	55
+CL:0000914	immature NK T cell	NK/T lymphocyte	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	155
+CL:0000914	immature NK T cell	NK/T lymphocyte	UBERON:0006567	right ventricle myocardium	myocardium	161
+CL:0000914	immature NK T cell	NK/T lymphocyte	UBERON:0003383	cardiac muscle tissue of interventricular septum	cardiac muscle tissue of interventricular septum	215
+CL:0000914	immature NK T cell	NK/T lymphocyte	UBERON:0006566	left ventricle myocardium	myocardium	107
+CL:0000914	immature NK T cell	NK/T lymphocyte	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	23
+CL:0000914	immature NK T cell	NK/T lymphocyte	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	63
+CL:0001056	dendritic cell, human	dendritic cell	UBERON:0003379	cardiac muscle of right atrium	myocardium	36
+CL:0001056	dendritic cell, human	dendritic cell	UBERON:8470002	moderator band	Moderator band	196
+CL:0001056	dendritic cell, human	dendritic cell	UBERON:0006567	right ventricle myocardium	myocardium	185
+CL:0001056	dendritic cell, human	dendritic cell	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	150
+CL:0001056	dendritic cell, human	dendritic cell	UBERON:0006566	left ventricle myocardium	myocardium	102
+CL:0001056	dendritic cell, human	dendritic cell	UBERON:0003380	cardiac muscle of left atrium	myocardium	89
+CL:0001065	Innate lymphoid cell	Innate lymphoid cell	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	24
+CL:0001065	innate lymphoid cell	ILC	UBERON:0006567	right ventricle myocardium	myocardium	162
+CL:0001065	innate lymphoid cell	ILC	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	64
+CL:0001065	innate lymphoid cell	ILC	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	156
+CL:0001065	innate lymphoid cell	ILC	UBERON:0006566	left ventricle myocardium	myocardium	108
+CL:0002068	Purkinje myocyte	Purkinje fiber cell	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	145
+CL:0002068	Purkinje myocyte	Purkinje fiber cell	UBERON:8470002	moderator band	Moderator band	188
+CL:0002068	Purkinje myocyte	Purkinje fiber cell	UBERON:0006567	right ventricle myocardium	myocardium	165
+CL:0002068	Purkinje myocyte	Purkinje fiber cell	UBERON:0006566	left ventricle myocardium	myocardium	92
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	153
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	UBERON:0006567	right ventricle myocardium	myocardium	159
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	61
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	UBERON:0006566	left ventricle myocardium	myocardium	105
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	21
+CL:0002138	endothelial cell of lymphatic vessel	lymphatic endothelial cell	UBERON:0003383	cardiac muscle tissue of interventricular septum	cardiac muscle tissue of interventricular septum	213
+CL:0002350	endocardial cell	endocardial	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	65
+CL:0002350	endocardial cell	endocardial	UBERON:0002146	Pulmonary Valve	Pulmonary Valve	200
+CL:0002350	endocardial cell	endocardial	UBERON:0002135	Mitral valve	Mitral valve	202
+CL:0002350	endocardial cell	endocardial	UBERON:0006567	right ventricle myocardium	myocardium	163
+CL:0002350	endocardial cell	endocardial cell	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	25
+CL:0002350	endocardial cell	endocardial	UBERON:0006566	left ventricle myocardium	myocardium	109
+CL:0002350	endocardial cell	endocardial	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	157
+CL:0002350	endocardial cell	endocardial	UBERON:0002134	Tricuspid valve	Tricuspid valve	198
+CL:0002573	Schwann cell	Schwann Cell	UBERON:0002348	epicardium	Epicardium	207
+CL:0002573	Schwann cell	Schwann Cell	UBERON:0003379	cardiac muscle of right atrium	myocardium	19
+CL:0002573	Schwann cell	Schwann Cell	UBERON:0003380	cardiac muscle of left atrium	myocardium	59
+CL:0002592	smooth muscle cell of the coronary artery	smooth muscle cell	UBERON:0035374	small cardiac vein	small cardiac vein	53
+CL:0002592	smooth muscle cell of the coronary artery	smooth muscle cell	UBERON:0001625	right coronary artery	right coronary artery	50
+CL:0002592	smooth muscle cell of the coronary artery	smooth muscle cell	UBERON:0011820	atrioventricular region	atrioventricular junction	42
+CL:0002592	smooth muscle cell of the coronary artery	smooth muscle cell	UBERON:0035422	circumflex branch of left coronary artery	left circumflex artery	39
+CL:0002592	smooth muscle cell of the coronary artery	smooth muscle cell	UBERON:0002078	right cardiac atrium	right atrium	14
+CL:0002592	smooth muscle cell of the coronary artery	smooth muscle cell	UBERON:0002078	right cardiac atrium	right atrium	32
+CL:0010008	cardiac endothelial cell	endothelial cell	UBERON:0002049	vasculature	vasculature	26
+CL:0017004	telocyte	telocyte (interstitial like cell of cajal)	UBERON:0006567	right ventricle myocardium	myocardium	183
+CL:0017004	telocyte	telocyte (interstitial like cell of cajal)	UBERON:8470002	moderator band	Moderator band	194
+CL:0017004	telocyte	telocyte (interstitial like cell of cajal)	UBERON:0003380	cardiac muscle of left atrium	myocardium	87
+CL:0017004	telocyte	telocyte (interstitial like cell of cajal)	UBERON:0006566	left ventricle myocardium	myocardium	101
+CL:0017004	telocyte	telocyte (interstitial like cell of cajal)	UBERON:0003379	cardiac muscle of right atrium	myocardium	34
+CL:0017004	telocyte	telocyte (interstitial like cell of cajal)	UBERON:0003383	cardiac muscle tissue of interventricular septum	myocardium	148
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0002084	heart left ventricle	left ventricle	119
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0035422	circumflex branch of left coronary artery	left circumflex artery	38
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0002078	right cardiac atrium	right atrium	31
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0011820	atrioventricular region	atrioventricular junction	41
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0005438	coronary sinus	coronary sinus	44
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0039232	conus artery	conus artery	168
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0001625	right coronary artery	right coronary artery	49
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:8600102	left anterior descending artery	left anterior descending artery	125
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0002084	heart left ventricle	left ventricle	116
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0002084	heart left ventricle	left ventricle	113
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0002094	interventricular septum	septum	128
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0002084	heart left ventricle	left ventricle	110
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:8600063	septal perforating artery	septal perforating arteries	131
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0006958	great vein of heart	great cardiac vein	134
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0009687	middle cardiac vein	middle cardiac vein	137
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0002078	right cardiac atrium	right atrium	13
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0002080	heart right ventricle	right ventricle	174
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0035374	small cardiac vein	small cardiac vein	52
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0002080	heart right ventricle	right ventricle	171
+CL:1000413	endothelial cell of artery	endothelial cell	UBERON:0002084	heart left ventricle	left ventricle	122
+CL:1000477	cardiac pacemaker cell of sinoatrial node	pacemaker cardiomyocyte	UBERON:0002353	bundle of His	atrioventricular bundle	143
+CL:1000477	cardiac pacemaker cell of sinoatrial node	pacemaker cell	UBERON:0003380	cardiac muscle of left atrium	myocardium	56
+CL:1000477	cardiac pacemaker cell of sinoatrial node	pacemaker cell	UBERON:0002352	atrioventricular node	atrioventricular node	47
+CL:2000066	cardiac ventricle fibroblast	fibroblast	UBERON:0006566	left ventricle myocardium	myocardium	93
+CL:2000066	cardiac ventricle fibroblast	fibroblast	UBERON:0002049	vasculature	vasculature	97
+CL:2000066	cardiac ventricle fibroblast	fibroblast	UBERON:0006567	right ventricle myocardium	myocardium	166
+CL:2000067	cardiac atrium fibroblast	fibroblast	UBERON:0003379	cardiac muscle of right atrium	myocardium	17
+CL:2000067	cardiac atrium fibroblast	fibroblast	UBERON:0003380	cardiac muscle of left atrium	myocardium	57
+CL:2000067	cardiac atrium fibroblast	fibroblast	UBERON:0002079	left cardiac atrium	left atrium	77
+CL:2000067	cardiac atrium fibroblast	fibroblast	UBERON:0002079	left cardiac atrium	left atrium	74
+CL:2000067	cardiac atrium fibroblast	fibroblast	UBERON:0002079	left cardiac atrium	left atrium	86
+CL:2000067	cardiac atrium fibroblast	fibroblast	UBERON:0002079	left cardiac atrium	left atrium	83
+CL:2000067	cardiac atrium fibroblast	fibroblast	UBERON:0002079	left cardiac atrium	left atrium	80
+CL:2000067	cardiac atrium fibroblast	fibroblast	UBERON:0002049	vasculature	vasculature	28
+CL:2000067	cardiac atrium fibroblast	fibroblast	UBERON:0002049	vasculature	vasculature	68
+CL:4030032	valve interstitial cell	valve interstitial cell	UBERON:0002135	Mitral valve	Mitral valve	201
+CL:4030032	valve interstitial cell	valve interstitial cell	UBERON:0002146	Pulmonary Valve	Pulmonary Valve	199
+CL:4030032	valve interstitial cell	valve interstitial cell	UBERON:0002134	Tricuspid valve	Tricuspid valve	197
+CL:4030032	valve interstitial cell	valve interstitial cell	UBERON:0002137	Aortic valve	Aortic valve	203

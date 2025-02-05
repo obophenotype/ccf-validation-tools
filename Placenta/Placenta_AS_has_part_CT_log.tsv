@@ -1,0 +1,13 @@
+s	slabel	user_slabel	o	olabel	user_olabel	row_number
+CL:0000071	blood vessel endothelial cell	vascular endothelial cell	UBERON:0002066	umbilical vein	umbilical vein	12
+CL:0000071	blood vessel endothelial cell	vascular endothelial cell	UBERON:0001310	umbilical artery	umbilical arteries	15
+CL:0000071	blood vessel endothelial cell	vascular endothelial cell	UBERON:8600021	chorionic plate blood vessel	chorionic plate vessel	49
+CL:0000071	blood vessel endothelial cell	vascular endothelial cell	UBERON:8600021	chorionic plate blood vessel	chorionic plate vessel	52
+CL:0000071	blood vessel endothelial cell	vascular endothelial cell	UBERON:8600040	chorionic stem villous blood vessel	stem villous vessel	70
+CL:0000071	blood vessel endothelial cell	vascular endothelial cell	UBERON:0022358	placenta blood vessel	placental blood vessel	85
+CL:0000071	blood vessel endothelial cell	vascular endothelial cell	UBERON:8600040	chorionic stem villous blood vessel	stem villous vessel	88
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0002066	umbilical vein	umbilical vein	14
+CL:0000359	vascular associated smooth muscle cell	vascular smooth muscle cell	UBERON:0001310	umbilical artery	umbilical arteries	17
+CL:0009084	epithelial cell of endometrial gland	endometrial epithelial cell	UBERON:0002451	endometrial gland	endometrial gland	27
+CL:0009084	epithelial cell of endometrial gland	endometrial epithelial cell	UBERON:0002451	endometrial gland	endometrial gland	55
+CL:0009084	epithelial cell of endometrial gland	endometrial epithelial cell	UBERON:0002451	endometrial gland	endometrial gland	105
